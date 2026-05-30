@@ -40,9 +40,27 @@ body {
   letter-spacing: -0.01em;
 }
 
+.accounts {
+  margin: 6px 0 0;
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  overflow-wrap: anywhere;
+}
+
 .updated {
   margin: 6px 0 0;
   color: var(--text-dim);
+  font-size: 0.85rem;
+}
+
+.banner {
+  max-width: var(--maxw);
+  margin: 0 auto 4px;
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  background: #3a2a12;
+  border: 1px solid #6b4e1f;
+  color: #f3d99b;
   font-size: 0.85rem;
 }
 
@@ -93,6 +111,15 @@ body {
   flex: none;
 }
 
+.card-author {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.card-time {
+  color: var(--text-dim);
+}
+
 .card-text {
   margin: 0;
   white-space: pre-wrap;
@@ -132,6 +159,15 @@ body {
   font-size: 0.78rem;
   text-align: center;
   border-top: 1px solid var(--border);
+}
+
+.source {
+  margin: 6px 0 0;
+  overflow-wrap: anywhere;
+}
+
+.source.error {
+  color: #f8a0a0;
 }
 
 @media (min-width: 700px) {

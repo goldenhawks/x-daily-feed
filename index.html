@@ -4,15 +4,18 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>X Daily Feed</title>
-  <meta name="description" content="A daily snapshot of the latest posts from an X account." />
+  <meta name="description" content="A daily snapshot of the latest posts from a set of X accounts." />
   <link rel="stylesheet" href="./style.css" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐦</text></svg>" />
 </head>
 <body>
   <header class="site-header">
     <h1 id="account">X Daily Feed</h1>
+    <p class="accounts" id="accounts" hidden></p>
     <p class="updated" id="updated">Loading…</p>
   </header>
+
+  <div class="banner" id="stale" role="status" hidden></div>
 
   <main id="timeline" class="timeline" aria-live="polite">
     <p class="status" id="status">Loading feed…</p>
@@ -20,6 +23,8 @@
 
   <footer class="site-footer">
     <p>Updated once daily via GitHub Actions · static page, no tracking.</p>
+    <p class="source" id="source"></p>
+    <p class="source error" id="error" hidden></p>
   </footer>
 
   <script src="./app.js"></script>

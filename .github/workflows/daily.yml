@@ -2,8 +2,8 @@ name: Daily feed update
 
 on:
   schedule:
-    # Every day at 08:00 UTC.
-    - cron: "0 8 * * *"
+    # Every day at 12:00 UTC (~08:00 in Toronto during EDT, ~07:00 during EST).
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,8 +30,9 @@ jobs:
 
       - name: Run scraper
         env:
-          # Change the target account here (or set a repo variable).
-          X_ACCOUNT: ${{ vars.X_ACCOUNT || 'elonmusk' }}
+          # Change the tracked accounts here, or (recommended) set the X_ACCOUNT
+          # repository variable. Comma-separated handles, no leading "@".
+          X_ACCOUNT: ${{ vars.X_ACCOUNT || 'elonmusk,paulg,sama,naval,karpathy' }}
         run: python scripts/scrape.py
 
       - name: Commit & push if changed

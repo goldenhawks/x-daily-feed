@@ -28,11 +28,17 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Stage static site
+        # Publish only the static files — not the scraper, workflows, tests, etc.
+        run: |
+          mkdir -p _site/data
+          cp index.html style.css app.js _site/
+          cp data/feed.json _site/data/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Publish the repository root as the static site.
-          path: "."
+          path: "_site"
 
       - name: Deploy to GitHub Pages
         id: deployment
