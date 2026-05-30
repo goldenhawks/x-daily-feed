@@ -1,0 +1,5 @@
+# The scraper intentionally relies only on the Python standard library
+# (urllib, json, re, html, datetime). No third-party packages are required.
+#
+# This file is kept so the CI `pip install -r requirements.txt` step is a
+# no-op today and an obvious place to add dependencies later.

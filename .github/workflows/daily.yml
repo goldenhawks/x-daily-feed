@@ -1,0 +1,47 @@
+name: Daily feed update
+
+on:
+  schedule:
+    # Every day at 08:00 UTC.
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-feed
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          # Change the target account here (or set a repo variable).
+          X_ACCOUNT: ${{ vars.X_ACCOUNT || 'elonmusk' }}
+        run: python scripts/scrape.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/feed.json; then
+            echo "No changes to data/feed.json — nothing to commit."
+            exit 0
+          fi
+          git add data/feed.json
+          git commit -m "chore: daily feed update $(date -u +%Y-%m-%d)"
+          git push
