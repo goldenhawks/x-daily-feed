@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-06-03T22:12:54.822759+00:00",
-  "last_success_at": "2026-06-03T22:12:54.822759+00:00",
-  "source": "syndication",
-  "error_message": "",
+  "updated_at": "2026-06-04T19:48:16.451204+00:00",
+  "last_success_at": "2026-06-04T19:48:16.451204+00:00",
+  "source": "nitter",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
     {
-      "date": "2026-06-03T07:20:23+00:00",
-      "text": "Good Starship highlights video https://t.co/ropm7YWMLq",
-      "url": "https://x.com/elonmusk/status/2062071886218219737",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-14T04:48:57+00:00",
-      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
-      "url": "https://x.com/sama/status/1989193813043069219",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-13T21:12:10+00:00",
-      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
-      "url": "https://x.com/karpathy/status/1989078861800411219",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-12T20:28:01+00:00",
-      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
-      "url": "https://x.com/karpathy/status/1988705360723763242",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:32:49+00:00",
-      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
-      "url": "https://x.com/sama/status/1984025727763935585",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:24:37+00:00",
-      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
-      "url": "https://x.com/sama/status/1984023663642087831",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T21:43:40+00:00",
-      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
-      "url": "https://x.com/paulg/status/1984013356576207235",
+      "date": "2026-06-04T17:23:17+00:00",
+      "text": "When Jessica and I spoke at YC last night there was a bright flash out behind the building. We were a bit nervous because there's a nuclear reactor startup in the batch that has a bunch of hardware back there. But apparently it was just a muni cable shorting out.",
+      "url": "https://x.com/paulg/status/2062585995674128790",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-10-20T22:13:40+00:00",
-      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
-      "url": "https://x.com/karpathy/status/1980397031542989305",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-06-04T17:01:13+00:00",
+      "text": "Usually the solution involves making the product useful to agents. It's especially good if you can enable agents to interact with one another. Then you're safe the way marketplaces are. Unless a single model company wins. Then all bets are off.",
+      "url": "https://x.com/paulg/status/2062580445993422888",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-10-20T11:31:53+00:00",
-      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
-      "url": "https://x.com/karpathy/status/1980235518706401405",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-06-04T16:58:32+00:00",
+      "text": "I've added a new question to the list I consider during office hours with YC startups. As well as \"Can we induce network effects?\" and \"Would it make sense to go full-stack?\" I now ask \"Can we make this AI-proof?\" Can we ensure this company still exists if AIs do most work?",
+      "url": "https://x.com/paulg/status/2062579769951342785",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-10-18T20:23:32+00:00",
-      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
-      "url": "https://x.com/karpathy/status/1979644538185752935",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-06-04T06:34:55+00:00",
+      "text": "At YC tonight Garry interviewed Jessica and me about the early history of YC. I'd forgotten how hard it used to be for startups to raise money after YC. Now they have the opposite problem: now there's so much money out there that they have to be careful not to raise too much.",
+      "url": "https://x.com/paulg/status/2062422828872606207",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-10-17T17:16:05+00:00",
-      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
-      "url": "https://x.com/karpathy/status/1979234976777539987",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-16T02:47:08+00:00",
-      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
-      "url": "https://x.com/karpathy/status/1978653908663726585",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-14T16:02:42+00:00",
-      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
-      "url": "https://x.com/sama/status/1978129344598827128",
+      "date": "2026-06-03T19:05:25+00:00",
+      "text": "It's time to fly.\n\nVideo",
+      "url": "https://x.com/OpenAI/status/2062249312839434452",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-10-13T15:16:53+00:00",
-      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
-      "url": "https://x.com/karpathy/status/1977755427569111362",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-06-03T18:30:00+00:00",
+      "text": "It's encouraging how the tech world has rallied round Ron Conway since he disclosed that he'd been diagnosed with cancer. So many people are helping him in so many different ways. It's really making a difference.",
+      "url": "https://x.com/paulg/status/2062240399406821835",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-10-01T17:09:06+00:00",
-      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
-      "url": "https://x.com/karpathy/status/1973435013875314729",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-06-03T14:05:01+00:00",
+      "text": "Yes - this is our constitutional crisis in a nutshell. Mullin says he will pick and choose which court orders to follow based on whether he likes them or not. \n\nThat's a reciple for the total destruction of our democracy. That's totalitarianism.\n\n\nDavid J. Bier (@David_J_Bier)\n\nWatch this absolutely insane back-and-forth in which @SecMullinDHS tells @ChrisMurphyCT that he has no obligation to follow court orders and defends ICE's noncompliance with \"more court orders than some agencies violated in their entire history.\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/David_J_Bier/status/2061916192357466293#m",
+      "url": "https://x.com/ChrisMurphyCT/status/2062173715618574502",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-10-01T04:50:49+00:00",
-      "text": "Envy is a sign that you ought to be doing more with your life.",
-      "url": "https://x.com/naval/status/1973249218845483439",
+      "date": "2026-06-03T09:02:14+00:00",
+      "text": "It’s the wisdom of markets, and the madness of crowds.",
+      "url": "https://x.com/naval/status/2062097515223347691",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-26T16:01:58+00:00",
-      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
-      "url": "https://x.com/karpathy/status/1971606180553183379",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T19:36:02+00:00",
-      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
-      "url": "https://x.com/sama/status/1971297661748953263",
+      "date": "2026-06-03T00:48:34+00:00",
+      "text": "theUSshould lead on AI by continuing to develop the very best models, making sure they're safe, and getting cyber tools into the hands of trusted defenders.\n\nthe new EO gets the balance right.",
+      "url": "https://x.com/sama/status/2061973280655904815",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-25T14:29:13+00:00",
-      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
-      "url": "https://x.com/karpathy/status/1971220449515516391",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T13:53:09+00:00",
-      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
-      "url": "https://x.com/karpathy/status/1971211372190106029",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T22:52:42+00:00",
-      "text": "For Charlie https://t.co/8092jIt319",
-      "url": "https://x.com/elonmusk/status/1969897602524328440",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T17:45:48+00:00",
-      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
-      "url": "https://x.com/elonmusk/status/1969820370988658701",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T08:04:26+00:00",
-      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
-      "url": "https://x.com/paulg/status/1969674065322656109",
+      "date": "2026-06-02T23:34:52+00:00",
+      "text": "Reporting from the Financial Times on Xinjiang remains incredibly grim:\n\n* In some areas, 90% of children are taken from parents to be educated in boarding schools where they aren't allowed to speak Uyghur\n* Officials monitor who eats during Ramadan and report those who skip meals\n* Basic items like prayer mats and religious text are considered illegal contraband\n* Adult Uyghur women are pressured to marry Han Chinese men, and there are official goals to sterilize a certain % of them.\n* Xinjiang has the largest prison capacity in the world relative to population\n* Huge numbers of Uyghur prisoners are now being shipped across the country in forced labor schemes, as a way to dodge Xinjiang sanctions/boycotts\n * The CCP shut down all 10 existing Uyghur-language publishers, none remain. They fed one university's book collection into a shredder. \n\nThere's a lot going on the world, but it's worth remembering that China is still actively engaged in cultural genocide. They're barely even hiding it, they openly talk about the need to 'correct' Uyghur culture and create 'ethnic unity'. They are openly destroying an entire culture as efficiently as they can, cutting children off from parents, restricting language, restricting religious practice, forcing sterilizations and intermarriage, imprisoning anyone who resists the tiniest amount and shipping them out to forced labor factories. That is what the CCP is.\n\nft.com/content/119d8c3a-e10f…",
+      "url": "https://x.com/JeremiahDJohns/status/2061954733057740906",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-21T06:28:00+00:00",
-      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
-      "url": "https://x.com/paulg/status/1969649795988902276",
+      "date": "2026-06-02T23:17:45+00:00",
+      "text": "Republicans don't just admire different people from Democrats. They have lower opinions of almost everyone.",
+      "url": "https://x.com/paulg/status/2061950427789418922",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T17:38:51+00:00",
-      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
-      "url": "https://x.com/karpathy/status/1964020416139448359",
+      "date": "2026-06-02T21:47:56+00:00",
+      "text": "The startups from the spring YC batch that I did office hours with today have some of the biggest ideas I've ever encountered. There is so much more going on now than just \"AI for x\". Just as there was more going on during the microcomputer revolution than \"software for x\".",
+      "url": "https://x.com/paulg/status/2061927825171751222",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-02T20:26:32+00:00",
+      "text": "x.com/i/article/206185053570…",
+      "url": "https://x.com/trq212/status/2061907337154367865",
       "author": "karpathy",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T01:25:55+00:00",
-      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
-      "url": "https://x.com/naval/status/1963775570673885190",
+      "date": "2026-06-02T20:20:31+00:00",
+      "text": "If you don't vote, I don't want to hear you ever complain about any of the filth, crime, or decline in LA again. Get off your butt and VOTE, or enjoy what you get.",
+      "url": "https://x.com/spencerpratt/status/2061905825573327281",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-03T22:21:17+00:00",
-      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
-      "url": "https://x.com/sama/status/1963366714684707120",
+      "date": "2026-06-02T17:37:59+00:00",
+      "text": "It's much more dangerous to offend Jessica than to offend me, because she's more polite and has a better memory for misdeeds. So she can be smiling at someone while simultaneously thinking about the bad thing they did 10 years ago.",
+      "url": "https://x.com/paulg/status/2061864920518660426",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-02T16:12:30+00:00",
+      "text": "Having high standards for clarity is useful in lots of other kinds of work too. It's very useful when I'm advising startups at Y Combinator. I ask founders what they plan to do. Their initial answer is a muddy pool. Then we make it clear — not just what to say, but what to do.",
+      "url": "https://x.com/paulg/status/2061843410835931406",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-02T16:09:30+00:00",
+      "text": "The most important component of writing clearly is simply to have high standards for clarity. Then if you write something unclear, you notice, and ask: what did I mean to say? You can just keep doing this over and over. And if you have high standards for clarity, you will.",
+      "url": "https://x.com/paulg/status/2061842652765761682",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-02T15:13:47+00:00",
+      "text": "one of the quotes i find most inspiring on a hard day:\n\n\"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom\"\n\nEcclesiastes 9:10",
+      "url": "https://x.com/sama/status/2061828631089844709",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-01T13:46:53+00:00",
-      "text": "It's official. It's genocide.",
-      "url": "https://x.com/paulg/status/1962512489452618056",
+      "date": "2026-06-02T14:40:19+00:00",
+      "text": "Meet Gusto Cofounder: An AI teammate that already knows your business and actually does the work.\n\nMost AI just answers questions. This runs payroll, flags compliance deadlines, handles time-off requests, and works over text or Slack.\n\nBecause every founder deserves a cofounder.\n\nVideo",
+      "url": "https://x.com/edawerd/status/2061820208139104532",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-01T13:44:57+00:00",
-      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
-      "url": "https://x.com/paulg/status/1962512000656838804",
+      "date": "2026-06-02T12:55:05+00:00",
+      "text": "Today a crazy quantum story just got wilder.\n\nOn March 31, the Google Quantum AI team published a landmark result on Shor's algorithm for elliptic curve cryptography. Technically, the paper was a bombshell: a dramatic 10x improvement over the state-of-the-art. As a stunt and wakeup call to the blockchain space, those optimisations were illustrated on secp256k1, the elliptic curve underlying Bitcoin and Ethereum signatures.\n\nBut perhaps the most striking part of the paper was sociological, not technical. Instead of following standard academic process, the optimisations were kept secret, hidden behind a zero-knowledge (ZK) proof. Google's accompanying blog post mentions they \"engaged with the U.S. government\". The ZK proof demonstrates the existence of algorithmic improvements without leaking details. Academic censorship with ZK, a historic first!\n\nAs a co-author of the Google paper I witnessed some of the context surrounding this censorship. To be honest, multiple aspects of that context don't sit well with me. As much as I believe the general public ought to know more, I am limited in my ability to whistleblow. Though let me be clear about one thing: the Google team's professionalism has been absolutely exemplary, and they deserve nothing but praise.\n\nCensorship has a way of backfiring. The Streisand effect, where an attempt to bury something only draws more attention to it, is exactly what's unfolding today. First, Google's key optimisation has been rediscovered by the French. And in a thrilling turn of events, a collaborative Shor-at-home challenge just launched. The initiative, available at ecdsa[.]fail, breached a new Shor world record in a matter of hours.\n\nLet's start with the rediscovery. Just two months after Google's paper, French quantum expert André Schrottenloher cracks the main secret optimisation. His paper, titled \"Optimized Point Addition Circuits for Elliptic Curve Discrete Logarithms\", landed on the arXiv today. Big congrats to André, who beat several other nerdsnipped experts to it. In a blog post also published today, Craig Gidney, the world expert on Shor optimisations, revealed that he'd been sitting on this very optimisation for a whole year under censorship pressure.\n\nInterestingly, André missed a handful of minor optimisations, both from Google's original publication and from improvements found since. It's plausible there's still plenty of juice left to squeeze out of Shor, and this is exactly what the ecdsa[.]fail challenge is about. The verifier program developed for the ZK proof does double duty, automatically filtering for valid submissions. Dozens of compounding small and micro improvements are rolling in. As of the time of writing there's an 8.4% improvement to Google's circuit, as measured by the product of logical qubit count and Toffoli gate count. Nice!\n\nThe nerdsnipping ran deeper than anyone expected. Over the last few weeks it became clear it extended well beyond André and other quantum experts. Behind the scenes, a small army of amateurs quietly got to work. Inspired by Karpathy-style autoresearch, they turned AI on Shor. Ironically, the verifier program for the ZK proof makes an ideal reward function for AIs. The barrier to entry for this modern style of research is refreshingly low, with several non-experts, even a teenager, finding nice optimisations. Get in touch if you'd like to join a Telegram group with fellow autoresearchers :)\n\nPart 2: neutral atoms and qday\n\nThe story doesn't end with Google. On the same day Google went public, a stealthy startup called Oratomic published its own Shor paper in a coordinated release. It made a splash, ultimately becoming the most upvoted paper on scirate[.]com, a website ranking arXiv papers.\n\nOratomic's claim was wild. By building on Google's logical optimisations and applying custom physical optimisations for neutral atoms, they claimed just 10K physical qubits were sufficient to run Shor's algorithm on secp256k1. That number is mind-bogglingly low.\n\nKnowing essentially nothing about neutral atoms when Oratomic's paper landed, I was intrigued and decided to learn more about the tech. I fell straight down the rabbit hole and spent a couple hundred hours on the topic. I got a little obsessed and watched every YouTube video I could find and spoke to a bunch of experts.\n\nMy conclusion? The tech is real, very real. Even Google recently decided to start a neutral atom lab, a notable pivot from their sole focus on superconducting qubits. If you care about qday, i.e. the day a quantum computer will break the first piece of cryptography in production, neutral atoms demand your attention. I shared some of my learnings on Shor and neutral atoms in a 30min talk at the ZKProof cryptography conference. You can find it on YouTube by searching \"zkproof neutral atom\".\n\nHere's an interesting observation about this duo of breakthrough papers: neither Google nor Oratomic say a word about what their results mean for qday. No timelines. Zero. Nada. That is especially baffling given that the whole point of whitehat quantum cryptanalysis is to inform qday estimations and help the general public make good decisions.\n\nSo let me attempt to partially fill the silence, similarly to what Scott Aaronson did in his April 29 post. Given everything I know, including scary non-public information, I now put the odds of qday by 2032 at 50%. 10% by 2030.\n\nAnecdotally, the US government has its own date: 2035. Originating at the NSA and later adopted by NIST, it's when branches of the US government will be disallowed from using quantum-vulnerable cryptography. In plain language: with hindsight, that date is a joke and should be discounted entirely. I don't see how NIST avoids being forced to pull it forward by years.\n\nPart 3: post-quantum cryptography\n\nThere are good reasons to sound the alarm today, but please do not panic. Rushing carelessly towards immature post-quantum cryptography is a recipe for disaster. IMO a good target date for migration is 2029, roughly 3.5 years out. 2029 happens to be the date selected by Google, Cloudflare, and the Ethereum Foundation.\n\nThese days most of my time goes to safely migrating Ethereum towards post-quantum cryptography as part of the broader lean Ethereum effort. There's a lot to do. We need to rip out and replace BLS signatures at the consensus layer, KZG commitments at the data layer, and ECDSA signatures at the execution layer.\n\nThe plan to get there is compelling, and is based on hash-based cryptography. Within the Ethereum Foundation we've developed a Swiss army knife called leanVM (github[.]com/leanEthereum/leanVM) powered by the magic of hash-based SNARKs. Thanks to truly exceptional work by Emile, Thomas, and others, its performance is derisked. Regarding security, leanVM is a jewel, a minimal zkVM crafted for end-to-end formal verification and maximum security.\n\nWant to help? There are two $1M initiatives. First, the Proximity Prize (proximityprize[.]org). Solve a long-standing mathematical conjecture in coding theory, improve hash-based SNARKs, and go home a millionaire. Second, the Poseidon Initiative (poseidon-initiative[.]info), offers $1M for breaking Poseidon, the SNARK-friendly hash function.",
+      "url": "https://x.com/drakefjustin/status/2061793725299224676",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-30T10:44:17+00:00",
-      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
-      "url": "https://x.com/paulg/status/1961741758951309683",
+      "date": "2026-06-02T12:15:29+00:00",
+      "text": "The more Netanyahu prevents the war with Iran from ending, the more obvious it becomes that he convinced Trump to start it.",
+      "url": "https://x.com/RepThomasMassie/status/2061783761017057484",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-27T20:17:24+00:00",
-      "text": "@travelingclatt What have you invented?",
-      "url": "https://x.com/paulg/status/1960798824055906334",
+      "date": "2026-06-02T03:58:54+00:00",
+      "text": "This is an astoundingly rapid change in something so basic. In 15 years the proportion of people who say college is very important has decreased by more than half.\n\n\nMarc Porter Magee 🎓 (@marcportermagee)\n\nWhat's interesting about this trend is how far back it goes. There has been a steady decline in how important people say college is today since 2010.\n\n\n\n\n\n— https://nitter.net/marcportermagee/status/2061494732937646246#m",
+      "url": "https://x.com/paulg/status/2061658794271322623",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-25T06:32:48+00:00",
-      "text": "My God. Each pair of shoes is a child's life.",
-      "url": "https://x.com/paulg/status/1959866534102446505",
+      "date": "2026-06-01T22:49:02+00:00",
+      "text": "In North Carolina they're building the future.\n\n\nBlake Scholl 🛫 (@bscholl)\n\nSuperpower Superfactory is making good progress. Foundations going in to hold dozens of large CNC machines.\n\n\n\n\n\n— https://nitter.net/bscholl/status/2061578890217189590#m",
+      "url": "https://x.com/paulg/status/2061580810604736783",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-24T16:06:26+00:00",
-      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
-      "url": "https://x.com/paulg/status/1959648504021655586",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T19:35:14+00:00",
-      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
-      "url": "https://x.com/sama/status/1958976273319174362",
+      "date": "2026-06-01T21:36:34+00:00",
+      "text": "The OpenAI Foundation is doing a lot of wonderful things.\n\nHelping society become resilient to AI is going to be incredibly important. Much more to come here!\n\n\nThe OpenAI Foundation (@FoundationOAI)\n\nAI is advancing quickly. Society’s ability to manage its risks must advance just as fast.\n\nToday we’re sharing our vision for AI Resilience, with more than $130M in initial grants underway across bio-resilience, cyber-resilience, AI model safety, and AI’s impact on young people: openaifoundation.org/news/re…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/FoundationOAI/status/2061463726407155795#m",
+      "url": "https://x.com/sama/status/2061562575322492937",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-22T16:01:07+00:00",
-      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
-      "url": "https://x.com/sama/status/1958922390731464805",
+      "date": "2026-06-01T20:39:14+00:00",
+      "text": "Gotta say I’m starting to feel good about Sheel’s chances here\n\n\nSheel Mohnot (@pitdesi)\n\nI’ll make a bet here.\n\nOpen to @rabois or anyone else\n\n$100k to charity of winners choice if a company founded in SF between March 2020 and Sep 2023 is valued at $5B+ within 10 years.\n\n\n\n— https://nitter.net/pitdesi/status/1704239904761540801#m",
+      "url": "https://x.com/devahaz/status/2061548145339666442",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-01T19:39:01+00:00",
+      "text": "As President, I would read 10 letters a day sent to me by ordinary Americans. At the Obama Presidential Center, we’ll have some of the letters I read — and responded to — every night. I still get emotional reading them, and it’s one of my favorite exhibits.\n\nVideo",
+      "url": "https://x.com/BarackObama/status/2061532991638093909",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-01T02:35:52+00:00",
+      "text": "The breakthrough isn’t the median survival rate doubling, it’s the fact that they’ve finally managed to create a drug that can target the RAS(on) state, rather than selective KRAS mutations. This makes it the first multi selective RAS inhibitor that’s clinically proven to work. The implications are huge. KRAS mutations are found in:\n1. 90% of pancreatic cancers\n2. 40-50% of colorectal \n3. 20-40% lung\n4. 19-23% of ALL cancers\n\n\nMark Lewis, MD, FASCO (@marklewismd)\n\nCheers, chills, and a standing ovation when RASolute 302 showed unprecedented survival on daraxonrasib for patients with progressive pancreatic cancer \n\nSeldom do you sense you’re witnessing a historic moment in cancer care but this feels like ras targeting has arrived \n\n#ASCO26\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/marklewismd/status/2061189734529941938#m",
+      "url": "https://x.com/YounisJoseph/status/2061275508688728325",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-31T16:07:13+00:00",
+      "text": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com",
+      "url": "https://x.com/sama/status/2061117302528188712",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-21T20:52:26+00:00",
-      "text": "Make God your only boss.",
-      "url": "https://x.com/naval/status/1958633313272570250",
+      "date": "2026-05-31T15:38:25+00:00",
+      "text": "This has quietly been a miracle month in medicine. \n\nIn the last 5 weeks we’ve got news on:  \n\n- retatrutide, the triple agonist GLP-1 from Lilly, basically melting fat and body-wide inflammation at record levels \n- RevMed’s new pancreatic cancer drug showing unprecedented abilities to extend life \n- small trial of a one-and-done PCSK9 gene editing therapy for slashing LDL cholesterol \n- Mayo’s AI-assisted radiology showing vastly improved cancer detection \n- this new therapy for metastatic solid tumors\n\nThis stuff is at varying levels of evidence. Retatrutide is ~100% on its way, other stuff needs more clinical trial data. But put it together and we’re maybe on the verge of majorly reducing the mortality of heart disease and cancer, the two leading causes of death in America.\n\n\nCrémieux (@cremieuxrecueil)\n\nThis is actually insane.\n\n97% of people taking the standard of care for metastatic solid tumor got worse by seven years.\n\nBut with lorlatinib, that number was only 45% in the same time!\n\nThis is an ENORMOUS jump in the quality of cancer care.\n\n\n\n\n\n— https://nitter.net/cremieuxrecueil/status/2060955532559581294#m",
+      "url": "https://x.com/DKThomp/status/2061110056293106118",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-31T15:05:55+00:00",
+      "text": "We want to help the world get a head start on biodefense:\n\nopenai.com/index/strengtheni…",
+      "url": "https://x.com/sama/status/2061101875303530871",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-31T05:59:10+00:00",
+      "text": "Five million users would agree. Resetting the limits tomorrow morning to celebrate.\n\nTime to go /fast\n\n\nSiqi Chen (@blader)\n\nnothing like switching to claude for a few days to try out a new model and going back to codex xhigh to remind you how much better 5.5 is right now\n\nit's really not close\n\n\n\n— https://nitter.net/blader/status/2060920535245324479#m",
+      "url": "https://x.com/thsottiaux/status/2060964284117782996",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-30T23:19:17+00:00",
+      "text": "What people call the Singularity is the continuing victory of knowledge over the blind physical evolution of the universe.",
+      "url": "https://x.com/nivi/status/2060863647623340377",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:45:02+00:00",
-      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
-      "url": "https://x.com/karpathy/status/1957574489358873054",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-05-29T10:00:09+00:00",
+      "text": "You aren’t starting a company. You’re laying bricks in the foundation of a skyscraper.",
+      "url": "https://x.com/naval/status/2060300150732407253",
+      "author": "naval",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:18:22+00:00",
-      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
-      "url": "https://x.com/paulg/status/1957567774882164784",
-      "author": "paulg",
-      "source": "syndication"
+      "date": "2026-05-29T09:04:04+00:00",
+      "text": "There are 10x engineers because there are 10x thinkers.",
+      "url": "https://x.com/naval/status/2060286038854054375",
+      "author": "naval",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-16T17:12:02+00:00",
-      "text": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
-      "url": "https://x.com/karpathy/status/1956765908078387382",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-05-29T03:22:52+00:00",
+      "text": "Apple: apple.co/49nD1Zq\n\nYouTube: piped.video/8R_9W9y8Y78\n\nTranscript: nav.al/hardware",
+      "url": "https://x.com/naval/status/2060200173901627830",
+      "author": "naval",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-13T05:41:07+00:00",
-      "text": "A study of 1452 undergrads at Northwestern and Michigan between 2023 and 2025 found that 88% pretended to hold more left wing views than they actually had in order to succeed socially or academically. https://t.co/xDSSSL3qTu",
-      "url": "https://x.com/paulg/status/1955504869709844794",
-      "author": "paulg",
-      "source": "syndication"
+      "date": "2026-05-29T03:22:52+00:00",
+      "text": "Part 2 of the @navalpodcast with @rauchg, @maxhodak_, and @bscholl.\n\nVibe Coding Hardware\n\n00:35 Vibe Coding a Turbine Blade\n\n04:04 Open Source AI Compounds China’s Advantage\n\n06:12 You Always Want the Smartest Model\n\n08:41 Software Still Needs Hands\n\n10:40 Humans Are Becoming Verifiers\n\nVideo",
+      "url": "https://x.com/naval/status/2060200170936250463",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-28T01:42:08+00:00",
+      "text": "Apple: apple.co/4uCfBYQ\n\nYouTube: piped.video/aiyf-5jmYf0\n\nTranscript: nav.al/tokens",
+      "url": "https://x.com/naval/status/2059812433431236961",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-28T01:42:07+00:00",
+      "text": "New podcast, new format. Three founders join us.\n\nWaste Tokens, Save Time\n\n00:00 Three Frontier Founders \n\n01:27 AI Software Factories \n\n04:15 Waste Tokens, Save Time \n\n05:47 Models Instructing Humans\n\n09:30 Is Pure Software Dead?\n\n12:04 You Don't Get Stuck Anymore\n\nWith @rauchg, @maxhodak_, and @bscholl.\n\nVideo",
+      "url": "https://x.com/naval/status/2059812430633673045",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-27T16:44:46+00:00",
+      "text": "AI should dramatically increase quality of life and individual freedoms for people around the world.\n\nThe OpenAI Foundation is making an initial $250M commitment to measurement, transition support, and new approaches to broadly shared prosperity.\n\nopenaifoundation.org/news/ec…",
+      "url": "https://x.com/sama/status/2059677202917331431",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-05-27T04:31:15+00:00",
+      "text": "🛫\n\n\nHermeus (@hermeuscorp)\n\nSupersonic. Mach 1.21.\n\nQuarterhorse Mk 2.1 is now the world’s first privately developed, unmanned supersonic jet and the fastest unmanned aircraft flying today.\n\nThis flight makes Hermeus the fastest company in aviation history to go from founding to supersonic flight - exactly 364 days after the maiden flight of our first aircraft.\n\nNow, we fly faster.\n\nA special thanks to @DIU_x, Director @OwenWest91, Maj. Gen. Joe \"Solo\" Kunkel, and Deputy Director Kyle Norman.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/hermeuscorp/status/2059258251720659266#m",
+      "url": "https://x.com/sama/status/2059492605634007125",
+      "author": "sama",
+      "source": "nitter"
     }
   ]
 }
