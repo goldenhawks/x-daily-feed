@@ -7,15 +7,15 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-06-08T19:53:52.495525+00:00",
-  "last_success_at": "2026-06-08T19:53:52.495525+00:00",
+  "updated_at": "2026-06-09T19:35:20.140490+00:00",
+  "last_success_at": "2026-06-09T19:35:20.140490+00:00",
   "source": "syndication",
   "error_message": "",
   "items": [
     {
-      "date": "2026-06-03T07:20:23+00:00",
-      "text": "Good Starship highlights video https://t.co/ropm7YWMLq",
-      "url": "https://x.com/elonmusk/status/2062071886218219737",
+      "date": "2026-06-09T03:25:26+00:00",
+      "text": "SpaceX AI Satellites  https://t.co/e87XMW2tXb",
+      "url": "https://x.com/elonmusk/status/2064187087184650253",
       "author": "elonmusk",
       "source": "syndication"
     },
@@ -59,6 +59,13 @@
       "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
       "url": "https://x.com/paulg/status/1984013356576207235",
       "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-24T16:31:55+00:00",
+      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
+      "url": "https://x.com/karpathy/status/1981760576591393203",
+      "author": "karpathy",
       "source": "syndication"
     },
     {
@@ -283,13 +290,6 @@
       "text": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
       "url": "https://x.com/karpathy/status/1956765908078387382",
       "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-13T05:41:07+00:00",
-      "text": "A study of 1452 undergrads at Northwestern and Michigan between 2023 and 2025 found that 88% pretended to hold more left wing views than they actually had in order to succeed socially or academically. https://t.co/xDSSSL3qTu",
-      "url": "https://x.com/paulg/status/1955504869709844794",
-      "author": "paulg",
       "source": "syndication"
     }
   ]
