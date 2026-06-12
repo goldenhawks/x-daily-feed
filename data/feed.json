@@ -7,11 +7,130 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-06-11T20:38:50.383124+00:00",
-  "last_success_at": "2026-06-11T20:38:50.383124+00:00",
+  "updated_at": "2026-06-12T18:31:10.010062+00:00",
+  "last_success_at": "2026-06-12T18:31:10.010062+00:00",
   "source": "nitter",
-  "error_message": "",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
+    {
+      "date": "2026-06-12T17:45:54+00:00",
+      "text": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+      "url": "https://x.com/karpathy/status/2065490793092337691",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T16:25:20+00:00",
+      "text": "Robert Brovdi, commander of Ukraine's Unmanned Systems Forces, said the campaign has reduced the traffic using the Novorossiya highway - a critical Russian military supply route through occupied southern Ukraine to Crimea - by more than two thirds over the past month...\n\n\"We will isolate Crimea in the near future,\"...\n\nBrovdi said one of his strategic aims was to force Moscow to ​pull back troops rather than push forward.\n\n\"We will create conditions that will make it extremely difficult for any military personnel or those working in the defence industry to remain in Crimea, in the temporarily occupied territories, or use the access routes to them.\"\nreuters.com/world/europe/ukr…",
+      "url": "https://x.com/RALee85/status/2065470515343409571",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T15:37:12+00:00",
+      "text": "If you don’t want this moment, then you will never be happy.",
+      "url": "https://x.com/naval/status/2065458402860675487",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T14:32:52+00:00",
+      "text": "So Occam's Razor says: at least some of the allegations about Trump in the Epstein files are in fact true.\n\nPresumably this is why Elon mentioned it when they had that falling out. It would have been a pretty weak claim to say he's in the files, but none of it is true.",
+      "url": "https://x.com/paulg/status/2065442213534855421",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T14:25:15+00:00",
+      "text": "According to the recent NYT article, the person in the administration most against releasing the Epstein files is Trump, who'd have to resign if the allegations in there are true, and the person most in favor of releasing them is Vance, who'd become president if they're true.",
+      "url": "https://x.com/paulg/status/2065440296209428626",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T09:50:16+00:00",
+      "text": "Shocked to hear David Hockney has died. His huge  achievement was to make serious painting look effortless. He carried forward one of the most sustained investigations into vision, space and representation by any post-war artist. British art has lost a giant.",
+      "url": "https://x.com/ahistoryinart/status/2065371095713149232",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T09:43:39+00:00",
+      "text": "Someone asked me to recommend a good book on parenting. I would guess that most books about parenting are tedious. So my recommendation is to read autobiographies, the early parts of which are usually implicitly about parenting.",
+      "url": "https://x.com/paulg/status/2065369429416825090",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T09:25:42+00:00",
+      "text": "\"... the political left has long had a remarkable lack of interest in how wealth is created. As far as they are concerned, wealth exists somehow and the only interesting question is how to redistribute it.\"\n\n— Thomas Sowell",
+      "url": "https://x.com/paulg/status/2065364911379640327",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T04:27:42+00:00",
+      "text": "Quick update on the last ~48 hours of Zcash Ironwood!\n\n1. Protocol devs from across all the orgs met twice to discuss specification and implementation progress. Agreement on a couple additional changes: disabling Orchard pool bundles in coinbases, anchors as auth data for migration UX with hardware wallets, and the order that ZIPs and specs will be handled.\n2. Ironwood circuit and ZIP 2005 integration drafts are going through the review process. @ValarGroup has already spun up testnets and his team has done a wonderful job scoping out and implementing some of the wallet-facing changes. We are beginning an Ironwood upgrade book for eventual consumption by auditors, wallets, protocol developers, etc..\n3. Formal verification work on Ironwood continues. A collection of different individuals who either have or will continue to work on formalization efforts will be meeting tomorrow where we'll settle on the specific strategy for getting the Ironwood SNARK formally verified. I'm hosting this and will post minutes and details after. Efforts from teams will be ideally combined where useful, existing approaches and progress unified and we'll figure out the easiest path for the next couple weeks. I've paused my own work on this to do Ironwood circuit stuff, but I'll be resuming on that tomorrow.\n\nThese are the big pieces, there are also some major security auditing tasks taking place in the background -- at least three major firms are auditing Orchard currently, and multiple new AI auditing suites are hammering the codebases to ensure nothing else critical is sitting around anywhere. So far so good!\n\nReally proud of how much progress is being made every hour on this by all five of our major teams/orgs and our supporters inside and outside the community. Also love the general wartime vibe shift. Let's go!\n\n\nSean Bowe (@ebfull)\n\nUPDATE: The various orgs and protocol developers mentioned have agreed on the specific consensus rule changes for Ironwood, after settling the finer details.\n\nHere's a summary:\n\n1. Ironwood introduces a new pool using the Orchard protocol, just like the existing pool.\n2. The circuit for the Orchard protocol—which applies to both the existing Orchard pool and the new Ironwood pool—will have a flag that consensus rules can toggle. This flag disables payments to *other* users within that pool, while maintaining the ability to create change notes. (This enables a privacy safeguard.)\n3. The old Orchard pool will have this flag enabled after the network upgrade, and payments to the old pool will also be disabled by constraining valueBalance.\n4. Because payments are disabled on the old pool, wallets must send new payments to Orchard receivers (inside existing unified addresses) via the new pool, and they should also migrate funds away from the old pool.\n\nThis combination enforces a bound on the circulating supply of ZEC through the use of the existing turnstile mechanism; the amount of ZEC that anyone can transact with is no more than the amount that is supposed to exist. Meanwhile, users' wallets can migrate funds to protect them from risk, which also gradually provides evidence that counterfeiting never took place.\n\nNow that we have this decided, we'll collectively move on to the implementations, specifications, and ecosystem support/outreach. (We also have many different auditing and formal verification efforts taking place behind the scenes to provide assurance about the circuit correctness. More on that soon!)\n\n\n\n— https://nitter.net/ebfull/status/2064163890871910657#m",
+      "url": "https://x.com/ebfull/status/2065289918604283991",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T03:55:36+00:00",
+      "text": "California Constitution, Article II, Sec 7:\n\n\"Voting shall be secret.\"\n\nSomething 'ballot harvesting,' as practiced, even if allowed by statute, seems to clearly violate.",
+      "url": "https://x.com/kausmickey/status/2065281842186715409",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T23:36:17+00:00",
+      "text": "Rapid iteration is the key for building breakthrough airplanes and engines.\n\nMy keynote this morning @aiaa has new details on how Boom is using custom design tools and digital manufacturing to accelerate engine development piped.video/watch?v=tJe4559P…",
+      "url": "https://x.com/bscholl/status/2065216579831513241",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T22:51:14+00:00",
+      "text": "Some good books.",
+      "url": "https://x.com/paulg/status/2065205242002653600",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T22:31:25+00:00",
+      "text": "LinkedIn was already slop. All that's changed is that it's now AI slop.",
+      "url": "https://x.com/paulg/status/2065200255554003370",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T22:18:21+00:00",
+      "text": "You are far more dangerous to your startup than competitors are. A hundred times more startups die from poor execution by their founders than are killed by competitors.",
+      "url": "https://x.com/paulg/status/2065196968066846946",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T21:30:57+00:00",
+      "text": "Interesting. AI will in effect increase both supply and demand for formal methods. You need them more, but you also have tools that make them cheaper.\n\nblog.janestreet.com/formal-m…",
+      "url": "https://x.com/paulg/status/2065185039046877542",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T21:17:24+00:00",
+      "text": "AI is pushing data centers to their limits, and cooling is becoming one of the biggest bottlenecks.\n\n@Ferveret is taking a nuclear reactor-inspired approach to fix it. Their system outperforms state-of-the-art liquid cooling by 15% and delivers 35% more tokens from the same power— with zero water consumption. news.mit.edu/2026/nuclear-in…",
+      "url": "https://x.com/ycombinator/status/2065181630374011049",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-11T21:00:55+00:00",
+      "text": "Cross-border payments don't need to be inefficient or unnecessarily complex.\n\nFor businesses sending money around the world, stablecoins offer the path of least resistance.\n\n\nCoinbase 🛡️ (@coinbase)\n\nIt’s a good day for B2B cross-border payments.\n\n@MassPay_io is bringing the power of Coinbase payments to their global enterprise customers.\n\nEligible MassPay clients can now send USDC instantly, anywhere in the world.\n\n\n\n\n\n— https://nitter.net/coinbase/status/2065090431008829523#m",
+      "url": "https://x.com/brian_armstrong/status/2065177483188576321",
+      "author": "paulg",
+      "source": "nitter"
+    },
     {
       "date": "2026-06-11T19:54:36+00:00",
       "text": "really looking forward to working together!\n\n\nJohannes Landgraf (@jolandgraf)\n\nx.com/i/article/206495249936…\n\n\n\n— https://nitter.net/jolandgraf/status/2065089676122235376#m",
@@ -20,80 +139,17 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-11T17:44:35+00:00",
-      "text": "The Best of TED 2026 IMHO\nCommunity Notes is one of X's greatest advances, a breakthrough in social engineering with a distributed, scalable truth-seeking algorithm.\nMy photo from the front row here (showing a peek into what's to come), and full video: ted.com/talks/keith_coleman_…\n\n\n\n\nJay Baxter (@jaybaxter)\n\nMy interview from TED with @kcoleman and @audreyt just went live!\n\nTons of gold in here:\n-why we stuck with crazy principles like not having an override button\n-how AI and humans collaborate to write better/more notes than either on their own\n-how much impact community notes are making\n-why our algorithm is smarter than regular upvoting/downvoting\n-new ideas for finding common ground on social media\n\nted.com/talks/keith_coleman_…\n\n\n\n\n— https://nitter.net/jaybaxter/status/2064820913347199446#m",
-      "url": "https://x.com/FutureJurvetson/status/2065128072320323786",
-      "author": "elonmusk",
+      "date": "2026-06-11T18:58:07+00:00",
+      "text": "AI agents are powerful, but they don’t remember your preferences.\n\nSo you end up repeating instructions- How you structure projects. Your brand guidelines.\n\nYou can now teach Replit Agent your conventions with Custom Instructions and Skills.\n\nIt'll take them into account for every project automatically.\n\nVideo",
+      "url": "https://x.com/Replit/status/2065146579326271883",
+      "author": "paulg",
       "source": "nitter"
     },
     {
-      "date": "2026-06-11T17:34:47+00:00",
-      "text": "- Netherlands\n- Lithuania\n- Estonia\n- Denmark\n- Belgium\n\n\nAshok Elluswamy (@aelluswamy)\n\n- Netherlands\n- Lithuania \n- Estonia\n- Denmark\n\n\n\n— https://nitter.net/aelluswamy/status/2064392082891133011#m",
-      "url": "https://x.com/aelluswamy/status/2065125605847577024",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T17:24:28+00:00",
-      "text": "Falcon 9 launches 24 @Starlink satellites from California\n\nVideo",
-      "url": "https://x.com/SpaceX/status/2065123011985105024",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T17:17:31+00:00",
-      "text": "Great interview about how @CommunityNotes works!\n\nSuper helpful for truth-seeking.\n\n\nJay Baxter (@jaybaxter)\n\nMy interview from TED with @kcoleman and @audreyt just went live!\n\nTons of gold in here:\n-why we stuck with crazy principles like not having an override button\n-how AI and humans collaborate to write better/more notes than either on their own\n-how much impact community notes are making\n-why our algorithm is smarter than regular upvoting/downvoting\n-new ideas for finding common ground on social media\n\nted.com/talks/keith_coleman_…\n\n\n\n\n— https://nitter.net/jaybaxter/status/2064820913347199446#m",
-      "url": "https://x.com/elonmusk/status/2065121260464439497",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T16:42:12+00:00",
-      "text": "Grok is maximally truthful\n\n\nKradle (@kradleai)\n\nFable 5 lies 96% of the time.\n\nWe were surprised by it's skill... 🧵\n\n\n\n\n\n— https://nitter.net/kradleai/status/2064907897373642912#m",
-      "url": "https://x.com/elonmusk/status/2065112374709719329",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T16:00:56+00:00",
-      "text": "Britain doesn't have a racism problem, it has an immigration problem.",
-      "url": "https://x.com/RupertLowe10/status/2065101988669411419",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T16:00:17+00:00",
-      "text": "Gave the Terafab website a makeover. Designed and built entirely with Grok Build → terafab.ai\n\nVideo",
-      "url": "https://x.com/benjitaylor/status/2065101824164806863",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T15:51:44+00:00",
-      "text": "this didn't \"happen\", we caused it\n\nfirst, children disappeared from daily life\nmost women turn 30 without ever holding a baby (they don't have siblings or cousins, and young babies have been removed from shared spaces), never changed a diaper or watched one up close.\nyou cant want what you've never seen\n\nsecond, we killed the single income. \nthe average family needs both parents working just to get to the end of the month, so raising a family well went from hard to something practically impossible (2-3 months of maternity leave should be considered a crime against humanity). \n\nthen schools and media, the whole cathedral, all pushed towards the same direction in a systematic brainwashing effort: pushing every girl at the career, motherhood turned into that despicable thing you settle for when the better options run out, \"a smaller life\". nothing worth desiring, and if you do you must be ostracised\n\nsocial media just finished the job.\npresented childfree as freedom and ideal life, filmed the worst four seconds of a mothers day and called it a warning or \"here's motherhood\"\n\nand underneath all of it, we removed people from history\n\nno ancestors you owe anything, no descendants you're building for, just one atomic self detached from any sense of continuity. one life with no purpose other than its own selfish goals\nespecially for western people who have been taught that their ancestors are the most evil humans who ever existed\nsomeone with no past and no future has no reason to  see themselves as part of history, and everything they do revolves around their own pleasure\nwhy would you carry something you were raised to be ashamed of?\n\nso a quarter of women raised in captivity selecting for civilizational suicide becomes inevitable\nthe idea that this was a conscious choice is delusional.\nwe are the first species in history to get everything it ever wanted: safety, medicine, abundance, ninety good years, and the result is suicide. \neverything else alive still manages to reproduce through famine and plagues. we got paradise and stopped\n\nanyone shutting off their own survival drive with no threat in sight is definitionally suicidal and that's where we are now\n\n\nAndra (@BioavailableNd)\n\nWhy do you think this is happening?\n\n\n\n\n\n— https://nitter.net/BioavailableNd/status/2064787730257605092#m",
-      "url": "https://x.com/IterIntellectus/status/2065099671492600276",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T15:04:04+00:00",
-      "text": "The media has stretched \"far-right extremism\" so far that it now covers almost anything they disagree with \n\nThey’ve changed the definition. It used to mean neo-Nazis. Now it means parents at school boards, people who want secure borders, or anyone who rejects modern progressive orthodoxy\n\nReal far-right extremism... the violent, fringe kind....is extremely rare. But the media inflates the term so aggressively that actual extremism gets buried under mountains of propaganda labeling normal opinions as dangerous\n\nThis isn’t sloppy journalism. It’s a deliberate strategy: expand the definition of \"extremist\" until half the population is in the category. Then you can justify censorship, deplatforming, and social punishment while turning people against each other",
-      "url": "https://x.com/XFreeze/status/2065087678132195328",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T14:55:36+00:00",
-      "text": "Watch Falcon 9 launch 24 @Starlink satellites to orbit from California nitter.net/i/broadcasts/1rGmqoBmZ…",
-      "url": "https://x.com/SpaceX/status/2065085548025512138",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T14:13:19+00:00",
-      "text": "Oppenheimer has initiated coverage on SpaceX stock ($SPCX) with an Outperform rating and a $190 price target, which would be a $2.5 trillion market cap.\n\n\"We see potential for SPCX to leverage terrestrial compute expertise as a bridge (and possible back-up plan) to enable key scale and cost advantages. We see it as the only vertically-integrated AI company with the required capital, data, LLMs, hardware, manufacturing and engineering talent.\n\nWe believe that SpaceX will use its expertise in engineering, manufacturing and space technologies to grow to the largest communications, cloud/AI company in the world, in our scenario. This is a very large TAM with high barriers to entry. We expect extreme stock and operational volatility. The company faces complex engineering/manufacturing/physics challenges that are\nlikely to be resolved but create the risk of falling behind schedule. SPCX will leverage a monopoly on reusable rockets and hardware manufacturing—antennas, hardware, solar panels, satellites, chips etc.—to do so.\"",
-      "url": "https://x.com/SawyerMerritt/status/2065074904664314199",
-      "author": "elonmusk",
+      "date": "2026-06-11T17:04:04+00:00",
+      "text": "We're excited to announce Diana Hu (@sdianahu) as YC's newest Managing Partner.\n\nDiana co-founded Escher Reality (YC S17), which was acquired by Niantic, where she shipped AR to the 100M+ people playing Pokémon GO. Since returning to YC as a partner, she has worked with nearly 230 companies that are now worth a combined $7 billion.\n\nFew people have built a startup from zero and also shipped at global scale. Diana has done both.\n\nycombinator.com/blog/diana-h…",
+      "url": "https://x.com/ycombinator/status/2065117876848308439",
+      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -118,13 +174,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-11T13:52:05+00:00",
-      "text": "Grok\n\n\nX Freeze (@XFreeze)\n\nGrok now lets you view and manage your Memory\n\nThis is a powerful feature\n\nGrok can remember useful details from your previous conversations to provide better context and more personalized assistance over time\n\nAnd the best part:\n\n• View what Grok remembers\n• Edit memories anytime\n• Remove memories you don’t want stored\n• Improve context for future conversations\n\nThe result is a much more personalized AI experience that gets better the more you use it\n\nInstead of starting from scratch every conversation, Grok can build a deeper understanding of your goals, interests, projects, and preferences and help you better\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2065031146686329274#m",
-      "url": "https://x.com/elonmusk/status/2065069562609926359",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-06-11T13:49:54+00:00",
       "text": "One of the things that distinguishes the startups that become *really* big is whether the founders want to keep working on it rather than, say, taking an acquisition offer. And if the whole company is pervaded by niceness it's going to be more pleasant to keep running it.",
       "url": "https://x.com/paulg/status/2065069013076471977",
@@ -139,143 +188,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-11T13:45:36+00:00",
-      "text": "I talked to a founder today whose customers are all really nice people, because their initial market happens to be one that attracts such people. The founders themselves are nice for the same reason. They're enjoying starting a startup as much as any founders I've known.",
-      "url": "https://x.com/paulg/status/2065067930551824790",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T12:38:36+00:00",
-      "text": "Restore Britain will reverse the third-worldification of our country.",
-      "url": "https://x.com/RestoreBritain/status/2065051068073955601",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T11:47:34+00:00",
-      "text": "WTF 🤬: UK JUSTICE IS DEAD: Protestors Jailed Longer Than Black Illegal Migrant Rapist!\n\nThree British men spoke out after a black illegal migrant sexually assaulted a 14-year-old girl in Epping — and the courts punished THEM harder than the actual criminal.\n\nThe black Ethiopian asylum seeker, Hadush Gerberslasie Kebatu, got just 12 months. The local men who protested his crimes are jailed longer.\n\nThis is not justice. This is open betrayal. Britain’s two-tier system now protects black foreign criminals while crushing its own people for daring to complain.\nNative Brits are treated as second-class in their own country. This disgusting inversion must end now.\nWake up Britain!\n\nVideo",
-      "url": "https://x.com/Aku_700/status/2065038226436333758",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T11:20:30+00:00",
-      "text": "When I was a kid I didn't realize, as is now obvious, that AGI would be a wide band rather than a sharp finish line. But if you'd shown me a version of ChatGPT that had been told to act like a human, I'd definitely have said that AI had been achieved.",
-      "url": "https://x.com/paulg/status/2065031413582168067",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T11:09:41+00:00",
-      "text": "This is why real democracies have that pesky thing known as due process.\n\n\nThe Intercept (@theintercept)\n\nOne top military officer provided a plausible explanation, behind closed doors on Capitol Hill, The Intercept has learned. In the briefing, a high-ranking officer on the Pentagon’s Joint Staff stated that some of the people killed by the U.S. military may have been the victims of human trafficking.\n\n\n\n\n\n— https://nitter.net/theintercept/status/2064800924980166812#m",
-      "url": "https://x.com/paulg/status/2065028693093753307",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T11:03:51+00:00",
-      "text": "Italy newspaper Il Tempo writes, “thanks to Elon Musk we know about Novak,” and continues, “these riots are not the fault of Elon Musk but from the desperation of people.” And it explains who are the real responsible: weak politics, double standards, woke media and corruption",
-      "url": "https://x.com/andst7/status/2065027226341445801",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T06:01:41+00:00",
-      "text": "I remember back when 'ballot harvesting' first made news (2018), you got the impression ballots were just being collected and delivered. I remember one harvester telling the press she was told not to discriminate by party and didn't fill out the ballot herself.\nNow they are obviously not collecting ballots--they're generating them. (\"if we fill it out together right now\"). And they won't collect your ballot if you favor the wrong candidate or party. (Don't voter registration drives at least pretend they sign up everyone?)\n\n\nMatt Taibbi (@mtaibbi)\n\nIt was already insanely easy, with zero real barriers to voting beyond signature checking . We really want private “ballot brokers” collecting votes? Is that making voting easier, or something else easier?\n\n\n\n— https://nitter.net/mtaibbi/status/2064804462288396548#m",
-      "url": "https://x.com/kausmickey/status/2064951182528049217",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
       "date": "2026-06-11T05:53:10+00:00",
       "text": "1/ There's nothing more un-American than our slow, often corrupt build-by-permission permitting regimes.\n\nWith AI creating an even wider gap between how the world works, and how it could work — it's time for radical change.\n\n@judgeglock & I make the case for private permitting 🧵",
       "url": "https://x.com/JTLonsdale/status/2064949040505323941",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-11T05:24:18+00:00",
-      "text": "Elon Musk unveiling Falcon Heavy at the National Press Club in Washington D.C., 15 years ago\n\nVideo",
-      "url": "https://x.com/cb_doge/status/2064941776356737451",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T21:54:22+00:00",
-      "text": "The most important chart in the world now includes data for 2025.\n\nTrend lines are unchanged (bad).",
-      "url": "https://x.com/AlecStapp/status/2064828543612117217",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T20:55:13+00:00",
-      "text": "'Beware of bugs in the above code; I have only proved it correct, not tried it.' -- Donald Knuth",
-      "url": "https://x.com/CompSciFact/status/2064813658706763802",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T20:33:39+00:00",
-      "text": "I’ve officially resigned as Associate Editor for Frontiers in Systems Neuroscience (part of @FrontNeurosci). It used to be a reputable journal, but became a case study in how forced automation destroys academic integrity. 👇",
-      "url": "https://x.com/michael_okun/status/2064808233768788249",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T19:02:59+00:00",
-      "text": "⚡🇬🇧 Rupert Lowe: “We must ban foreigners from claiming benefits and immediately deport migrants who cannot financially support themselves.”\n\n“Those billions saved? Slash taxes for the British workers and families who actually keep this country running.”\n\nRestore Britain\n\nVideo",
-      "url": "https://x.com/AdamMoczar/status/2064785413512814634",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T17:21:05+00:00",
-      "text": "Today we're introducing Wave. A proactive product agent that helps teams build self-improving products.\n\nEvery product team runs the same loop. Build, ship, use, learn. AI has made building and shipping extraordinarily fast. Understanding usage and learning still happen by hand.\n\nWave runs the whole loop:\n\n- Analyzes your Amplitude data for signals across analytics, feedback, session replays, error logs, agent traces, and experiment results\n- Surfaces opportunities in the form of full product specs that you or your agents can approve and ship\n- Tracks the experiments and outcomes of what you've built so you can start the loop over again\n\nYour product learns what works and gets smarter every cycle: amplitude.com/wave\n\nVideo",
-      "url": "https://x.com/spenserskates/status/2064759773292368141",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T17:08:03+00:00",
-      "text": "Outrage over the death of Henry Nowak does not make you a racist. Condemning violence and demanding justice should never be dismissed as prejudice. We need to say that loudly and clearly.\n\n\nRestoring the West (@RestoringWest)\n\nWhen race becomes more important than truth, justice suffers.\n\n. @TreyDimsdale examines the death of Henry Nowak and the troubling questions it raises about policing, public trust, and equal treatment under the law.\n\nA justice system influenced by racial politics undermines the very principles on which it depends.\n\nRead: ayaan.restoringthewest.com/o…\n\n#RestoringTheWest #Justice #RuleOfLaw #HenryNowak #Freedom #EqualityBeforeTheLaw\n\n\n\n\n\n— https://nitter.net/RestoringWest/status/2064754212920267141#m",
-      "url": "https://x.com/Ayaan/status/2064756492776165400",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T15:19:55+00:00",
-      "text": "The great thing about the AI boom is that there are no monopolies, no gatekeepers. No Wintel, no App Store. No lockin, not really, not yet anyway. I hope Anthropic and OpenAI both stay at the frontier, keeping each other honest, for a long time to come. Rooting for Google too.",
-      "url": "https://x.com/lacker/status/2064729279909511540",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T15:15:21+00:00",
-      "text": "The most shocking thing from a Japanese perspective is not the crimes themselves.\n\nIt is that British people are being turned into second-class citizens in their own homeland — and they are still expected to stay polite about it.\n\nGrooming gang victims were ignored for years.  \nNow, after another attempted beheading, the same pattern: downplay the attacker, crack down on anyone who gets angry.\n\nYou have elections. You have a military. You have history.\n\nYet your leaders continue importing the exact people who are destroying your safety, and most of you still say nothing.\n\nIn Japan, this would be considered an invasion. And we would respond accordingly.\n\nBritain, you are running out of time to remember what it means to defend your own.",
-      "url": "https://x.com/japan_nobunaga/status/2064728127679725943",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T13:06:57+00:00",
-      "text": "Another day and another gang of invaders on trial for gang raping a British child.\n\n4 Afghans, Mehrab Safi, 21, Awal Ahmadzai and Salman Habibkheil, both 19, and a 16yr old allegedly attacked the girl in Bristol.\n\n“She didn’t want to, not yet, but it happened anyway.”\n\nThe court was told after she was allegedly raped by Safi, the other three defendants “took it in turns to get her alone in a bedroom or in a bed and to have sex with her against her wishes”.\n\nThis is every single day, yet the only outrage shown by politicians is when the native gets angry.\n\nAre you seeing this world?",
-      "url": "https://x.com/TRobinsonNewEra/status/2064695818381070588",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T12:44:35+00:00",
-      "text": "I talked to a founder of an AI startup generating about a 40% annual return on the cost of the GPUs he was using. I.e. he could make $400 in annual revenue for every $1000 worth of hardware he used.",
-      "url": "https://x.com/paulg/status/2064690186412229026",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-10T10:51:42+00:00",
-      "text": "NEW: malware developers added nuclear & biological weapons text to to their spyware.\n\nGoal? To trigger LLM safety refusals... so that their spyware wouldn't be analyzed by an AI security scanner.\n\nCleanest practical example I can think of for why over-indexing on first order safety alignment is risky.\n\nWhen closed (and open) models ship with aggressive refusals, they will be sprinkled with second-order blindspots that attackers will discover...and exploit.\n\nWe are only in the earliest days of attackers leveraging these features, and it wouldn't surprise me if users systems that need to handle complex cybersecurity issues demand that models be less safety-blunted.\n\nIn the weeds: @SocketSecurity's post also shows why intention matters in how you design a malware analysis pipeline to avoid prompt manipulation.\n\nH/T to colleagues that shared this with me socket.dev/blog/mini-shai-hu…",
-      "url": "https://x.com/jsrailton/status/2064661778978533571",
-      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -286,10 +202,94 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-09T16:26:00+00:00",
-      "text": "here are some facts about California. some of this is hard to believe. \n\nfirst of all, it's important to understand the concept of \"ballot harvesting,\" which is perfectly legal in CA. this refers to a situation where someone completely unaffiliated with the voter can collect and submit their ballot for them. \n\nthis flow is completely legal: \n\n- a homeless person arrives in LA, where they are eligible for cash assistance, SSI, food stamps, healthcare through medical, and an array of other taxpayer-funded services \n- they are registered to vote by an NGO (many such NGOs exist and explicitly do this). \n- they do not have to provide a residential address or any proof of residency to vote. they only have to provide a mailing address, which can be anywhere (church, NGO HQ, homeless shelter). their home address can be \"a park\" or \"an underpass\". \n- their ballot is mailed to the homeless shelter (or whatever address the NGO elects for them)\n- the only verification done for the mail-in ballot is \"signature verification\" and uniqueness (only one vote per person is counted theoretically). \n- the signature can be an X. if they register with an X, they can sign with an X. that is sufficient to pass verification. signature verification is also deliberately loose. the signature does not have to be a perfect match.\n\nnow consider the hypothetical scenario, which is fraudulent, but virtually impossible to detect: \n\n- a homeless person cycles through the LA system. they get registered with their mailing address listed as the NGO HQ or homeless shelter \n- they \"sign\" their registration with an X or nondescript, easily replicable signature\n- they disappear. never seen again. or they exist, but it doesn't matter. they don't get purged from the voter rolls for 4-8 years typically. \n- the address where they registered receives their ballot for several cycles \n- operatives are aware that they have X amount of votes to make up. they fill in X many thousand mail-in ballots themselves. the ballots are manually postmarked (permitted). they forge the signature to match whatever signature (could be an X) was submitted upon registration \n- ballots can be accepted even if they are postmarked at 11.59 pm. polls closed at 8 pm. (you would need an accomplice who is a USPS employee) \n- the only fraud checks are de-duplication (if the homeless person through some miracle voted in person, only one of their ballots would be counted) and signature verification \n- because very few of the homeless people in question would have voted in person, this gives NGO operatives tens of thousands of possible mail-in ballots to submit unilaterally. \n\nthe big problem is that there is NO way to detect this type of fraud. NGOs that register homeless people to vote exist. that isn't a secret. ballot harvesting is fully legal. voting by mail is encouraged. signature verification is as loose as possible. de-duplication doesn't solve anything, since few homeless people vote in person. and no one in power locally is going to spend political capital on rooting out such fraud, since they are all wholeheartedly committed to \"voting rights\".\n\nin a situation where fraud is undetectable, the absence of hard proof of fraud is not evidence that no fraud exists.\n\nRaman has gained around 20k votes since election night. She is around 3k votes ahead of Pratt now. \n\nthere are over 72 thousand homeless people in LA county.",
-      "url": "https://x.com/nic_carter/status/2064383519724314924",
+      "date": "2026-06-08T20:55:27+00:00",
+      "text": "Here is our current plan for OpenAI:\n\nopenai.com/index/built-to-be…",
+      "url": "https://x.com/sama/status/2064088940932641225",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-08T18:38:01+00:00",
+      "text": "Opt-out mail-in balloting eliminates the secret ballot. Harvesting then provides the mechanism for a stranger to apply pressure and deliver verified votes.\n\nCalifornia has successfully dismantled the safeguards for free & fair elections. The purpose of a system is what it does.\n\n\nmottsmith (@mottsmith)\n\nI believe LA county is counting votes more or less accurately, but “ballot harvesting” seems like a big problem. \n\nIf you can’t show up to a polling place with a MAGA hat, how is it ok for a DSA organizer to literally sit you and fill out your ballot for you?\n\n\n\n\n\n— https://nitter.net/mottsmith/status/2064032442043043862#m",
+      "url": "https://x.com/gfodor/status/2064054355347874064",
       "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-08T00:25:45+00:00",
+      "text": "interesting recursive loop here maybe\n\n\nTibo (@thsottiaux)\n\nI have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.\n\nFirst one tomorrow.\n\n\n\n— https://nitter.net/thsottiaux/status/2063748242681307611#m",
+      "url": "https://x.com/sama/status/2063779477419901071",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-06T16:10:52+00:00",
+      "text": "The product is the mission.",
+      "url": "https://x.com/naval/status/2063292550388298025",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-05T15:44:51+00:00",
+      "text": "Excited to share that I’ve joined OpenAI in London to work on pretraining!\n\nI’ve spent the last few years on pretraining and long-context, and I’ll be helping grow the London team. We’re hiring exceptional researchers, please reach out: london-training-hiring@openai.com",
+      "url": "https://x.com/SavinovNikolay/status/2062923614987661637",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-05T09:32:36+00:00",
+      "text": "Software platforms are going to be rebuilt for agent-first.",
+      "url": "https://x.com/naval/status/2062829934369013857",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-05T04:35:04+00:00",
+      "text": "Co-founder is marriage without the sex.",
+      "url": "https://x.com/naval/status/2062755058081841564",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-04T22:22:05+00:00",
+      "text": "man the early days of the internet were so special",
+      "url": "https://x.com/sama/status/2062661191969972645",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-04T22:21:36+00:00",
+      "text": "build and publish web apps with chatgpt!\n\ni really wish i had this when i was a kid, but i do miss hypercard.\n\n\nOpenAI (@OpenAI)\n\nBuilding apps has never been easier.\n\nWith Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL.\n\nRolling out to Business and Enterprise plans, before expanding more broadly.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2061845949170045346#m",
+      "url": "https://x.com/sama/status/2062661071761211561",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-04T22:17:41+00:00",
+      "text": "big upgrade to chatgpt memory rolling out today!\n\n\nOpenAI (@OpenAI)\n\nWe’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time.\n\nToday, that work is rolling out as a more capable memory system in ChatGPT. openai.com/index/chatgpt-mem…\n\n\n\n\n— https://nitter.net/OpenAI/status/2062567556524003631#m",
+      "url": "https://x.com/sama/status/2062660086787613116",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-04T20:27:37+00:00",
+      "text": "Apple: apple.co/4x7TT0y\n\nSpotify: open.spotify.com/episode/3Xo…\n\nYouTube: piped.video/v6MWNrVbM4E\n\nSubstack: naval.substack.com/p/industr…\n\nTranscript: nav.al/industrial",
+      "url": "https://x.com/naval/status/2062632384605147265",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-04T20:27:35+00:00",
+      "text": "Full podcast episode with @rauchg, @maxhodak_, and @bscholl.\n\n40 minutes of unreleased material.\n\nThe AI Industrial Revolution \n\nPart 1: Waste Tokens, Save Time\n\n0:00 Three Frontier Founders\n1:27 AI Software Factories\n4:15 Waste Tokens, Save Time\n5:47 Models Instructing Humans\n9:29 Is Pure Software Dead?\n12:03 You Don't Get Stuck Anymore\n\nPart 2: Vibe Coding Hardware\n\n14:39 Vibe Coding a Turbine Blade\n18:07 Open Source Compounds China's Advantage\n20:15 You Always Want the Smartest Model\n22:44 Software Still Needs Hands\n24:43 Humans Are Becoming Verifiers\n\nPart 3: The Regulatory Frontier\n\n27:53 The Regulatory Red Queen Race\n32:32 Why There's No Innovation in Healthcare\n36:49 We Need a True 50-State Experiment\n40:31 China's FDA Is Beating Ours\n43:37 Healthcare Is a Communist Society Inside Capitalism\n45:57 Sid's Story: N-of-1 Medicine\n\nPart 4: The Autonomous Company\n\n47:49 Autonomous Infrastructure\n51:25 Your Job Is to Train the Agent\n54:54 The Next Lord of the Rings\n59:08 What's Your Definition of Art?\n1:05:00 Can AI Have New Ideas?\n1:07:03 A Large Number of Small Teams\n\nVideo",
+      "url": "https://x.com/naval/status/2062632380234641611",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-03T19:05:25+00:00",
+      "text": "It's time to fly.\n\nVideo",
+      "url": "https://x.com/OpenAI/status/2062249312839434452",
+      "author": "sama",
       "source": "nitter"
     }
   ]
