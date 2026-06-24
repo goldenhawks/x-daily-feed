@@ -7,44 +7,86 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-06-23T14:15:00.639592+00:00",
-  "last_success_at": "2026-06-23T14:15:00.639592+00:00",
+  "updated_at": "2026-06-24T14:00:10.515148+00:00",
+  "last_success_at": "2026-06-24T14:00:10.515148+00:00",
   "source": "nitter",
-  "error_message": "",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
     {
-      "date": "2026-06-23T06:06:59+00:00",
-      "text": "By their logic, yes\n\n\nMike Benz (@MikeBenzCyber)\n\nUSAID funded the Maidan Revolution in Ukraine in 2014 that directly led to the 2014-2022 Donbas War (15,000 killed) and the subsequent 2022 Russia-Ukraine War (300,000 killed). So did USAID supporters murder 315,000 people?\n\n\n\n— https://nitter.net/MikeBenzCyber/status/2069299715552714784#m",
-      "url": "https://x.com/elonmusk/status/2069301172544897374",
-      "author": "elonmusk",
+      "date": "2026-06-24T00:27:04+00:00",
+      "text": "A Zenith caliber 2562, made in 1970, accurate to 3 sec/day (dial up) in 2026.",
+      "url": "https://x.com/paulg/status/2069578013793038690",
+      "author": "paulg",
       "source": "nitter"
     },
     {
-      "date": "2026-06-23T06:05:40+00:00",
-      "text": "True\n\n\nRothmus 🏴 (@Rothmus)\n\nNobody voted for this.\n\nThe same supranational elites shouting “save our democracy” are ramming through a globalist agenda of open borders, mass amnesty, and demographic replacement that no European population ever approved. \n\nBecause to them, democracy never meant rule of the people. It means their rule. No different than North Korea claiming to be democratic because the dictator supposedly speaks for the will of the people. \n\nYou’re only allowed to vote on trivial issues. The decisions that actually destroy a civilization like who enters your country, what your culture becomes, whether your nation even survives, it all happens without your consent.\n\nYou’re not in charge. You’re being ruled.\n\n\n\n— https://nitter.net/Rothmus/status/2069231518690718193#m",
-      "url": "https://x.com/elonmusk/status/2069300838581858791",
-      "author": "elonmusk",
+      "date": "2026-06-23T22:26:31+00:00",
+      "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.\n\n\nClaude (@claudeai)\n\nIntroducing Claude Tag, a new way for teams to work with Claude.\n\nIn Slack, Claude joins as a team member with access to the channels and tools you choose. Tag Claude in and delegate tasks to it while you focus on other work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/claudeai/status/2069468693017268244#m",
+      "url": "https://x.com/karpathy/status/2069547676849557725",
+      "author": "karpathy",
       "source": "nitter"
     },
     {
-      "date": "2026-06-23T03:13:51+00:00",
-      "text": "No, Elon Musk and DOGE did not cause \"millions of deaths of children.\" \nAnthony Fauci, however, very much did.\n\n\n\n\nDNI Tulsi Gabbard (@DNIGabbard)\n\nToday, on my final day as Director of National Intelligence, I’m releasing never-before-seen communications and documents exposing how Dr. Fauci provided millions in US taxpayer dollars to fund dangerous gain-of-function research at the Wuhan lab, worked with politicized elements within the Intelligence Community to suppress the truth about his actions and hide the virus’ lab-leak origins, and lied to Congress while under oath in 2024. It’s time you know the truth.\n\nodni.gov/index.php/newsroom/…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DNIGabbard/status/2067792184753938484#m",
-      "url": "https://x.com/skscartoon/status/2069257601800659271",
-      "author": "elonmusk",
+      "date": "2026-06-23T20:15:52+00:00",
+      "text": "BREAKING: The Senate has joined the House in voting to end the U.S. military campaign against Iran and block Trump's authority to wage this war.\n\nFour Republicans broke ranks in the bipartisan 50-48 vote.",
+      "url": "https://x.com/MorePerfectUS/status/2069514797519941734",
+      "author": "paulg",
       "source": "nitter"
     },
     {
-      "date": "2026-06-23T02:26:02+00:00",
-      "text": "USAID probably killed more people by creating Covid\n\n\nMike Benz (@MikeBenzCyber)\n\nWhy was USAID funding the Wuhan Lab?\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/MikeBenzCyber/status/1885847871859167477#m",
-      "url": "https://x.com/MikeBenzCyber/status/2069245566861676769",
-      "author": "elonmusk",
+      "date": "2026-06-23T17:36:07+00:00",
+      "text": "At our kids' school in England, the boys all play competitive rugby against other schools starting at age 7.\n\n\n\n\nLuba Lesiva (@loobah_l)\n\nMy son (6) wasn’t allowed to play tag at recess today during camp because it’s “too dangerous” and “the kids could get hurt”. \n\nOur “educators” hate boys.\n\n\n\n— https://nitter.net/loobah_l/status/2069136981917831358#m",
+      "url": "https://x.com/paulg/status/2069474595413876772",
+      "author": "paulg",
       "source": "nitter"
     },
     {
-      "date": "2026-06-23T01:58:46+00:00",
-      "text": "True\n\n\nRand Paul (@RandPaul)\n\nHere is what we know: U.S. taxpayer money, funneled through USAID and NIH, funded gain-of-function research at the Wuhan Institute of Virology. That research likely caused the COVID pandemic that killed millions and cost trillions.\n\nDr. Fauci personally signed off on these experiments, then lied to Congress about it. Biden tried to protect him with a last-minute pardon. That’s the very definition of a cover-up.\n\n\n\n— https://nitter.net/RandPaul/status/2069129039462498430#m",
-      "url": "https://x.com/elonmusk/status/2069238705928143129",
-      "author": "elonmusk",
+      "date": "2026-06-23T17:35:25+00:00",
+      "text": "Linzumi is Codex but actually multiplayer. It’s magical for teams. \n\nAlso Sean Grove was on the team at OpenAI that greatly reduced sycophancy in ChatGPT before he left to start this YC startup!\n\n\nY Combinator (@ycombinator)\n\nBring your whole team and dozens of AI coding agents into the same chat threads, then let @linzumi_ai keep the fleet coordinated and unblocked.\n\nAnd for a limited time, try state of the art open-weights intelligence free: GLM 5.2 at high speed, via their @wafer_ai partnership. → linzumi.com\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ycombinator/status/2069465556433211583#m",
+      "url": "https://x.com/garrytan/status/2069474420113146355",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-23T17:01:29+00:00",
+      "text": "Article\n\n\n\nIntroducing Engram: Scaling compute on your context\n\nWe’re Engram. We’re building AI that learns from you and deeply understands your work.\nToday’s AI models don’t understand what you do. Not really. Everything models know comes from their training –",
+      "url": "https://x.com/EngramLab/status/2069465879696576844",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-23T15:59:53+00:00",
+      "text": "Of course it could also be a source of potential energy for honest politicians committed to fixing whatever is causing their unhappiness. But that's a lot of work. History shows that in practice it's easier to gain power by feeding them scapegoats.",
+      "url": "https://x.com/paulg/status/2069450378957991993",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-23T15:55:22+00:00",
+      "text": "This rise in unhappiness is not just important in its own right, but because it's affecting politics. This big pool of discontented men = potential energy for unscrupulous politicians.\n\n\nThe Institute for Family Studies (@FamStudies)\n\nThe well-being gap between working-class and college-educated men is\npanning out in nearly every metric.\n\nBoth college-educated and working-class men have seen declines in happiness.\n\nBut men without a bachelor’s degree fare far worse, with 27% saying they are “not too happy,” compared to 17% of college-educated men.\n\n@GRMartsolf @grantjbailey\n\n\n\n\n\n— https://nitter.net/FamStudies/status/2069435393272086950#m",
+      "url": "https://x.com/paulg/status/2069449242700054727",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-23T13:47:01+00:00",
+      "text": "The future of legal work is agentic.\n\nAI agents will increasingly execute complex work alongside legal teams. And when that happens, the economics of legal work change. We go beyond seats licensed to outcomes delivered.\n\nThat shift needs a commercial model built for it. So we're introducing consumption-based pricing to @WeAreLegora, alongside our latest product: Agent Pro.\n\nAgent Pro uses the most powerful models and a new harness to plan, execute, review, and deliver complex legal work end-to-end. It does real work. So the way we commercialize it should track the value it creates instead of a seat count.\n\nWe're not first to see this. AI companies like Clay, Cursor, Lovable, and the model providers themselves have all moved this way. We expect many more to follow.\n\nThis shift reflects our belief that the value of AI over time will get measured in work done, not logins purchased. And that the legal teams who win are the ones who put these new capabilities to use.\n\nRead more here:\n\nlegora.com/blog/consumption-…\n\nLink\n\n\n\nIntroducing Consumption-Based Pricing | Legora\n\nLegora is moving to consumption-based pricing for our most capable product, Agent Pro.\nlegora.com",
+      "url": "https://x.com/MaxJunestrand/status/2069416943489098022",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-23T13:07:48+00:00",
+      "text": "destroying ro khanna in his comments over and over again is fun, but it’s not going to stop him. if you want to protect this country from parasitic fraud and its many champions in congress, you need a well funded plan.",
+      "url": "https://x.com/micsolana/status/2069407073427996779",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-23T13:06:41+00:00",
+      "text": "Israel would like to have a word.",
+      "url": "https://x.com/RepThomasMassie/status/2069406789817213417",
+      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -62,66 +104,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-22T23:14:46+00:00",
-      "text": "I introduced the first bill to ban stock trading among members of Congress.  The @HouseGOP has NOT brought it to a vote.  We should NOW.\n\n\nElon Musk (@elonmusk)\n\n“Robber” Khanna!\n\n\n\n— https://nitter.net/elonmusk/status/2069150708952187280#m",
-      "url": "https://x.com/chiproytx/status/2069197433653825876",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T22:36:46+00:00",
-      "text": "STARLINK: The National Superannuation Fund Limited (Nasfund) of Papua New Guinea launched Mobile Service Booths Powered by Starlink that deliver full member services directly to workplaces and remote communities across the country. \n\nStarting in Port Moresby, Starlink supports the booths with over 90 Mbps and allows on-the-spot ID card production, member statement printing, benefit eligibility screening, and account updates. \n\nNasfund is a retirement fund with the goal to provide financial protection and a comfortable living for its members, or to support them and their beneficiaries in the event of unemployment, disability, or death.\n\nMore Starlink news in today's ELON CHRON below!\n\n\n\n\n\n\n\n\n\n\nS.E. Robinson, Jr. (@SERobinsonJr)\n\n\nArticle\n\n\n\nELON CHRON: 22nd of June, 2026\n\nThe Daily Chronicle of Musk's Companies\n\"Amazing abundance for all!\" - Elon Musk (@elonmusk)\n \n■ SPACEX $SPCX ($154.60, -16.43%):\n \n \n- Yesterday Launch 74! Sunday, 21st of June, at 7:00 a.m. PT,\n\n\n\n\n— https://nitter.net/SERobinsonJr/status/2069182207567007911#m",
-      "url": "https://x.com/SERobinsonJr/status/2069187871135903988",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T21:18:08+00:00",
-      "text": "Yup. In this case, the driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area. They reached a speed of 73 mph during the crash, and had the accelerator pressed even after the crash.",
-      "url": "https://x.com/aelluswamy/status/2069168079549161491",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T21:00:20+00:00",
-      "text": "BREAKING: Starlink will bring live sports streaming to Virgin Atlantic flights.\n\n• The service will be free through Virgin Atlantic’s high-speed Starlink WiFi.\n\n• FIFA World Cup 2026 matches will be available live during flights.\n\n• Passengers can watch live sports on personal devices.\n\n• Starlink is already installed on around one-third of Virgin Atlantic aircraft.\n\n• Virgin Atlantic plans to complete Starlink installation across its fleet by 2027\n\nAnother example of how Starlink is transforming the passenger experience at 35,000 feet.",
-      "url": "https://x.com/cb_doge/status/2069163603274678396",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T20:50:04+00:00",
-      "text": "Grok Build upgrades\n\n\nskcd (@skcd42)\n\n/goal is live on Grok Build.\n\nWe use a team of agents:\n- implementors\n- skeptics\n- code reviewers\n- planners\nand a mix of grok build and composer in various roles.\n\nWould love to hear your feedback on how ambitious you can be with /goal and where the gaps are\n\n\n\n— https://nitter.net/skcd42/status/2069119872035131891#m",
-      "url": "https://x.com/elonmusk/status/2069161018161311953",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T20:47:31+00:00",
-      "text": "True\n\n\nNVIDIA (@nvidia)\n\nWater usage has been a hot topic in the AI data center world, but the numbers may surprise you.\n\nAccording to the Manhattan Institute, data centers use 0.2 percent of daily water usage in the U.S. and that number has dramatically decreased in the past few years due to a new method: liquid cooling. \n\nBy moving to 45°C liquid cooling, AI factories in favorable climates can use dry coolers instead of conventional cooling-tower-based systems, cutting facility cooling water use from roughly 2.6M gallons per MW per year to near zero.\n\nLiquid cooling enables AI factories to be both water and energy efficient, while creating opportunities for heat reuse and dispersal to local communities, allowing these factories to become energy grid assets. \n\nLearn more below ⬇️\n\nnvda.ws/4gAVGoJ\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/nvidia/status/2069147938098483586#m",
-      "url": "https://x.com/elonmusk/status/2069160376013296049",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T20:44:49+00:00",
-      "text": "There is not even a single dead child!\n\nIf there were, it would be worldwide headline news!",
-      "url": "https://x.com/elonmusk/status/2069159695319757288",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T20:25:01+00:00",
-      "text": "Multiculturalism is sold as neutral cultures peacefully coexisting side by side.\n\nThat’s deliberate propaganda.\n\nSome cultures are not neutral. They are openly hostile, teaching that outsiders, especially white Christians, are filthy heathens and subhumans to be used, exploited, or replaced.\n\nThe grooming gang scandals weren’t random crime. Victims were repeatedly called “white slags,” “kuffar whores,” and worse while being raped and trafficked by organised groups who viewed them with religious and racial contempt. \nThis was the ideology in action.\n\nWhen one population is imported en masse, refuses to assimilate, builds parallel societies, and pursues demographic and cultural dominance, the result is not “diversity.” \nIt’s conquest by other means with all the social breakdown, loss of trust, and long term subjugation that comes from losing a war without a single battle.\n\nThe West was never asked. The West can still choose not to surrender.\n\nVideo\n  \n\n\n\n\nRothmus 🏴 (@Rothmus)\n\n“We’re here to fuck all the white girls and fuck the government. We’re over here to breed, we are going to take over.”\n\nThat’s what one of the Dewsbury grooming gang rapists told his victim.\n\nNot poverty. Not “cultural misunderstanding”. Not random crime by “Asians”. \n\nThis was muslim men operating with a clear religious and racial ideology. \n\nWhite non-Muslim girls were “slags”, “trash”, and “kuffar whores”, fair game for grooming, gang rape, trafficking, and beatings. \nMuslim girls were “pure”. White girls deserved it. \nSome perpetrators quoted scripture and framed their actions as religiously justified superiority over infidels.\n\nWhen the government repeatedly sides with the ideological rapists over its own children, when it betrays fathers and communities trying to protect their daughters, don’t act shocked when people lose faith in the system and take matters into their own hands.\n\nThis is demographic and cultural conquest. \nAn existential attack on Britain enabled by the very people sworn to defend it.\n\nThe absolutely filthy anti-white, anti-Christian racist Mehdi Hasan calls the Casey report and the whole push for truth “bullshit.” \nThe rapists’ own words in court and the girls they destroyed say otherwise. \n\nDenial this loud only confirms who’s still protecting the narrative and why.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Rothmus/status/2069119507872842105#m",
-      "url": "https://x.com/Rothmus/status/2069154715145818243",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T20:09:06+00:00",
-      "text": "“Robber” Khanna!\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Elon Musk calls out Ro Khanna as his household wealth reportedly grew from roughly $27–46 million to an estimated $232.7 million.\n\n• 631 million total trade volume across 38,666 trades since entering Congress, most prolific Democratic trader in House history.\n\n• 2022 investigation found 15% overlap between his legislative work and family stock holdings\n\n• Ro Khanna’s AI-focused trades returned +112.1% excess over the S&P 500 from January 2024 through April 2026, far beating Nancy Pelosi’s +38.5% outperformance.\n\n• 143% return on Nvidia shares bought via wife’s trust in Feb 2024, right before CHIPS Act helped double the stock\n\nRo 'the Robber' Khanna seems to be the most active insider trader in Congress.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2069132809978179967#m",
-      "url": "https://x.com/elonmusk/status/2069150708952187280",
-      "author": "elonmusk",
+      "date": "2026-06-22T19:53:19+00:00",
+      "text": "In the old USSR, people could be arrested for  photographing bridges, tunnels, etc. A repressive and paranoid regime assumed the photographers must be spies and saboteurs. Americans laughed at such petty tyranny. Nothing like that could happen in their free country! Until now.\n\n\nCHARLIE COTTON (@hicharliecotton)\n\nWoman detained at Reflecting Pool\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/hicharliecotton/status/2069132701555126378#m",
+      "url": "https://x.com/davidfrum/status/2069146735851548973",
+      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -132,52 +118,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-22T19:16:07+00:00",
-      "text": "They’re trying to do to Elon what they did to POTUS Trump.\n\nAnd Charlie Kirk.\n\nPoison the minds of mentally unstable people with lies.\n\nThe goal is to get the unstable to act out violently.\n\nThe Left knows exactly what they’re doing.\n\nRo knows exactly what he’s doing.\n\nMust stop.",
-      "url": "https://x.com/C_3C_3/status/2069137373896528167",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-06-22T18:12:29+00:00",
       "text": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
       "url": "https://x.com/sama/status/2069121360744550796",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T17:55:41+00:00",
-      "text": "It’s much more likely cutting USAID SAVED 4.5 million kids lives by no longer funding the dozens of USAID-funded civil wars that had been raging across Africa, Central Asia, LatAm and beyond.\n\n\nNew York Post (@nypost)\n\nElon Musk 'needs to answer' for 4.5M kids 'sentenced to death' over DOGE cuts, Ro Khanna argues trib.al/kpVbfOR\n\n\n\n\n\n— https://nitter.net/nypost/status/2068919051661836513#m",
-      "url": "https://x.com/MikeBenzCyber/status/2069117131287851072",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T17:34:23+00:00",
-      "text": "Ending USAID saved lives.\n\nFact.",
-      "url": "https://x.com/C_3C_3/status/2069111771198103834",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T17:32:57+00:00",
-      "text": "Selbst aus mathematisch-statistischer Perspektive ist das erschreckend: Syrer zum Beispiel sind bei Vergewaltigungen etwa 20-fach überrepräsentiert. Begegnet eine Frau in der Nacht fünf Syrern, liegt ihr Vergewaltigungsrisiko um zehntausend Prozent (!) höher, als würde sie fünf Deutschen begegnen.\n\nBegegnet die Frau hingegen fünf Südkoreanern oder Japanern, liegt ihr Vergewaltigungsrisiko sogar unter dem „normalen Alltagsrisiko“, das die 5 Deutschen darstellen, nämlich bei null.\n\nWer also behauptet, Ethnien und Kulturen wären alle gleich und es mache keinen Unterschied, wen man ins Land holt, lügt.",
-      "url": "https://x.com/KaiserBenKaiser/status/2069111411528040458",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T17:24:22+00:00",
-      "text": "The new /goal command in Grok Build is a huge update\n\nUntil now, most coding agents have worked like enhanced chatbots\n\nYou ask. It responds. You review. You guide it. Repeat\n\n/goal changes the entire paradigm\n\nInstead of micromanaging every step, you hand Grok Build a single engineering objective, and it plans the work, breaks it into tasks, executes them, verifies the results, and keeps going until the goal is complete\n\nIt can:\n• Create an execution plan\n• Track progress with a checklist\n• Review code\n• Inspect webpages\n• Execute scripts\n• Verify its own work\n• Recover from failures\n• Continue autonomously while you supervise\n\nYou can monitor and control it with commands like:\n /goal status\n /goal pause\n /goal resume\n /goal clear\n\nThis is a shift from “help me write code” to “own this engineering objective”\n\nThat’s a completely different category of coding agent...and a glimpse of where AI-assisted software development is headed\n\n\n\n\nGrok (@grok)\n\nIntroducing /goal in Grok Build.\n\nExecute long-running tasks autonomously, with multiple rounds of subagents implementing and verifying a single goal.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2069095154691272933#m",
-      "url": "https://x.com/XFreeze/status/2069109250153230357",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T17:20:01+00:00",
-      "text": "Elon just sued German state TV for extreme lies.\n\nHe and his very good German attorney scored a quick win and are continuing.\n\nSuing evil and lying politicians and government institutions that abuse their citizens is a service to humanity.\n\nSue them all, Elon.\n\n\nElon Musk (@elonmusk)\n\nYes\n\n\n\n— https://nitter.net/elonmusk/status/2069105454030934321#m",
-      "url": "https://x.com/JOBhakdi/status/2069108157800968540",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -230,44 +174,9 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-21T05:10:22+00:00",
-      "text": "Toy Story was my favorite movie as a kid. Posters, action figures, the whole deal. My mom texted me this photo tonight. I forgot how much I had been dying to meet Woody and Buzz when our family went to Disney World in '95. All I cared about the whole trip.\n\nTomorrow, my wife and I are taking our son (2.5) to see Toy Story 5. It'll be his first movie in theaters. It feels so surreal. Full circle.\n\nThe kid loves Toy Story more than I ever did. It's all he ever wants to watch, and he cackles his way through the first four films. It's the best sound in the world to hear. Almost makes me cry thinking about that chuckle as I type this.\n\nHappy Father's Day everyone. Parenthood is hard, but it's also the best thing ever. To infinity and beyond.",
-      "url": "https://x.com/gilbert/status/2068562148591300915",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-06-21T03:28:35+00:00",
       "text": "As HPV vaccination coverage increased, the rate of death among young women dramatically declined as cervical cancer practically disappeared.\n\nThe death rate for unvaccinated women held steady.",
       "url": "https://x.com/cremieuxrecueil/status/2068536533498356168",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T01:05:16+00:00",
-      "text": "Amjad Masad (Replit's CEO)  went from $2.5M to $250M in revenue in ONE year.\n\n- That's 100x in 12 months\n- They passed a PWC audit on it\n- Gross margin positive (rare in AI)\n- Now on their way to a billion this year\n\n2 years ago when he first came on the pod they were doing ~$3M.\n\nVideo",
-      "url": "https://x.com/thesamparr/status/2068500465617379343",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-20T21:18:12+00:00",
-      "text": "\"When Ancient DNA Rewrote History\"\n20 historical theories confirmed or disproved by ancient dna.",
-      "url": "https://x.com/lefineder/status/2068443322171916520",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-20T19:56:49+00:00",
-      "text": "For some reason this (I thought harmless) tweet has attracted the attention of hordes of right-wing dimwits who think I'm trying to blame the increase in polarization on them. In fact I've said publicly the left is more to blame:\n\n\nPaul Graham (@paulg)\n\nThat is in fact what has happened. Since the 90s the right has moved a little further right, but the left has moved a lot further left.\n\n\n\n\n\n— https://nitter.net/paulg/status/1519885054960357377#m",
-      "url": "https://x.com/paulg/status/2068422839758111159",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-20T19:44:00+00:00",
-      "text": "I told Jessica she has tells that show what kind of hand she has, and now she plays with demeanor of a zombie.",
-      "url": "https://x.com/paulg/status/2068419614195728797",
       "author": "paulg",
       "source": "nitter"
     },
@@ -279,17 +188,108 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-20T18:28:18+00:00",
-      "text": "Am converted. Just drove from south  San Francisco through Oregon without touching my steering wheel. Tesla full self drive is both magical and life changing, relaxing and maybe even life saving!  Thank you @elonmusk for the technology!",
-      "url": "https://x.com/LKrauss1/status/2068400565814792294",
+      "date": "2026-06-18T15:46:35+00:00",
+      "text": "Drones bring M.A.D. to conventional warfare.\n\n\nChrisO_wiki (@ChrisO_wiki)\n\n1/ Ukraine's massive drone strike against Moscow – with a reported 555 drones and missiles fired, and 180 claimed to have been shot down over Moscow – has prompted anger, defiance, and resignation from Russian warbloggers. \"Tehran is safer\", one says. ⬇️\n\n\n\n— https://nitter.net/ChrisO_wiki/status/2067578712015400981#m",
+      "url": "https://x.com/naval/status/2067635090860208529",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-18T15:46:14+00:00",
+      "text": "One of the ways scaling test-time compute can benefit people most: have reasoning models think really hard about rare undiagnosed diseases.\n\nToday we’re sharing published evidence that this can work, in some of the most difficult pediatric cases!\n\n\nOpenAI (@OpenAI)\n\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2067625110199247353#m",
+      "url": "https://x.com/thekaransinghal/status/2067635005552209969",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-18T06:35:05+00:00",
+      "text": "It's the Age of Builders.\n\n (sorry financiers and talkers)",
+      "url": "https://x.com/naval/status/2067496301244338461",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-18T02:02:24+00:00",
+      "text": "We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.\n\n\nNoam Brown (@polynoamial)\n\nI'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer!\n\n\n\n— https://nitter.net/polynoamial/status/2067402274662744465#m",
+      "url": "https://x.com/sama/status/2067427678529974740",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-18T02:01:22+00:00",
+      "text": "noam is one of the people I have most wanted to work with since the very beginning of openai.\n\nonly took 10 years.\n\ni think it will be worth the wait!\n\n\nNoam Shazeer (@NoamShazeer)\n\nI’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there.\n\nIt was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together.  It has been an honor and a pleasure to work with all of you.\n\n\n\n— https://nitter.net/NoamShazeer/status/2067400851438932297#m",
+      "url": "https://x.com/sama/status/2067427421083652131",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-18T00:11:22+00:00",
+      "text": "If your success or failure is judged by other people, rather than by nature or free markets, you’re playing a game, albeit a reified and social one.",
+      "url": "https://x.com/naval/status/2067399736601285071",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-15T12:54:44+00:00",
+      "text": "The Royal Society for Blind Children and the National Deaf Children's Society have both come out against the Starmer social media ban.\n\n\"Internet bad\" is a trendy, upper-middle-class opinion for people with extracurricular budgets that ignores legions of people who rely on it.",
+      "url": "https://x.com/prestonjbyrne/status/2066504679974920513",
       "author": "paulg",
       "source": "nitter"
     },
     {
-      "date": "2026-06-20T15:51:53+00:00",
-      "text": "For example, if you ask someone you trust for a number and get a surprising answer, you'll have to consider multiple possible explanations. But if it's from someone you don't trust, in addition to all those you have to consider all the ways they might have got the number wrong.",
-      "url": "https://x.com/paulg/status/2068361201520615605",
-      "author": "paulg",
+      "date": "2026-06-15T08:55:22+00:00",
+      "text": "Not a free country.\n\n\nKeir Starmer (@Keir_Starmer)\n\nWe are banning social media access for under 16s.\n\nThese days kids must find their feet in a world where technology intrudes into every area of their life.\n\nI just can’t let that go on anymore. So we’re giving children their childhoods back.\n\nVideo\n  \n\n\nCommunity note: The UK Government's 'careful review' of the research found a small correlation between children's use of social media and wellbeing, but no evidence of a causal effect: \n\ngov.uk/government/pub…\n\nassets.publishing.service.gov.uk/media/696e0b46…\n\n\n\n— https://nitter.net/Keir_Starmer/status/2066421329859936656#m",
+      "url": "https://x.com/naval/status/2066444444719542629",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-14T04:38:30+00:00",
+      "text": "Science is not a process, a credential, or an institution. \n\nIt is the unflinching pursuit of truth, carried out by the few, co-opted by the many.",
+      "url": "https://x.com/naval/status/2066017412974088341",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-13T08:30:06+00:00",
+      "text": "The only truly wasted time is time spent wishing you were somewhere else.",
+      "url": "https://x.com/naval/status/2065713308204974101",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-13T08:17:43+00:00",
+      "text": "“Political Science” is a fake degree - just call it “Politicking.”\n\n\nLegal Phil (@Legal_Fil)\n\nA professor of political science thinks Musk’s net worth is just sitting in a bank, as opposed to be equity in a company and being reinvested.\n\nDeeply embarassing.\n\n\n\n— https://nitter.net/Legal_Fil/status/2065593754921103637#m",
+      "url": "https://x.com/naval/status/2065710192034296141",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-13T07:31:06+00:00",
+      "text": "Can’t put the genie back in the GPU.\n\n\njack (@jackbutcher)\n\n\n\n\n\n\n— https://nitter.net/jackbutcher/status/2065610827307119063#m",
+      "url": "https://x.com/naval/status/2065698460087845249",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-13T05:46:49+00:00",
+      "text": "Crabs in the gravity well.\n\n\nMayor Zohran Kwame Mamdani (@NYCMayor)\n\nReason #1,000,000,000,000 why we should tax the rich.\n\n\n\n— https://nitter.net/NYCMayor/status/2065522708020871306#m",
+      "url": "https://x.com/naval/status/2065672217036206326",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T17:45:54+00:00",
+      "text": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+      "url": "https://x.com/karpathy/status/2065490793092337691",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-12T15:37:12+00:00",
+      "text": "If you don’t want this moment, then you will never be happy.",
+      "url": "https://x.com/naval/status/2065458402860675487",
+      "author": "naval",
       "source": "nitter"
     }
   ]
