@@ -7,11 +7,130 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-06-24T14:00:10.515148+00:00",
-  "last_success_at": "2026-06-24T14:00:10.515148+00:00",
+  "updated_at": "2026-06-25T13:56:50.201637+00:00",
+  "last_success_at": "2026-06-25T13:56:50.201637+00:00",
   "source": "nitter",
   "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
+    {
+      "date": "2026-06-25T04:00:09+00:00",
+      "text": "If AI is doing the writing, it should do the reading too.",
+      "url": "https://x.com/naval/status/2069994029593543005",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-25T02:18:44+00:00",
+      "text": "obvious in retrospect but I had no idea there was a black market for tokens",
+      "url": "https://x.com/GregKamradt/status/2069968506951725419",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T22:33:21+00:00",
+      "text": "Great products are not so much invented as discovered.",
+      "url": "https://x.com/naval/status/2069911787911495948",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T19:20:50+00:00",
+      "text": "The industrial titans of America, the people who build and make and do things, need to take politics seriously. There is no automatic corrective mechanism. The cops won’t disobey orders en masse when ordered to confiscate property. You need to do something serious and drastic NOW\n\n\nShaun Maguire (@shaunmmaguire)\n\nI’m trying to find the words for how serious this moment is\n\nAnd I don’t have them\n\n\n\n— https://nitter.net/shaunmmaguire/status/2069825721967796521#m",
+      "url": "https://x.com/ArtemisConsort/status/2069863335827574947",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:41:19+00:00",
+      "text": "It seems insane to me to buy watches as investments. Maybe prices will go up. Or maybe the whole custom of wearing mechanical watches will go away. I doubt it's even 1% as deeply rooted as the custom of having paintings on your walls.",
+      "url": "https://x.com/paulg/status/2069838292099510568",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:38:24+00:00",
+      "text": "When I buy art I justify it as an investment. Which you can safely do if you buy sufficiently old stuff; after all these years, prices of 17th century paintings are unlikely to fall off a cliff. But I never justify watch purchases this way. That market is only 40 years old.",
+      "url": "https://x.com/paulg/status/2069837558276624745",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:29:53+00:00",
+      "text": "Had a very interesting conversation with 14 yo about when to use colons, semicolons, and dashes. It reminded me how important this is for good writing; there's a lot of information in those tiny glyphs.",
+      "url": "https://x.com/paulg/status/2069835414878183631",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:26:02+00:00",
+      "text": "It’s remarkable how true this is. Investing can be frustrating for every investor when you don’t win a deal but the high quality ones never take it out on founders and the low quality ones routinely do via rants about prices being too high / founders being naive.\n\n\nconor brennan-burke (@contextconor)\n\none thing i’ve noticed is the stronger the investor, the better they tend to treat founders during fundraising\n\ni think there are two reasons for this\n\nfirst, genuinely secure people rarely feel the need to play status games\n\nsecond, the best investors are heavily pre-filtered. they spend most of their time talking to exceptional founders, so they know every interaction matters\n\nlower-tier investors often talk to a much broader set of companies and can feel like they don’t need to be as careful\n\nobviously there are exceptions\n\nit’s wild how much an investor can stand out simply by treating founders well\n\n\n\n— https://nitter.net/contextconor/status/2069811645002739906#m",
+      "url": "https://x.com/harjtaggar/status/2069834446115684651",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:16:27+00:00",
+      "text": "The original Johns:\n\n\ngdsimms (@gdsimms)\n\n\n\n\n\n\n— https://nitter.net/gdsimms/status/2019487391728165365#m",
+      "url": "https://x.com/paulg/status/2069832035493986437",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:14:07+00:00",
+      "text": "At Viaweb we invented a useful convention for referring to the contact for a given account: we called him (or her) John <account name>. It was based on the movie Buckaroo Banzai, where aliens trying to pass as human were all called John plus some implausible surname.",
+      "url": "https://x.com/paulg/status/2069831450157846971",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T17:10:03+00:00",
+      "text": "One of the biggest advantages of AI will be that it lets companies get further before they cross the lines (at about 10 and about 150 people) beyond which groups become less productive.",
+      "url": "https://x.com/paulg/status/2069830424335958458",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T16:33:46+00:00",
+      "text": "The users who complain about the flaws in your product may seem annoying, but they are on the whole probably your most valuable users. They complain because they care, and I doubt a startup could ever get really big without users who care a lot about the product.",
+      "url": "https://x.com/paulg/status/2069821293596148004",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T15:06:18+00:00",
+      "text": "There are a few things that I look back on as my mistakes in the early days.\n\nQuake was overly ambitious technically. We could have done all the great multiplayer and modding work inside a Doom++ engine, allowing the designers to work with a more stable base instead of rug-pulling everything out from underneath them a couple times. The follow up game could have then brought in full 6DOF environments and characters.\n\nI pushed everyone too hard. I didn’t appreciate how maturing companies need more slack, and that running people at startup intensity constantly will wear them out. Quake was also where I really had to accept my personal limits. I was working pretty much as hard as humanly possible, and I was still slipping past my goal points.\n\nOn all of the founders’ shoulders, our original corporate stock arrangement and buy/sell agreement was a mistake, and resulted in bad incentives. We wanted to ensure that all ownership rested in the hands of people working hard on current projects, but the Silicon Valley standard approach of vesting stock would have worked out better.\n\nOne real problem that I don’t accept the blame for is that we were insisting that level designers be not just game designers, but also have strong visual design esthetics. They needed to make things that not only played well, but looked awesome, and it got more challenging as the technology provided a richer palette. Romero covered that well, which set our company expectations early on.\n\nWe should have figured out how to pair up artists and designers earlier, but there was infighting among the designers, and the ones that could manage the visuals were happy to disparage the ones that couldn’t.\n\nSorry, Sandy.\n\n\nSandy Petersen 🪔 (@SandyofCthulhu)\n\nHow Quake ruined id Software. \n\nThere has been a lot of praise of Quake of late, with its 30th anniversary, and it's deserved. Quake is an amazing feat of art, programming, and design. I worked on it, and everything came together almost perfectly from all of us. We ended up with a free-wheeling, frenetic action game with enough of a visible world to grip the imagination. \n\nAll the team did a brilliant job, fulfilling tasks just right. But at a grim cost. We worked long and hard, and I think it broke us spiritually. \n1/3\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SandyofCthulhu/status/2069592209645785294#m",
+      "url": "https://x.com/ID_AA_Carmack/status/2069799283369345247",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T14:44:41+00:00",
+      "text": "A fundamental problem with YIMBYism in NYC is that the city is not designed to be ‘affordable.’\n\nIt’s less a real estate supply and demand question and more that of an extremely expensive public sector.\n\nIt’s not in the city’s interest fiscally to attract more middle class NGO types  who are essentially doing ‘back office intellectual work’ because those people are a net negative fiscally and they don’t pay much in taxes nor do they do work that meaningfully benefits the city (eg running small businesses, providing services, offering useful technical knowledge, etc. - NYC is a very complex 19th/ 20th century ‘machine’ that takes a lot of work to keep running).\n\nThe most important people in NYC by far are the ultra rich, then maybe some very highly paid professionals, then the petit bourgeoisie and private sector working class, then maybe the public sector working class. The wordcel/ NGO types are a net NEGATIVE and the real project of DSA politics is to change the terms of political economy to make circumstances more favorable to them as a class. Specifically what this involves is a more bespoke welfare state: they don’t want to live in housing projects or work administrative jobs in the DOE. They want $200k a year NGO jobs doing Good Things and for the city to seize housing from landlords in hipster neighborhoods so they can live there.\n\nWe get distracted by some of the bizarre ideological concoctions (eg ‘Islamo communism’) but what they’re trying to engineer is actually an interesting political project - it’s an update to the old ethnic patronage schemes but instead of being a member of an ethnic bloc the way you ‘get in’ here  is based on degree type, employment sector, and Omnicause affirmation. This ‘class identity’  sounds very tenuous, incoherent, and contrived but they are making a run of it (while making a lot of enemies - we’ll see how it goes).",
+      "url": "https://x.com/feelsdesperate/status/2069793840974770379",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T14:43:19+00:00",
+      "text": "An expert watchmaker told me the main source of damage to golden age watches is not wear, but poorly done repairs. Especially during the quartz crisis in the 70s and 80s, when jewelers (through whom repair jobs still went then) pushed watchmakers to work cheaply.",
+      "url": "https://x.com/paulg/status/2069793498639806507",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T12:36:49+00:00",
+      "text": "Today we're launching Intercept: a $500M philanthropic initiative to make respiratory infections, like the common cold and flu, a thing of the past.\n\nWe treat respiratory infections as a minor nuisance, but that’s really not the case. Most of us will spend 5% of our lives (!) sick from these viruses, they kill 1M people a year, cost $600B annually in productivity, and periodically threaten civilization through pandemics.\n\nSo, if they’re such a big problem, why haven’t we dealt with them yet? Last year we convened ~40 leading scientists, pharma R&D leaders, biotech investors, and regulatory experts to better understand that.\n\nWe heard two main reasons:\n(1) First, it’s just technically very challenging: respiratory viruses represent hundreds of distinct, mutating strains across several families. Fortunately, recent breakthroughs make this newly possible.\n(2) Second is a lack of funding: broad-spectrum solutions have historically been underfunded, in part because they’re not a great fit for most philanthropic or commercial funding (and while COVID generated a burst of activity around preventing and understanding respiratory infections through an influx of new funding, that hasn't been sustained).\n\nWe think that with enough focus and funding, this might be solvable. Intercept is a $500 million philanthropic initiative that will take advantage of new tools to catalyze the development and deployment of two types of products: broad-spectrum preventatives and air cleaning technologies.\n\nThis problem is undoubtedly difficult. But it’s more tractable now than it’s ever been. We think we should give it our best shot.\n\nWe’re enormously grateful to our anchor funders: @stripe, @AnthropicAI, @TheFluLab, @FoundationOAI and individuals from Jane Street.\n\nAnd, I’m very excited to be building this with @incredutility and the rest of the team.\n\n\nNan Ransohoff (@nanransohoff)\n\ninterceptfund.substack.com/p…\n\n\n\n\n\n— https://nitter.net/nanransohoff/status/2069759868656058632#m",
+      "url": "https://x.com/nanransohoff/status/2069761661456601188",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-24T00:51:18+00:00",
+      "text": "I have been reading the new UN report about how Israel has been targeting children in Gaza. There are no words to describe how awful it is. Here are some of the worst examples: \n\n1) Hind Rajab and family, Tel al-Hawa, Gaza City, 29 Jan 2024. Named. A family of seven plus two paramedics killed. Hind Rajab, 5 to 6, stayed on the phone with rescuers for hours, trapped in a car among her dead relatives. Her cousin Layan Hamadeh, 15, was killed mid-call. The rescue ambulance, dispatched with COGAT clearance, was shelled. \n\n2) The 15-year-old with the white flag, Khan Younis, 24 Jan 2024. Anonymous. Shot in the foot during an ordered evacuation while holding a white cloth, then shot twice more in the back and neck as he tried to rise. His 20-year-old brother killed running to him; their mother shot signaling for an ambulance. Assessed as DAN .338 sniper fire from about 200m.\n\n3) The 10-day-old baby, Nuseirat camp, 12 Apr 2024. Anonymous. Shot in the head by a quadcopter-mounted rifle while being breastfed inside a tent. Survived with brain damage and seizures. \n\n4) The 14-year-old killed with fragmenting pellets, Aug 2024. Anonymous. Cube-shaped pellets that fragmented internally like cluster munitions, destroying multiple organs. The report flags the munition itself as a possible war crime. \n\n5) Jadallah \"Jad\" Jadallah, Al-Far'a camp, Tubas, 16 Nov 2025. Named. Jadallah Jihad Jouma Jadallah, 14, shot at close range and left bleeding for roughly 45 minutes while about 14 soldiers stood around him. One kicked his cap back when he threw it for attention, one filmed him, one placed a stone beside him to stage a stone-throwing pretext. Soldiers fired at his approaching mother and blocked two ambulances. Body withheld. \n\n6) Layla al-Khatib, Muthallath al-Shuhada, 25 Jan 2025. Named. Layla (Laila) Muhammad Ayman al-Khatib, 2, shot in the back of the head during dinner at home, four bullets fired through the living room window. Youngest West Bank child killed in the reporting period. B'Tselem found the only man in the building was her grandfather, contradicting the \"wanted terrorist\" claim. \n\n7) Saddam Rajab, Tulkarem, shot 28 Jan 2025, died 7 Feb 2025. Named. Saddam (Sadam) Rajab, 10, shot during an incursion. A soldier told the father, \"I am the one who shot your son. God willing, he will die.\" Medical care obstructed; the boy died of his wounds days later. \n\n8) Walid Ahmad, Megiddo Prison, died 22 Mar 2025. Named. Walid Khalid Abdullah Ahmad, 17, from Silwad. Healthy at arrest in Sept 2024; dead six months later of starvation, muscle wasting, untreated colitis and scabies. First Palestinian minor to die in Israeli custody since Oct 2023. Family learned of his death from a news article; body withheld. \n\n9) The Sde Teiman 15-year-old, detention. Anonymous. Held among 70 adults, shackled until his hands bled, dogs released on prone detainees; described as \"the worst days of my life.\" A separate 15-year-old reported being electrocuted via a needle in his shoulder over 54 days. \n\n10) The four newborns at Al-Nasr Pediatric Hospital, Nov 2023. Anonymous. Found decomposing, still attached to defunct life-support machines, after staff were forced to evacuate without being able to move them. Independently verified by the Commission, Washington Post, and CNN. \n\n11) Newborn hypothermia deaths, Dec 2024 to Feb 2025. Anonymous. At least 15 newborns, including a one-day-old girl, died of cold linked to lack of shelter, fuel, and incubators. UNICEF called the deaths preventable. \n\n12) Sexual violence in detention. Anonymous. Forced public stripping and filming of boys during mass arrests; two cousins aged 7 and 13 stripped at gunpoint in Jenin; new reports of boys raped in custody, one on multiple occasions.\n\nThe Commission documents at least 20,179 Palestinian children killed and 44,143 wounded in two years, 30 percent of all the dead in Gaza, alongside 213 more killed in the West Bank.  Thirteen times the Commission asked Israel to respond, and thirteen times it heard nothing back. Israel doesn't care enough to even respond. It kills children as a matter of policy.",
+      "url": "https://x.com/academic_la/status/2069584114618105983",
+      "author": "paulg",
+      "source": "nitter"
+    },
     {
       "date": "2026-06-24T00:27:04+00:00",
       "text": "A Zenith caliber 2562, made in 1970, accurate to 3 sec/day (dial up) in 2026.",
@@ -55,31 +174,17 @@
       "source": "nitter"
     },
     {
+      "date": "2026-06-23T16:45:38+00:00",
+      "text": "Today is the first day of the @ycombinator S26 batch. Welcome to San Francisco! This city changed my life and I hope it will change yours too.",
+      "url": "https://x.com/gustaf/status/2069461894138941860",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
       "date": "2026-06-23T15:59:53+00:00",
       "text": "Of course it could also be a source of potential energy for honest politicians committed to fixing whatever is causing their unhappiness. But that's a lot of work. History shows that in practice it's easier to gain power by feeding them scapegoats.",
       "url": "https://x.com/paulg/status/2069450378957991993",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-23T15:55:22+00:00",
-      "text": "This rise in unhappiness is not just important in its own right, but because it's affecting politics. This big pool of discontented men = potential energy for unscrupulous politicians.\n\n\nThe Institute for Family Studies (@FamStudies)\n\nThe well-being gap between working-class and college-educated men is\npanning out in nearly every metric.\n\nBoth college-educated and working-class men have seen declines in happiness.\n\nBut men without a bachelor’s degree fare far worse, with 27% saying they are “not too happy,” compared to 17% of college-educated men.\n\n@GRMartsolf @grantjbailey\n\n\n\n\n\n— https://nitter.net/FamStudies/status/2069435393272086950#m",
-      "url": "https://x.com/paulg/status/2069449242700054727",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-23T13:47:01+00:00",
-      "text": "The future of legal work is agentic.\n\nAI agents will increasingly execute complex work alongside legal teams. And when that happens, the economics of legal work change. We go beyond seats licensed to outcomes delivered.\n\nThat shift needs a commercial model built for it. So we're introducing consumption-based pricing to @WeAreLegora, alongside our latest product: Agent Pro.\n\nAgent Pro uses the most powerful models and a new harness to plan, execute, review, and deliver complex legal work end-to-end. It does real work. So the way we commercialize it should track the value it creates instead of a seat count.\n\nWe're not first to see this. AI companies like Clay, Cursor, Lovable, and the model providers themselves have all moved this way. We expect many more to follow.\n\nThis shift reflects our belief that the value of AI over time will get measured in work done, not logins purchased. And that the legal teams who win are the ones who put these new capabilities to use.\n\nRead more here:\n\nlegora.com/blog/consumption-…\n\nLink\n\n\n\nIntroducing Consumption-Based Pricing | Legora\n\nLegora is moving to consumption-based pricing for our most capable product, Agent Pro.\nlegora.com",
-      "url": "https://x.com/MaxJunestrand/status/2069416943489098022",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-23T13:07:48+00:00",
-      "text": "destroying ro khanna in his comments over and over again is fun, but it’s not going to stop him. if you want to protect this country from parasitic fraud and its many champions in congress, you need a well funded plan.",
-      "url": "https://x.com/micsolana/status/2069407073427996779",
-      "author": "naval",
       "source": "nitter"
     },
     {
@@ -104,87 +209,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-22T19:53:19+00:00",
-      "text": "In the old USSR, people could be arrested for  photographing bridges, tunnels, etc. A repressive and paranoid regime assumed the photographers must be spies and saboteurs. Americans laughed at such petty tyranny. Nothing like that could happen in their free country! Until now.\n\n\nCHARLIE COTTON (@hicharliecotton)\n\nWoman detained at Reflecting Pool\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/hicharliecotton/status/2069132701555126378#m",
-      "url": "https://x.com/davidfrum/status/2069146735851548973",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T19:47:14+00:00",
-      "text": "Though the rumors that Ron Conway produced Ronnie by cloning himself are false, it is true that Ronnie shares most of Ron's good qualities.",
-      "url": "https://x.com/paulg/status/2069145203617788403",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-06-22T18:12:29+00:00",
       "text": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
       "url": "https://x.com/sama/status/2069121360744550796",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T15:29:50+00:00",
-      "text": "AI apps are the new browsers.\n\n\nAusten Allred (@Austen)\n\nMore and more I'm just opening an AI app (Claude Code or Codex) and doing almost everything else on my computer from there\n\n\n\n— https://nitter.net/Austen/status/2069079565671006305#m",
-      "url": "https://x.com/paulg/status/2069080429236191504",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-22T09:49:51+00:00",
-      "text": "Another annoying thing about getting emails people have used AIs to write for them is that they're usually longer than they'd have written by themselves. Paragraphs and paragraphs of plausible-sounding text. Ugh.",
-      "url": "https://x.com/paulg/status/2068994868412629467",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T19:42:06+00:00",
-      "text": "The Symphony high pressure turbine rotor is fully assembled, as are compressor stages 1/2. Current hold-up is a late supplier building the Stage 3 blisk.\n\nThis is why we're vertically integrating—legacy suppliers don't move at Boom speed. Next engine will have Boom-made blisks.\n\n\n\n\nBlake Scholl 🛫 (@bscholl)\n\nMonitoring the turbine situation\n\n\n\n\n\n— https://nitter.net/bscholl/status/2068780108534460878#m",
-      "url": "https://x.com/bscholl/status/2068781524657336754",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T15:25:50+00:00",
-      "text": "This is an utterly insane story: 25,000 documents reviewed by WaPo indicate that throughout Tulsi's career, her political moves were controlled by her guru, cult leader Chris Butler.\n\nThis woman was leading the world's largest intelligence apparatus.\nwashingtonpost.com/investiga…\n\nLink\n\n\n\nTulsi Gabbard, her guru and the mysterious messages that helped shape her political career\n\nI obtained hundreds of confidential memos detailing politics and policy guidance for Gabbard from her years in Congress, then embarked on a quest to identify who was behind them.\nwashingtonpost.com",
-      "url": "https://x.com/KareemRifai/status/2068717035165741087",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T10:00:41+00:00",
-      "text": "I haven't read this for about 10 years, but I just looked at it after someone linked to it and I was surprised how many of these things are starting to happen. Still no next Steve Jobs yet though.\n\npaulgraham.com/ambitious.htm…",
-      "url": "https://x.com/paulg/status/2068635206764954033",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T09:48:24+00:00",
-      "text": "This is genuinely impressive: someone admits they were wrong on Twitter. What's even more striking is how rare it is.\n\n\nMatthew Zirwas, MD (@MattZirwas)\n\nI was wrong about the Midjourney ultra-sound scanner.\n\nWell, maybe not wrong, but at a minimum I missed something obvious because I was thinking like a doctor who's been practicing for 25 years.\n\nAnd I didn't explain my point well.\n\nFirst, where I was wrong:\n\nAll historical precendent that showed that widespread screening imaging is net neutral or harmful was imaging that was expensive, inconvenient, gated by physicians and couldn't practically be repeated frequently short term.\n\nIf the Midjourney ultrasound is high resolution, harmless, inexpensive and convenient, people can get an initial scan, then if there are abnormalities concerning for cancer, they can get weekly follow up scans to see if it's growing/changing, and if it's not, they can leave it alone.\n\nIn retrospect, that is obvious but it never occurred to me.  \n\nNow, you'd assume that that approach would have to lead to it being useful and saving lives, and it probably will.  But we won't really know it does until we have a couple years of data.  Lots of things that seem obvious in medicine end up being wrong once we collect data.\n\nSecond, what I didn't explain well:\n\nIt's not that I think non-doctors are 'too dumb' to use the results effectively.\n\nIts that historically it was literally impossible to use the results effectively, and that is super, super counterintuitive.  It seems obvious that finding stuff early is beneficial, but experience has shown that it isn't. \n\nHere's why:\n\nThe vast majority of abnormalities (i.e. possible cancer) isn't cancer - like over 90% of them, ends up being harmless - something thay your body could have handled on it's own.  \n\nBut the only way to find out was to have invasive, risky procedures to biopsy or remove what was found.\n\nAnd overall, the side effects from all the risky, invasive procedures to track down the over 90% of stuff that was harmless equal or outweigh the benefit from removing  the less than 10% of stuff that wasn't harmless.  \n\nIf the MIdjourney device can be repeated frequently, like weekly, at a low cost and is harmless, it could negate the need for the risky, invasive procedures.\n\nNot saying it will, but it seems like it could and I confidently posted yesterday that it was a bad idea.\n\nI was wrong to confidently post that.\n\n\n\n— https://nitter.net/MattZirwas/status/2068365802491834541#m",
-      "url": "https://x.com/paulg/status/2068632115420205184",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T08:59:33+00:00",
-      "text": "Les écologistes, après avoir perdu la bataille du nucléaire, s’apprêtent à en faire de même pour la climatisation. Pour les mêmes raisons : un mélange d’irréalisme, de puritanisme et de dogmatisme qui les éloigne à jamais du pouvoir.",
-      "url": "https://x.com/GerardAraud/status/2068619820745084950",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-21T03:28:35+00:00",
-      "text": "As HPV vaccination coverage increased, the rate of death among young women dramatically declined as cervical cancer practically disappeared.\n\nThe death rate for unvaccinated women held steady.",
-      "url": "https://x.com/cremieuxrecueil/status/2068536533498356168",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-20T19:05:09+00:00",
-      "text": "You can take the man out of the presenting chair but you can't take the presenter out of @GaryLineker 😅\n\nVideo",
-      "url": "https://x.com/itvfootball/status/2068409837239636357",
-      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -230,13 +258,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-06-15T12:54:44+00:00",
-      "text": "The Royal Society for Blind Children and the National Deaf Children's Society have both come out against the Starmer social media ban.\n\n\"Internet bad\" is a trendy, upper-middle-class opinion for people with extracurricular budgets that ignores legions of people who rely on it.",
-      "url": "https://x.com/prestonjbyrne/status/2066504679974920513",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-06-15T08:55:22+00:00",
       "text": "Not a free country.\n\n\nKeir Starmer (@Keir_Starmer)\n\nWe are banning social media access for under 16s.\n\nThese days kids must find their feet in a world where technology intrudes into every area of their life.\n\nI just can’t let that go on anymore. So we’re giving children their childhoods back.\n\nVideo\n  \n\n\nCommunity note: The UK Government's 'careful review' of the research found a small correlation between children's use of social media and wellbeing, but no evidence of a causal effect: \n\ngov.uk/government/pub…\n\nassets.publishing.service.gov.uk/media/696e0b46…\n\n\n\n— https://nitter.net/Keir_Starmer/status/2066421329859936656#m",
       "url": "https://x.com/naval/status/2066444444719542629",
@@ -268,27 +289,6 @@
       "date": "2026-06-13T07:31:06+00:00",
       "text": "Can’t put the genie back in the GPU.\n\n\njack (@jackbutcher)\n\n\n\n\n\n\n— https://nitter.net/jackbutcher/status/2065610827307119063#m",
       "url": "https://x.com/naval/status/2065698460087845249",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-13T05:46:49+00:00",
-      "text": "Crabs in the gravity well.\n\n\nMayor Zohran Kwame Mamdani (@NYCMayor)\n\nReason #1,000,000,000,000 why we should tax the rich.\n\n\n\n— https://nitter.net/NYCMayor/status/2065522708020871306#m",
-      "url": "https://x.com/naval/status/2065672217036206326",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-12T17:45:54+00:00",
-      "text": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
-      "url": "https://x.com/karpathy/status/2065490793092337691",
-      "author": "karpathy",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-12T15:37:12+00:00",
-      "text": "If you don’t want this moment, then you will never be happy.",
-      "url": "https://x.com/naval/status/2065458402860675487",
       "author": "naval",
       "source": "nitter"
     }
