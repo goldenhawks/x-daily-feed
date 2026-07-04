@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-03T13:28:03.443295+00:00",
-  "last_success_at": "2026-07-03T13:28:03.443295+00:00",
-  "source": "syndication",
+  "updated_at": "2026-07-04T12:53:47.707072+00:00",
+  "last_success_at": "2026-07-04T12:53:47.707072+00:00",
+  "source": "nitter",
   "error_message": "",
   "items": [
     {
-      "date": "2026-06-30T19:09:52+00:00",
-      "text": "Neuralink has solved through-dura electrode implantation!\n\nThis is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
-      "url": "https://x.com/elonmusk/status/2072034905299563005",
+      "date": "2026-07-04T07:43:23+00:00",
+      "text": "God Bless America",
+      "url": "https://x.com/elonmusk/status/2073311697474076672",
       "author": "elonmusk",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2026-06-30T18:37:20+00:00",
-      "text": "The dura is the brain's armor: a membrane so tough that a surgeon normally cuts through it with a scalpel. For the first time in our clinical trials, we inserted the electrode threads of our implant straight through the dura and into the cortex, keeping the dura intact.\n\nHere's https://t.co/Sw2928iXxC",
-      "url": "https://x.com/elonmusk/status/2072026718467166512",
+      "date": "2026-07-04T04:48:13+00:00",
+      "text": "Happy Birthday America, Land of the Free.\n\nDon’t give up on the First, Second, Fourth, and Ninth Amendments. \n\nThey’re unique, and your freedom - and the worlds’ - depends on them.",
+      "url": "https://x.com/naval/status/2073267613380259840",
       "author": "elonmusk",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-11-14T04:48:57+00:00",
-      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
-      "url": "https://x.com/sama/status/1989193813043069219",
-      "author": "sama",
-      "source": "syndication"
+      "date": "2026-07-04T03:21:56+00:00",
+      "text": "Video",
+      "url": "https://x.com/elonmusk/status/2073245901016166547",
+      "author": "elonmusk",
+      "source": "nitter"
     },
     {
-      "date": "2025-11-13T21:12:10+00:00",
-      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
-      "url": "https://x.com/karpathy/status/1989078861800411219",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-04T02:29:39+00:00",
+      "text": "God bless America.\n\nVideo",
+      "url": "https://x.com/pmarca/status/2073232745132859443",
+      "author": "elonmusk",
+      "source": "nitter"
     },
     {
-      "date": "2025-11-12T20:28:01+00:00",
-      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
-      "url": "https://x.com/karpathy/status/1988705360723763242",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:32:49+00:00",
-      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
-      "url": "https://x.com/sama/status/1984025727763935585",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:24:37+00:00",
-      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
-      "url": "https://x.com/sama/status/1984023663642087831",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T21:43:40+00:00",
-      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
-      "url": "https://x.com/paulg/status/1984013356576207235",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-24T16:31:55+00:00",
-      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
-      "url": "https://x.com/karpathy/status/1981760576591393203",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-20T22:13:40+00:00",
-      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
-      "url": "https://x.com/karpathy/status/1980397031542989305",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-20T11:31:53+00:00",
-      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
-      "url": "https://x.com/karpathy/status/1980235518706401405",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-18T20:23:32+00:00",
-      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
-      "url": "https://x.com/karpathy/status/1979644538185752935",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-17T17:16:05+00:00",
-      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
-      "url": "https://x.com/karpathy/status/1979234976777539987",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-16T02:47:08+00:00",
-      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
-      "url": "https://x.com/karpathy/status/1978653908663726585",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-14T16:02:42+00:00",
-      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
-      "url": "https://x.com/sama/status/1978129344598827128",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-13T15:16:53+00:00",
-      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
-      "url": "https://x.com/karpathy/status/1977755427569111362",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-01T17:09:06+00:00",
-      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
-      "url": "https://x.com/karpathy/status/1973435013875314729",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-01T04:50:49+00:00",
-      "text": "Envy is a sign that you ought to be doing more with your life.",
-      "url": "https://x.com/naval/status/1973249218845483439",
+      "date": "2026-07-04T01:31:54+00:00",
+      "text": "You've probably heard this before, but it's always worth repeating. Something extremely cool about the \"Star-spangled Banner,\" the American national anthem, is that it asks a question, and it's the question at the heart of everything in the American worldview.\n\n\"Oh, say, can you see\nBy the dawn's early light\nWhat so proudly we hailed\nAt the twilight's last gleaming...\"\n\nSo the anthem begins with a question and a scene. One man, a patriot, is asking another man, another patriot, \"can you see it?\" at sunrise after a long, dangerous night.\n\nThe \"it\" in question is going to be revealed to be the flag, our \"star-spangled banner,\" which they had last fully recognized and honored as the sun set, daylight failed, and night crept over them the evening before.\n\nCan you see it? Say! Can you see it?!\n\nIS IT STILL THERE?!\n\n\"Whose broad stripes and bright stars\nThrough the perilous fight\nO'er the ramparts we watched\nWere so gallantly streaming...\"\n\nHere we find that the \"it\" is in fact the flag, our star-spangled banner, and we learn why the question is being asked. \n\nThe flag is described as having flown and streamed gallantly over ramparts of war through a perilous fight. All could have been lost. The flag, and even the fledgling country for which it stands, one nation under God and indivisible.\n\nSay! Can you see it? Now that the light is back?\n\nIS IT STILL THERE?!\n\n\"--And the rockets' red glare,\nThe bombs bursting in air,\nGave proof through the night\nThat our flag was still there!--\"\n\nThey could see it through the battle in the light of the rockets and bombs that threatened them, here and there in quick glimpses. But it was still there throughout! But now? At dawn?\n\nSay! Can you see?\n\nIS IT STILL THERE?!\n\n\"Oh, say, does that star-spangled banner yet wave\nO'er the land of the free\nAnd the home of the brave?\"\n\nThe urgency is palpable with every refrain. They have to know. It's the first thing they must know as the sun begins to light the sky, even before it rises.\n\nIS IT STILL THERE?!\n\nSay! Say!! Can you see? Can you see it?!\n\nAt the heart of every American beats the fundamental truth and reality that what we have here is precious, that it's worth fighting for, to the death if necessary, and that it's fragile. That at any moment it can be lost. That we have to remember to look for it because last night might have been the night in which it failed. \n\nEvery day, every year, every generation.\n\nThe American fight for freedom, to live in self-governance within ordered liberty, is ongoing and never-ending. The price of the land of the free is that it must be the home of the brave. We have to defend it, defend it, and defend it again, against all enemies foreign and domestic, because what we have is amazing, rare, fragile, and worth every cent of treasure, every drop of blood, and every risk to our sacred honor to protect it.\n\nOur anthem is not a declaration. It is not a proclamation. It is not a statement.\n\nIt is a question.\n\nEvery time we sing our wholly unique national anthem, we as American ask the question again. IS IT STILL THERE?! Are we still America? Does that star-spangled banner yet wave?\n\nBecause it's a question, the answer is not known. It is not a guarantee. It cannot be taken for granted and isn't. And what an honor to ask and take up our part in the story, in the American Experiment, in the greatest country the world has ever known.\n\nFor tonight, the last night of our first 250 years, as the sun gave way to twilight's last gleaming and darkness overtook our land once again, the answer was still yes. We can see it even tonight in the red glare of rockets, with small bombs bursting in air, fill the sky with the noble tribute of fireworks once again.\n\nAnd we all ask ourselves, will it still be flying at dawn?\n\nThis is what it means to be an American.\n\nHappy 250th, America! Now for many happy returns!\n🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+      "url": "https://x.com/ConceptualJames/status/2073218210250256404",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-26T16:01:58+00:00",
-      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
-      "url": "https://x.com/karpathy/status/1971606180553183379",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T19:36:02+00:00",
-      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
-      "url": "https://x.com/sama/status/1971297661748953263",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T14:29:13+00:00",
-      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
-      "url": "https://x.com/karpathy/status/1971220449515516391",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T13:53:09+00:00",
-      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
-      "url": "https://x.com/karpathy/status/1971211372190106029",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T22:52:42+00:00",
-      "text": "For Charlie https://t.co/8092jIt319",
-      "url": "https://x.com/elonmusk/status/1969897602524328440",
+      "date": "2026-07-04T00:28:39+00:00",
+      "text": "Video",
+      "url": "https://x.com/elonmusk/status/2073202292942315943",
       "author": "elonmusk",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-21T17:45:48+00:00",
-      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
-      "url": "https://x.com/elonmusk/status/1969820370988658701",
+      "date": "2026-07-04T00:00:51+00:00",
+      "text": "Our goal is to capture how founders really talk when no one is watching.\n\n\nNaval (@naval)\n\nNew podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/naval/status/2072914445668590003#m",
+      "url": "https://x.com/nivi/status/2073195294637072595",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T22:36:52+00:00",
+      "text": "Every founder in tech would have to leave the state.\n\nThis is what they want. We have to fight back.\n\n\nAusten Allred (@Austen)\n\nIt took about one week for Khanna to get bullied into suggesting his “billionaire tax” should actually be on anyone worth $50 million\n\n\n\n\n\n— https://nitter.net/Austen/status/2073057643854520414#m",
+      "url": "https://x.com/beffjezos/status/2073174159627096450",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T22:29:13+00:00",
+      "text": "America needs to build again, and it is building. \n\nWe kick off our @corememory  4th of July American manufacturing extravaganza with the latest temple to metal built by @elonmusk and the @tesla_semi team. \n\nThis is an hour+ tour of the Tesla Semi factory in Nevada alongside @danWpriestley.\n\nVideo",
+      "url": "https://x.com/ashleevance/status/2073172238527091179",
       "author": "elonmusk",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-21T08:04:26+00:00",
-      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
-      "url": "https://x.com/paulg/status/1969674065322656109",
+      "date": "2026-07-03T19:51:25+00:00",
+      "text": "Good explanation of why some people find “wealth” inexplicable\n\n\nKonstantin Kisin (@KonstantinKisin)\n\nThis is because the anti-capitalist left is not actually against people being crazy rich. They're against certain types of people being crazy rich.\n\nArtists and athletes make sense to them because they've played music and sports and because their success can be explained by \"luck\" and \"talent\". Messi's wealth is not offensive to them because they understand Messi is much better at football than they are.\n\nBut when it comes to business, the anti-capitalist leftist has no framework for understanding why Jeff Bezos might be super rich since 99% of them have never ever created a product, business or service that was of value to other people. They've never taken entrepreneurial risk. They've never employed people and felt the burden of responsibility that comes with that. They've never pick up a business and given it a play in the way they've picked up a ball or a guitar.\n\nThey *literally* don't understand wealth creation. They think there is a fixed amount of money and the only thing a business does is split it unfairly.\n\nIt's why they rage at Elon and other successful business leaders. Because they genuinely don't understand why they're wealthy.\n\nAlso, and this is just as important, athletes and artists are disproportionately young, attractive, \"diverse\", left wing etc. Business leaders are \"evil\" middle aged white men whose success offends the average anti-capitalist leftist because they don't understand a) what it is they do and b) that Elon Musk has the same talent advantage on them as Messi does, it's just harder to measure.\n\n\n\n— https://nitter.net/KonstantinKisin/status/2072939464364597486#m",
+      "url": "https://x.com/elonmusk/status/2073132524063060174",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T18:56:30+00:00",
+      "text": "Gary Lineker on Gaza, \"It's the worst thing I have seen in my lifetime. Constant images day in, day out of children losing their lives.\"\n\n\"But the minute you raise your voice against it you get accused of being a supporter of Hamas.\"\n\nVideo",
+      "url": "https://x.com/BladeoftheS/status/2073118706016665903",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-21T06:28:00+00:00",
-      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
-      "url": "https://x.com/paulg/status/1969649795988902276",
+      "date": "2026-07-03T18:06:43+00:00",
+      "text": "The problem with black dials: less light bouncing up off the dial makes the crystal seem more reflective. It's like the way windows in a house, from the inside, seem more reflective at night.",
+      "url": "https://x.com/paulg/status/2073106177093771749",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T17:38:51+00:00",
-      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
-      "url": "https://x.com/karpathy/status/1964020416139448359",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-03T16:31:34+00:00",
+      "text": "A friend came over to look at some old watches. But he showed up at the worst possible time: 2:11.",
+      "url": "https://x.com/paulg/status/2073082232260952140",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T01:25:55+00:00",
-      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
-      "url": "https://x.com/naval/status/1963775570673885190",
+      "date": "2026-07-03T15:52:45+00:00",
+      "text": "Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds.  Total tunnel weight: ~100 million pounds!",
+      "url": "https://x.com/boringcompany/status/2073072460761808912",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T15:39:53+00:00",
+      "text": "Uranus is finally getting the attention it deserves 🔵😄\n\nScientists want to send a mission called Uranus Orbiter and Probe — a spacecraft that would travel all the way to Uranus, drop a probe into its atmosphere, and then stay behind in orbit to study the planet, its rings, moons, magnetic field, and what’s going on deep inside.\n\nWhy Uranus? Because we’ve barely seen it up close. The only spacecraft to visit it was Voyager 2 in 1986, and that was just a quick flyby. Since then, Uranus has remained one of the Solar System’s biggest mysteries.\n\nAnd it’s a weird one:\n💙 it spins almost on its side\n🧊 it’s one of the coldest planets in the Solar System\n💎 diamonds rain down on Uranus’ core\n🌀 and its magnetic field is exceptionally chaotic, tilted, and lopsided\n\nThis mission could help scientists understand not only Uranus itself, but also a whole class of planets called ice giants — which may be common around other stars, too.\n\nSo yes, NASA really does want to go much deeper into Uranus. Would you want to see a mission like this finally launch? 🚀",
+      "url": "https://x.com/StarWalk/status/2073069223274836096",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T14:46:14+00:00",
+      "text": "Project Hail Mary is now on Prime Video, free for Prime members everywhere.\n\nIt’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book.\n\nIf you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch.\n\nThink you'll enjoy.\n\nVideo",
+      "url": "https://x.com/ajassy/status/2073055723622482347",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T13:48:06+00:00",
+      "text": "khanna's 'billionaire wealth tax,' which is not a tax but an asset seizure in which he tallies everything you own, then demands a percentage *on top* of what you're taxed — every single year — is already targeting anyone worth $50 million or more. this ends with your 401k.\n\n\n\n\nRo Khanna (@RoKhanna)\n\nI make the philosophical case for tax fairness and taxing billionaire wealth. \n\nI welcome an argument on the merits for this new social contract.\n\nRead here:\nopen.substack.com/pub/rokhan…\n\n\n\n— https://nitter.net/RoKhanna/status/2072770677514334558#m",
+      "url": "https://x.com/micsolana/status/2073041094510526467",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-03T22:21:17+00:00",
-      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
-      "url": "https://x.com/sama/status/1963366714684707120",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-01T13:46:53+00:00",
-      "text": "It's official. It's genocide.",
-      "url": "https://x.com/paulg/status/1962512489452618056",
+      "date": "2026-07-03T11:33:24+00:00",
+      "text": "So high valuations can be a problem, definitely. But the startups that matter most for economic growth (and investors' returns) are exactly the ones that high valuations are least likely to damage.",
+      "url": "https://x.com/paulg/status/2073007193247322523",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-01T13:44:57+00:00",
-      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
-      "url": "https://x.com/paulg/status/1962512000656838804",
+      "date": "2026-07-03T11:30:05+00:00",
+      "text": "It's certainly true that a startup can be damaged by raising too much and/or at too high a valuation. Raising too much makes you spend too much. And a high valuation increases the chance of a catastrophic down round later on.",
+      "url": "https://x.com/paulg/status/2073006360824881338",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-30T10:44:17+00:00",
-      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
-      "url": "https://x.com/paulg/status/1961741758951309683",
+      "date": "2026-07-03T11:27:43+00:00",
+      "text": "Someone asked if the US economy could be damaged by the high valuations startups get now, and I realized there's a natural protection against this. All the growth is concentrated in the big hits, and they are exactly the companies most able to grow into an \"excessive\" valuation.",
+      "url": "https://x.com/paulg/status/2073005763736334743",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-27T20:17:24+00:00",
-      "text": "@travelingclatt What have you invented?",
-      "url": "https://x.com/paulg/status/1960798824055906334",
-      "author": "paulg",
-      "source": "syndication"
+      "date": "2026-07-03T06:15:02+00:00",
+      "text": "True\n\n\nUri Kurlianchik (@VerminusM)\n\nThere is a Frank Herbert quote that describes the future of the West perfectly: \"When I am weaker than you I ask you for freedom because that is according to your principles; when I am stronger than you I take away your freedom because that is according to my principles.\"\n\n\n\n— https://nitter.net/VerminusM/status/2056070468579307686#m",
+      "url": "https://x.com/elonmusk/status/2072927075317457223",
+      "author": "elonmusk",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-25T06:32:48+00:00",
-      "text": "My God. Each pair of shoes is a child's life.",
-      "url": "https://x.com/paulg/status/1959866534102446505",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-24T16:06:26+00:00",
-      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
-      "url": "https://x.com/paulg/status/1959648504021655586",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T19:35:14+00:00",
-      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
-      "url": "https://x.com/sama/status/1958976273319174362",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T16:01:07+00:00",
-      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
-      "url": "https://x.com/sama/status/1958922390731464805",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-21T20:52:26+00:00",
-      "text": "Make God your only boss.",
-      "url": "https://x.com/naval/status/1958633313272570250",
+      "date": "2026-07-03T05:24:52+00:00",
+      "text": "Apple: apple.co/4v7TsRi\n\nSpotify: open.spotify.com/episode/0rL…\n\nYouTube: piped.video/6m-ZZBCiiEE\n\nSubstack: open.substack.com/pub/naval/…\n\nLink\n\n\n\nLive in the Future\n\nPodcast Episode · Naval · July 2 · 1h 8m\npodcasts.apple.com",
+      "url": "https://x.com/naval/status/2072914449028329555",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:45:02+00:00",
-      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
-      "url": "https://x.com/karpathy/status/1957574489358873054",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-03T05:24:51+00:00",
+      "text": "New podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\n\nVideo",
+      "url": "https://x.com/naval/status/2072914445668590003",
+      "author": "naval",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:18:22+00:00",
-      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
-      "url": "https://x.com/paulg/status/1957567774882164784",
+      "date": "2026-07-03T03:52:20+00:00",
+      "text": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now requires a one-sentence description rationale in every invocation.\n• ask_user_question timeout policy is now configurable in config.toml and /settings.\n• Ask-Question timeout can now be toggled from /settings (Agent & Approval).\n• Thinking/reasoning blocks are now shown by default while the model is working.\n• Critical announcements now show a red title with a clickable [hide] button and aligned message.\n• Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments.\n\nBug Fixes:\n• Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation.\n• Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count.\n• Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name.\n• Copy now succeeds when running inside containers even when the terminal brand cannot be detected.\n• Tool result previews no longer paint opaque panels in grok --minimal.\n• grok wrap now correctly handles quoted strings and shell aliases.\n• Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain.\n• Fixed a freeze that could occur when editing and sending the last message in the queue.\n• Fixed a startup crash on minimal Linux systems lacking system CA certificates.\n\nPerformance:\n• Grep now stops early on broad searches, returning faster results with far less memory use.\n• Idle CPU and memory usage after long sessions or resume is now dramatically lower.\n\n\n\n\nX Freeze (@XFreeze)\n\nAnother Grok Build update is here, it brings new usability improvements to make everyday workflows even smoother.\n\nRelease Notes: v0.2.83 — 2026-07-02\n\nFeatures:\n• Critical announcements now appear in a top banner during active sessions with a hide command.\n• Pasting the same text again next to a paste chip now expands the chip into editable text instead of duplicating it.\n• Paste preview now shows a hint explaining how to expand the chip.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2072552037041209704#m",
+      "url": "https://x.com/XFreeze/status/2072891163502080053",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T02:36:07+00:00",
+      "text": "This is the most horrific thing happening in our lifetimes and America is complicit and does nothing to stop it. \n\nEven worse, we fund it.\n\n\nIsrael Exposed (@xIsraelExposedx)\n\nIt took a little longer than expected, but we have created a website for people to view the footage collected from Gaza in one place. You no longer have to download the entire archives to see them. \n\nIt includes:\n\n64,537 videos\n17,905 photos\nAbility to download individual videos\nSearchable index\nExhaustive sources list (300+ journalists)\nGeolocation data\nLivemap with minute to minute updates\nVictim list\n\nIt can be accessed here: ArchiveGenocide.com \n\nPlease share & quote tweet to help this post break out of the twitter algorithm prison. \n\nWe will keep adding the rest of the archives to the site, be patient- it is difficult work.  Continue to seed the torrents provided, as that is the best way to ensure the footage remains stored in decentalized way.  \n\nGod bless all those who sacrificed their lives to get this footage out, and everyone invovled in collecting/archiving it. \n\nJoin our telegram: \nt.me/+p_Ufon9FBOY0Y2Q0\nFollow our backup accounts: \n@ZionismExposedx  & @IsraelExposedAr\n\n\n\n\n\n— https://nitter.net/xIsraelExposedx/status/2072719034475294966#m",
+      "url": "https://x.com/mtgreenee/status/2072871983713239356",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T01:25:49+00:00",
+      "text": "This is the part where he tells everyone to leave the room except Keitel, Jodl, Krebs, and Burgdorf.\n\n\nNoah Smith 🐇🇺🇸🇺🇦🇹🇼 (@Noahpinion)\n\nAbsolutely wild story about Vladimir Putin micromanaging a completely fictional version of the Ukraine War\n\n\n\n\n\n— https://nitter.net/Noahpinion/status/2072797899533300035#m",
+      "url": "https://x.com/TheRickWilson/status/2072854292818436317",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-03T00:01:56+00:00",
+      "text": "First builds of Model Y Long Wheelbase at Giga Texas",
+      "url": "https://x.com/tesla_na/status/2072833182635024712",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T23:00:22+00:00",
+      "text": "Video",
+      "url": "https://x.com/elonmusk/status/2072817687256834529",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T22:18:46+00:00",
+      "text": "\"So you're saying <enormously elaborate thing you didn't even suggest>?\"",
+      "url": "https://x.com/paulg/status/2072807217028309192",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T22:03:29+00:00",
+      "text": "Model Y long wheelbase now available to order in the US\n\n\nTesla (@Tesla)\n\nIntroducing Model Y Long Wheelbase – now available in the US & Puerto Rico\n\nA 3-row, 6-seat configuration that brings exceptional interior space with ample headroom & legroom for all passengers\n\n0-60 in 4.4 seconds\n325 miles of range\n\n– Front row: Heated/ventilated seats w/ powered thigh cushion\n– Second row: Heated/ventilated captain seats w/ powered armrests & one‑touch fold\n– Third row: Heated seats w/ power recline, one‑touch fold & child seat anchors\n\n–  Improved airflow, increased efficiency & more range\n\n– 89 cu ft of trunk space: with 6 passengers, trunk still fits a 28\" and 20\" suitcase each, plus frunk holds an additional 20\" suitcase. Oversized items like snowboards and bikes also fit easily\n\n– Engineered for safety w/ seat belts & side air bag optimized for second & third row\n\n– Upgraded acoustic glass & suspension to minimize road noise\n\n– Adaptive damping for a smooth, stable ride\n\n– Staggered tires for enhanced grip\n\n– Larger tailgate for better rear visibility & bigger windows overall to deliver great views from every seat\n\n– 16\" first row & 8” second row touchscreens + 19-speaker immersive Tesla Audio\n\n– Upgraded 50W wireless charging pads w/ active cooling & charging ports for all other seats\n\n– FSD Supervised & integrated Grok AI\n\ntesla.com/modely/design#over…\n\n\n\n\n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2072739795810525522#m",
+      "url": "https://x.com/elonmusk/status/2072803370616700972",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T21:45:20+00:00",
+      "text": "Turbo America. 🇺🇸🚀\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS: \"There’s no reason we should stop at 4%. We should be at 12% and 13% GDP... That’s how we built the country.\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RapidResponse47/status/2072795296044630502#m",
+      "url": "https://x.com/pmarca/status/2072798806559818154",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T20:28:46+00:00",
+      "text": "People are taking this a bit literally (obviously someone must have) so I'll save us all some time and delete it.",
+      "url": "https://x.com/paulg/status/2072779535557202219",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T20:04:57+00:00",
+      "text": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+      "url": "https://x.com/sama/status/2072773542576586790",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T19:53:52+00:00",
+      "text": "Finally, Grok’s Speech-to-Text is now live in Grok Build\n\nYou can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice\n\nJust talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction\n\nThis makes it so much easier to:\n• Brainstorm ideas while coding\n• Describe complex changes conversationally\n• Stay in flow without switching between keyboard and voice\n• Interact with coding agents more naturally\n\nAs AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build\n\nHuge unlock for anyone who thinks out loud or hates context switching\n\nVideo",
+      "url": "https://x.com/XFreeze/status/2072770755478290569",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T15:59:33+00:00",
+      "text": "If you're curious about this watch, it's not only beautiful but accurate to -2 sec/day dial up. This particular one is long since sold, but they made a lot of these.\n\ngoldammer.me/products/iwc-ca…\n\nLink\n\n\n\nIWC Cal. 89 18k Rose Gold 36mm 1958\n\n36mm · 18k Rose Gold Case · Manual Wind IWC Caliber 89 · Flawless Silver Dial · Cognac Brown Leather Strap · Serviced 10/2025 ✓ Worldwide Shipping ✓\ngoldammer.me",
+      "url": "https://x.com/paulg/status/2072711785069556094",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T15:55:38+00:00",
+      "text": "The cancer-Alzheimer's paradox, an inverse correlation, with an unexplained mechanism\n\"The risk of Alzheimer’s disease in patients with cancer is significantly reduced, and the risk of cancer in patients with Alzheimer’s disease is halved.\"\nnature.com/articles/s41514-0…\n\nLink\n\nThe cancer Alzheimer’s disease paradox\n\nnpj Aging - A paradoxical inverse correlation between cancer and Alzheimer’s disease has been repeatedly observed in epidemiological studies. While cancer and Alzheimer’s disease share...\nnature.com",
+      "url": "https://x.com/EricTopol/status/2072710798418362437",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T15:09:24+00:00",
+      "text": "The history of golden age watch case and face design consists of designers wishing they hadn't already known the right answer since the 1940s. They orbited it for the next 30 years, but couldn't escape it.",
+      "url": "https://x.com/paulg/status/2072699166610870298",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T15:06:38+00:00",
+      "text": "The gov't theory in my case isn't about me. It's a template.\nUnder US v. Storm, \"money transmitting\" no longer requires custody or control of funds. Publishing code that others use is enough.\nWho's in danger:\n\n→ Every maintainer of open-source privacy, messaging, or crypto tools that any bad actor ever touches\n→ Every operator of a financial service — DeFi or not — who learns some % of users are illicit and keeps operating. Knowledge alone becomes the crime\n→ Every dev of immutable, self-custodial software, held to a duty to \"stop\" what is technically unstoppable\n\nIt's already working as designed. Michael Lewellen finished lawful crowdfunding software and can't publish it. He asked DOJ if he'd be prosecuted. Their answer, in federal court: we \"cannot disclaim an intent to prosecute.\"\nFinished code, sitting on a shelf. You don't need to be charged to be silenced.\n\nAnd SDNY isn't done with me. Prosecutors want to retry me regardless — regardless of the hung counts, regardless of Van Loon, regardless of FinCEN's own guidance.\n\nI've been fighting this for 3+ years. Legal defense at this level costs millions, and I can't do it alone.\nIf you write code, use privacy tools, or believe publishing software isn't a crime — this is your fight too.\nDonate: freeromanstorm.com\nEvery retweet helps. Every dollar goes to the defense.\n\nLink\n\n\n\nDonate to Support Roman Storm – Defend Freedom in Tech!\n\nSupport Roman Storm legal defense for building open-source privacy tools. Donate via Juicebox to protect open-source development, privacy, and developers rights. Join the fight for justice in tech.\nfreeromanstorm.com\n\n\n\nPeter Van Valkenburgh (@valkenburgh)\n\nRead more and find the full brief: coincenter.org/non-prosecuti…\n\nLink\n\n\n\nNon-prosecution promises are not enough: Courts must rule on devs and money transmission\n\nDeveloper Lewellen lays out what’s at stake for open-source speech and user privacy\ncoincenter.org\n\n\n\n\n— https://nitter.net/valkenburgh/status/2072666641251397702#m",
+      "url": "https://x.com/rstormsf/status/2072698470516076664",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T13:13:46+00:00",
+      "text": "It would only take about 20 of our Superpower small modular turbines to make enough electricity to reduce every thermostat in NYC from 78 degrees to a more human 72. We'd be happy to provide them.\n\n\nMayor Zohran Kwame Mamdani (@NYCMayor)\n\nNew York: it's hot out there, and the power grid is working overtime to keep us cool.\n\nSet your AC to 78 degrees, turn off lights/electronics you're not using, and unplug what you can.\n\nOur City is doing its part too: maintaining the 78 degrees rule in our buildings, dimming/turning off our lights during peak electricity demand, asking private partners to do the same, and powering down non-essential equipment.\n\nA stable grid means the AC stays on, and lives are saved. Let's ease demand — and get through the heat — together.\n\n\n\n— https://nitter.net/NYCMayor/status/2072411003170472359#m",
+      "url": "https://x.com/bscholl/status/2072670065745694903",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-02T13:02:00+00:00",
+      "text": "Q2 2026\n\nProduction: 451,758\n\nDeliveries: 480,126\n\nEnergy storage deployments: 13.5 GWh\n\nOur Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT\n\n→ ir.tesla.com/press-release/t…\n\nLink\n\n\n\nTesla Investor Relations\n\nAUSTIN, Texas, July 2, 2026 – In the second quarter, we produced over 450,000 vehicles, delivered over 480,000 vehicles and deployed 13.5 GWh of energy storage products.\nir.tesla.com",
+      "url": "https://x.com/Tesla/status/2072667103396806925",
+      "author": "elonmusk",
+      "source": "nitter"
     }
   ]
 }
