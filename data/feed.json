@@ -7,37 +7,93 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-04T12:53:47.707072+00:00",
-  "last_success_at": "2026-07-04T12:53:47.707072+00:00",
+  "updated_at": "2026-07-05T13:01:09.340971+00:00",
+  "last_success_at": "2026-07-05T13:01:09.340971+00:00",
   "source": "nitter",
-  "error_message": "",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
     {
-      "date": "2026-07-04T07:43:23+00:00",
-      "text": "God Bless America",
-      "url": "https://x.com/elonmusk/status/2073311697474076672",
-      "author": "elonmusk",
+      "date": "2026-07-05T11:57:06+00:00",
+      "text": "The problem with truth is, once you see it, you can’t unsee it.",
+      "url": "https://x.com/naval/status/2073737934851944481",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T10:14:22+00:00",
+      "text": "There is an interesting implicit claim here: that mobile and internet revenues grew at the same rate. It would be interesting to know if that is in fact true.",
+      "url": "https://x.com/paulg/status/2073712079270211914",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T10:10:32+00:00",
+      "text": "AI companies are making a lot of money. Apparently the revenues from this wave of technology are growing \"roughly three times more rapidly than the mobile or Internet waves.\"\n\n\nAzeem Azhar (@azeem)\n\nThe GenAI economy has generated $110 billion in sales over the past 12 months. It is growing fast. On an annualized basis, the revenue run rate exceeds $175 billion.\n\nThese numbers took us several months to construct, and as far as we know, it’s the first bottom-up, deduplicated measure of consumer and enterprise AI spending across the full stack.\n\nWe are releasing this research today in our first The State of the AI Economy report.\n\nintelligence.exponentialview…\n\n\n\n\n\n— https://nitter.net/azeem/status/2070113886884552755#m",
+      "url": "https://x.com/paulg/status/2073711117298188369",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T05:12:04+00:00",
+      "text": "they really nailed it with \"life, liberty, and the pursuit of happiness\"",
+      "url": "https://x.com/sama/status/2073636003215249515",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T05:11:42+00:00",
+      "text": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in history.",
+      "url": "https://x.com/sama/status/2073635910512726444",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T00:47:58+00:00",
+      "text": "Some fun charts:\n1. Each US generation is wealthier than the last.",
+      "url": "https://x.com/SashaGusevPosts/status/2073569543167873221",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T22:15:16+00:00",
+      "text": "Man do I want Paraguay to lose. Not just because they deserve to, but because I don't want to have to watch any more of them.",
+      "url": "https://x.com/paulg/status/2073531112802926831",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T19:07:38+00:00",
+      "text": "One of the great chapters in America's history is how we converted our economy to wartime production in the 1940s and used our industrial power to win WWII.\n\nI'd learned in high school that we converted car factories into tank factories.  But I never knew the full story until last month, when I read Freedom's Forge, the definitive book on this.\n\nIt turns out the true story is even crazier and more impressive.  In honor of July 4th, here's the  story of how America won WWII, one factory at a time.",
+      "url": "https://x.com/snowmaker/status/2073483893748163051",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T18:24:35+00:00",
+      "text": "Flying Overture will be nicer than flying domestic first class—at 2x speed.\n\nWe have ~60 seats in a bigger space than Concorde had 100. Plus taller ceilings, a boarding door 10\" taller (1\" taller than a 737).\n\nThere will be a version with flatbeds for extra long flights too.\n\n\n\n\nRichard Mccrary🇺🇲 (@RichardMccrar20)\n\nPlease tell me your cabin will be more roomy than the Concorde.  Yes, it was fast, but not comfortable.\n\n\n\n— https://nitter.net/RichardMccrar20/status/2073192330815840761#m",
+      "url": "https://x.com/bscholl/status/2073473060242419830",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T17:28:14+00:00",
+      "text": "Jeff Bezos on why the United States has more entrepreneurial success than other countries:\n\nVideo",
+      "url": "https://x.com/JonErlichman/status/2073458879711609119",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T14:54:52+00:00",
+      "text": "RT by @paulg: Image",
+      "url": "https://x.com/johnkrausphotos/status/2073420282983752175",
+      "author": "paulg",
       "source": "nitter"
     },
     {
       "date": "2026-07-04T04:48:13+00:00",
       "text": "Happy Birthday America, Land of the Free.\n\nDon’t give up on the First, Second, Fourth, and Ninth Amendments. \n\nThey’re unique, and your freedom - and the worlds’ - depends on them.",
       "url": "https://x.com/naval/status/2073267613380259840",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T03:21:56+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2073245901016166547",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T02:29:39+00:00",
-      "text": "God bless America.\n\nVideo",
-      "url": "https://x.com/pmarca/status/2073232745132859443",
-      "author": "elonmusk",
+      "author": "naval",
       "source": "nitter"
     },
     {
@@ -45,13 +101,6 @@
       "text": "You've probably heard this before, but it's always worth repeating. Something extremely cool about the \"Star-spangled Banner,\" the American national anthem, is that it asks a question, and it's the question at the heart of everything in the American worldview.\n\n\"Oh, say, can you see\nBy the dawn's early light\nWhat so proudly we hailed\nAt the twilight's last gleaming...\"\n\nSo the anthem begins with a question and a scene. One man, a patriot, is asking another man, another patriot, \"can you see it?\" at sunrise after a long, dangerous night.\n\nThe \"it\" in question is going to be revealed to be the flag, our \"star-spangled banner,\" which they had last fully recognized and honored as the sun set, daylight failed, and night crept over them the evening before.\n\nCan you see it? Say! Can you see it?!\n\nIS IT STILL THERE?!\n\n\"Whose broad stripes and bright stars\nThrough the perilous fight\nO'er the ramparts we watched\nWere so gallantly streaming...\"\n\nHere we find that the \"it\" is in fact the flag, our star-spangled banner, and we learn why the question is being asked. \n\nThe flag is described as having flown and streamed gallantly over ramparts of war through a perilous fight. All could have been lost. The flag, and even the fledgling country for which it stands, one nation under God and indivisible.\n\nSay! Can you see it? Now that the light is back?\n\nIS IT STILL THERE?!\n\n\"--And the rockets' red glare,\nThe bombs bursting in air,\nGave proof through the night\nThat our flag was still there!--\"\n\nThey could see it through the battle in the light of the rockets and bombs that threatened them, here and there in quick glimpses. But it was still there throughout! But now? At dawn?\n\nSay! Can you see?\n\nIS IT STILL THERE?!\n\n\"Oh, say, does that star-spangled banner yet wave\nO'er the land of the free\nAnd the home of the brave?\"\n\nThe urgency is palpable with every refrain. They have to know. It's the first thing they must know as the sun begins to light the sky, even before it rises.\n\nIS IT STILL THERE?!\n\nSay! Say!! Can you see? Can you see it?!\n\nAt the heart of every American beats the fundamental truth and reality that what we have here is precious, that it's worth fighting for, to the death if necessary, and that it's fragile. That at any moment it can be lost. That we have to remember to look for it because last night might have been the night in which it failed. \n\nEvery day, every year, every generation.\n\nThe American fight for freedom, to live in self-governance within ordered liberty, is ongoing and never-ending. The price of the land of the free is that it must be the home of the brave. We have to defend it, defend it, and defend it again, against all enemies foreign and domestic, because what we have is amazing, rare, fragile, and worth every cent of treasure, every drop of blood, and every risk to our sacred honor to protect it.\n\nOur anthem is not a declaration. It is not a proclamation. It is not a statement.\n\nIt is a question.\n\nEvery time we sing our wholly unique national anthem, we as American ask the question again. IS IT STILL THERE?! Are we still America? Does that star-spangled banner yet wave?\n\nBecause it's a question, the answer is not known. It is not a guarantee. It cannot be taken for granted and isn't. And what an honor to ask and take up our part in the story, in the American Experiment, in the greatest country the world has ever known.\n\nFor tonight, the last night of our first 250 years, as the sun gave way to twilight's last gleaming and darkness overtook our land once again, the answer was still yes. We can see it even tonight in the red glare of rockets, with small bombs bursting in air, fill the sky with the noble tribute of fireworks once again.\n\nAnd we all ask ourselves, will it still be flying at dawn?\n\nThis is what it means to be an American.\n\nHappy 250th, America! Now for many happy returns!\n🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
       "url": "https://x.com/ConceptualJames/status/2073218210250256404",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T00:28:39+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2073202292942315943",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -66,20 +115,6 @@
       "text": "Every founder in tech would have to leave the state.\n\nThis is what they want. We have to fight back.\n\n\nAusten Allred (@Austen)\n\nIt took about one week for Khanna to get bullied into suggesting his “billionaire tax” should actually be on anyone worth $50 million\n\n\n\n\n\n— https://nitter.net/Austen/status/2073057643854520414#m",
       "url": "https://x.com/beffjezos/status/2073174159627096450",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T22:29:13+00:00",
-      "text": "America needs to build again, and it is building. \n\nWe kick off our @corememory  4th of July American manufacturing extravaganza with the latest temple to metal built by @elonmusk and the @tesla_semi team. \n\nThis is an hour+ tour of the Tesla Semi factory in Nevada alongside @danWpriestley.\n\nVideo",
-      "url": "https://x.com/ashleevance/status/2073172238527091179",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T19:51:25+00:00",
-      "text": "Good explanation of why some people find “wealth” inexplicable\n\n\nKonstantin Kisin (@KonstantinKisin)\n\nThis is because the anti-capitalist left is not actually against people being crazy rich. They're against certain types of people being crazy rich.\n\nArtists and athletes make sense to them because they've played music and sports and because their success can be explained by \"luck\" and \"talent\". Messi's wealth is not offensive to them because they understand Messi is much better at football than they are.\n\nBut when it comes to business, the anti-capitalist leftist has no framework for understanding why Jeff Bezos might be super rich since 99% of them have never ever created a product, business or service that was of value to other people. They've never taken entrepreneurial risk. They've never employed people and felt the burden of responsibility that comes with that. They've never pick up a business and given it a play in the way they've picked up a ball or a guitar.\n\nThey *literally* don't understand wealth creation. They think there is a fixed amount of money and the only thing a business does is split it unfairly.\n\nIt's why they rage at Elon and other successful business leaders. Because they genuinely don't understand why they're wealthy.\n\nAlso, and this is just as important, athletes and artists are disproportionately young, attractive, \"diverse\", left wing etc. Business leaders are \"evil\" middle aged white men whose success offends the average anti-capitalist leftist because they don't understand a) what it is they do and b) that Elon Musk has the same talent advantage on them as Messi does, it's just harder to measure.\n\n\n\n— https://nitter.net/KonstantinKisin/status/2072939464364597486#m",
-      "url": "https://x.com/elonmusk/status/2073132524063060174",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -104,24 +139,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-03T15:52:45+00:00",
-      "text": "Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds.  Total tunnel weight: ~100 million pounds!",
-      "url": "https://x.com/boringcompany/status/2073072460761808912",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T15:39:53+00:00",
-      "text": "Uranus is finally getting the attention it deserves 🔵😄\n\nScientists want to send a mission called Uranus Orbiter and Probe — a spacecraft that would travel all the way to Uranus, drop a probe into its atmosphere, and then stay behind in orbit to study the planet, its rings, moons, magnetic field, and what’s going on deep inside.\n\nWhy Uranus? Because we’ve barely seen it up close. The only spacecraft to visit it was Voyager 2 in 1986, and that was just a quick flyby. Since then, Uranus has remained one of the Solar System’s biggest mysteries.\n\nAnd it’s a weird one:\n💙 it spins almost on its side\n🧊 it’s one of the coldest planets in the Solar System\n💎 diamonds rain down on Uranus’ core\n🌀 and its magnetic field is exceptionally chaotic, tilted, and lopsided\n\nThis mission could help scientists understand not only Uranus itself, but also a whole class of planets called ice giants — which may be common around other stars, too.\n\nSo yes, NASA really does want to go much deeper into Uranus. Would you want to see a mission like this finally launch? 🚀",
-      "url": "https://x.com/StarWalk/status/2073069223274836096",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T14:46:14+00:00",
-      "text": "Project Hail Mary is now on Prime Video, free for Prime members everywhere.\n\nIt’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book.\n\nIf you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch.\n\nThink you'll enjoy.\n\nVideo",
-      "url": "https://x.com/ajassy/status/2073055723622482347",
-      "author": "elonmusk",
+      "date": "2026-07-03T14:12:03+00:00",
+      "text": "I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post.\n\n piped.video/watch?v=rTc2_-1K…\n\nLink\n\n\n\nThe Return of Claude Fable 5 | First Impressions\n\nhttps://arena.ai/agentAnthropic's Claude Fable 5 is back, and Are...\nyoutube.com",
+      "url": "https://x.com/petergostev/status/2073047118801993910",
+      "author": "karpathy",
       "source": "nitter"
     },
     {
@@ -153,13 +174,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-03T06:15:02+00:00",
-      "text": "True\n\n\nUri Kurlianchik (@VerminusM)\n\nThere is a Frank Herbert quote that describes the future of the West perfectly: \"When I am weaker than you I ask you for freedom because that is according to your principles; when I am stronger than you I take away your freedom because that is according to my principles.\"\n\n\n\n— https://nitter.net/VerminusM/status/2056070468579307686#m",
-      "url": "https://x.com/elonmusk/status/2072927075317457223",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-03T05:24:52+00:00",
       "text": "Apple: apple.co/4v7TsRi\n\nSpotify: open.spotify.com/episode/0rL…\n\nYouTube: piped.video/6m-ZZBCiiEE\n\nSubstack: open.substack.com/pub/naval/…\n\nLink\n\n\n\nLive in the Future\n\nPodcast Episode · Naval · July 2 · 1h 8m\npodcasts.apple.com",
       "url": "https://x.com/naval/status/2072914449028329555",
@@ -171,13 +185,6 @@
       "text": "New podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\n\nVideo",
       "url": "https://x.com/naval/status/2072914445668590003",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T03:52:20+00:00",
-      "text": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now requires a one-sentence description rationale in every invocation.\n• ask_user_question timeout policy is now configurable in config.toml and /settings.\n• Ask-Question timeout can now be toggled from /settings (Agent & Approval).\n• Thinking/reasoning blocks are now shown by default while the model is working.\n• Critical announcements now show a red title with a clickable [hide] button and aligned message.\n• Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments.\n\nBug Fixes:\n• Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation.\n• Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count.\n• Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name.\n• Copy now succeeds when running inside containers even when the terminal brand cannot be detected.\n• Tool result previews no longer paint opaque panels in grok --minimal.\n• grok wrap now correctly handles quoted strings and shell aliases.\n• Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain.\n• Fixed a freeze that could occur when editing and sending the last message in the queue.\n• Fixed a startup crash on minimal Linux systems lacking system CA certificates.\n\nPerformance:\n• Grep now stops early on broad searches, returning faster results with far less memory use.\n• Idle CPU and memory usage after long sessions or resume is now dramatically lower.\n\n\n\n\nX Freeze (@XFreeze)\n\nAnother Grok Build update is here, it brings new usability improvements to make everyday workflows even smoother.\n\nRelease Notes: v0.2.83 — 2026-07-02\n\nFeatures:\n• Critical announcements now appear in a top banner during active sessions with a hide command.\n• Pasting the same text again next to a paste chip now expands the chip into editable text instead of duplicating it.\n• Paste preview now shows a hint explaining how to expand the chip.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2072552037041209704#m",
-      "url": "https://x.com/XFreeze/status/2072891163502080053",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -195,38 +202,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-03T00:01:56+00:00",
-      "text": "First builds of Model Y Long Wheelbase at Giga Texas",
-      "url": "https://x.com/tesla_na/status/2072833182635024712",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-02T23:00:22+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2072817687256834529",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-02T22:18:46+00:00",
       "text": "\"So you're saying <enormously elaborate thing you didn't even suggest>?\"",
       "url": "https://x.com/paulg/status/2072807217028309192",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-02T22:03:29+00:00",
-      "text": "Model Y long wheelbase now available to order in the US\n\n\nTesla (@Tesla)\n\nIntroducing Model Y Long Wheelbase – now available in the US & Puerto Rico\n\nA 3-row, 6-seat configuration that brings exceptional interior space with ample headroom & legroom for all passengers\n\n0-60 in 4.4 seconds\n325 miles of range\n\n– Front row: Heated/ventilated seats w/ powered thigh cushion\n– Second row: Heated/ventilated captain seats w/ powered armrests & one‑touch fold\n– Third row: Heated seats w/ power recline, one‑touch fold & child seat anchors\n\n–  Improved airflow, increased efficiency & more range\n\n– 89 cu ft of trunk space: with 6 passengers, trunk still fits a 28\" and 20\" suitcase each, plus frunk holds an additional 20\" suitcase. Oversized items like snowboards and bikes also fit easily\n\n– Engineered for safety w/ seat belts & side air bag optimized for second & third row\n\n– Upgraded acoustic glass & suspension to minimize road noise\n\n– Adaptive damping for a smooth, stable ride\n\n– Staggered tires for enhanced grip\n\n– Larger tailgate for better rear visibility & bigger windows overall to deliver great views from every seat\n\n– 16\" first row & 8” second row touchscreens + 19-speaker immersive Tesla Audio\n\n– Upgraded 50W wireless charging pads w/ active cooling & charging ports for all other seats\n\n– FSD Supervised & integrated Grok AI\n\ntesla.com/modely/design#over…\n\n\n\n\n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2072739795810525522#m",
-      "url": "https://x.com/elonmusk/status/2072803370616700972",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-02T21:45:20+00:00",
-      "text": "Turbo America. 🇺🇸🚀\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS: \"There’s no reason we should stop at 4%. We should be at 12% and 13% GDP... That’s how we built the country.\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RapidResponse47/status/2072795296044630502#m",
-      "url": "https://x.com/pmarca/status/2072798806559818154",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -244,30 +223,9 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-02T19:53:52+00:00",
-      "text": "Finally, Grok’s Speech-to-Text is now live in Grok Build\n\nYou can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice\n\nJust talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction\n\nThis makes it so much easier to:\n• Brainstorm ideas while coding\n• Describe complex changes conversationally\n• Stay in flow without switching between keyboard and voice\n• Interact with coding agents more naturally\n\nAs AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build\n\nHuge unlock for anyone who thinks out loud or hates context switching\n\nVideo",
-      "url": "https://x.com/XFreeze/status/2072770755478290569",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-02T15:59:33+00:00",
-      "text": "If you're curious about this watch, it's not only beautiful but accurate to -2 sec/day dial up. This particular one is long since sold, but they made a lot of these.\n\ngoldammer.me/products/iwc-ca…\n\nLink\n\n\n\nIWC Cal. 89 18k Rose Gold 36mm 1958\n\n36mm · 18k Rose Gold Case · Manual Wind IWC Caliber 89 · Flawless Silver Dial · Cognac Brown Leather Strap · Serviced 10/2025 ✓ Worldwide Shipping ✓\ngoldammer.me",
-      "url": "https://x.com/paulg/status/2072711785069556094",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-02T15:55:38+00:00",
       "text": "The cancer-Alzheimer's paradox, an inverse correlation, with an unexplained mechanism\n\"The risk of Alzheimer’s disease in patients with cancer is significantly reduced, and the risk of cancer in patients with Alzheimer’s disease is halved.\"\nnature.com/articles/s41514-0…\n\nLink\n\nThe cancer Alzheimer’s disease paradox\n\nnpj Aging - A paradoxical inverse correlation between cancer and Alzheimer’s disease has been repeatedly observed in epidemiological studies. While cancer and Alzheimer’s disease share...\nnature.com",
       "url": "https://x.com/EricTopol/status/2072710798418362437",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-02T15:09:24+00:00",
-      "text": "The history of golden age watch case and face design consists of designers wishing they hadn't already known the right answer since the 1940s. They orbited it for the next 30 years, but couldn't escape it.",
-      "url": "https://x.com/paulg/status/2072699166610870298",
       "author": "paulg",
       "source": "nitter"
     },
@@ -279,17 +237,59 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-02T13:13:46+00:00",
-      "text": "It would only take about 20 of our Superpower small modular turbines to make enough electricity to reduce every thermostat in NYC from 78 degrees to a more human 72. We'd be happy to provide them.\n\n\nMayor Zohran Kwame Mamdani (@NYCMayor)\n\nNew York: it's hot out there, and the power grid is working overtime to keep us cool.\n\nSet your AC to 78 degrees, turn off lights/electronics you're not using, and unplug what you can.\n\nOur City is doing its part too: maintaining the 78 degrees rule in our buildings, dimming/turning off our lights during peak electricity demand, asking private partners to do the same, and powering down non-essential equipment.\n\nA stable grid means the AC stays on, and lives are saved. Let's ease demand — and get through the heat — together.\n\n\n\n— https://nitter.net/NYCMayor/status/2072411003170472359#m",
-      "url": "https://x.com/bscholl/status/2072670065745694903",
+      "date": "2026-07-01T15:59:38+00:00",
+      "text": "To everyone celebrating the first flight on Qatar Force One today, understand what you are actually applauding. \n\nA foreign government handed the sitting President of the United States a $400 million plane. American taxpayers then paid to retrofit it, with an estimated cost of at least another $400 million (some estimates far higher), for security and communications work in a Texas hangar since last September.\n\nWhen Trump leaves office, the plane does not stay with the government. Ownership transfers to his presidential library foundation. In other words, he keeps it.\n\nYou are being asked to treat pure corruption as normal, to shrug at a President personally profiting from a foreign gift the taxpayers paid to upgrade.\n\nIn any other administration this would be the scandal that ends a presidency. \n\nWith Trump, it’s Wednesday.\nabcnews.com/Politics/trump-t…\n\nLink\n\n\n\nTrump takes 1st flight on Air Force One gifted by Qatar\n\nPresident Trump is taking the first ride on the new Air Force One 747, which was donated by the Qatari royal family.\nabcnews.com",
+      "url": "https://x.com/MikeLevin/status/2072349419937145234",
       "author": "paulg",
       "source": "nitter"
     },
     {
-      "date": "2026-07-02T13:02:00+00:00",
-      "text": "Q2 2026\n\nProduction: 451,758\n\nDeliveries: 480,126\n\nEnergy storage deployments: 13.5 GWh\n\nOur Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT\n\n→ ir.tesla.com/press-release/t…\n\nLink\n\n\n\nTesla Investor Relations\n\nAUSTIN, Texas, July 2, 2026 – In the second quarter, we produced over 450,000 vehicles, delivered over 480,000 vehicles and deployed 13.5 GWh of energy storage products.\nir.tesla.com",
-      "url": "https://x.com/Tesla/status/2072667103396806925",
-      "author": "elonmusk",
+      "date": "2026-06-30T15:00:09+00:00",
+      "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer.",
+      "url": "https://x.com/Etched/status/2071972062202343590",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-26T21:06:45+00:00",
+      "text": "not quite all-you-can-eat tokens, but we are working on it",
+      "url": "https://x.com/sama/status/2070614769678393846",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-26T21:06:21+00:00",
+      "text": "team cooked, spicily\n\n\nOpenAI (@OpenAI)\n\nWe’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products.\n\nChips are foundational to the AI economy. Building our own expands our full-stack platform from products to models to infrastructure, and will help us scale intelligence, serve more people, and expand access to AI.\n\n\n\n\n\n— https://nitter.net/OpenAI/status/2069770172802773292#m",
+      "url": "https://x.com/sama/status/2070614666288795703",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-26T20:55:58+00:00",
+      "text": "in other news, we updated the 5.5 instant model used in chatgpt this week.\n\ni like its vibes.",
+      "url": "https://x.com/sama/status/2070612055225483692",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-26T20:47:30+00:00",
+      "text": "oh and also...750 token/sec coming to 5.6 sol in july!",
+      "url": "https://x.com/sama/status/2070609922631537024",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-26T20:39:52+00:00",
+      "text": "Also, I am happy to answer questions if people have some.",
+      "url": "https://x.com/sama/status/2070608004500857256",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-06-26T20:37:49+00:00",
+      "text": "Good new first: Sol is a smart, efficient, and a significant step forward. It is the same price as GPT-5.5. Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price.\n\nBad news: at the request of the US government, it is launching today in limited preview instead of the open access launch we were planning on. We are working with the government to get to general availability as fast as we can.\n\nI think it is quite reasonable to roll out models--especially as they reach significant new levels of capability--in this way. It fits with our long-held strategy of iterative deployment. But this isn't quite the process that we think is optimal.\n\nNow we will with the government to attempt to get to a transparent, reliable process for early access, and to ensure that as long as our safeguards work as intended we can release widely. We want to be a reliable, dependable partner that works with all stakeholders, and we also want to live by our mission of benefiting all of humanity. I believe the government shares most of our goals, and that they are overall doing a good job in a very difficult situation.\n\nWe will work as quickly as we can to get this model in your hands and we hope you will love it.",
+      "url": "https://x.com/sama/status/2070607488274358364",
+      "author": "sama",
       "source": "nitter"
     }
   ]
