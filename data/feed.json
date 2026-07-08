@@ -7,11 +7,158 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-07T14:00:27.825171+00:00",
-  "last_success_at": "2026-07-07T14:00:27.825171+00:00",
+  "updated_at": "2026-07-08T13:22:48.605623+00:00",
+  "last_success_at": "2026-07-08T13:22:48.605623+00:00",
   "source": "nitter",
-  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
+  "error_message": "",
   "items": [
+    {
+      "date": "2026-07-08T13:01:28+00:00",
+      "text": "Jessica decided 14 yo and I needed haircuts and made appointments for us. A traffic jam made us late, so only he actually got a haircut. When I got home I asked Jessica if she liked my hair, and she said yes, so everyone's happy.",
+      "url": "https://x.com/paulg/status/2074841296800284750",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T09:22:59+00:00",
+      "text": "The test of a description of a product is how much closer I am after hearing it to being able to reproduce it. So e.g. \"transform the way people interact with images\" has almost zero descriptive value. If I had to make this, where would I even start?",
+      "url": "https://x.com/paulg/status/2074786313908162679",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T06:21:06+00:00",
+      "text": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow.\n\nIt is an Opus-class model, but faster, more token-efficient and lower cost.",
+      "url": "https://x.com/elonmusk/status/2074740539874775163",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T06:15:12+00:00",
+      "text": "America, the Beautiful\n\n\nDustin (@r0ck3t23)\n\nElon Musk just said the one thing about America they made sure you’d never learn. \n\nThe one thing that should’ve made you proud, not ashamed.\n\nMusk: “After World War 2, the US could have basically taken over the world and any country. Like we got nukes, nobody else got nukes. We don’t even have to lose soldiers. Which country do you want?”\n\nOne nation held a weapon no civilization had ever possessed.\n\nTotal monopoly on destruction. No rival. No consequence. No limit.\n\nEvery empire in history that held that kind of power did the only thing empires know how to do.\n\nThey took until there was nothing left to take.\n\nAmerica had a greater advantage than all of them combined.\n\nAnd rebuilt the nations it just defeated.\n\nMusk: “The United States actually helped rebuild countries. So it helped rebuild Europe, it helped rebuild Japan. This is very unusual behavior, almost unprecedented.”\n\nNot almost unprecedented.\n\nIt had never happened. Not once in 5,000 years of recorded civilization.\n\nThe nation with the power to take everything chose to rebuild instead.\n\nEnemies became allies. Rubble became economies. Surrender became partnership.\n\nGermany went from ashes to the economic engine of Europe in a single generation.\n\nJapan went from unconditional surrender to the third largest economy on earth.\n\nThree years after the war, America was flying food into Berlin.\n\nInto the capital of the country that just tried to end the free world.\n\nThat decision reshaped every economy, every alliance, and every trade route on the planet.\n\nBillions of people lifted out of poverty over the next half century trace back to one moment. One nation choosing restraint over domination.\n\nNo other country in history can make that claim. Not one.\n\nMusk: “There’s always like, well America’s done bad things. Well of course America’s done bad things, but one needs to look at the whole track record.”\n\nEvery nation on earth has blood in its history.\n\nBut the measure of a nation was never its worst chapter.\n\nIt’s what it does when nobody can stop it.\n\nWhen nobody could stop America, it fed its enemies and rebuilt their cities.\n\nYou’re being told every day that this country is something to be ashamed of.\n\nBy people who have no idea what the world looks like without it.\n\nEvery free market. Every open border for trade. Every democracy that took root outside Europe stands in the shadow of that single decision.\n\nThe values that built this country didn’t just shape America.\n\nThey shaped the modern world.\n\nAI is about to hand a small number of people a power advantage that makes nuclear monopoly look primitive.\n\n1945 was the first test.\n\nAI is the last.\n\nThat power is going to exist. The only question left is who holds it.\n\nThe most powerful thing America ever did wasn’t building the bomb.\n\nIt was having the power to take everything and choosing not to.\n\nThe people trying hardest to tear that story down have never built a single thing worth defending.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/r0ck3t23/status/2074586847854940335#m",
+      "url": "https://x.com/elonmusk/status/2074739056697610504",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T06:13:20+00:00",
+      "text": "Video",
+      "url": "https://x.com/elonmusk/status/2074738585727590547",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T04:15:52+00:00",
+      "text": "GPT-5.6 sol launches thursday!\n\nhappy building",
+      "url": "https://x.com/sama/status/2074709023807664454",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T04:08:22+00:00",
+      "text": "I had early access to this model and I'll post more Thursday, but I think the most impressive part is this model NEVER GIVES UP\n\nIf you throw it in Max reasoning, it will just keep working until it's done.\n\nGPT 5.6 Sol is my favorite model BY FAR.\n\n\nOpenAI (@OpenAI)\n\nGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview access globally now.\n\n\n\n\n\n— https://nitter.net/OpenAI/status/2074704958419792299#m",
+      "url": "https://x.com/mweinbach/status/2074707138212155766",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T00:17:47+00:00",
+      "text": "With just one year in orbit, the first FireSat satellite has already spotted wildfires invisible to existing satellites. After a successful launch early this morning, 3 more satellites joined the constellation, bringing us one step closer to our ultimate goal of near real-time wildfire updates every 20 minutes.\n\nThanks to @EarthFireAll @MuonSpace @MooreFound @BezosEarthFund for the partnership, & @SpaceX for the ride up!",
+      "url": "https://x.com/sundarpichai/status/2074649108414107727",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T20:40:00+00:00",
+      "text": "SpaceX says over 90% of its future market is AI, not space. @DMaguireARK, ACA breaks down what that means: orbital data centers, a potential $28.5 trillion Total Addressable Market (TAM), and why Starship is the only vehicle that can get there.\n\nVideo",
+      "url": "https://x.com/ARKInvest/status/2074594301493874896",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T20:23:13+00:00",
+      "text": "Read if you want to understand why medias are demonizing Elon\n\n\nBrivael Le Pogam (@brivael)\n\n\nArticle\n\n\n\nWhy Elon Musk Is Hated and Demonized by the Media\n\nThere is a riddle at the center of modern public life, and almost no one says it out loud.\nHere is a man who put the first privately built rocket into orbit, then landed it standing upright on a drone\n\n\n\n\n— https://nitter.net/brivael/status/2069203589692805440#m",
+      "url": "https://x.com/brivael/status/2074590080144924779",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T17:11:12+00:00",
+      "text": "With full autonomy and maximized ride-hailing, Cybercab is projected to nearly halve emissions per mile compared to Model 3 + Model Y\n\nAlso, a personal car sits parked ~95% of the time. Cybercab keeps driving, doing the work of several cars. This means fewer cars needed, more people moved, less emissions overall",
+      "url": "https://x.com/Tesla/status/2074541754527920453",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T16:00:10+00:00",
+      "text": "Great point\n\n\nMajoMéndezCasariego ⚔️ (@MJMendezCasarie)\n\n“Fui marxista, sí. Pero esa teoría nunca fue puesta realmente a prueba. El test es muy simple: si los ricos mantienen pobres a los pobres, entonces los países con más multimillonarios deberían tener también más pobreza. Sin embargo, al comparar los datos, Estados Unidos tiene más multimillonarios que África y Oriente Medio juntos, y aun así el nivel de vida de los pobres en Estados Unidos es más alto que el de la población de esas regiones. Por ese simple criterio, la teoría no se sostiene.”\n— Thomas Sowell\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MJMendezCasarie/status/2074297195470241911#m",
+      "url": "https://x.com/elonmusk/status/2074523879075115285",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T15:58:57+00:00",
+      "text": "Yes\n\n\nBrivael Le Pogam (@brivael)\n\nThey constructed this narrative.\n\nAnd we need to deconstruct it.\n\n\n\n— https://nitter.net/brivael/status/2074358557831549138#m",
+      "url": "https://x.com/elonmusk/status/2074523573142573321",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T15:51:25+00:00",
+      "text": "Video",
+      "url": "https://x.com/elonmusk/status/2074521679179526572",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T15:50:31+00:00",
+      "text": "Why did the media push this lie so hard?\n\n\nC3 (@C_3C_3)\n\nSitting down?\n\nLegacy Media increased the term “white supremacy” by 5,296% from 2009-2020.\n\nViolent crimes 2009-2020:\n\nBlack on White: 1,162 per 100K Blacks.\nWhite on Black: 38 per 100K Whites.\n\n30X more likely!\n\nDangers of “white supremacy” narrative is pure propaganda.\n\nFacts.\n\n\n\n— https://nitter.net/C_3C_3/status/2074456087206445060#m",
+      "url": "https://x.com/elonmusk/status/2074521451474895265",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T15:47:29+00:00",
+      "text": "We’re gonna need a bigger rocket!\n\n(Starship)\n\n\nSawyer Merritt (@SawyerMerritt)\n\nSpaceX has officially requested FCC approval to launch and operate a third-generation satellite constellation of 100,000 satellites, designed to power human connectivity and AI-fueled progress.\n\n\"The artificial intelligence revolution promises a supersonic tsunami of progress with the capability to deliver transformative prosperity to billions and carry the light of human consciousness far into the future. The Gen3 system will include 100,000 satellites operating in very-low-Earth-orbit to deliver extremely low-latency and multi-gigabit symmetrical throughput for consumers, enterprises, and government users and billions of Al-powered devices around the world. To achieve this ambitious goal, the Gen3 system will put new spectrum and sharing frameworks to work for American consumers. Al requires massive uplink capacity to support high-definition.\"\n\nThe Gen3 system will consist of 100,000 satellites, configured in two bands of thin, closely stacked operational shells with nominal altitudes between 323 and 327.5 kilometers and 473 and 477.5 kilometers. SpaceX seeks flexibility to operate its Gen3 system with inclinations ranging from 26 degrees to 96.9 degrees (sun-synchronous orbit) to optimize coverage consistent with evolving demand.\n\nThis new filing is separate from SpaceX's previous application to operate a constellation of up to 1 million AI satellites. They are two distinct constellations.\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2074502917906649357#m",
+      "url": "https://x.com/elonmusk/status/2074520690326196556",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T15:44:11+00:00",
+      "text": "Falcon delivers 81 satellites to orbit\n\n\nSpaceX (@SpaceX)\n\nFalcon 9 launches the 17th Transporter rideshare mission and delivers 81 payloads to orbit\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2074439975957856705#m",
+      "url": "https://x.com/elonmusk/status/2074519858381799592",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T15:27:44+00:00",
+      "text": "The Woke Mind Virus in the UK",
+      "url": "https://x.com/TheRabbitHole/status/2074515717731598473",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T14:40:00+00:00",
+      "text": "Americans have had enough of the bottom 2% of society ruining our lives\n\n“I'm gonna be so blunt. Because of the ghetto-ass activities that happened in Newport Beach — we are now going to see next year a more secure minimum confined prison in the area because of these f*cking parasites that should be locked up in a cage \n\n— This bottom 2% people of society cause all of our problems. I know you don't want to hear it. I know it might be mean, but they do.\nAnd if we just threw them all in jail, put them in mental asylums where they all belong, all of our problems would go away — but tax the rich, the billionaires. No, Elon Musk isn't taking a sh*t outside of a 7-Eleven and stealing sh*t”\n\nI agree with every word. Our society and way of life is being ruined by the bottom 2% of society. We don’t have to live like this, these people should not get to destroy our lives and be parasites off the system\n\nThe bottom 1% are leaching the welfare system causing astronomical taxes, then these same people cause chaos all throughout society\n\nVideo",
+      "url": "https://x.com/WallStreetApes/status/2074503704842293282",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T13:33:56+00:00",
+      "text": "2023: “Twitter rebrand to X is destined to fail.”\n\n2026: “Fastest-growing website among the top 20 in the world.”\n\n\n\n\nSimilarweb (@Similarweb)\n\nX in June 2026:\n\n→ 4.399 billion visits\n→ Up 4.66% from May\n→ Fastest-growing website among the top 20 in the world\n→ 3rd fastest-growing website among the top 50 in the world\n\n\n\n\n\n— https://nitter.net/Similarweb/status/2074479022235398234#m",
+      "url": "https://x.com/KatieMiller/status/2074487080160301064",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T11:59:06+00:00",
+      "text": "𝕏 was the 6th most visited website in the world last month.\n\n𝕏 also recorded the highest month-over-month growth among the top 10 websites, rising +4.66%.\n\nWith 4.39 billion visits, 𝕏 also beat Reddit and TikTok.\n\nVideo",
+      "url": "https://x.com/cb_doge/status/2074463213010456679",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
     {
       "date": "2026-07-07T11:32:25+00:00",
       "text": "Zcash's new formal verification efforts eliminate undetectable counterfeiting bugs from the new Ironwood pool.\n\n\nProject Tachyon (@TachyonZcash)\n\nZcash's new Ironwood pool is being formally verified to rule out all undetectable counterfeiting bugs, up to the underlying cryptographic assumptions.\n\ntachyon.z.cash/blog/detectin…\n\nLink\n\n\n\nDetecting Counterfeiting after Zcash's Ironwood — Project Tachyon\n\nThe recently discovered undetectable counterfeiting bug in Orchard wasn't the first of its kind in Zcash. Thanks to formal verification of Ironwood, it will be the last.\ntachyon.z.cash\n\n\n\n\n— https://nitter.net/TachyonZcash/status/2074453838510379410#m",
@@ -20,10 +167,31 @@
       "source": "nitter"
     },
     {
+      "date": "2026-07-07T07:23:21+00:00",
+      "text": "Falcon 9 landing confirmed\n\nVideo",
+      "url": "https://x.com/SpaceX/status/2074393818850357568",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-07T06:41:37+00:00",
+      "text": "RT by @elonmusk: Image",
+      "url": "https://x.com/TheAliceSmith/status/2074383315566477551",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
       "date": "2026-07-06T19:29:36+00:00",
       "text": "Imagine what it will be like if 5 years from now models have improved on Fable as much as Fable has improved on GPT3.\n\n\nJared Friedman (@snowmaker)\n\nFable is so insanely good.  Deserves the hype.\n\n\n\n— https://nitter.net/snowmaker/status/2073948669536260163#m",
       "url": "https://x.com/paulg/status/2074214198712680947",
       "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-06T19:18:22+00:00",
+      "text": "Mambo Italiano (@mamboitaliano__)\n\nMore chilling news from the recent crime in Milan 🇮🇹\n\nAn innocent 55-year-old IT worker, sitting in a bar having breakfast, was stabbed twenty times by a Ghanaian youth who said\n\n“I had fun, if I get out, I’ll do it again”\n\nSpeechless at the madness that has gripped our countries\n\n\n\n\n\n— https://nitter.net/mamboitaliano__/status/2074148673982726562#m",
+      "url": "https://x.com/IterIntellectus/status/2074211370464153863",
+      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -122,174 +290,6 @@
       "text": "There is an interesting implicit claim here: that mobile and internet revenues grew at the same rate. It would be interesting to know if that is in fact true.",
       "url": "https://x.com/paulg/status/2073712079270211914",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-05T10:10:32+00:00",
-      "text": "AI companies are making a lot of money. Apparently the revenues from this wave of technology are growing \"roughly three times more rapidly than the mobile or Internet waves.\"\n\n\nAzeem Azhar (@azeem)\n\nThe GenAI economy has generated $110 billion in sales over the past 12 months. It is growing fast. On an annualized basis, the revenue run rate exceeds $175 billion.\n\nThese numbers took us several months to construct, and as far as we know, it’s the first bottom-up, deduplicated measure of consumer and enterprise AI spending across the full stack.\n\nWe are releasing this research today in our first The State of the AI Economy report.\n\nintelligence.exponentialview…\n\n\n\n\n\n— https://nitter.net/azeem/status/2070113886884552755#m",
-      "url": "https://x.com/paulg/status/2073711117298188369",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-05T05:12:04+00:00",
-      "text": "they really nailed it with \"life, liberty, and the pursuit of happiness\"",
-      "url": "https://x.com/sama/status/2073636003215249515",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-05T05:11:42+00:00",
-      "text": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in history.",
-      "url": "https://x.com/sama/status/2073635910512726444",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-05T00:47:58+00:00",
-      "text": "Some fun charts:\n1. Each US generation is wealthier than the last.",
-      "url": "https://x.com/SashaGusevPosts/status/2073569543167873221",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T22:15:16+00:00",
-      "text": "Man do I want Paraguay to lose. Not just because they deserve to, but because I don't want to have to watch any more of them.",
-      "url": "https://x.com/paulg/status/2073531112802926831",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T19:07:38+00:00",
-      "text": "One of the great chapters in America's history is how we converted our economy to wartime production in the 1940s and used our industrial power to win WWII.\n\nI'd learned in high school that we converted car factories into tank factories.  But I never knew the full story until last month, when I read Freedom's Forge, the definitive book on this.\n\nIt turns out the true story is even crazier and more impressive.  In honor of July 4th, here's the  story of how America won WWII, one factory at a time.",
-      "url": "https://x.com/snowmaker/status/2073483893748163051",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T18:24:35+00:00",
-      "text": "Flying Overture will be nicer than flying domestic first class—at 2x speed.\n\nWe have ~60 seats in a bigger space than Concorde had 100. Plus taller ceilings, a boarding door 10\" taller (1\" taller than a 737).\n\nThere will be a version with flatbeds for extra long flights too.\n\n\n\n\nRichard Mccrary🇺🇲 (@RichardMccrar20)\n\nPlease tell me your cabin will be more roomy than the Concorde.  Yes, it was fast, but not comfortable.\n\n\n\n— https://nitter.net/RichardMccrar20/status/2073192330815840761#m",
-      "url": "https://x.com/bscholl/status/2073473060242419830",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T17:28:14+00:00",
-      "text": "Jeff Bezos on why the United States has more entrepreneurial success than other countries:\n\nVideo",
-      "url": "https://x.com/JonErlichman/status/2073458879711609119",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T14:54:52+00:00",
-      "text": "RT by @paulg: Image",
-      "url": "https://x.com/johnkrausphotos/status/2073420282983752175",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T04:48:13+00:00",
-      "text": "Happy Birthday America, Land of the Free.\n\nDon’t give up on the First, Second, Fourth, and Ninth Amendments. \n\nThey’re unique, and your freedom - and the worlds’ - depends on them.",
-      "url": "https://x.com/naval/status/2073267613380259840",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T01:31:54+00:00",
-      "text": "You've probably heard this before, but it's always worth repeating. Something extremely cool about the \"Star-spangled Banner,\" the American national anthem, is that it asks a question, and it's the question at the heart of everything in the American worldview.\n\n\"Oh, say, can you see\nBy the dawn's early light\nWhat so proudly we hailed\nAt the twilight's last gleaming...\"\n\nSo the anthem begins with a question and a scene. One man, a patriot, is asking another man, another patriot, \"can you see it?\" at sunrise after a long, dangerous night.\n\nThe \"it\" in question is going to be revealed to be the flag, our \"star-spangled banner,\" which they had last fully recognized and honored as the sun set, daylight failed, and night crept over them the evening before.\n\nCan you see it? Say! Can you see it?!\n\nIS IT STILL THERE?!\n\n\"Whose broad stripes and bright stars\nThrough the perilous fight\nO'er the ramparts we watched\nWere so gallantly streaming...\"\n\nHere we find that the \"it\" is in fact the flag, our star-spangled banner, and we learn why the question is being asked. \n\nThe flag is described as having flown and streamed gallantly over ramparts of war through a perilous fight. All could have been lost. The flag, and even the fledgling country for which it stands, one nation under God and indivisible.\n\nSay! Can you see it? Now that the light is back?\n\nIS IT STILL THERE?!\n\n\"--And the rockets' red glare,\nThe bombs bursting in air,\nGave proof through the night\nThat our flag was still there!--\"\n\nThey could see it through the battle in the light of the rockets and bombs that threatened them, here and there in quick glimpses. But it was still there throughout! But now? At dawn?\n\nSay! Can you see?\n\nIS IT STILL THERE?!\n\n\"Oh, say, does that star-spangled banner yet wave\nO'er the land of the free\nAnd the home of the brave?\"\n\nThe urgency is palpable with every refrain. They have to know. It's the first thing they must know as the sun begins to light the sky, even before it rises.\n\nIS IT STILL THERE?!\n\nSay! Say!! Can you see? Can you see it?!\n\nAt the heart of every American beats the fundamental truth and reality that what we have here is precious, that it's worth fighting for, to the death if necessary, and that it's fragile. That at any moment it can be lost. That we have to remember to look for it because last night might have been the night in which it failed. \n\nEvery day, every year, every generation.\n\nThe American fight for freedom, to live in self-governance within ordered liberty, is ongoing and never-ending. The price of the land of the free is that it must be the home of the brave. We have to defend it, defend it, and defend it again, against all enemies foreign and domestic, because what we have is amazing, rare, fragile, and worth every cent of treasure, every drop of blood, and every risk to our sacred honor to protect it.\n\nOur anthem is not a declaration. It is not a proclamation. It is not a statement.\n\nIt is a question.\n\nEvery time we sing our wholly unique national anthem, we as American ask the question again. IS IT STILL THERE?! Are we still America? Does that star-spangled banner yet wave?\n\nBecause it's a question, the answer is not known. It is not a guarantee. It cannot be taken for granted and isn't. And what an honor to ask and take up our part in the story, in the American Experiment, in the greatest country the world has ever known.\n\nFor tonight, the last night of our first 250 years, as the sun gave way to twilight's last gleaming and darkness overtook our land once again, the answer was still yes. We can see it even tonight in the red glare of rockets, with small bombs bursting in air, fill the sky with the noble tribute of fireworks once again.\n\nAnd we all ask ourselves, will it still be flying at dawn?\n\nThis is what it means to be an American.\n\nHappy 250th, America! Now for many happy returns!\n🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
-      "url": "https://x.com/ConceptualJames/status/2073218210250256404",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-04T00:00:51+00:00",
-      "text": "Our goal is to capture how founders really talk when no one is watching.\n\n\nNaval (@naval)\n\nNew podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/naval/status/2072914445668590003#m",
-      "url": "https://x.com/nivi/status/2073195294637072595",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T22:36:52+00:00",
-      "text": "Every founder in tech would have to leave the state.\n\nThis is what they want. We have to fight back.\n\n\nAusten Allred (@Austen)\n\nIt took about one week for Khanna to get bullied into suggesting his “billionaire tax” should actually be on anyone worth $50 million\n\n\n\n\n\n— https://nitter.net/Austen/status/2073057643854520414#m",
-      "url": "https://x.com/beffjezos/status/2073174159627096450",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T18:56:30+00:00",
-      "text": "Gary Lineker on Gaza, \"It's the worst thing I have seen in my lifetime. Constant images day in, day out of children losing their lives.\"\n\n\"But the minute you raise your voice against it you get accused of being a supporter of Hamas.\"\n\nVideo",
-      "url": "https://x.com/BladeoftheS/status/2073118706016665903",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T18:06:43+00:00",
-      "text": "The problem with black dials: less light bouncing up off the dial makes the crystal seem more reflective. It's like the way windows in a house, from the inside, seem more reflective at night.",
-      "url": "https://x.com/paulg/status/2073106177093771749",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T14:12:03+00:00",
-      "text": "I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post.\n\n piped.video/watch?v=rTc2_-1K…\n\nLink\n\n\n\nThe Return of Claude Fable 5 | First Impressions\n\nhttps://arena.ai/agentAnthropic's Claude Fable 5 is back, and Are...\nyoutube.com",
-      "url": "https://x.com/petergostev/status/2073047118801993910",
-      "author": "karpathy",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T13:48:06+00:00",
-      "text": "khanna's 'billionaire wealth tax,' which is not a tax but an asset seizure in which he tallies everything you own, then demands a percentage *on top* of what you're taxed — every single year — is already targeting anyone worth $50 million or more. this ends with your 401k.\n\n\n\n\nRo Khanna (@RoKhanna)\n\nI make the philosophical case for tax fairness and taxing billionaire wealth. \n\nI welcome an argument on the merits for this new social contract.\n\nRead here:\nopen.substack.com/pub/rokhan…\n\n\n\n— https://nitter.net/RoKhanna/status/2072770677514334558#m",
-      "url": "https://x.com/micsolana/status/2073041094510526467",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T05:24:52+00:00",
-      "text": "Apple: apple.co/4v7TsRi\n\nSpotify: open.spotify.com/episode/0rL…\n\nYouTube: piped.video/6m-ZZBCiiEE\n\nSubstack: open.substack.com/pub/naval/…\n\nLink\n\n\n\nLive in the Future\n\nPodcast Episode · Naval · July 2 · 1h 8m\npodcasts.apple.com",
-      "url": "https://x.com/naval/status/2072914449028329555",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-03T05:24:51+00:00",
-      "text": "New podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\n\nVideo",
-      "url": "https://x.com/naval/status/2072914445668590003",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-02T20:04:57+00:00",
-      "text": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
-      "url": "https://x.com/sama/status/2072773542576586790",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-30T15:00:09+00:00",
-      "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer.",
-      "url": "https://x.com/Etched/status/2071972062202343590",
-      "author": "karpathy",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-26T21:06:45+00:00",
-      "text": "not quite all-you-can-eat tokens, but we are working on it",
-      "url": "https://x.com/sama/status/2070614769678393846",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-26T21:06:21+00:00",
-      "text": "team cooked, spicily\n\n\nOpenAI (@OpenAI)\n\nWe’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products.\n\nChips are foundational to the AI economy. Building our own expands our full-stack platform from products to models to infrastructure, and will help us scale intelligence, serve more people, and expand access to AI.\n\n\n\n\n\n— https://nitter.net/OpenAI/status/2069770172802773292#m",
-      "url": "https://x.com/sama/status/2070614666288795703",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-06-26T20:55:58+00:00",
-      "text": "in other news, we updated the 5.5 instant model used in chatgpt this week.\n\ni like its vibes.",
-      "url": "https://x.com/sama/status/2070612055225483692",
-      "author": "sama",
       "source": "nitter"
     }
   ]
