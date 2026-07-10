@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-09T14:23:48.001084+00:00",
-  "last_success_at": "2026-07-09T14:23:48.001084+00:00",
-  "source": "nitter",
+  "updated_at": "2026-07-10T13:50:35.167327+00:00",
+  "last_success_at": "2026-07-10T13:50:35.167327+00:00",
+  "source": "syndication",
   "error_message": "",
   "items": [
     {
-      "date": "2026-07-09T08:34:34+00:00",
-      "text": "Grok 4.5 on OpenClaw\n\n\nOpenClaw🦞 (@openclaw)\n\nGrok 4.5 from @SpaceXAI is live on OpenClaw.\n\nNo OpenClaw update required, just connect your X Premium or SuperGrok subscription, select Grok 4.5 under the xAI provider, and use an Opus-class model that’s fast, low cost, and ready for agentic work.\n\n\n\n\n\n— https://nitter.net/openclaw/status/2074973471977955556#m",
-      "url": "https://x.com/elonmusk/status/2075136517144535171",
+      "date": "2026-07-09T23:53:57+00:00",
+      "text": "Starmind\n\nhttps://t.co/JJhfTw04Px",
+      "url": "https://x.com/elonmusk/status/2075367885438890134",
       "author": "elonmusk",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-09T08:09:13+00:00",
-      "text": "Good review of Grok 4.5\n\nVideo",
-      "url": "https://x.com/elonmusk/status/2075130137817825315",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T08:07:05+00:00",
-      "text": "Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis\n\nAhead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max)",
-      "url": "https://x.com/XFreeze/status/2075129600850678033",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:50:05+00:00",
-      "text": "Try out Grok 4.5!\n\n\nBoris Skorobogaty (@theskory)\n\nGrok 4.5 is finally the model that can handle the entire workflow end-to-end:\n\n/design <what u want to do>\n/execute-plan <design_output> --effort <desired_effort> --instructions \"your specific guidance\"\n/pr-babysit add <tip of the stack>\n/loop 5m /pr-babysit check\n\nYou come back to a clean, well-scoped PR stack that’s ready to ship with minimal worry.\n\n\n\n\n\n— https://nitter.net/theskory/status/2074979713286647891#m",
-      "url": "https://x.com/elonmusk/status/2075125320521310589",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:23:14+00:00",
-      "text": "Kardashev II or we’re not a serious civilization \n\nMoon and Mars are necessary steps to this\n\n\n\n\n\n\n\n\n\n\nElon Musk (@elonmusk)\n\nThe Moon and Mars\n\n\n\n— https://nitter.net/elonmusk/status/2075117340836962713#m",
-      "url": "https://x.com/ArthurMacwaters/status/2075118564995145860",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:20:21+00:00",
-      "text": "Grok 4.5 is also rank 1 in SWE marathon\n\n\nTech Dev Notes (@techdevnotes)\n\nSpaceXAI has added SWE Marathon benchmark to Grok 4.5 blog  \n\nGrok 4.5 ranks #1 in SWE Marathon\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2075100330828997072#m",
-      "url": "https://x.com/elonmusk/status/2075117841733353498",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:18:22+00:00",
-      "text": "The Moon and Mars\n\n\nJames Stephenson (@ICannot_Enough)\n\n🔊 @elonmusk did a live phone interview earlier today with a guest host of the Sean Hannity radio program, discussing his latest SpaceX timelines. I only caught about the last 5 minutes of it:\n\n“The best way to expand compute is really in space. There’s a lot of room in space and if you look at the size of Earth relative to the sun or relative to the solar system, you realize just how tiny Earth is. We’re very, very tiny. We only receive about half a billionth of The Sun’s energy. So if you really think of Earth as being like a tiny dust mote in a vast darkness. \n\nSo the way to expand compute— without, ya know, using up all the land on Earth— is to do so in space. And then you can do it without using up space for power & water on Earth. You can just do it in space, so… \n\nI think we will probably be launching our first AI satellites next year and then we will probably be able to do that, I think, at large scale in about two years.\n\n<question about a longtime SpaceX welder living the American dream by working hard and becoming a millionaire>\n\nYeah, well, I’ve always had the philosophy that everyone at the company should receive stock in the company so that they can participate in the upside of the company and it’s great for aligning incentives as well, so as the company prospers, then the people at the company— the employees — also prosper, so that’s just been, ya know, my philosophy from Day 1 is just to make sure everyone gets stock in the company, so there are, I think, several thousand people who’ve been – it’s not just one welder – it’s several thousand people who were, you know, working on the production line and started at the company relatively early… then probably their stock is worth over $1 million at this point\n\n<question about Mars timeline>\n\n“Yeah, so, Mars is much harder to get to than the moon and you can only travel to Mars roughly every two years. So Earth and Mars align such that you can travel to Mars only once every 26 months. So that makes it a lot harder than the moon where you can go to the moon pretty much anytime and it only takes a few days to get to the moon whereas it takes about six months to get to Mars. So that’s why we can do the moon faster than we can do Mars.\n\nBut I think, probably, if things go well, we can probably send the first people to Mars in about five years, and then rapidly increase the cadence of sending people to Mars thereafter, so every two years we could dramatically increase the number of ships going to Mars and, ya know, hopefully in a 10 or 12 year timeframe we’ve sent thousands of people to Mars.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ICannot_Enough/status/2074977269982826945#m",
-      "url": "https://x.com/elonmusk/status/2075117340836962713",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:16:01+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2075116747342925967",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:06:48+00:00",
-      "text": "Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.\n\n\nThibault Jaigu (@ThibaultJaigu)\n\nVery impressed by grok-4.5! Awesome job @elonmusk & @mntruell \n\nBest ever score on our internal coding benchmark!!\n\n\n\n\n\n— https://nitter.net/ThibaultJaigu/status/2074964035104059523#m",
-      "url": "https://x.com/elonmusk/status/2075114431462207817",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:02:04+00:00",
-      "text": "Impressive Intelligence vs. Cost for Grok 4.5\n\nI think given terafab + the Tesla FSD team's expertise in making very efficient AI models, this advantage will only continue to compound\n\n\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok is making progress\n\n\n\n— https://nitter.net/elonmusk/status/2075111931682148855#m",
-      "url": "https://x.com/ArthurMacwaters/status/2075113237331525995",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T07:01:31+00:00",
-      "text": "Cool\n\nVideo",
-      "url": "https://x.com/elonmusk/status/2075113099175014559",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T05:21:35+00:00",
-      "text": "I appreciate the many xAI and Cursor engineers who dedicated their time to addressing feedback from Tesla.\n\nI remember meeting Andrew a few weeks after he was hired and telling him that I needed a better client for my work to solve real-world engineering.\n\nGrok Build was not even a thing back then. It was a very primitive client with lots of rough edges but had a lot of potential.\n\nWhen building something from scratch, the only limit is imagination armed with first principles. We encountered many unique use cases to solve diverse workflows, and the teams took prompt feedback and addressed it quickly—to the point that it became an indispensable tool.\n\nNow when my teams need to ask questions, instead of jumping through hoops with various backends or plugins or skills, Grok 4.5 can directly deliver deep insights with minimal setup.\n\nYou can tell the teams love the product like parents love their children when receiving the feedback.\n\nAt this very moment, they are still doing excellent customer service.\n\nThank you, Grok Build team, for helping us be more productive. Looking forward to what comes next.",
-      "url": "https://x.com/yunta_tsai/status/2075087949386109050",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T04:03:26+00:00",
-      "text": "what a good video\n\n\nOpenAI (@OpenAI)\n\nIntroducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling out in ChatGPT starting today.\n\nYou’ll want to turn the sound on for this one.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2074907025537224840#m",
-      "url": "https://x.com/sama/status/2075068286107316317",
+      "date": "2025-11-14T04:48:57+00:00",
+      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
+      "url": "https://x.com/sama/status/1989193813043069219",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-09T03:44:28+00:00",
-      "text": "tbh i dont think sol gets that many dates either\n\n\nMitchell Hashimoto (@mitchellh)\n\nI had early access to 5.6/Sol for ~month. Sol is my default. It is faster, plans/judges just as good as Fable, and I think produces better overall work. I’ll reach for Fable still for highly targeted debug or performance work with clear reward functions. \n\nA cheeky way I describe Sol vs Fable to my friends is that Sol is a charismatic, efficient, talented coworker you’re jealous of. Fable is a genius recluse that is brilliant at its fixations but doesn’t go out, doesn’t date, and you don’t want to hang out with them much lol.\n\nFable is undefeated at highly targeted debug/security/performance goals. It’s a sight to behold and I was never able to get Sol to push as hard in this category. I’ll keep using it for this.\n\nSol is better or comparable at everything else, in my experience. Give it a shot, it’s hard to describe but it’s just more enjoyable to work with. \n\n(Disclaimer I have no financial ties to either lab, wasn’t paid for any of this.)\n\n\n\n— https://nitter.net/mitchellh/status/2074862990214787301#m",
-      "url": "https://x.com/sama/status/2075063511290662996",
+      "date": "2025-11-13T21:12:10+00:00",
+      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
+      "url": "https://x.com/karpathy/status/1989078861800411219",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-11-12T20:28:01+00:00",
+      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
+      "url": "https://x.com/karpathy/status/1988705360723763242",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-30T22:32:49+00:00",
+      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
+      "url": "https://x.com/sama/status/1984025727763935585",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-09T03:02:02+00:00",
-      "text": "Use Grok 4.5 to build full-stack apps with Convex\n\n\nMikeysee (@mikeysee)\n\nWow Grok 4.5 is very impressive at @convex code. Almost perfect score with a very very low run cost! Nice work @SpaceXAI!\n\nWithout the guidelines it is worse as expected so make sure you are using the guidelines file (ai-files) when using Grok 4.5 + Convex.\n\n\n\n\n\n\n\n— https://nitter.net/mikeysee/status/2075030398036492344#m",
-      "url": "https://x.com/grok/status/2075052834324955511",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T02:43:07+00:00",
-      "text": "it surely doesnt\n\n\neric (@ericlim)\n\n5.6 solves depression\n\n\n\n— https://nitter.net/ericlim/status/2074952287097967036#m",
-      "url": "https://x.com/sama/status/2075048072837734448",
+      "date": "2025-10-30T22:24:37+00:00",
+      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
+      "url": "https://x.com/sama/status/1984023663642087831",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-09T02:42:46+00:00",
-      "text": "🫶\n\n\ndax (@thdxr)\n\ni've never hyped a model release, we're generally conservative with how we use these things\n\nbut gpt-5.6 has had a massive impact on our team, we're using 5x the tokens as we used to\n\nit's not even smarter than fable or anything, but it's just so reliable and fun to use\n\n\n\n— https://nitter.net/thdxr/status/2074856006576713973#m",
-      "url": "https://x.com/sama/status/2075047983314571764",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T02:41:50+00:00",
-      "text": "i do love rottweilers\n\n\nPeter Gostev (@petergostev)\n\nMy view of: Fable 5 vs GPT-5.6-Sol. They are not easy models to compare, these are my vibes - take them as you will. \n\nMy overall feel is that Fable is a 'wise owl' who is very thoughtful and very well spoken, GPT-5.6-Sol is like a rottweiler who will grab the problem by the throat and not let go until it is done.\n\nIn other words, Fable, is a fundamentally smarter model - even at low reasoning it can be very insightful and writes in a clear compelling way. GPT-5.6-Sol on the other hand is extremely diligent, I can give it a list of 8 things to do and you will be sure that they will be done.\n\nFable feels more arrogant to me, I was both to get it to build a new benchmark for me - 5.6 worked between 6 hours and 2 days (I tried several times) and it came up with very thoroughly tested, working benchmark. Fable came back within 40 minutes (twice) and the benchmark sounded smart, but was ultimately was 'vibe' based slop and since it was Fable's vibes that was doing the judging, it decided that it was good to go (it kept giving Fable 100% score btw).\n\nSome thoughts by category:\n\nUI & App building: Fable will still craft a better UI from scratch, the flow of the app would probably be a bit nicer. But I find that Fable often misses quite key things, which GPT-5.6-Sol doesn't. GPT's Frontend skills are big jump vs previous GPT models, but still not as great overall.\n\nWriting: Fable is better hands down, Sol feels quite difficult to align to what I want to say or explain things to me simply. Though I think the 'Pro' model writes clearer. \n\nRobustness & Reliability: This is where I think GPT-5.6-Sol wins for me hands down. Fable seems to do things of high quality, but I can never relax with it, it always misses something. With 5.6 this just almost never happens.\n\nOther things where I liked GPT-5.6-Sol, but can't compare to Fable directly.\n - Video editing is actually working now, it is not completely perfect, but with the right skill/guidance you can just give it 1h footage and it can give you a 5 min highlight clip no problem\n - Computer use - getting really rather good, very usable\n - Sub agents - it is very fluent at managing sub-agents and speaking to different threads, can help with some new workflows\n - Adhering to existing code patterns - I love this, even without asking it would implement something in a way that aligns with you app - major problem for slop generation\n - Research - I think it is getting quite a bit better, it still has some bad patterns (e.g being too tactical), but it feels like it is more steerable to be a good researcher \n - Multi-day runs - the /goal feature is pretty insane with 5.6-Sol, you can run it for days if you wanted to and it does work. Useful to have another thread or /side to check up on it, but I have some great results with it\n - Token efficiency - it is so much more token efficient and faster than 5.5, in reality it is now much faster than Fable too\n\nOn the downside, you can feel that Fable is naturally smarter, and I did have some baffling moments with 5.6 when I was getting it to make a fairly simple change in 8 turns - it seemed to get stuck in a dumb stream that was hard to get out of. So it is not AGI, don't get too carried away by the hype. \n \nI have some phenomenal examples that I'm honestly blown away by that I'll share, but as a side anecdote, I have a kind of 'swear meter' which counts how often I'm rude to Codex. In GPT-5.5 era, the % was at around 4-5%, it dropped to 1-2% when I was testing GPT-5.6-Sol and it shot up to 7% when I went back to 5.5 - it was so shocking to go back to 5.5 and experience how much worse it was. \n\nSo is GPT-5.6-Sol better than Fable? On pure intelligence - no. But man, I missed it when I just wanted to get sh*t done. It is insanely capable workhorse that you can give any task to and just expect it to be done. No lectures or 'you are absolutely rightisms', nothing is beneath it, if it takes 2 days to do some dirty work, it will do it.\n\nIt feels like the first time in a while when we have quite different types of frontier intelligences that benchmark sort of similarly, but feel very different. If you can, you would be probably better off using both and iteratively finding what you'd use Fable or GPT-5.6-Sol for. Perhaps, something like - an architectural discussion with Fable, implementation with 5.6 and docs & comms with Fable.\n\n\n\n— https://nitter.net/petergostev/status/2074918176354115886#m",
-      "url": "https://x.com/sama/status/2075047747250684352",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T01:58:20+00:00",
-      "text": "Grok Build mogs Claude Code & Codex TUIs i can't lie. \n\nNot to mention the perf of Grok 4.5...\n\nIt's not even a competition at this point.\n\nGood shit xAI team",
-      "url": "https://x.com/grimcodes/status/2075036803023909196",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T01:35:20+00:00",
-      "text": "A Brown professor gave his students a take-home midterm exam. After suspecting many cheated using AI, he made the final in-person. The orange dots are the midterm scores and the gray dots are the final scores. Looks like all but 3 cheated on the midterm.",
-      "url": "https://x.com/paulg/status/2075031014628311236",
+      "date": "2025-10-30T21:43:40+00:00",
+      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
+      "url": "https://x.com/paulg/status/1984013356576207235",
       "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T23:26:10+00:00",
-      "text": "Symphony HPC rotor build is complete. This is the second coolest thing Boom has ever built.",
-      "url": "https://x.com/bscholl/status/2074998506331214004",
-      "author": "paulg",
-      "source": "nitter"
+      "date": "2025-10-24T16:31:55+00:00",
+      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
+      "url": "https://x.com/karpathy/status/1981760576591393203",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T21:36:19+00:00",
-      "text": ".@Starcloud_ CEO @PhilipJohnston: \"Buy SpaceX stock.\"\n\n\"It's like owning the railroads.\"\n\n\" The SpaceX IPO is going to be viewed historically as the most undervalued IPO of all time.\"\n\n\"They will tear through $10 trillion certainly within the next couple of years, and then have almost unlimited TAM for what they're building.\"\n\n\"I'm not like regulated by anybody. So I'm going to tell people, 'Just buy SpaceX stock.' I think it's a great stock to buy.\"\n\n\"They own what will be by far the most cost-effective launch vehicle, and that opens up every industry in space that will be possible beyond that: asteroid mining, lunar resource mining, all of the comms businesses that are going to be built. Everything else is going to have to go through SpaceX.\"\n\n\"It's like owning the railroads. Lots of businesses will be built on top of it, like our business will be built on top of it.\"\n\n\"The railroads are a great business to own.\"\n\n@elonmusk\n\nVideo",
-      "url": "https://x.com/sourceryy/status/2074970863464825038",
-      "author": "elonmusk",
-      "source": "nitter"
+      "date": "2025-10-20T22:13:40+00:00",
+      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
+      "url": "https://x.com/karpathy/status/1980397031542989305",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T21:17:11+00:00",
-      "text": "How it feels to use Grok 4.5 😎\n\nVideo",
-      "url": "https://x.com/iam_smx/status/2074966046625194202",
-      "author": "elonmusk",
-      "source": "nitter"
+      "date": "2025-10-20T11:31:53+00:00",
+      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
+      "url": "https://x.com/karpathy/status/1980235518706401405",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T21:13:29+00:00",
-      "text": "This 1952 IWC is one of my favorite watches. Timeless design: it's 74 years old and looks like it could have been made yesterday. And timeless engineering: it still runs at +1 sec/day (dial up).",
-      "url": "https://x.com/paulg/status/2074965116118852064",
-      "author": "paulg",
-      "source": "nitter"
+      "date": "2025-10-18T20:23:32+00:00",
+      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
+      "url": "https://x.com/karpathy/status/1979644538185752935",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T20:51:51+00:00",
-      "text": "Grok 4.5 delivering Fable level performance at like 1/17th the cost! 😮 @elonmusk",
-      "url": "https://x.com/DrewPavlou/status/2074959672982073572",
-      "author": "elonmusk",
-      "source": "nitter"
+      "date": "2025-10-17T17:16:05+00:00",
+      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
+      "url": "https://x.com/karpathy/status/1979234976777539987",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T20:02:22+00:00",
-      "text": "Your apple watch can't do this\n\n\nHarsha (@HarshaKaramchat)\n\n\n\n\n\n\n— https://nitter.net/HarshaKaramchat/status/2074523734308958475#m",
-      "url": "https://x.com/ericmigi/status/2074947221796065713",
-      "author": "paulg",
-      "source": "nitter"
+      "date": "2025-10-16T02:47:08+00:00",
+      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
+      "url": "https://x.com/karpathy/status/1978653908663726585",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T20:00:36+00:00",
-      "text": "Grok 4.5 is pretty good at building websites.\n\nJust made a beautiful website about black holes.\n\nCheck this out:\n\nVideo",
-      "url": "https://x.com/doganuraldesign/status/2074946774284882393",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-08T19:51:16+00:00",
-      "text": "I had a pretty similar experience\n\nA bunch of my tweets about missing Fable were actually about missing GPT 5.6 Sol, but I couldn’t say it so said Fable instead \n\nFable is really good and maybe better in some ways, but I vastly prefer GPT 5.6 Sol\n\n\nJay (@jayair)\n\nWe've usually stayed away from model comparisons but 5.6 vs Fable is a unique situation\n\nWe've never had a case where the team is so completely convinced on which one is better\n\nHere's the timeline of our experience with it\n\n- We test early versions of 5.6 for a couple of weeks and have a great time, it feels like a step change improvement, enabling new workflows\n- We get to try Fable and don't think it's not as good, I personally would take this experience with a grain of salt, there tends to be a bias when trying a new model when you already like another\n- Fable and 5.6 are taken away because of the regulatory issues\n- Our team is literally depressed that 5.6 is gone, we are looking for anything that could even partly replace it\n- Fable comes back, and here's where it gets interesting, you would think Fable would be enough, but no, the team is still depressed that 5.6 isn't available \n- Then 5.6 comes back and it's immediately clear that it's just way better than Fable\n\nThis situation was unique in that it was the closest we've ever gotten to having an unbiased comparison of two models\n\n\n\n— https://nitter.net/jayair/status/2074929399842078839#m",
-      "url": "https://x.com/mweinbach/status/2074944427689202158",
+      "date": "2025-10-14T16:02:42+00:00",
+      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
+      "url": "https://x.com/sama/status/1978129344598827128",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T19:43:26+00:00",
-      "text": "Has anyone run the math on how much state tax revenue California would have collected from the SpaceX IPO had they not driven Elon out?",
-      "url": "https://x.com/Cernovich/status/2074942453736767787",
+      "date": "2025-10-13T15:16:53+00:00",
+      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
+      "url": "https://x.com/karpathy/status/1977755427569111362",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-01T17:09:06+00:00",
+      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
+      "url": "https://x.com/karpathy/status/1973435013875314729",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-01T04:50:49+00:00",
+      "text": "Envy is a sign that you ought to be doing more with your life.",
+      "url": "https://x.com/naval/status/1973249218845483439",
       "author": "naval",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T18:51:33+00:00",
-      "text": "We've usually stayed away from model comparisons but 5.6 vs Fable is a unique situation\n\nWe've never had a case where the team is so completely convinced on which one is better\n\nHere's the timeline of our experience with it\n\n- We test early versions of 5.6 for a couple of weeks and have a great time, it feels like a step change improvement, enabling new workflows\n- We get to try Fable and don't think it's not as good, I personally would take this experience with a grain of salt, there tends to be a bias when trying a new model when you already like another\n- Fable and 5.6 are taken away because of the regulatory issues\n- Our team is literally depressed that 5.6 is gone, we are looking for anything that could even partly replace it\n- Fable comes back, and here's where it gets interesting, you would think Fable would be enough, but no, the team is still depressed that 5.6 isn't available \n- Then 5.6 comes back and it's immediately clear that it's just way better than Fable\n\nThis situation was unique in that it was the closest we've ever gotten to having an unbiased comparison of two models",
-      "url": "https://x.com/jayair/status/2074929399842078839",
+      "date": "2025-09-26T16:01:58+00:00",
+      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
+      "url": "https://x.com/karpathy/status/1971606180553183379",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T19:36:02+00:00",
+      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
+      "url": "https://x.com/sama/status/1971297661748953263",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T18:05:04+00:00",
-      "text": "We cannot integrate our military with Israel’s and lose our sovereignty. \n\nAs a senior member of the Armed Services Committee, I am leading the fight to strip Section 224 from the Defense Authorization Act.\n\nVideo",
-      "url": "https://x.com/RepRoKhanna/status/2074917700220883153",
-      "author": "paulg",
-      "source": "nitter"
+      "date": "2025-09-25T14:29:13+00:00",
+      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
+      "url": "https://x.com/karpathy/status/1971220449515516391",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T17:58:26+00:00",
-      "text": "Try Grok 4.5 in the API, Grok Build, and Cursor\n\n\nSpaceXAI (@SpaceXAI)\n\nAnnouncing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency.\n\nx.ai/news/grok-4-5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2074915721684086811#m",
-      "url": "https://x.com/milichab/status/2074916029848027636",
+      "date": "2025-09-25T13:53:09+00:00",
+      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
+      "url": "https://x.com/karpathy/status/1971211372190106029",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-21T22:52:42+00:00",
+      "text": "For Charlie https://t.co/8092jIt319",
+      "url": "https://x.com/elonmusk/status/1969897602524328440",
       "author": "elonmusk",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T17:30:49+00:00",
-      "text": "GPT-live (next-generation voice) launches today in ChatGPT.\n\nit feels magical and 'real'.\n\ni have always preferred typing to talking to an AI, now i think that's going to shift.",
-      "url": "https://x.com/sama/status/2074909079450050629",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-08T13:01:28+00:00",
-      "text": "Jessica decided 14 yo and I needed haircuts and made appointments for us. A traffic jam made us late, so only he actually got a haircut. When I got home I asked Jessica if she liked my hair, and she said yes, so everyone's happy.",
-      "url": "https://x.com/paulg/status/2074841296800284750",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-08T12:46:59+00:00",
-      "text": "The Atlantic’s new cover story by @rosehorowitch is absolutely definitive on the end of the age of reading in America—and the emergence of a new post-literate age in modern life\n\nSome core facts and anecdotes:\n\n1. Reading is shrinking. The share of Americans who read for pleasure declined by 43 percent between 2004 and 2023. While Americans might see more words than ever—between all those texts, posts, emails, and captions—less than half of Americans read books, anymore. The average sentence in NYT bestsellers are one-third shorter than a century ago.\n\n2. Americans can swallow words and sentences, but they’re losing the ability to think deeply about writing that’s longer than an Instagram post. Nearly 30 percent of American adults cannot paraphrase or make inferences from a multipage text. In 2017, that number was less than 20 percent.\n\n3. It’s worse for the young. Fourth- and eighth-grade reading scores have slid for the past decade. From 1984 to 2025, the percentage of 13-year-olds who said they rarely or never read for fun rose from 8 to 29 percent.\n\n4. “Every year older a child gets, the less they like to read”: Most high-schoolers consider reading for pleasure an alien practice. Margaret Rennix, Harvard’s assistant director for humanities and social-sciences support, says some students view reading as an unnecessarily burdensome way of acquiring knowledge. “By asking them to read,” she said, it's as if “professors are arbitrarily withholding information from students by forcing them to get it through this more difficult medium.”\n\ntheatlantic.com/magazine/202…\n\nLink\n\n\n\nThe End of Reading Is Here\n\nOptimists once believed that universal literacy was inevitable. Now it seems that the age of reading might be a short anomaly in human history.\ntheatlantic.com",
-      "url": "https://x.com/DKThomp/status/2074837653363564911",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-08T12:39:49+00:00",
-      "text": "If you’re making a new gas turbine, how big should it be?\n\nDecades ago, the computing industry figured out that large arrays of blade servers were both cheaper and more reliable than a small number of expensive mainframes. \n\nYet the energy world is still largely powered by gigantic “frame” turbines that are hard to make and difficult to install. \n\nI think the future of energy—particularly for off-grid “behind the meter” generation —is small modular production. \n\nBut how small should you go? If you go too small there is a big loss in efficiency (due to things like higher relative blade tip losses). \n\nBut there’s a sweet spot in the 40-50MW range where the turbine has most of the efficiency of a gigantic unit yet is also much more manufacturable and deployable. This is the sweet spot is in total cost per unit energy, inclusive of capital expenditure. \n\nThis is why Superpower sits at the ever magical 42MW.",
-      "url": "https://x.com/bscholl/status/2074835846344392975",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-08T09:22:59+00:00",
-      "text": "The test of a description of a product is how much closer I am after hearing it to being able to reproduce it. So e.g. \"transform the way people interact with images\" has almost zero descriptive value. If I had to make this, where would I even start?",
-      "url": "https://x.com/paulg/status/2074786313908162679",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-08T09:20:03+00:00",
-      "text": "Elon Musk reveals the environmentalist viewpoint he says has become total madness\n\n\"There are 8 billion people on Earth and it would be better if there were none. I'm like, 'hey buddy, you can start with yourself. See if you really want to make a difference'\"\n\n\"That's like a crazy viewpoint. That's like literally saying, let's genocide humanity. How can you say that with a straight face? That sounds like total madness\"\n\n\"In the limit of environmentalism, it becomes like an ingrown toenail. A toenail's fine, but not if it's warped and ingrown. It's just gone too far\"\n\n\"Humanity is not a blight on the face of the Earth\"\n\n\"Even with climate change, life on Earth will still continue. The calamities Earth has suffered where life continued, gigantic meteorite impacts, super volcanoes, continents drifting all over the place\"\n\n\"There've been times in Earth's past where it's been like a total snowball or absolutely sweltering hot. We had many extinction events, but life continued\"\n\n\"We don't see the dinosaurs now, but they had a good run for 100 plus million years\"\n\n\"Even if there's catastrophic climate change, life continues. It just may not be life as we know it. It may not be humans, it'll be something else\"\n\n\"What we're talking about with climate change is not a threat to all life on Earth, but really maybe a threat to humans, a dislocation if low-lying countries end up underwater\"\n\n\"Over time we need to move to a sustainable energy economy. We can't just keep taking billions of tons of carbon from deep underground and putting it in the atmosphere and expect nothing will happen forever\"\n\n\"But we also don't need to be alarmist about it and super negative and massively disrupt people's lifestyles\"\n\n\"People can continue to live a normal life. They shouldn't feel guilty about being human or having a stake. It's fine\"\n\nVideo",
-      "url": "https://x.com/jaynitx/status/2074785574700064861",
+      "date": "2025-09-21T17:45:48+00:00",
+      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
+      "url": "https://x.com/elonmusk/status/1969820370988658701",
       "author": "elonmusk",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T06:15:39+00:00",
-      "text": "My big takeaway is that both Sol & Fable represent jumps over previous models and have opened a large gap with the next-best AIs. People will have preferences for one or the other, but if you doing any work where better intelligence matters, those two models are your only choices",
-      "url": "https://x.com/emollick/status/2074739169725685979",
+      "date": "2025-09-21T08:04:26+00:00",
+      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
+      "url": "https://x.com/paulg/status/1969674065322656109",
       "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-07-08T04:15:52+00:00",
-      "text": "GPT-5.6 sol launches thursday!\n\nhappy building",
-      "url": "https://x.com/sama/status/2074709023807664454",
+      "date": "2025-09-21T06:28:00+00:00",
+      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
+      "url": "https://x.com/paulg/status/1969649795988902276",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-05T17:38:51+00:00",
+      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
+      "url": "https://x.com/karpathy/status/1964020416139448359",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-05T01:25:55+00:00",
+      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
+      "url": "https://x.com/naval/status/1963775570673885190",
+      "author": "naval",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-03T22:21:17+00:00",
+      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
+      "url": "https://x.com/sama/status/1963366714684707120",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-01T13:46:53+00:00",
+      "text": "It's official. It's genocide.",
+      "url": "https://x.com/paulg/status/1962512489452618056",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-01T13:44:57+00:00",
+      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
+      "url": "https://x.com/paulg/status/1962512000656838804",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-30T10:44:17+00:00",
+      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
+      "url": "https://x.com/paulg/status/1961741758951309683",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-27T20:17:24+00:00",
+      "text": "@travelingclatt What have you invented?",
+      "url": "https://x.com/paulg/status/1960798824055906334",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-25T06:32:48+00:00",
+      "text": "My God. Each pair of shoes is a child's life.",
+      "url": "https://x.com/paulg/status/1959866534102446505",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-24T16:06:26+00:00",
+      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
+      "url": "https://x.com/paulg/status/1959648504021655586",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-22T19:35:14+00:00",
+      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
+      "url": "https://x.com/sama/status/1958976273319174362",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-22T16:01:07+00:00",
+      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
+      "url": "https://x.com/sama/status/1958922390731464805",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-21T20:52:26+00:00",
+      "text": "Make God your only boss.",
+      "url": "https://x.com/naval/status/1958633313272570250",
+      "author": "naval",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-18T22:45:02+00:00",
+      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
+      "url": "https://x.com/karpathy/status/1957574489358873054",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-18T22:18:22+00:00",
+      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
+      "url": "https://x.com/paulg/status/1957567774882164784",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-16T17:12:02+00:00",
+      "text": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
+      "url": "https://x.com/karpathy/status/1956765908078387382",
+      "author": "karpathy",
+      "source": "syndication"
     }
   ]
 }
