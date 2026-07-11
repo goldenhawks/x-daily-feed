@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-10T13:50:35.167327+00:00",
-  "last_success_at": "2026-07-10T13:50:35.167327+00:00",
-  "source": "syndication",
-  "error_message": "",
+  "updated_at": "2026-07-11T12:45:35.303654+00:00",
+  "last_success_at": "2026-07-11T12:45:35.303654+00:00",
+  "source": "nitter",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
     {
-      "date": "2026-07-09T23:53:57+00:00",
-      "text": "Starmind\n\nhttps://t.co/JJhfTw04Px",
-      "url": "https://x.com/elonmusk/status/2075367885438890134",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-14T04:48:57+00:00",
-      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
-      "url": "https://x.com/sama/status/1989193813043069219",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-13T21:12:10+00:00",
-      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
-      "url": "https://x.com/karpathy/status/1989078861800411219",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-12T20:28:01+00:00",
-      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
-      "url": "https://x.com/karpathy/status/1988705360723763242",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:32:49+00:00",
-      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
-      "url": "https://x.com/sama/status/1984025727763935585",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:24:37+00:00",
-      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
-      "url": "https://x.com/sama/status/1984023663642087831",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T21:43:40+00:00",
-      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
-      "url": "https://x.com/paulg/status/1984013356576207235",
+      "date": "2026-07-11T11:47:12+00:00",
+      "text": "The market interprets unions as damage and routes around them.\n\n\nReem Ibrahim (@ReemAmirIbrahim)\n\nRhode Island has become the first U.S. state to force grocery stores to keep a 1:3 ratio of cashiers to self-checkouts.\n\nFailure to comply can result in fines of up to $500 per day.\n\nMore in @reason 👇\n\n\n\n\n\n— https://nitter.net/ReemAmirIbrahim/status/2075258527082291469#m",
+      "url": "https://x.com/paulg/status/2075909770469331397",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-10-24T16:31:55+00:00",
-      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
-      "url": "https://x.com/karpathy/status/1981760576591393203",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-11T11:21:29+00:00",
+      "text": "Someone sent me an email that used \"it's\" for the possessive and I thought \"At least it's not AI.\"",
+      "url": "https://x.com/paulg/status/2075903296770846733",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-10-20T22:13:40+00:00",
-      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
-      "url": "https://x.com/karpathy/status/1980397031542989305",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-20T11:31:53+00:00",
-      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
-      "url": "https://x.com/karpathy/status/1980235518706401405",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-18T20:23:32+00:00",
-      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
-      "url": "https://x.com/karpathy/status/1979644538185752935",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-17T17:16:05+00:00",
-      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
-      "url": "https://x.com/karpathy/status/1979234976777539987",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-16T02:47:08+00:00",
-      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
-      "url": "https://x.com/karpathy/status/1978653908663726585",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-14T16:02:42+00:00",
-      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
-      "url": "https://x.com/sama/status/1978129344598827128",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-13T15:16:53+00:00",
-      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
-      "url": "https://x.com/karpathy/status/1977755427569111362",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-01T17:09:06+00:00",
-      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
-      "url": "https://x.com/karpathy/status/1973435013875314729",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-01T04:50:49+00:00",
-      "text": "Envy is a sign that you ought to be doing more with your life.",
-      "url": "https://x.com/naval/status/1973249218845483439",
+      "date": "2026-07-11T04:47:50+00:00",
+      "text": "You won’t get rich just working hard, but if you don’t work hard, you won’t get rich.",
+      "url": "https://x.com/naval/status/2075804235191714160",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-26T16:01:58+00:00",
-      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
-      "url": "https://x.com/karpathy/status/1971606180553183379",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T19:36:02+00:00",
-      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
-      "url": "https://x.com/sama/status/1971297661748953263",
+      "date": "2026-07-10T17:59:43+00:00",
+      "text": "Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice.\n\nNow that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday.\n\nWe’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a *lot* of excitement for GPT 5.6 Sol, ChatGPT Work on mobile & web, but also that we didn't get everything quite right.\n\n- We made it too easy to use the highest-compute settings without making the impact on usage limits sufficiently clear.\n- We reorganized the desktop app in one bold move, making familiar things like chats and projects harder to find.\n- Our launch framing was focused on ChatGPT Work and to some of our Codex fans it made it feel like Codex was going away over time. Absolutely not our intention, we love Codex and it is here to stay.\n- And we introduced regressions for some existing multi-agent workflows, alongside a collection of rough edges in plugins and other parts of the experience.\n\nWe’re landing a first set of improvements today. We’re resetting usage twice so people can keep experimenting, changing defaults and the model picker so they don’t push people toward unnecessarily expensive settings, fixing several plugin submission issues, improving how we represent Codex in the product, and cleaning up some of the most immediate desktop problems.\n\nA larger set of improvements will land next week. We’re bringing chats and projects back into the sidebar in a more familiar and customizable way, making usage and reset timing much more visible, clarifying when to use ChatGPT Work and when to use Codex, and addressing the many other smaller pieces of great feedback we've had.\n\nThe ambition behind this launch hasn’t changed. We think bringing ChatGPT and Codex together into a workspace where people and agents can collaborate is a very important step forward. But an ambitious direction doesn’t excuse avoidable confusion or regressions in the first version.\n\nPlease keep the feedback coming. We’re moving quickly, and you should see the experience already get better with a few updates today; and substantially better again next week.",
+      "url": "https://x.com/thsottiaux/status/2075641131002700120",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-25T14:29:13+00:00",
-      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
-      "url": "https://x.com/karpathy/status/1971220449515516391",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T13:53:09+00:00",
-      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
-      "url": "https://x.com/karpathy/status/1971211372190106029",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T22:52:42+00:00",
-      "text": "For Charlie https://t.co/8092jIt319",
-      "url": "https://x.com/elonmusk/status/1969897602524328440",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T17:45:48+00:00",
-      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
-      "url": "https://x.com/elonmusk/status/1969820370988658701",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T08:04:26+00:00",
-      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
-      "url": "https://x.com/paulg/status/1969674065322656109",
+      "date": "2026-07-10T17:47:07+00:00",
+      "text": "Congratulations to Don Knight, who just won the American Bar Association's Guiding Hand of Counsel award. No one has worked harder — or more ingeniously — to defend the innocent.",
+      "url": "https://x.com/paulg/status/2075637956728021081",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-21T06:28:00+00:00",
-      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
-      "url": "https://x.com/paulg/status/1969649795988902276",
+      "date": "2026-07-10T17:33:08+00:00",
+      "text": "oh man im so excited for the next 2 weeks. I have probably the strongest group of YC founders I've ever worked with, and I can't wait for everyone to see what they launch. \n\nstay tuned",
+      "url": "https://x.com/agupta/status/2075634439388893567",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T17:38:51+00:00",
-      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
-      "url": "https://x.com/karpathy/status/1964020416139448359",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-10T15:44:56+00:00",
+      "text": "again, big picture, donald trump won an election about affordability and then he \n\n- passed tariffs (which raise consumer prices)\n- expanded the deficit w a ginormous corporate tax cut (raises interest rates)\n- waged a stupid war (raises gas prices)\n- and now refuses to sign a bipartisan bill to reduce housing costs bc he's protesting senate republicans for failing to pass voting restrictions\n\n... while making $2 billion from crypto rug pulls that transferred income from his supporters to his bank account\n\namericans hate the president for very good reasons",
+      "url": "https://x.com/DKThomp/status/2075607212332859401",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T01:25:55+00:00",
-      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
-      "url": "https://x.com/naval/status/1963775570673885190",
+      "date": "2026-07-10T14:56:44+00:00",
+      "text": "Read the article you referenced Congressman @RoKhanna. It refutes you.\n\nBarzar earns $32.90 an hour, has over $1 million in his 401(k), $15 co-pays, a house with a pool, and had every one of his wife's three brain surgeries covered in full. Costco gave him this. Not Congress. Not a wealth tax. Not you. A private company, freely, because paying and keeping good workers is good business.\n\nThat's the whole point you keep missing. Costco proves the market rewards productive labor without a single mandate. Their stock is up 2,000% doing it. The \"living wage\" you want to force already exists where value is freely traded, and it was built by the very system you spend your days attacking.\n\nSo what's your actual purpose? Barzar isn't bitter. He's grateful, and proud, and he built a good life. \n\nYou'd rather teach the man with less to resent the man with more, when Costco shows there's nothing to resent, only something to aspire to.\n\nThe producer earns his reward. Envy earns nothing. Stop selling grievance and let the market you fear keep lifting men like Tony Barzar.\n\n\nRo Khanna (@RoKhanna)\n\nIf workers actually earned a living wage and could afford a middle class life, there would be so much less bitterness and anger in our society. Costco shows that policies of a living wage and worker ownership can also be good for business. wsj.com/business/retail/he-e…\n\nLink\n\n\n\nHe Earns $33 an Hour as a Costco Cashier. Now He’s a Millionaire.\n\nLong-tenured workers like cashier Tony Barzar are reliable, experienced and able to speed shoppers through a checkout line. Costco is willing to pay to keep them around.\nwsj.com\n\n\n\n\n— https://nitter.net/RoKhanna/status/2075584359126499699#m",
+      "url": "https://x.com/theobjectivist/status/2075595081625518498",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-03T22:21:17+00:00",
-      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
-      "url": "https://x.com/sama/status/1963366714684707120",
+      "date": "2026-07-10T14:18:13+00:00",
+      "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot\n\nopenai.com/index/gpt-5-6-pre…\n\nLink\n\n\n\nGPT-5.6 is now the preferred model in Microsoft 365 Copilot\n\nLearn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.\nopenai.com",
+      "url": "https://x.com/sama/status/2075585386441789605",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-01T13:46:53+00:00",
-      "text": "It's official. It's genocide.",
-      "url": "https://x.com/paulg/status/1962512489452618056",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-01T13:44:57+00:00",
-      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
-      "url": "https://x.com/paulg/status/1962512000656838804",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-30T10:44:17+00:00",
-      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
-      "url": "https://x.com/paulg/status/1961741758951309683",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-27T20:17:24+00:00",
-      "text": "@travelingclatt What have you invented?",
-      "url": "https://x.com/paulg/status/1960798824055906334",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-25T06:32:48+00:00",
-      "text": "My God. Each pair of shoes is a child's life.",
-      "url": "https://x.com/paulg/status/1959866534102446505",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-24T16:06:26+00:00",
-      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
-      "url": "https://x.com/paulg/status/1959648504021655586",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T19:35:14+00:00",
-      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
-      "url": "https://x.com/sama/status/1958976273319174362",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T16:01:07+00:00",
-      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
-      "url": "https://x.com/sama/status/1958922390731464805",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-21T20:52:26+00:00",
-      "text": "Make God your only boss.",
-      "url": "https://x.com/naval/status/1958633313272570250",
+      "date": "2026-07-10T14:11:27+00:00",
+      "text": ".@naval on Tech Education: “Technology is a form of leverage—and it's the ultimate form of leverage.\n\nIf I'm a programmer, what people don't realize is that I have a million robots working for me.\n\nIf I come up with an idea, I code that idea up, and now a million robots carry that idea. They're just sitting in a data center—for heat, efficiency, and space reasons—loaned to me by Amazon through AWS, who takes a small cut.\n\nThat leverage means that if I decide on the right thing to do versus the wrong thing to do, I can make $100 million—or zero. It's a very wide swing.\n\nSomeone who isn't leveraged through technology doesn't have that force multiplier. Someone working in a traditional industry doesn't have that same advantage.\n\nWhen we talk about the distribution of capital, we're used to thinking of money as the main source of capital.\n\nBefore that, the main source of capital was people.\n\nHow many people are working for you?\n\nThat's why older generations tend to be impressed by how many employees you have. People who are a little more savvy ask how much money you're managing or how much revenue you're doing.\n\nBut the correct question is:\n\nHow many robots are working for you?\n\nHow many programmers are working for you?\n\nHow many machines are working for you?\n\nBecause those are the ultimate force multipliers.\n\nSo I believe the way forward is through technology education.\n\nWhere technology education falls down is that it's really popular to preach education for kids. Everybody wants to educate kids—because kids can't talk back. They have no choice.\n\nGo to school. Sit down. Shut up. Learn.\n\nBut what about adults?\n\nWe have this myth that adults can't be educated. That adults either self-educate or they can't be educated at all.\n\nWe believe that if you're 45 years old and you lose your job because your factory shuts down, you're done.\n\nYour only options are:\n\nSociety has to bail you out because you're destitute.\nOr we artificially preserve your job through tariffs, trade barriers, or tax breaks—even though the world no longer needs that job.\n\nInstead, I think we need a culture of adult education.\n\nImagine a model where every four years it was socially acceptable—and financially supported—for you to go back to school for a year.\n\nYou'd say:\n\n\"This is my school year.\"\n\nMaybe this year you're going to learn electronics.\n\nYou spend a year learning electronics.\n\nYou could be 54 years old and learning electronics.\n\nThat should be a normal part of society.\n\nWe need continuous education built into society because the leverage you're craving is actually permissionless.\n\nIt's available to everybody.\n\nBut it's knowledge-based.\n\nThe gate isn't a banker sitting on a pile of money.\n\nThe gate is knowledge.\n\nIt's building of that knowledge.\n\nAnd the sharing of that knowledge.”\n\nVideo",
+      "url": "https://x.com/samweinstein/status/2075583683529228429",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:45:02+00:00",
-      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
-      "url": "https://x.com/karpathy/status/1957574489358873054",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-10T13:55:24+00:00",
+      "text": "makes us happy to see people love 5.6 sol so much!",
+      "url": "https://x.com/sama/status/2075579646373216282",
+      "author": "sama",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:18:22+00:00",
-      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
-      "url": "https://x.com/paulg/status/1957567774882164784",
+      "date": "2026-07-10T13:52:53+00:00",
+      "text": "the sun is out today\n\n\nTibo (@thsottiaux)\n\nTo celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours.\n\nWe want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring!\n\n\n\n— https://nitter.net/thsottiaux/status/2075452680760443190#m",
+      "url": "https://x.com/sama/status/2075579012223787402",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T12:44:40+00:00",
+      "text": "If you get an email from me, it’s fake.\n\n\nAnkur Nagpal (@ankurnagpal)\n\nPSA: There is a nasty impersonation scam going around with USVC at the moment\n\nIf you get an email from me or @naval asking about your USVC investment, it's likely fake:\n\n1. Naval will never email you.  He's allergic to email.\n\n2. If it's from me or someone else from the USVC team, check the domain of the sender before responding. We'll only ever email from a usvc or angellist domain\n\nBe careful out there\n\n\n\n\n\n— https://nitter.net/ankurnagpal/status/2075559812922749279#m",
+      "url": "https://x.com/naval/status/2075561846317490393",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T12:36:36+00:00",
+      "text": "PSA: There is a nasty impersonation scam going around with USVC at the moment\n\nIf you get an email from me or @naval asking about your USVC investment, it's likely fake:\n\n1. Naval will never email you.  He's allergic to email.\n\n2. If it's from me or someone else from the USVC team, check the domain of the sender before responding. We'll only ever email from a usvc or angellist domain\n\nBe careful out there",
+      "url": "https://x.com/ankurnagpal/status/2075559812922749279",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T10:45:46+00:00",
+      "text": "17 yo says his policy for hugs is to stop short of Paraguayan defenders during a corner kick.",
+      "url": "https://x.com/paulg/status/2075531922302816371",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-16T17:12:02+00:00",
-      "text": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
-      "url": "https://x.com/karpathy/status/1956765908078387382",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-07-10T09:27:46+00:00",
+      "text": "A British surgeon tells the BBC what he saw in Gaza.\n\n\"I can remember one child for example who was 7, Amir... He heard a drone above him, turned round, and then it fired on him. And we had many many reports like that from children and adults.\"\n\nVideo",
+      "url": "https://x.com/paulg/status/2075512293555630181",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T07:56:36+00:00",
+      "text": "Can today’s frontier models reliably decode data from a real scientific instrument?\n\nWe gave four of them a raw recording from a 1,024-microphone acoustic camera and asked for heatmaps showing where the sound comes from.",
+      "url": "https://x.com/Qokedas/status/2075489350813618666",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T03:52:43+00:00",
+      "text": "8-year-old is spending most of the summer on grandpa’s farm and I’m not sure we’ll ever get him back\n\nVideo",
+      "url": "https://x.com/Austen/status/2075427975932035565",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T03:33:24+00:00",
+      "text": "While AI is making coding less rigid, we’re making the runtime more rigid. \n\nI’m noticing our infra teams writing formal specs for the first time. More deterministic systems. More resilient infrastructure.\n\nThe faster you want to move, the more solid the ground beneath you has to be.",
+      "url": "https://x.com/amasad/status/2075423115052790054",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T23:01:28+00:00",
+      "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person.\n\nwe all wish her the best for a speedy recovery. this sucks.\n\n\nFidji Simo (@fidjissimo)\n\nToday, I shared with the OpenAI team that I have decided to leave my full-time role at OpenAI and transition to being a part-time advisor.\n\nThree months ago, I had to go on medical leave after a severe exacerbation of a chronic illness I’ve lived with for seven years. During that time, it became clear that the road to recovery would be much longer and more complex than I had anticipated—and that I needed to focus on it fully.\n\nWhen I went on leave, many people told me I was courageous for prioritizing my health. The truth is that I am only making this decision now because I failed to make it many times before.\n\nOver the years, doctors, friends, colleagues, and loved ones encouraged me to slow down. Two years after I got sick, Facebook offered me the opportunity to take a full year of medical leave. I didn’t even pause to consider it. I immediately said no. At the time, Zuck told me I should play the long game. I wish I had listened.\n\nLooking back, I realize that a lot of what made me successful also made this decision incredibly difficult.\n\nI grew up believing that opportunities were precious and that when they appeared, you grabbed them with both hands. That mindset carried me from a small town in southern France to opportunities I never could have imagined. By the time I turned 40, I had already gotten to do more than I’d ever dreamed possible as a kid growing up in Sète.\n\nI love building. My work has always given me a deep sense of purpose. OpenAI in particular felt like a role that my entire career had been building toward, which made this decision even harder.\n\nBut what I’m learning now is that grit and endurance are not the only skills required to have impact over decades. Sometimes the harder thing is to stop, listen, and trust that taking care of yourself today makes it possible to contribute for much longer tomorrow.\n\nThis experience has also strengthened my conviction about why this work matters.\n\nIt has been a jarring experience to spend my days helping build the future while simultaneously navigating a disabling disease that still has no cure.\n\nOver the last seven years, I’ve spent countless hours in doctors’ offices, dealing with symptoms, treatments, insurance, uncertainty, and all the invisible work that comes with being a patient. Like millions of others living with chronic illness, I’ve experienced firsthand how difficult healthcare can be to navigate, even when you have every possible advantage.\n\nMore than ever, I believe that some of the most important opportunities for AI lie in helping people solve real problems in their daily lives: their health, their finances, their time and the everyday burdens that shape human experience.\n\nIn particular, curing disease is the most important thing AI could accomplish. I’m excited to continue working towards cures through OpenAI but also through my work with @ChronicleBioAI and @CODA_research.\n\nI’m deeply grateful to @sama, @gdb and the OpenAI board for their support during this time and for offering a way for me to continue contributing to the mission without sacrificing my chances of recovery. I’m also so thankful to my team and the many extraordinary colleagues I’ve had the privilege to build alongside.\n\nFor now, my focus is recovery. But my belief in the potential of technology to solve deeply human problems has never been stronger.\n\n\n\n— https://nitter.net/fidjissimo/status/2075353170927304861#m",
+      "url": "https://x.com/sama/status/2075354679031067058",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T19:39:33+00:00",
+      "text": "ICE claims that Araujo drove into one of their SUVs with his van and then tried to run over an agent. \n\nThere were no marks on the van and KHOU11's @JRogalskiKHOU found surveillance footage showing ICE chasing Araujo and cutting him off.\n\nRenee Good all over again.\n\nVideo",
+      "url": "https://x.com/girlsreallyrule/status/2075303867152023556",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T19:00:30+00:00",
+      "text": "OpenAI Build Week is here.\n\nThe challenge starts July 13. Across the week, join live sessions and community events with builders around the world.\n\nRegistration is open.\nBring the idea sitting in your backlog.\nBuild it with Codex.\n\nVideo",
+      "url": "https://x.com/OpenAIDevs/status/2075294038648148385",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T18:59:31+00:00",
+      "text": "check this out! you can get some amazing things done.\n\ncodex is the core of our new work product and what makes it so good. codex is not going anywhere.\n\n\nOpenAI (@OpenAI)\n\nIntroducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.\n\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n\nIt’s a whole new way to get work done.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2075274271845404744#m",
+      "url": "https://x.com/sama/status/2075293792048136572",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T18:34:18+00:00",
+      "text": "GPT-5.6 is now out. We've been evaluating the model family on the Box AI Complex Work eval, which tests the model with the Box AI Agent on a variety of extremely hard tasks using enterprise document sets. \n\nSol is a big step up from GPT-5.5, especially on complex data-oriented tasks that require deep reasoning and analysis, and the gains concentrate exactly where enterprise work is hardest. Here are a few examples that we saw across our tests:\n\n* Financial Services (76% vs 71%): On a multi-year projection, Sol anchored to the correct opening balance sheet date rather than assuming a clean January 1 start, then carried revenue, earnings, and interest through to the right figures year over year where one early wrong assumption compounds through every downstream cell.\n\n* Healthcare (58% vs 46%): On a critical-care case review, Sol identified the correct diagnosis and intervention and avoided the dangerous misstep of ordering imaging before the time-critical procedure, a trap GPT-5.5 walked into.\n\n* Public Sector (74% vs 63%): Handed a class's raw gradebook and a new grading directive, Sol mapped each assignment to the right weight bucket, treating homework as zero-weight practice per the directive. It recomputed every student's grade to within a tenth of a percent, where GPT-5.5 drifted partway through.\n\n* Life Sciences (60% vs 51%): Across four separate compound datasets, Sol intersected the ranked target lists exactly (case-sensitive, no shortcuts) to find the biological targets common to all four, catching the shared targets GPT-5.5 missed.\n\nSol reasons from the source definitions and checks the documents rather than taking them at face value and it's most reliable exactly where the numbers drive real decisions. This will be huge for enterprise agents using unstructured enterprise data.\n\nGPT-5.6 will be available to customers shortly within the Box AI Studio for building custom agents with.\n\n\n\n\nOpenAI (@OpenAI)\n\nSol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2075271421149020426#m",
+      "url": "https://x.com/levie/status/2075287443411222628",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T18:34:10+00:00",
+      "text": "Massive day for us @OpenAI:\n- GPT-5.6 SOTA at ~everything & by far most token efficient\n - Agents for everyone in the new ChatGPT app Work and Codex modes\n- Work mode available on desktop (most powerful), web & mobile\n- Ultra mode\n- Sites out to everyone\n- Artifact templates",
+      "url": "https://x.com/embirico/status/2075287410032918853",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T17:52:05+00:00",
+      "text": "Populism in a nutshell👇. Public opinion is great for setting goals (lower housing costs!) and terrible for setting the policies to achieve them. \n\nIts the difference between asking voters whether we should try to go to Mars vs. the exact science & engineering to get us there.\n\n\nCrémieux (@cremieuxrecueil)\n\nRent control is a stunning policy.\n\nThe literature, the experts, and the repeated experience of reality all stand undivided in saying it's bad.\n\nBut the public loves it. It's insanely popular. It's basically a 75:25 issue and voters want more of it.\n\n\n\n\n\n— https://nitter.net/cremieuxrecueil/status/2075270820662841804#m",
+      "url": "https://x.com/JessicaBRiedl/status/2075276821243855214",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T17:28:26+00:00",
+      "text": "GPT-5.6 Sol sets a new SOTA on ARC-AGI-3: 7.8%\n\nSol is the first verified frontier model to ever beat an ARC-AGI-3 game\n\nIt is the best model at orienting in a situation it's never encountered",
+      "url": "https://x.com/arcprize/status/2075270869992264003",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T17:13:51+00:00",
+      "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
+      "url": "https://x.com/sama/status/2075267201058426944",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T17:10:58+00:00",
+      "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced:\n\nopenai.com/index/gpt-5-6/\n\nLink\n\n\n\nGPT-5.6: Frontier intelligence that scales with your ambition\n\nMore intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.\nopenai.com",
+      "url": "https://x.com/sama/status/2075266471316615436",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T17:02:39+00:00",
+      "text": "5.6 livestream going now.\n\nin addition to the model, 3 major product things.\n\n1. ChatGPT Work--really big deal!\n2. new ChatGPT desktop app\n3. hosted sites",
+      "url": "https://x.com/sama/status/2075264378962907597",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T16:25:28+00:00",
+      "text": "I took an SAT English practice test. I got two questions wrong, which meant my score was 760. One was a grammar mistake I might have caught if I'd checked my answers. The other was about  a fictional character's state of mind and there were two answers that seemed reasonable.",
+      "url": "https://x.com/paulg/status/2075255024888803365",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T16:22:33+00:00",
+      "text": "Today. 10am PT.\n\nVideo",
+      "url": "https://x.com/OpenAI/status/2075254288956440848",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T15:00:09+00:00",
+      "text": "Video shows the moments before ICE shot a worker who lived for 35 years in the United States. It appears to show it was ICE attempting to initiate contact with his vehicle, not the worker attempting to \"ram\" ICE agents\n\nVideo",
+      "url": "https://x.com/David_J_Bier/status/2075233554129199231",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T13:28:15+00:00",
+      "text": "🇪🇺 Chat Control has passed 😔 \n\nThey can and will now legally scan any person's messages, emails and photos you send without a warrant\n\nThe way they passed this law when the majority of the European Parliament was against it will shock you:\n\nThey waited until most EP members were on holiday so only a few were present and then created an \"urgent\" vote for it to pass it through\n\nThere's nothing democratic about any of it and big powerful forces are behind this that can manipulate the EU for whatever they want\n\nDemocracy in Europe died a bit today 😔\n\n\nMartin Sonneborn (@MartinSonneborn)\n\nIllegaler Geschäftsordnungstrick der Parlamentspräsidentin - Eilantrag, der die Qualifizierte Mehrheit (360 Stimmen) GEGEN die Chatkontrolle gebraucht hätte, an einem Tag, an dem nur knapp 600 MEPs vor Ort waren, wegen Urlaub etc…\n\n\n\n\n\n— https://nitter.net/MartinSonneborn/status/2075170057898930687#m",
+      "url": "https://x.com/levelsio/status/2075210426875249056",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T11:37:01+00:00",
+      "text": "Socialists imagine a class struggle. In their made-up fantasy the CEO is in competition with low level workers, the wealthy entrepreneur is stealing from the underpaid nurse. \n\nIn reality, workers do not compete vertically they compete horizontally. \n\nEntrepreneurs compete with entrepreneurs. Investors outbid each other. CEOs are benchmarked against other CEOs. Nurses are hired from a pool of nurses. Etc. \n\nThe CEOs pay has no correlation to the entry level workers. The Football star on £300K a week isn’t linked to the person selling drinks in the stadium. A biotech entrepreneur raising VC capital isn’t paid relative to a cleaner. \n\nWhat is linked is the demand and supply dynamic of each role. \n\nIf a company places an ad for a qualified truck driver and 150 people apply for the role, then the company knows it does not need to increase wages for that role. If the company has an open role for months, it is forced to look at the compensation package. \n\nSame for a CEO. A board representing shareholders would like to hire a CEO for a lot less if they could. Their dream scenario would be to hire a CEO who brings in institutional investors, attracts top executives, drives innovation and growth, keeps margins steady and is a good public face for the business even under pressure. It turns out there aren’t a lot of these people looking for work and if you want one you have to pay more than other companies are offering. \n\nThe class struggle isn’t vertical it’s horizontal. CEOs are in competition with CEOs. Retail workers are in competition with retail workers. Demand and supply dynamics set the price. \n\nSure you can say that a CEO want’s profitability and would like wages to be lower BUT it’s not up to the CEO - demand and supply tension sets the price of workers. An Airline like RyanAir would like free pilots if they could get them but they can’t… so they pay the market rate. \n\nThe reason incomes are rising at the top and falling at the bottom is not class warfare. It’s technology and globalisation. \n\nTechnology makes basic jobs simple, remote or fully automated.  At the same time tech makes executive roles more leveraged, more important and more valuable. \n\nA CEO used to run a smaller organisation. Today a CEO who’s 2% better on a $5B company is generating $100M more. Seems sensible to try and pay a few million to get $100M. \n\nGlobalisation has put workers from all over the world in completion with each other - downward pressure on wages. Globalisation has given CEOs more market opportunities to explore - upside opportunity to unlock. \n\nThe rich are not very interested in buying houses that poor people own. The poor are not buying up the homes the rich want. They are separate groups living separate lives. Try finding the genuinely rich people whose strategy is to hoard normal residential homes - it barely exists as a thing. About 85% of landlords are people who own 1-4 properties. Super-landlords (100+ properties) are 0.2% of landlords and own a tiny fraction of the 30M homes in the UK… and they’re heavily taxed.\n\nClass warfare isn’t real. It’s an imagined war in the minds of socialists.  \n\nDemand and supply dynamics are real. To the degree it is measured in class, it’s a horizontal competition not a vertical one.\n\n\nGary Stevenson (@garyseconomics)\n\nThere's a difference between normal people spending money and really rich people spending money. And it explains why our economy is failing.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/garyseconomics/status/2074847158264602986#m",
+      "url": "https://x.com/DanielPriestley/status/2075182431574143075",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T08:01:06+00:00",
+      "text": "All problems have been solved by OpenAI!",
+      "url": "https://x.com/FakePsyho/status/2075128093891801305",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T04:03:26+00:00",
+      "text": "what a good video\n\n\nOpenAI (@OpenAI)\n\nIntroducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling out in ChatGPT starting today.\n\nYou’ll want to turn the sound on for this one.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2074907025537224840#m",
+      "url": "https://x.com/sama/status/2075068286107316317",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T03:44:28+00:00",
+      "text": "tbh i dont think sol gets that many dates either\n\n\nMitchell Hashimoto (@mitchellh)\n\nI had early access to 5.6/Sol for ~month. Sol is my default. It is faster, plans/judges just as good as Fable, and I think produces better overall work. I’ll reach for Fable still for highly targeted debug or performance work with clear reward functions. \n\nA cheeky way I describe Sol vs Fable to my friends is that Sol is a charismatic, efficient, talented coworker you’re jealous of. Fable is a genius recluse that is brilliant at its fixations but doesn’t go out, doesn’t date, and you don’t want to hang out with them much lol.\n\nFable is undefeated at highly targeted debug/security/performance goals. It’s a sight to behold and I was never able to get Sol to push as hard in this category. I’ll keep using it for this.\n\nSol is better or comparable at everything else, in my experience. Give it a shot, it’s hard to describe but it’s just more enjoyable to work with. \n\n(Disclaimer I have no financial ties to either lab, wasn’t paid for any of this.)\n\n\n\n— https://nitter.net/mitchellh/status/2074862990214787301#m",
+      "url": "https://x.com/sama/status/2075063511290662996",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T02:43:07+00:00",
+      "text": "it surely doesnt\n\n\neric (@ericlim)\n\n5.6 solves depression\n\n\n\n— https://nitter.net/ericlim/status/2074952287097967036#m",
+      "url": "https://x.com/sama/status/2075048072837734448",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-09T02:42:46+00:00",
+      "text": "🫶\n\n\ndax (@thdxr)\n\ni've never hyped a model release, we're generally conservative with how we use these things\n\nbut gpt-5.6 has had a massive impact on our team, we're using 5x the tokens as we used to\n\nit's not even smarter than fable or anything, but it's just so reliable and fun to use\n\n\n\n— https://nitter.net/thdxr/status/2074856006576713973#m",
+      "url": "https://x.com/sama/status/2075047983314571764",
+      "author": "sama",
+      "source": "nitter"
     }
   ]
 }
