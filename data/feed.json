@@ -7,11 +7,102 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-11T12:45:35.303654+00:00",
-  "last_success_at": "2026-07-11T12:45:35.303654+00:00",
+  "updated_at": "2026-07-12T12:47:29.728095+00:00",
+  "last_success_at": "2026-07-12T12:47:29.728095+00:00",
   "source": "nitter",
   "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
+    {
+      "date": "2026-07-11T20:12:22+00:00",
+      "text": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
+      "url": "https://x.com/sama/status/2076036901824532530",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T20:01:30+00:00",
+      "text": "whoa\n\n\nTibo (@thsottiaux)\n\nYou know it's a good model when you grow more in 1 day than last two weeks combined.\n\nInstall the desktop app from chatgpt.com/download/ and give it a go!\n\n\n\n\n\n— https://nitter.net/thsottiaux/status/2076021263945039876#m",
+      "url": "https://x.com/sama/status/2076034163418014199",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T19:08:41+00:00",
+      "text": "My son asked what my first tweet was. It was me thanking Avi Bryant for getting me paulg. This is my second, a day later, complaining about the inability to edit tweets after I got his username wrong in the first.\n\n\nPaul Graham (@paulg)\n\nDrat.  Make that @avibryant.  I wonder if it's necessary that you can't edit tweets?  I.e. would Twitter have worked without that?\n\n\n\n— https://nitter.net/paulg/status/22307238459#m",
+      "url": "https://x.com/paulg/status/2076020871769280838",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:48:56+00:00",
+      "text": "Yes, yes, a thousand times yes.\n\n\nNikita Bier (@nikitabier)\n\nDon’t be mean online. Life is too short.\n\n\n\n— https://nitter.net/nikitabier/status/2075829282216231353#m",
+      "url": "https://x.com/jesslivingston/status/2075985705075884291",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:46:22+00:00",
+      "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"\n\n\nKaran Singhal (@thekaransinghal)\n\n♥️ GPT-5.6 is a major step forward for health, both at the frontier and at cost.\n\nThese models push the frontier of performance per dollar, bringing the best health intelligence to all. The smallest variant, GPT-5.6 Luna, evaluated at the lowest reasoning effort, outperforms GPT-5.5 at the highest reasoning effort–despite costing 25x less. The largest variant, GPT-5.6 Sol, sets a new high bar at cost.\n\nAnother especially cool result: physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\n\nWe collected diverse tasks that remain difficult for recent OpenAI models, across patient-facing and clinician-facing use cases. We asked speciality-matched physicians to write responses to these tasks with unlimited time and web access. We then asked other physicians to compare responses side-by-side, blinded to their source. Physicians were asked to comment on areas of improvement across five axes: accuracy, communication, completeness, instruction following, and health decision helpfulness. We then reported the fraction of responses across sources rated perfectly across all axes, across 20,000 total axis ratings. GPT-5.6 Sol appeared strongest, although all GPT-5.6 models performed significantly better than physicians.\n\n\n\n\n\n— https://nitter.net/thekaransinghal/status/2075689779937833302#m",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:39:53+00:00",
+      "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+      "url": "https://x.com/sama/status/2075983427019612242",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:37:58+00:00",
+      "text": "This is like someone who can bench press 30 pounds writing about what it takes to bench press 600.\n\n\nAndrew Tate (@Cobratate)\n\n\nArticle\n\n\n\nThe Only Way to Win\n\nAs soon as you believe it is impossible to become a Billionaire,\nYour chances of it ever happening go to 0.\nNo man has ever become World Champion of ANYTHING without the BELIEF it was possible.\nYou\n\n\n\n\n— https://nitter.net/Cobratate/status/2075945464663306591#m",
+      "url": "https://x.com/paulg/status/2075982946465452518",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:37:28+00:00",
+      "text": "30% of the cost was on fable at these levels of usage?\n\n\ndax (@thdxr)\n\nour team's first week of having both sol and fable\nthe crazy thing is 30% of our cost was on fable\n\n\n\n\n\n— https://nitter.net/thdxr/status/2075963734745342361#m",
+      "url": "https://x.com/sama/status/2075982820322025788",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:36:40+00:00",
+      "text": "homeboy you're the one sellling public market investors on short-term space datacenters\n\n\nElon Musk (@elonmusk)\n\nHe takes scamming to a whole new level\n\n\n\n— https://nitter.net/elonmusk/status/2075892136604573903#m",
+      "url": "https://x.com/sama/status/2075982617976230043",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:29:38+00:00",
+      "text": "The people who still read won't just be better informed. They'll be (with a couple exceptions) the only ones who can think well. You can't think well without writing well, and you can't write well without reading well.",
+      "url": "https://x.com/paulg/status/2075980847228801132",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:23:23+00:00",
+      "text": "Something I told 14 yo: People are going to stop reading books. I wish this wasn't so, but I fear it is. The silver lining in this cloud is that if you're one of the few people who still read, you'll have a huge advantage over everyone else.",
+      "url": "https://x.com/paulg/status/2075979274553544883",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T16:02:29+00:00",
+      "text": "A lawyer friend on Legora:\n\n\"Legora really helped with this latest motion, which was dense with past issues in the case. Now my paralegal says she cannot live without it. It is just too remarkable and timesaving.\"",
+      "url": "https://x.com/paulg/status/2075974015210909836",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T14:18:47+00:00",
+      "text": "As a former major fund-raiser for Amnesty - I produced the first five 'Secret Policeman's Balls' - I renounce the mob who have taken over Amnesty\n\nAmnesty used to be about trying to do something about TORTURE\n\n\nRebecca McCurdy (@_RebeccaMcCurdy)\n\nBeira's Place, the women's sexual assault support centre founded by JK Rowling, has been labelled an \"anti-rights group\" by Amnesty International UK, alongside For Women Scotland. Story @heraldscotland 👇\nheraldscotland.com/news/2626…\n\nLink\n\n\n\nAmnesty labels JK Rowling's sexual assault centre Beira's Place as 'anti-rights'\n\nBeira's Place, the sexual assault support centre launched by JK Rowling, has been labelled anti-rights.\nheraldscotland.com\n\n\n\n\n— https://nitter.net/_RebeccaMcCurdy/status/2075513497719374035#m",
+      "url": "https://x.com/JohnCleese/status/2075947918683488670",
+      "author": "paulg",
+      "source": "nitter"
+    },
     {
       "date": "2026-07-11T11:47:12+00:00",
       "text": "The market interprets unions as damage and routes around them.\n\n\nReem Ibrahim (@ReemAmirIbrahim)\n\nRhode Island has become the first U.S. state to force grocery stores to keep a 1:3 ratio of cashiers to self-checkouts.\n\nFailure to comply can result in fines of up to $500 per day.\n\nMore in @reason 👇\n\n\n\n\n\n— https://nitter.net/ReemAmirIbrahim/status/2075258527082291469#m",
@@ -31,6 +122,13 @@
       "text": "You won’t get rich just working hard, but if you don’t work hard, you won’t get rich.",
       "url": "https://x.com/naval/status/2075804235191714160",
       "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T18:19:16+00:00",
+      "text": "GPT-5.6 Sol Ultra produced a proof of a 50 year old math conjecture. Unlike the Erdős Unit Distance Problem, this was done with a model publicly available *today*. I look forward to seeing what scientists and researchers are able to do with this model!\n\n\nEthan Knight (@__eknight__)\n\nYesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!\n\n\n\n— https://nitter.net/__eknight__/status/2075643450196971805#m",
+      "url": "https://x.com/polynoamial/status/2075646048425431469",
+      "author": "sama",
       "source": "nitter"
     },
     {
@@ -174,24 +272,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-09T18:34:18+00:00",
-      "text": "GPT-5.6 is now out. We've been evaluating the model family on the Box AI Complex Work eval, which tests the model with the Box AI Agent on a variety of extremely hard tasks using enterprise document sets. \n\nSol is a big step up from GPT-5.5, especially on complex data-oriented tasks that require deep reasoning and analysis, and the gains concentrate exactly where enterprise work is hardest. Here are a few examples that we saw across our tests:\n\n* Financial Services (76% vs 71%): On a multi-year projection, Sol anchored to the correct opening balance sheet date rather than assuming a clean January 1 start, then carried revenue, earnings, and interest through to the right figures year over year where one early wrong assumption compounds through every downstream cell.\n\n* Healthcare (58% vs 46%): On a critical-care case review, Sol identified the correct diagnosis and intervention and avoided the dangerous misstep of ordering imaging before the time-critical procedure, a trap GPT-5.5 walked into.\n\n* Public Sector (74% vs 63%): Handed a class's raw gradebook and a new grading directive, Sol mapped each assignment to the right weight bucket, treating homework as zero-weight practice per the directive. It recomputed every student's grade to within a tenth of a percent, where GPT-5.5 drifted partway through.\n\n* Life Sciences (60% vs 51%): Across four separate compound datasets, Sol intersected the ranked target lists exactly (case-sensitive, no shortcuts) to find the biological targets common to all four, catching the shared targets GPT-5.5 missed.\n\nSol reasons from the source definitions and checks the documents rather than taking them at face value and it's most reliable exactly where the numbers drive real decisions. This will be huge for enterprise agents using unstructured enterprise data.\n\nGPT-5.6 will be available to customers shortly within the Box AI Studio for building custom agents with.\n\n\n\n\nOpenAI (@OpenAI)\n\nSol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2075271421149020426#m",
-      "url": "https://x.com/levie/status/2075287443411222628",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-09T18:34:10+00:00",
       "text": "Massive day for us @OpenAI:\n- GPT-5.6 SOTA at ~everything & by far most token efficient\n - Agents for everyone in the new ChatGPT app Work and Codex modes\n- Work mode available on desktop (most powerful), web & mobile\n- Ultra mode\n- Sites out to everyone\n- Artifact templates",
       "url": "https://x.com/embirico/status/2075287410032918853",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T17:52:05+00:00",
-      "text": "Populism in a nutshell👇. Public opinion is great for setting goals (lower housing costs!) and terrible for setting the policies to achieve them. \n\nIts the difference between asking voters whether we should try to go to Mars vs. the exact science & engineering to get us there.\n\n\nCrémieux (@cremieuxrecueil)\n\nRent control is a stunning policy.\n\nThe literature, the experts, and the repeated experience of reality all stand undivided in saying it's bad.\n\nBut the public loves it. It's insanely popular. It's basically a 75:25 issue and voters want more of it.\n\n\n\n\n\n— https://nitter.net/cremieuxrecueil/status/2075270820662841804#m",
-      "url": "https://x.com/JessicaBRiedl/status/2075276821243855214",
-      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -205,90 +289,6 @@
       "date": "2026-07-09T17:13:51+00:00",
       "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
       "url": "https://x.com/sama/status/2075267201058426944",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T17:10:58+00:00",
-      "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced:\n\nopenai.com/index/gpt-5-6/\n\nLink\n\n\n\nGPT-5.6: Frontier intelligence that scales with your ambition\n\nMore intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.\nopenai.com",
-      "url": "https://x.com/sama/status/2075266471316615436",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T17:02:39+00:00",
-      "text": "5.6 livestream going now.\n\nin addition to the model, 3 major product things.\n\n1. ChatGPT Work--really big deal!\n2. new ChatGPT desktop app\n3. hosted sites",
-      "url": "https://x.com/sama/status/2075264378962907597",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T16:25:28+00:00",
-      "text": "I took an SAT English practice test. I got two questions wrong, which meant my score was 760. One was a grammar mistake I might have caught if I'd checked my answers. The other was about  a fictional character's state of mind and there were two answers that seemed reasonable.",
-      "url": "https://x.com/paulg/status/2075255024888803365",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T16:22:33+00:00",
-      "text": "Today. 10am PT.\n\nVideo",
-      "url": "https://x.com/OpenAI/status/2075254288956440848",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T15:00:09+00:00",
-      "text": "Video shows the moments before ICE shot a worker who lived for 35 years in the United States. It appears to show it was ICE attempting to initiate contact with his vehicle, not the worker attempting to \"ram\" ICE agents\n\nVideo",
-      "url": "https://x.com/David_J_Bier/status/2075233554129199231",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T13:28:15+00:00",
-      "text": "🇪🇺 Chat Control has passed 😔 \n\nThey can and will now legally scan any person's messages, emails and photos you send without a warrant\n\nThe way they passed this law when the majority of the European Parliament was against it will shock you:\n\nThey waited until most EP members were on holiday so only a few were present and then created an \"urgent\" vote for it to pass it through\n\nThere's nothing democratic about any of it and big powerful forces are behind this that can manipulate the EU for whatever they want\n\nDemocracy in Europe died a bit today 😔\n\n\nMartin Sonneborn (@MartinSonneborn)\n\nIllegaler Geschäftsordnungstrick der Parlamentspräsidentin - Eilantrag, der die Qualifizierte Mehrheit (360 Stimmen) GEGEN die Chatkontrolle gebraucht hätte, an einem Tag, an dem nur knapp 600 MEPs vor Ort waren, wegen Urlaub etc…\n\n\n\n\n\n— https://nitter.net/MartinSonneborn/status/2075170057898930687#m",
-      "url": "https://x.com/levelsio/status/2075210426875249056",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T11:37:01+00:00",
-      "text": "Socialists imagine a class struggle. In their made-up fantasy the CEO is in competition with low level workers, the wealthy entrepreneur is stealing from the underpaid nurse. \n\nIn reality, workers do not compete vertically they compete horizontally. \n\nEntrepreneurs compete with entrepreneurs. Investors outbid each other. CEOs are benchmarked against other CEOs. Nurses are hired from a pool of nurses. Etc. \n\nThe CEOs pay has no correlation to the entry level workers. The Football star on £300K a week isn’t linked to the person selling drinks in the stadium. A biotech entrepreneur raising VC capital isn’t paid relative to a cleaner. \n\nWhat is linked is the demand and supply dynamic of each role. \n\nIf a company places an ad for a qualified truck driver and 150 people apply for the role, then the company knows it does not need to increase wages for that role. If the company has an open role for months, it is forced to look at the compensation package. \n\nSame for a CEO. A board representing shareholders would like to hire a CEO for a lot less if they could. Their dream scenario would be to hire a CEO who brings in institutional investors, attracts top executives, drives innovation and growth, keeps margins steady and is a good public face for the business even under pressure. It turns out there aren’t a lot of these people looking for work and if you want one you have to pay more than other companies are offering. \n\nThe class struggle isn’t vertical it’s horizontal. CEOs are in competition with CEOs. Retail workers are in competition with retail workers. Demand and supply dynamics set the price. \n\nSure you can say that a CEO want’s profitability and would like wages to be lower BUT it’s not up to the CEO - demand and supply tension sets the price of workers. An Airline like RyanAir would like free pilots if they could get them but they can’t… so they pay the market rate. \n\nThe reason incomes are rising at the top and falling at the bottom is not class warfare. It’s technology and globalisation. \n\nTechnology makes basic jobs simple, remote or fully automated.  At the same time tech makes executive roles more leveraged, more important and more valuable. \n\nA CEO used to run a smaller organisation. Today a CEO who’s 2% better on a $5B company is generating $100M more. Seems sensible to try and pay a few million to get $100M. \n\nGlobalisation has put workers from all over the world in completion with each other - downward pressure on wages. Globalisation has given CEOs more market opportunities to explore - upside opportunity to unlock. \n\nThe rich are not very interested in buying houses that poor people own. The poor are not buying up the homes the rich want. They are separate groups living separate lives. Try finding the genuinely rich people whose strategy is to hoard normal residential homes - it barely exists as a thing. About 85% of landlords are people who own 1-4 properties. Super-landlords (100+ properties) are 0.2% of landlords and own a tiny fraction of the 30M homes in the UK… and they’re heavily taxed.\n\nClass warfare isn’t real. It’s an imagined war in the minds of socialists.  \n\nDemand and supply dynamics are real. To the degree it is measured in class, it’s a horizontal competition not a vertical one.\n\n\nGary Stevenson (@garyseconomics)\n\nThere's a difference between normal people spending money and really rich people spending money. And it explains why our economy is failing.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/garyseconomics/status/2074847158264602986#m",
-      "url": "https://x.com/DanielPriestley/status/2075182431574143075",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T08:01:06+00:00",
-      "text": "All problems have been solved by OpenAI!",
-      "url": "https://x.com/FakePsyho/status/2075128093891801305",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T04:03:26+00:00",
-      "text": "what a good video\n\n\nOpenAI (@OpenAI)\n\nIntroducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling out in ChatGPT starting today.\n\nYou’ll want to turn the sound on for this one.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2074907025537224840#m",
-      "url": "https://x.com/sama/status/2075068286107316317",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T03:44:28+00:00",
-      "text": "tbh i dont think sol gets that many dates either\n\n\nMitchell Hashimoto (@mitchellh)\n\nI had early access to 5.6/Sol for ~month. Sol is my default. It is faster, plans/judges just as good as Fable, and I think produces better overall work. I’ll reach for Fable still for highly targeted debug or performance work with clear reward functions. \n\nA cheeky way I describe Sol vs Fable to my friends is that Sol is a charismatic, efficient, talented coworker you’re jealous of. Fable is a genius recluse that is brilliant at its fixations but doesn’t go out, doesn’t date, and you don’t want to hang out with them much lol.\n\nFable is undefeated at highly targeted debug/security/performance goals. It’s a sight to behold and I was never able to get Sol to push as hard in this category. I’ll keep using it for this.\n\nSol is better or comparable at everything else, in my experience. Give it a shot, it’s hard to describe but it’s just more enjoyable to work with. \n\n(Disclaimer I have no financial ties to either lab, wasn’t paid for any of this.)\n\n\n\n— https://nitter.net/mitchellh/status/2074862990214787301#m",
-      "url": "https://x.com/sama/status/2075063511290662996",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T02:43:07+00:00",
-      "text": "it surely doesnt\n\n\neric (@ericlim)\n\n5.6 solves depression\n\n\n\n— https://nitter.net/ericlim/status/2074952287097967036#m",
-      "url": "https://x.com/sama/status/2075048072837734448",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T02:42:46+00:00",
-      "text": "🫶\n\n\ndax (@thdxr)\n\ni've never hyped a model release, we're generally conservative with how we use these things\n\nbut gpt-5.6 has had a massive impact on our team, we're using 5x the tokens as we used to\n\nit's not even smarter than fable or anything, but it's just so reliable and fun to use\n\n\n\n— https://nitter.net/thdxr/status/2074856006576713973#m",
-      "url": "https://x.com/sama/status/2075047983314571764",
       "author": "sama",
       "source": "nitter"
     }
