@@ -7,11 +7,60 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-12T12:47:29.728095+00:00",
-  "last_success_at": "2026-07-12T12:47:29.728095+00:00",
+  "updated_at": "2026-07-13T13:55:14.769816+00:00",
+  "last_success_at": "2026-07-13T13:55:14.769816+00:00",
   "source": "nitter",
   "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
+    {
+      "date": "2026-07-13T12:15:38+00:00",
+      "text": "I think of myself as a product manager. I've hired and trained more product managers than most.  I am telling you product and growth are not different jobs.",
+      "url": "https://x.com/nejatian/status/2076641703021215863",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T07:55:03+00:00",
+      "text": "China closed nearly 30,000 kindergartens and primary schools in 2025, the starkest sign yet that a prolonged demographic slump is fundamentally upending the country’s vast education system. caixinglobal.com/2026-07-13/…\n\nLink\n\n\n\nChina Shutters 30,000 Preschools and Primary Schools in a Single Year\n\nA prolonged demographic slump is fundamentally reshaping the country’s vast education system, rapidly shrinking early learning centers even as high school and university enrollments surge\ncaixinglobal.com",
+      "url": "https://x.com/caixin/status/2076576124101095613",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T05:20:17+00:00",
+      "text": "Robert Scoble interviews me outside YC after the summer 2010 Demo Day. By that point we'd funded what seemed the enormous number of 208 startups, including 36 in that batch.\n\npiped.video/watch?v=UacbJ72d…\n\nLink\n\n\n\nMr. Startup: Paul Graham, founder of YCombinator, and his \"no...\n\nYCombinator, over the past couple of days, has had nearly every maj...\nyoutube.com",
+      "url": "https://x.com/paulg/status/2076537175236366827",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-12T20:08:15+00:00",
+      "text": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+      "url": "https://x.com/sama/status/2076398253332140410",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-12T15:30:35+00:00",
+      "text": "\"The advancement and perfection of mathematics are intimately connected with the prosperity of the State.\"\n\n- Emperor Napoléon Bonaparte, Correspondance de Napoléon, 1868",
+      "url": "https://x.com/pickover/status/2076328375451291708",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-12T14:32:00+00:00",
+      "text": "It's so strange reading people saying that soccer is boring when I feel worn out from the stress of watching the last two England matches. Frankly I would have preferred them to be a bit more boring.",
+      "url": "https://x.com/paulg/status/2076313631021842502",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-12T01:02:57+00:00",
+      "text": "Stuy is New York’s most prestigious high school because it admits the highest-performing students as determined entirely by scores on an objective, unbiased test.\n\nSeats at Stuy are not allocated by race.  They are not given out through a subjective process that can be influenced by politics or favoritism or money. \n\nThe kids who got in did the best, and the kids who did not do the best cannot get in, no matter how much rich parents or woke politicians want to corrupt the fair and objective admissions competition. \n\nPeople like Lincoln Restler think Stuy is prestigious for reasons other than the fact that it has a rigorous objective admissions standard.  He thinks the prestige these kids earned through their excellence can be redistributed to the students who are not the best that he would prefer to pretend are the best.\n\nBut these students are not prestigious because they go to Stuy; Stuy is prestigious because these students go there. And if different students — inferior students— went there, then Stuy would no longer be the school that is a magnet for the smartest kids in New York and its prestige and reputation would dissipate rapidly, just like the University of California system’s has.\n\nOr maybe Restler knows this, and he just wants to destroy Stuy, because he wants to prevent these students’ talent from being measured and identified, so they can be scattered into low-performing schools where they will languish instead of having their talent cultivated.\n\nRegardless, his ideology of racial grievance and destruction is a monstrous evil masquerading as “social justice,” and it will not be tolerated.\n\n\nLincoln Restler (@LincolnRestler)\n\n1 in 5 NYC public school students are Black, but at Stuy - our most prestigious high school - 3 of ~800 incoming Freshmen are Black.\n\nWe urgently need state legislation to modify the admissions process. A single test should never be only factor deciding who gets in & who doesn’t.\n\n\n\n— https://nitter.net/LincolnRestler/status/2076035293682040970#m",
+      "url": "https://x.com/DanFriedman81/status/2076110027924939121",
+      "author": "naval",
+      "source": "nitter"
+    },
     {
       "date": "2026-07-11T20:12:22+00:00",
       "text": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
@@ -216,30 +265,9 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-10T09:27:46+00:00",
-      "text": "A British surgeon tells the BBC what he saw in Gaza.\n\n\"I can remember one child for example who was 7, Amir... He heard a drone above him, turned round, and then it fired on him. And we had many many reports like that from children and adults.\"\n\nVideo",
-      "url": "https://x.com/paulg/status/2075512293555630181",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-10T07:56:36+00:00",
-      "text": "Can today’s frontier models reliably decode data from a real scientific instrument?\n\nWe gave four of them a raw recording from a 1,024-microphone acoustic camera and asked for heatmaps showing where the sound comes from.",
-      "url": "https://x.com/Qokedas/status/2075489350813618666",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-10T03:52:43+00:00",
       "text": "8-year-old is spending most of the summer on grandpa’s farm and I’m not sure we’ll ever get him back\n\nVideo",
       "url": "https://x.com/Austen/status/2075427975932035565",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-10T03:33:24+00:00",
-      "text": "While AI is making coding less rigid, we’re making the runtime more rigid. \n\nI’m noticing our infra teams writing formal specs for the first time. More deterministic systems. More resilient infrastructure.\n\nThe faster you want to move, the more solid the ground beneath you has to be.",
-      "url": "https://x.com/amasad/status/2075423115052790054",
       "author": "paulg",
       "source": "nitter"
     },
@@ -248,13 +276,6 @@
       "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person.\n\nwe all wish her the best for a speedy recovery. this sucks.\n\n\nFidji Simo (@fidjissimo)\n\nToday, I shared with the OpenAI team that I have decided to leave my full-time role at OpenAI and transition to being a part-time advisor.\n\nThree months ago, I had to go on medical leave after a severe exacerbation of a chronic illness I’ve lived with for seven years. During that time, it became clear that the road to recovery would be much longer and more complex than I had anticipated—and that I needed to focus on it fully.\n\nWhen I went on leave, many people told me I was courageous for prioritizing my health. The truth is that I am only making this decision now because I failed to make it many times before.\n\nOver the years, doctors, friends, colleagues, and loved ones encouraged me to slow down. Two years after I got sick, Facebook offered me the opportunity to take a full year of medical leave. I didn’t even pause to consider it. I immediately said no. At the time, Zuck told me I should play the long game. I wish I had listened.\n\nLooking back, I realize that a lot of what made me successful also made this decision incredibly difficult.\n\nI grew up believing that opportunities were precious and that when they appeared, you grabbed them with both hands. That mindset carried me from a small town in southern France to opportunities I never could have imagined. By the time I turned 40, I had already gotten to do more than I’d ever dreamed possible as a kid growing up in Sète.\n\nI love building. My work has always given me a deep sense of purpose. OpenAI in particular felt like a role that my entire career had been building toward, which made this decision even harder.\n\nBut what I’m learning now is that grit and endurance are not the only skills required to have impact over decades. Sometimes the harder thing is to stop, listen, and trust that taking care of yourself today makes it possible to contribute for much longer tomorrow.\n\nThis experience has also strengthened my conviction about why this work matters.\n\nIt has been a jarring experience to spend my days helping build the future while simultaneously navigating a disabling disease that still has no cure.\n\nOver the last seven years, I’ve spent countless hours in doctors’ offices, dealing with symptoms, treatments, insurance, uncertainty, and all the invisible work that comes with being a patient. Like millions of others living with chronic illness, I’ve experienced firsthand how difficult healthcare can be to navigate, even when you have every possible advantage.\n\nMore than ever, I believe that some of the most important opportunities for AI lie in helping people solve real problems in their daily lives: their health, their finances, their time and the everyday burdens that shape human experience.\n\nIn particular, curing disease is the most important thing AI could accomplish. I’m excited to continue working towards cures through OpenAI but also through my work with @ChronicleBioAI and @CODA_research.\n\nI’m deeply grateful to @sama, @gdb and the OpenAI board for their support during this time and for offering a way for me to continue contributing to the mission without sacrificing my chances of recovery. I’m also so thankful to my team and the many extraordinary colleagues I’ve had the privilege to build alongside.\n\nFor now, my focus is recovery. But my belief in the potential of technology to solve deeply human problems has never been stronger.\n\n\n\n— https://nitter.net/fidjissimo/status/2075353170927304861#m",
       "url": "https://x.com/sama/status/2075354679031067058",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T19:39:33+00:00",
-      "text": "ICE claims that Araujo drove into one of their SUVs with his van and then tried to run over an agent. \n\nThere were no marks on the van and KHOU11's @JRogalskiKHOU found surveillance footage showing ICE chasing Araujo and cutting him off.\n\nRenee Good all over again.\n\nVideo",
-      "url": "https://x.com/girlsreallyrule/status/2075303867152023556",
-      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -268,27 +289,6 @@
       "date": "2026-07-09T18:59:31+00:00",
       "text": "check this out! you can get some amazing things done.\n\ncodex is the core of our new work product and what makes it so good. codex is not going anywhere.\n\n\nOpenAI (@OpenAI)\n\nIntroducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.\n\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n\nIt’s a whole new way to get work done.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2075274271845404744#m",
       "url": "https://x.com/sama/status/2075293792048136572",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T18:34:10+00:00",
-      "text": "Massive day for us @OpenAI:\n- GPT-5.6 SOTA at ~everything & by far most token efficient\n - Agents for everyone in the new ChatGPT app Work and Codex modes\n- Work mode available on desktop (most powerful), web & mobile\n- Ultra mode\n- Sites out to everyone\n- Artifact templates",
-      "url": "https://x.com/embirico/status/2075287410032918853",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T17:28:26+00:00",
-      "text": "GPT-5.6 Sol sets a new SOTA on ARC-AGI-3: 7.8%\n\nSol is the first verified frontier model to ever beat an ARC-AGI-3 game\n\nIt is the best model at orienting in a situation it's never encountered",
-      "url": "https://x.com/arcprize/status/2075270869992264003",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-09T17:13:51+00:00",
-      "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
-      "url": "https://x.com/sama/status/2075267201058426944",
       "author": "sama",
       "source": "nitter"
     }
