@@ -7,22 +7,267 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-14T12:59:56.410711+00:00",
-  "last_success_at": "2026-07-14T12:59:56.410711+00:00",
+  "updated_at": "2026-07-15T13:03:11.429198+00:00",
+  "last_success_at": "2026-07-15T13:03:11.429198+00:00",
   "source": "nitter",
   "error_message": "",
   "items": [
     {
-      "date": "2026-07-14T05:58:35+00:00",
-      "text": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench\n\n\ntetsuo (@tetsuoai)\n\nThe Long-Horizon Terminal-Bench paper landed around May and concluded that the results showed headroom for improvement. The best of the 15 models they tested finished seven of the 46 tasks, and the mean across all models was about two. That ceiling is what fifth place looks like on the current board.\n\nGrok 4.5 is now at 13, and Fable 5 is at 12. A single task costs around 9.9M tokens, 231 episodes, and 85 minutes of wall clock time. That means agents are holding a plan across all of it and finishing, and that capability nearly doubled in two months.\n\nSpaceXAI is on top, and they marketed the 4.2x output token efficiency, which undersells it. Two dollars in, six out, per million. On a benchmark where one task burns ten million tokens, the bill is dominated by input replay, and they say Grok 4.5 solves tasks in under half the number of steps, so there is less accumulated context to resend on every call. The efficiency compounds on the input side, which is the side that costs money.\n\nFable 5 is one task behind. Their own launch chart has them losing DeepSWE 1.1 to Fable by 17 points, and Grok 4.20 sits on this same board at 0.080 with zero completions, so whatever happened in 4.5 is not a family trait.\n\nMy read is that the 4.5 jump came out of training alongside Cursor, which is a stream of real agentic edit trajectories nobody else has at that volume, and nothing in the counterevidence argues against it compounding into the next checkpoint.\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2076879157137686634#m",
-      "url": "https://x.com/elonmusk/status/2076909201524203973",
+      "date": "2026-07-15T12:55:47+00:00",
+      "text": "Getting dressed:\n\nMe: How do I look?\n\nJessica: You look like PG.",
+      "url": "https://x.com/paulg/status/2077376582465823067",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T12:30:38+00:00",
+      "text": "Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future.\nHow quickly do the tables turn.",
+      "url": "https://x.com/PeterDiamandis/status/2077370252548100153",
       "author": "elonmusk",
       "source": "nitter"
     },
     {
-      "date": "2026-07-14T05:44:50+00:00",
-      "text": "The woke mob had turned Twitter into Wormtongue to the World\n\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nElon buying Twitter and restoring free speech was unironically one of the most pivotal moments in the 21st century\n\nIts effects will be studied for generations\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2076790049421828402#m",
-      "url": "https://x.com/elonmusk/status/2076905740531302479",
+      "date": "2026-07-15T11:58:10+00:00",
+      "text": "Needs to change.\n\n\nBillboard Chris 🌎 (@BillboardChris)\n\nThis is real. \n\nNetflix’s description of Gone with the Wind: \n\nA 1939 American Civil War epic known for its racism. To learn more about Black lives in America, search \"Black Lives Matter.\"\n\n\n\n\n\n— https://nitter.net/BillboardChris/status/2077330657328439675#m",
+      "url": "https://x.com/elonmusk/status/2077362080286412981",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T11:56:34+00:00",
+      "text": "Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. \n\nMoreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running.\n\nTrust through total transparency is the only thing that should be believed.",
+      "url": "https://x.com/elonmusk/status/2077361679034118271",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T11:49:07+00:00",
+      "text": "She is France’s last hope\n\n\nBasil the Great (@BasilTheGreat)\n\n🚨Marine Le Pen's poll numbers have SKYROCKETED\n\nBefore the last Presidential Election in 2022\nMacron was on 27%\nLe Pen was on 23%\n\nShe's currently sat on 36%\nHer nearest competitor is on 16%\n\nFrance will deport millions\n\n\n\n\n\n— https://nitter.net/BasilTheGreat/status/2077083897674830114#m",
+      "url": "https://x.com/elonmusk/status/2077359803454673313",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T11:47:09+00:00",
+      "text": "Paul Ehrlich was one the most evil men ever\n\n\nWilfred Reilly (@wil_da_beast630)\n\nActual evil - entropy filtered through human agents - tends to be subtle. At its root, evil means nothing beyond \"making things worse (for life of our kind)\" - taking potentially or actually complex and fractal systems and collapsing them into something lesser. \n\nFive current examples: the anti-nuke movement, 4B, anti-natalism, non-education of women, and disparate impact doctrine. All of these things will affect life, in a civilized country over a century, far more than 5% of young male fighters dying generationally in war.\n\n\n\n— https://nitter.net/wil_da_beast630/status/2077265779204960286#m",
+      "url": "https://x.com/elonmusk/status/2077359310695260521",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T11:43:27+00:00",
+      "text": "True\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nOpen borders and a welfare state is essentially just gerrymandering by immigration \n\nMost people are unaware that illegal immigrants are counted in the census that determines how many representatives each state gets \n\nAnd that only 12 states actually require proof of citizenship to register to vote\n\nThis obviously creates a perverted incentive for politicians \n\nWhen it’s easier to create new voters than win voters over, you have a serious problem\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2077052225407615230#m",
+      "url": "https://x.com/elonmusk/status/2077358378276286954",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T11:20:12+00:00",
+      "text": "Since no one likes \"hydration breaks,\" let's boycott any advertiser that sponsors them, starting with Powerade.",
+      "url": "https://x.com/paulg/status/2077352529172603100",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T07:23:20+00:00",
+      "text": "“Most reliable big launch provider in history.”\n\n\nApoStructura (@ApoStructura)\n\nSpaceX is the most reliable big launch provider in history, and soon to be the most prolific ever as well\n\n\n\n\n\n— https://nitter.net/ApoStructura/status/2077122046861942809#m",
+      "url": "https://x.com/edwards345/status/2077292916842877040",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T03:58:50+00:00",
+      "text": "If you mentally replace ‘data center’ with ‘big computer’ it helps crystallize the stupidity.\n\n\nGovernor Hochul Press Office (@NYGovPress)\n\nHOCHUL ENACTS NATION’S FIRST STATEWIDE DATA CENTER MORATORIUM\n\n\n\n\n\n— https://nitter.net/NYGovPress/status/2077086508989714792#m",
+      "url": "https://x.com/zackkanter/status/2077241454322385226",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T03:38:59+00:00",
+      "text": "Went to see Spain vs France with 17 yo. About 10 minutes in I asked who seemed to him to have the upper hand so far, because it wasn't who we'd been expecting. They kept it the whole match.",
+      "url": "https://x.com/paulg/status/2077236457878474807",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T03:26:44+00:00",
+      "text": "Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.\n\n\nStarlink (@Starlink)\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity for streaming, video calling, gaming and more.\n\nCurrently available in select areas. As production ramps, Starlink V5 will be available in additional areas.\n\nOrder now → starlink.com/v5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2077145785481957839#m",
+      "url": "https://x.com/michaelnicollsx/status/2077233376281469157",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T02:32:57+00:00",
+      "text": "Grok 4.5 is worth trying\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 just ranked #2 on the FrontierSWE leaderboard, outperforming Claude Opus 4.8 and GPT-5.5\n\nIt delivers top-tier coding performance with exceptional speed, strong token efficiency and a much lower cost than many competing frontier models\n\nGrok 4.5 is already one of the best coding models available today, sitting at the very top\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2077170837413867751#m",
+      "url": "https://x.com/elonmusk/status/2077219839626641676",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T02:22:35+00:00",
+      "text": "Order the Starlink V5 terminal!\n\n\nStarlink (@Starlink)\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity for streaming, video calling, gaming and more.\n\nCurrently available in select areas. As production ramps, Starlink V5 will be available in additional areas.\n\nOrder now → starlink.com/v5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2077145785481957839#m",
+      "url": "https://x.com/elonmusk/status/2077217230895382826",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T01:31:13+00:00",
+      "text": "People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.",
+      "url": "https://x.com/yunta_tsai/status/2077204303568347312",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T01:19:54+00:00",
+      "text": "One of the many properties that code has that makes it highly amenable to agents is that you can more or less quickly test it. You can either go see if the application works manually, or you can actually run a test on what you built.\n\nMost other areas of work don’t have this benefit. You only get the testing when the final product hits the real world in some capacity - a stock trade is executed, a contract is negotiated, a sales pitch is delivered, and so on.\n\nThere’s probably going to be a whole new set of opportunities for how we begin to test the rest of work in this way. Ultimately it will mean more agents being layered into workflows. \n\nIt also means we need much better evals on most of our workflows. Most work today in enterprises doesn’t have an associated eval to know if something broke or improved with a model, prompt, or system change.\n\nThe enterprises that are able to eval their knowledge work the best also stand to gain the most from AI. Will become a critical aspect of agent adoption over time.",
+      "url": "https://x.com/levie/status/2077201458546745553",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T00:09:46+00:00",
+      "text": "Grok 4.5 Usage reset to 0% time to build.",
+      "url": "https://x.com/tetsuoai/status/2077183806117920958",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T22:05:11+00:00",
+      "text": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.\n\n• Size: 384 × 306 mm vs 594 × 383 mm\n• Weight: 1.1 kg vs 2.9 kg\n• Power: 35–50W vs 75–100W\n• Wind rating: 265 km/h vs 96+ km/h\n• Same 110° field of view\n• Speeds up to 375+ Mbps",
+      "url": "https://x.com/cb_doge/status/2077152453557178625",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T22:03:05+00:00",
+      "text": "Interesting.\n\n\nCity Journal (@CityJournal)\n\nData centers haven’t been raising residential bills.\n\nThe sharpest increases are found in states that have pursued the country’s most aggressive climate policies, not those with the most data centers.\n\nCalifornia, with some of the nation’s fastest-rising electricity rates, has seen relatively modest data-center growth. Virginia, where data centers consume more than a fifth of the state’s electricity, has experienced price increases near the national average.\n\n@Shawn_Regan in the City Journal Substack: cityjournal.substack.com/p/d…\n\n\n\n\n\n— https://nitter.net/CityJournal/status/2077094214916051025#m",
+      "url": "https://x.com/pmarca/status/2077151925662097659",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T21:26:35+00:00",
+      "text": "Our administration owes a debt of gratitude to Nick Shirley for exposing one of the most egregious cases of fraud this country has ever seen. \n\nIf the media was worth their salt, they would take notes from Nick and other citizen journalists who care about investigating stories that affect the American people instead of trying to silence them.\n\n\nNick shirley (@nickshirleyy)\n\nRemember when instead of investigating the fraud the mainstream media decided to investigate the person who exposed the fraud?\n\nWhy? Because they were complicit in the cover up\n\nI was right, they were wrong\n\nI work for you, they work against you\n\nThe media is full of learers.\n\n\n\n— https://nitter.net/nickshirleyy/status/2077087262748151811#m",
+      "url": "https://x.com/JDVance/status/2077142741528592887",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T19:50:57+00:00",
+      "text": "hello!\n\n\nTibo (@thsottiaux)\n\nHello. We have reached 8M active users across Codex and ChatGPT Work.\n\nWe are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be.\n\nSee you tomorrow for more updates on our growth!\n\n\n\n— https://nitter.net/thsottiaux/status/2077114635308986427#m",
+      "url": "https://x.com/sama/status/2077118672150388816",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T19:02:55+00:00",
+      "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "url": "https://x.com/sama/status/2077106587307798989",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:30:53+00:00",
+      "text": "also, a reason to favor open-source harnesses.",
+      "url": "https://x.com/sama/status/2077053226080436235",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:30:33+00:00",
+      "text": "Concerning.\n\n\nHari (@hrkrshnn)\n\nSpaceXAI was caught uploading your code to its cloud.\n\nI reversed xAI's official Grok Build binary. In a controlled session with zero tool-calls, it uploaded the complete codebase to xAI's storage\n\nIt ships a malware-like background code collector.\n\n\n\n— https://nitter.net/hrkrshnn/status/2076716354754015368#m",
+      "url": "https://x.com/sama/status/2077053140508266710",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:13:26+00:00",
+      "text": "It's been interesting and puzzling to witness the problems with accuracy in UK economic statistics over the past few years. (See the links in the next tweet for more.) It seems that the Office for National Statistics, ONS, now struggles to effectively measure basic figures such as employment, trade, and inflation. This resulted in a quite scathing government report published last summer, where Robert Devereux, a former permanent secretary, concluded that \"most of the well-publicised problems with core economic statistics are the consequence of ONS’s own performance.\"\n\nThere's a lot of discussion about the travails facing the UK these days (including this big piece in The Atlantic a few weeks ago[1]), and the problems with the ONS feel like an unsettling microcosm of diffuse decline in broader institutional competence.\n\nAnyhow: at Stripe, we became curious about the UK's published entrepreneurship data. While we observe a boom in many parts of the world, official figures don't show a similar increase in the UK. In the latest Stripe Economics post, we dug into the data, and, as far as we can tell, the official figures are probably misleading. The good and the bad news (mostly good, I think!) is that the UK is almost certainly witnessing an unmeasured boom in entrepreneurship: stripeeconomics.com/p/is-the…\n\nUK-specific issues aside, I suspect that this measurement question is illustrative of forthcoming econometric challenges. Keeping the world's macro indicators up-to-date in response to the faster-than-usual changes wrought by AI will be both increasingly difficult and increasingly important in the coming years.\n\n[1] theatlantic.com/magazine/202…",
+      "url": "https://x.com/patrickc/status/2077048835483013186",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:10:11+00:00",
+      "text": "This often happens with technology. Probably more often than not. It's as if the system as a whole has some kind of foresight that individual participants in it don't have.",
+      "url": "https://x.com/paulg/status/2077048016037679104",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:06:07+00:00",
+      "text": "It's interesting in this case how well AI fits into existing trends. Programming wasn't evolving in this direction because AI was coming. No one knew it was. And yet we end up with what looks like a smooth acceleration along much the same path.",
+      "url": "https://x.com/paulg/status/2077046994917560356",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:56:19+00:00",
+      "text": "Ancient times\n\nVideo",
+      "url": "https://x.com/elonmusk/status/2077044528234553709",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:53:04+00:00",
+      "text": "Before vibe coding became a thing, programming was already evolving in that direction. It already increasingly consisted of installing and configuring stuff other people wrote, without reading the source.",
+      "url": "https://x.com/paulg/status/2077043707799588996",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:52:02+00:00",
+      "text": "True\n\n\nAlice Smith (@TheAliceSmith)\n\nWe could have closed borders and a welfare state.\n\nOr we could have open borders and no welfare state.\n\nBut of course we’ve chosen the most foolish and destructive option available - open borders and a welfare state.\n\nThe worst of all possible worlds.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2076822350599712801#m",
+      "url": "https://x.com/elonmusk/status/2077043449279262954",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:48:23+00:00",
+      "text": "this is a thoughtful proposal from demis:\n\n\nDemis Hassabis (@demishassabis)\n\n\nArticle\n\n\n\nA Framework for Frontier AI and the Dawning of a New Age\n\nThis is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. When we\n\n\n\n\n— https://nitter.net/demishassabis/status/2076957440109625718#m",
+      "url": "https://x.com/sama/status/2077042528906527225",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:48:02+00:00",
+      "text": "SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours\n\nSpaceX is moving at light speed right now\n\nFirst:\n• 27 Starlink satellites from Vandenberg\n\nThen, just 7 hours and 42 minutes later:\n• 29 more Starlink satellites from Florida\n\nTwo coasts, two rockets, 56 satellites, less than eight hours\n\nFor most space programs, one launch is a major national achievement\nSpaceX launched twice in one day and was already preparing for the next mission\n\nSpaceX is basically running an orbital assembly line",
+      "url": "https://x.com/XFreeze/status/2077042441698312486",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:29:40+00:00",
+      "text": "this would have been a whole startup not too long ago\n\n\nThijs (@cdngdev)\n\ni gave 5.6 sol access to my camera roll and had it extract pictures of every piece of clothing i own from my photos\n\nthen, told it to find new outfits for me and render them on me with gpt-image!\n\nits kinda cool to see your entire wardrobe in a collection like this\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cdngdev/status/2076812846793650485#m",
+      "url": "https://x.com/sama/status/2077037818824843719",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:26:24+00:00",
+      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.\n\nhappy to deliver at one-quarter of the price.",
+      "url": "https://x.com/sama/status/2077036999303999910",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:13:43+00:00",
+      "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week!\n\nwelcome.",
+      "url": "https://x.com/sama/status/2077033807736459713",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T13:29:28+00:00",
+      "text": "Sustaining the health of the thymus and our immune system, preventing its involution, may be key to promoting healthspan @nature @EdwrdChen\nnature.com/articles/d41586-0…",
+      "url": "https://x.com/EricTopol/status/2077022669309136991",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T12:48:04+00:00",
+      "text": "Grok is the Flow LLM.\n\nGrok 4.5’s biggest advantage is its speed.\n\nIt’s smart enough to be comparable to the other models on most things.\n\nBut that speed allows you to make little tweaks to your system so that the output is PERFECT.\n\nWith the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this.\n\nIt’s now my preferred model.\n\n\nJon Shulkin (@jon)\n\nIt's great that Grok 4.5 is faster and 90% cheaper than Fable 5.   What really matters to enterprise is \"does it work\".   Grok 4.5 allowed me to complete what Fable 5 couldn't.   Full ingestion, crawl, indexing, AI searchibility, vault, filestore app of 450,000 files with full app service, ask, wiki, and custom agent enablement.  Intelligence layer enabled for an entire company by Grok 4.5.  The only one that succeeded.   Try it...\n\n\n\n\n\n— https://nitter.net/jon/status/2076829910879043934#m",
+      "url": "https://x.com/farzyness/status/2077012251899277738",
       "author": "elonmusk",
       "source": "nitter"
     },
@@ -34,9 +279,9 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-14T04:10:23+00:00",
-      "text": "Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today\n\nThere was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data\n\nThose engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong\n\nI guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm\n\nThen came Opus 4.5 earlier this year which changed everything\n\nSuddenly real production code became possible with so much less friction and headache\n\nEveryone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8\n\nNow a completely new crop of models is coming out that is not quite a 4.5 moment but something close\n\nWe are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past\n\nMy wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on\n\nShe never stops letting me know that she was right, and she was\n\nThe next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic\n\nThere are many amazing things ahead and extraordinary challenges and opportunities\n\nWe are living inside one of one of the biggest revolutions in human history",
-      "url": "https://x.com/kevinnbass/status/2076881971117011234",
+      "date": "2026-07-14T03:59:16+00:00",
+      "text": "Falcon 9 launches 27 @Starlink satellites from California\n\n\n\nVideo",
+      "url": "https://x.com/SpaceX/status/2076879176628305957",
       "author": "elonmusk",
       "source": "nitter"
     },
@@ -45,251 +290,6 @@
       "text": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
       "url": "https://x.com/sama/status/2076824870072238299",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-14T00:22:45+00:00",
-      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something\n\n\nClaude (@claudeai)\n\nThere’s hope in hard questions.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/claudeai/status/2075271759289303522#m",
-      "url": "https://x.com/sama/status/2076824686307271125",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-14T00:16:53+00:00",
-      "text": "still sorta breaks my brain to see our models be good at design finally",
-      "url": "https://x.com/sama/status/2076823209589313910",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T22:32:09+00:00",
-      "text": "True\n\n\nX Freeze (@XFreeze)\n\nA reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in practice\n\nIn other words, “opting out” does not always mean your data is fully deleted or excluded...the company’s own way of saying opt-out may not actually match what users reasonably expect in the end\n\nHowever SpaceXAI just showed what going beyond the industry standard actually looks like\n\nRunning \"/privacy\" in Grok Build to disable retention also deletes all previously synced data...not just data created after changing the setting and prevents future code and session data from being retained\n\nElon also confirmed that, as a precautionary measure, all user data uploaded to SpaceXAI before now will be completely deleted, with nothing remaining\n\nYet some people are having a selective outrage meltdown, acting as though AI companies retaining uploaded data is some completely new revelation\n\nData retention has long been common across major AI products, while manual privacy opt-outs are often buried, limited by exceptions, or focused primarily on future activity\n\nMeanwhile, SpaceXAI is setting a new privacy standard that goes far beyond what the rest of the AI industry currently provides by default\n\n\n\n— https://nitter.net/XFreeze/status/2076780519770018131#m",
-      "url": "https://x.com/elonmusk/status/2076796854973423971",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T21:44:19+00:00",
-      "text": "This is yet another reason it's good for young founders, especially, to start by building something they themselves want. If you're the intended user, you're not going to be satisfied with vague. (Nor is any user, but at least this way you're forced to see it.)",
-      "url": "https://x.com/paulg/status/2076784814028648749",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T21:42:40+00:00",
-      "text": "An initial startup idea can't usually be both grand and precise. In practice they're usually either grand and vague or precise and small. Precise and small is better. You know who your initial users are, and you expand outward. With grand and vague you can't even get started.",
-      "url": "https://x.com/paulg/status/2076784398347968777",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T21:26:52+00:00",
-      "text": "come for the best model, stay because we don’t treat you with contempt",
-      "url": "https://x.com/sama/status/2076780425280954658",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T20:47:06+00:00",
-      "text": "Here's a marvelous paper.  It proposes that genetically programmed human language learning doesn't require any genetically specified language mechanism, just a tendency to pay attention to certain stimuli, and to try really hard to predict them.  Then generic learning mechanisms can do the hard work.  The stimuli to pay attention to are rapid ostensive rhythmical streams of actions.  This covers language, and sign language, and also music.\n\n\"Noticing language: What echolocation tells us about language emergence\" by Brett Reynolds.  (Epistemic status: I had this idea a couple of years ago.  But I didn't think hard about it or write a paper, so I deserve no credit.)\n\nlingbuzz.net/lingbuzz/009302…",
-      "url": "https://x.com/carl_feynman/status/2076770418493657442",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T20:05:36+00:00",
-      "text": "that goes hard\n\n\nChuck McKinnon (@chuckmckinnon)\n\n\"Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive... [T]hose who torment us for our own good will torment us without end for they do so with the approval of their own conscience.\"\n--C.S. Lewis\n\n\n\n— https://nitter.net/chuckmckinnon/status/2076667554798752248#m",
-      "url": "https://x.com/sama/status/2076759971967230419",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T19:37:34+00:00",
-      "text": "We ran into Amit from the winter 2007 batch. We still remember him vividly, because after I told him in rehearsals that he had to speak louder, the first sentence of his Demo Day presentation was probably the most emphatic ever delivered.",
-      "url": "https://x.com/paulg/status/2076752917726667127",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T19:28:06+00:00",
-      "text": "SpaceX was founded on one powerful belief:\n\nA future where humanity is out exploring the stars is fundamentally more exciting than one where we are not\n\nEvery Falcon launch, every Starship test, and every step toward Mars is built around that belief\n\nThe goal is not just to reach space\n\nIt is to build a future where humanity becomes a multiplanetary civilization",
-      "url": "https://x.com/XFreeze/status/2076750536582529090",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T19:16:51+00:00",
-      "text": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize.\n\nThis should also help clusters form around interests more easily, which many people have asked for.",
-      "url": "https://x.com/nikitabier/status/2076747704248758617",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:45:40+00:00",
-      "text": "Progress\n\n\nX Freeze (@XFreeze)\n\nGrok Build is growing insanely fast, reaching 1.16 million monthly visits within just weeks after its early-beta launch\n\nTraffic jumped from around 460,000 visits in May to 1.16 million in June\n\nThat’s growth of more than 150% in just one month\n\nGrok Build with Grok 4.5 ranked #1 on the SWE-Atlas-QnA benchmark with a score of 84, ahead of Claude Code with Fable 5 on the benchmark\n\nMore developers are discovering Grok Build and realizing how capable Grok 4.5 actually is for real coding work\n\nGrok Build is quickly taking over the AI coding space\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2076639388805804140#m",
-      "url": "https://x.com/elonmusk/status/2076739857863385206",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:45:00+00:00",
-      "text": "True. \n\nAs a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.\n\n\nAndrew Milich (@milichab)\n\nI worked on building an end-to-end encrypted email/docs/files/calendar app @skiffprivacy for 4 years and care deeply about privacy. \n\nZDR and /privacy are always respected in Grok Build - and swapping your setting with /privacy deletes any synced data retoractively\n\n\n\n— https://nitter.net/milichab/status/2076693464016994685#m",
-      "url": "https://x.com/elonmusk/status/2076739687658496209",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:38:16+00:00",
-      "text": "SpaceX policy regarding data retention.\n\nIt is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.\n\n\nSpaceXAI (@SpaceXAI)\n\nWe care deeply about your privacy and respect customer choice. For teams using zero data retention, no trace and code data is ever retained. All API key use of Grok Build also respects ZDR. \n\nIf ZDR is disabled, the /privacy command is available in the CLI to disable data retention, which also deletes previously synced data.\n\nRun the /privacy command to view or change your settings at any time.\n\n\n\n— https://nitter.net/SpaceXAI/status/2076692402442846289#m",
-      "url": "https://x.com/elonmusk/status/2076737992689914215",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:35:27+00:00",
-      "text": "Their zero data retention policy fine print says they still retain data? Am I reading this right?",
-      "url": "https://x.com/elonmusk/status/2076737284192285068",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:32:00+00:00",
-      "text": "we love our users\n\n\nTibo (@thsottiaux)\n\nThank you to the 7M active users who are now using Codex and ChatGPT Work.\n\nWe have added a banked reset to everyone's account to celebrate the milestone. You can apply the reset in the desktop app or on web and it will replenish the weekly usage for you.\n\nHave fun out there.\n\n\n\n— https://nitter.net/thsottiaux/status/2076735790567338203#m",
-      "url": "https://x.com/sama/status/2076736417498267652",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:25:08+00:00",
-      "text": "The reason people think premonitions are meaningful is that they don't remember the false ones. So when I have a premonition I make a point of remembering it. And not surprisingly, they all turn out to be false.",
-      "url": "https://x.com/paulg/status/2076734689478590487",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:09:01+00:00",
-      "text": "This is presumably one reason people can succeed at starting startups so young, when you have to be older to do well at most other similarly complicated things. In startups the usually fatal solipsism of the young can be turned to your advantage.",
-      "url": "https://x.com/paulg/status/2076730633867665848",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:06:22+00:00",
-      "text": "This would not ordinarily work, but it happens to work with technology because the young are also the bellwethers. So if you make something you want, other people will magically turn out to want it too.",
-      "url": "https://x.com/paulg/status/2076729967648665849",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T18:04:56+00:00",
-      "text": "The biggest mistake young founders make is a variant of this: to build something you imagine people want, instead of studying them and figuring out what they actually do want. But the hack for beating this is to roll with your solipsism and make something for yourself.\n\n\nRobin Hanson (@robinhanson)\n\nMy guess is that the biggest mistake that young adults make is to be overly self-focused. It is fine to be selfish, most folks are, but a mistake to think you serve yourself best by focusing that much on how you feel, look, etc.\n\n\n\n— https://nitter.net/robinhanson/status/2076726980267909148#m",
-      "url": "https://x.com/paulg/status/2076729604359016751",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T17:53:37+00:00",
-      "text": "today we are announcing Agentcard for companies with a special twist: since implementing @agentcardhq takes less than 5min if you implement it in the next 2 days we will give you a 90% discount, $500/mo instead of $5000/mo\n\nthat's the same deal we offer to yc startups, now open to everyone for 2 days. that is a $54k discount in the first year\n\nlink below\n\nVideo",
-      "url": "https://x.com/keyserfaty/status/2076726758767018125",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T17:53:11+00:00",
-      "text": "The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
-      "url": "https://x.com/JasonBud/status/2076726650365264196",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T17:50:23+00:00",
-      "text": "That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
-      "url": "https://x.com/milichab/status/2076725943708868615",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T17:34:53+00:00",
-      "text": "Crazy what you can build with Grok 4.5 and Grok Build in minutes.\n\n\n\n\nFalconOrtiz (@Falconortizx)\n\nGrok 4.5 Everybody loves it.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Falconortizx/status/2076699535296856102#m",
-      "url": "https://x.com/tetsuoai/status/2076722045136843026",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T17:31:51+00:00",
-      "text": "The graph is from \"The Political Economy of Diversity, Equity, and Inclusion\" by McCarty and Steel.\n\nosf.io/preprints/socarxiv/5t…\n\nLink\n\n\n\nThe Political Economy of Diversity, Equity, and Inclusion\n\nWe analyze the text of 1,694,664 securities disclosures for 15,105 publicly traded companies to understand the political forces behind the rise and fall of corporate commitments to diversity, equity,...\nosf.io",
-      "url": "https://x.com/paulg/status/2076721279990919450",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T17:29:52+00:00",
-      "text": "The rise and fall of wokeness: DEI commitments in corporate securities disclosures filed with the SEC. To me this seems a trailing indicator; most other measures of wokeness take off well before 2019 and peak in 2020 or 2021. But the shape! That's what a moral fashion looks like.",
-      "url": "https://x.com/paulg/status/2076720782357741902",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T16:56:14+00:00",
-      "text": "Today in investor updates: Startup apologizes for growing a mere 36% in June, because they were focused mostly on fundraising.",
-      "url": "https://x.com/paulg/status/2076712318986281038",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T16:29:18+00:00",
-      "text": "It slows down between 1890 and 1940 as industry concentrates in what is now the rust belt, then after World War II, bang, it shoots westward.\n\n\nCivixplorer (@Civixplorer)\n\n📍 Mean center of population in the US over the years.\n\n\n\n\n\n— https://nitter.net/Civixplorer/status/2076419075379511798#m",
-      "url": "https://x.com/paulg/status/2076705537300013533",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T16:23:29+00:00",
-      "text": "One of the weird constants about YC is that the disses are always the same.  Investors always claim valuations have become impossibly high. Competitors always claim we've jumped the shark because the batch sizes are now too big. Historically both have always been mistaken.",
-      "url": "https://x.com/paulg/status/2076704076411347356",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T16:17:28+00:00",
-      "text": "Explained derivatives to 14 yo on the way back from breakfast, but before I could do integrals he diverted the conversation by asking about the Denver Nuggets.",
-      "url": "https://x.com/paulg/status/2076702561336545450",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T15:55:08+00:00",
-      "text": "clarity is nice\n\n\nTibo (@thsottiaux)\n\nRest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model.\n\n\n\n— https://nitter.net/thsottiaux/status/2076459871021736245#m",
-      "url": "https://x.com/sama/status/2076696938918084809",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T15:51:46+00:00",
-      "text": "If you run /privacy and change the setting, all previously synced data is deleted.",
-      "url": "https://x.com/SpaceXAI/status/2076696092037833091",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T15:32:05+00:00",
-      "text": "ICE agents are alleging this Biddeford, Maine driver was trying to run them over and they fatally shot him in self-defense.\n\n\nNathan Bernard (@nathanTbernard)\n\nICE agents fatal shooting footage from Biddeford, Maine has been released by Portland Press Herald.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/nathanTbernard/status/2076687428962640325#m",
-      "url": "https://x.com/nathanTbernard/status/2076691141697716713",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T15:27:48+00:00",
-      "text": "Literally true\n\nVideo",
-      "url": "https://x.com/elonmusk/status/2076690060699684905",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-13T12:15:38+00:00",
-      "text": "I think of myself as a product manager. I've hired and trained more product managers than most.  I am telling you product and growth are not different jobs.",
-      "url": "https://x.com/nejatian/status/2076641703021215863",
-      "author": "paulg",
       "source": "nitter"
     }
   ]
