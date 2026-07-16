@@ -7,11 +7,60 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-15T13:03:11.429198+00:00",
-  "last_success_at": "2026-07-15T13:03:11.429198+00:00",
+  "updated_at": "2026-07-16T13:11:07.506192+00:00",
+  "last_success_at": "2026-07-16T13:11:07.506192+00:00",
   "source": "nitter",
-  "error_message": "",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
+    {
+      "date": "2026-07-15T22:35:39+00:00",
+      "text": "Finally, sudo make me a sandwich is reality.\n\n\nAndy Fang (@andyfang)\n\nToday we're opening up the DoorDash CLI in limited beta.\n\n`dd-cli` lets you order DoorDash directly from your agent: search stores, find the best deals, check out, and more.\n\nEarly access for US/Canadian macOS developers by waitlist. Excited to see what folks build!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/andyfang/status/2077516962515599799#m",
+      "url": "https://x.com/paulg/status/2077522510116000125",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T22:24:08+00:00",
+      "text": "Şimdi size kan dondurucu bir bilgi vereyim. \n\nİngiltere’nin Arjantin karşısında 66:05 - 84.42 arasındaki 18 dakika 37 saniyedeki isabetli pas sayısı sadece 2. \n\nBu iki isabetli pas da kaleci Jordan Pickford ile stoper John Stones'un aynı pozisyonda birbirleriyle paslaşması.\n\n30 yıldır bilinçli olarak futbol izliyorum hayatımda ilk defa böyle bir şey gördüm. Mahalle maçında bile olamaz böyle bir şey. Acaba ben mi yanlış bakıyorum diye birkaç farklı siteyi bile inceledim hayatımda ilk defa. İnanılmaz bir şey.",
+      "url": "https://x.com/uguraktan/status/2077519611277242670",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T21:23:28+00:00",
+      "text": "Wow: After voting to cut U.S. aid to Israel, New York Rep. Pat Ryan — who serves in a competitive district — says he does not want AIPAC's endorsement and is returning their funds\n\n\nPat Ryan 🇺🇸 (@PatRyanUC)\n\nYes, don’t want their endorsement and returning the funds.\n\n\n\n— https://nitter.net/PatRyanUC/status/2077502480586338565#m",
+      "url": "https://x.com/prem_thakker/status/2077504344425975820",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T20:23:12+00:00",
+      "text": "amazing to me that some people want the silent version\n\nopenai.com/supply/co-lab/wor…\n\nLink\n\n\n\nSupply Co. x Work Louder\n\nDiscover the Supply Co. × Work Louder kbd-1.0 Codex micro, an exclusive collaboration combining thoughtful design, premium craftsmanship, and AI inspiration.\nopenai.com",
+      "url": "https://x.com/sama/status/2077489177374208000",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T17:34:29+00:00",
+      "text": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.\n\nopenai.com/index/unlocking-s…\n\nLink\n\n\n\nGPT-Red: Unlocking Self-Improvement for Robustness\n\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nopenai.com",
+      "url": "https://x.com/OpenAI/status/2077446718728425686",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T15:42:27+00:00",
+      "text": "Excited to announce Zakura! A new Zcash full node, built around scale!\n\nWe've teamed up with @TachyonZcash to make this a reality.\n\nOur first release solves many painpoints for the ecosystem:\n- Much faster sync\n- Pruned nodes\n- Snapshots\n- Support for Zcashd wallets\n🧵\n\n\nZakura (@ZakuraZcash)\n\nAnnouncing Zakura: a new Zcash node built for scale.\n\n\n\n— https://nitter.net/ZakuraZcash/status/2077416651604271596#m",
+      "url": "https://x.com/zkDragon/status/2077418522909761944",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T13:02:49+00:00",
+      "text": "The danger of continuing to act like a third world country is that you might actually become one.\n\n\nTreasury Secretary Scott Bessent (@SecScottBessent)\n\nAs America commemorates 250 years of independence, the @usmint will begin striking this new $1 gold coin to honor the enduring legacy of liberty and a lasting symbol of patriotism. Featuring President Trump, it celebrates the strength of American values, and the promise of a nation dedicated to preserving freedom for all.\n\n\n\n\n\n— https://nitter.net/SecScottBessent/status/2077339920461439115#m",
+      "url": "https://x.com/paulg/status/2077378349559624154",
+      "author": "paulg",
+      "source": "nitter"
+    },
     {
       "date": "2026-07-15T12:55:47+00:00",
       "text": "Getting dressed:\n\nMe: How do I look?\n\nJessica: You look like PG.",
@@ -20,59 +69,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-15T12:30:38+00:00",
-      "text": "Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future.\nHow quickly do the tables turn.",
-      "url": "https://x.com/PeterDiamandis/status/2077370252548100153",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T11:58:10+00:00",
-      "text": "Needs to change.\n\n\nBillboard Chris 🌎 (@BillboardChris)\n\nThis is real. \n\nNetflix’s description of Gone with the Wind: \n\nA 1939 American Civil War epic known for its racism. To learn more about Black lives in America, search \"Black Lives Matter.\"\n\n\n\n\n\n— https://nitter.net/BillboardChris/status/2077330657328439675#m",
-      "url": "https://x.com/elonmusk/status/2077362080286412981",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T11:56:34+00:00",
-      "text": "Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. \n\nMoreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running.\n\nTrust through total transparency is the only thing that should be believed.",
-      "url": "https://x.com/elonmusk/status/2077361679034118271",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T11:49:07+00:00",
-      "text": "She is France’s last hope\n\n\nBasil the Great (@BasilTheGreat)\n\n🚨Marine Le Pen's poll numbers have SKYROCKETED\n\nBefore the last Presidential Election in 2022\nMacron was on 27%\nLe Pen was on 23%\n\nShe's currently sat on 36%\nHer nearest competitor is on 16%\n\nFrance will deport millions\n\n\n\n\n\n— https://nitter.net/BasilTheGreat/status/2077083897674830114#m",
-      "url": "https://x.com/elonmusk/status/2077359803454673313",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T11:47:09+00:00",
-      "text": "Paul Ehrlich was one the most evil men ever\n\n\nWilfred Reilly (@wil_da_beast630)\n\nActual evil - entropy filtered through human agents - tends to be subtle. At its root, evil means nothing beyond \"making things worse (for life of our kind)\" - taking potentially or actually complex and fractal systems and collapsing them into something lesser. \n\nFive current examples: the anti-nuke movement, 4B, anti-natalism, non-education of women, and disparate impact doctrine. All of these things will affect life, in a civilized country over a century, far more than 5% of young male fighters dying generationally in war.\n\n\n\n— https://nitter.net/wil_da_beast630/status/2077265779204960286#m",
-      "url": "https://x.com/elonmusk/status/2077359310695260521",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T11:43:27+00:00",
-      "text": "True\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nOpen borders and a welfare state is essentially just gerrymandering by immigration \n\nMost people are unaware that illegal immigrants are counted in the census that determines how many representatives each state gets \n\nAnd that only 12 states actually require proof of citizenship to register to vote\n\nThis obviously creates a perverted incentive for politicians \n\nWhen it’s easier to create new voters than win voters over, you have a serious problem\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2077052225407615230#m",
-      "url": "https://x.com/elonmusk/status/2077358378276286954",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-15T11:20:12+00:00",
       "text": "Since no one likes \"hydration breaks,\" let's boycott any advertiser that sponsors them, starting with Powerade.",
       "url": "https://x.com/paulg/status/2077352529172603100",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T07:23:20+00:00",
-      "text": "“Most reliable big launch provider in history.”\n\n\nApoStructura (@ApoStructura)\n\nSpaceX is the most reliable big launch provider in history, and soon to be the most prolific ever as well\n\n\n\n\n\n— https://nitter.net/ApoStructura/status/2077122046861942809#m",
-      "url": "https://x.com/edwards345/status/2077292916842877040",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -90,66 +90,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-15T03:26:44+00:00",
-      "text": "Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.\n\n\nStarlink (@Starlink)\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity for streaming, video calling, gaming and more.\n\nCurrently available in select areas. As production ramps, Starlink V5 will be available in additional areas.\n\nOrder now → starlink.com/v5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2077145785481957839#m",
-      "url": "https://x.com/michaelnicollsx/status/2077233376281469157",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T02:32:57+00:00",
-      "text": "Grok 4.5 is worth trying\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 just ranked #2 on the FrontierSWE leaderboard, outperforming Claude Opus 4.8 and GPT-5.5\n\nIt delivers top-tier coding performance with exceptional speed, strong token efficiency and a much lower cost than many competing frontier models\n\nGrok 4.5 is already one of the best coding models available today, sitting at the very top\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2077170837413867751#m",
-      "url": "https://x.com/elonmusk/status/2077219839626641676",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T02:22:35+00:00",
-      "text": "Order the Starlink V5 terminal!\n\n\nStarlink (@Starlink)\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity for streaming, video calling, gaming and more.\n\nCurrently available in select areas. As production ramps, Starlink V5 will be available in additional areas.\n\nOrder now → starlink.com/v5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2077145785481957839#m",
-      "url": "https://x.com/elonmusk/status/2077217230895382826",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T01:31:13+00:00",
-      "text": "People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.",
-      "url": "https://x.com/yunta_tsai/status/2077204303568347312",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-15T01:19:54+00:00",
       "text": "One of the many properties that code has that makes it highly amenable to agents is that you can more or less quickly test it. You can either go see if the application works manually, or you can actually run a test on what you built.\n\nMost other areas of work don’t have this benefit. You only get the testing when the final product hits the real world in some capacity - a stock trade is executed, a contract is negotiated, a sales pitch is delivered, and so on.\n\nThere’s probably going to be a whole new set of opportunities for how we begin to test the rest of work in this way. Ultimately it will mean more agents being layered into workflows. \n\nIt also means we need much better evals on most of our workflows. Most work today in enterprises doesn’t have an associated eval to know if something broke or improved with a model, prompt, or system change.\n\nThe enterprises that are able to eval their knowledge work the best also stand to gain the most from AI. Will become a critical aspect of agent adoption over time.",
       "url": "https://x.com/levie/status/2077201458546745553",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-15T00:09:46+00:00",
-      "text": "Grok 4.5 Usage reset to 0% time to build.",
-      "url": "https://x.com/tetsuoai/status/2077183806117920958",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-14T22:05:11+00:00",
-      "text": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.\n\n• Size: 384 × 306 mm vs 594 × 383 mm\n• Weight: 1.1 kg vs 2.9 kg\n• Power: 35–50W vs 75–100W\n• Wind rating: 265 km/h vs 96+ km/h\n• Same 110° field of view\n• Speeds up to 375+ Mbps",
-      "url": "https://x.com/cb_doge/status/2077152453557178625",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-14T22:03:05+00:00",
-      "text": "Interesting.\n\n\nCity Journal (@CityJournal)\n\nData centers haven’t been raising residential bills.\n\nThe sharpest increases are found in states that have pursued the country’s most aggressive climate policies, not those with the most data centers.\n\nCalifornia, with some of the nation’s fastest-rising electricity rates, has seen relatively modest data-center growth. Virginia, where data centers consume more than a fifth of the state’s electricity, has experienced price increases near the national average.\n\n@Shawn_Regan in the City Journal Substack: cityjournal.substack.com/p/d…\n\n\n\n\n\n— https://nitter.net/CityJournal/status/2077094214916051025#m",
-      "url": "https://x.com/pmarca/status/2077151925662097659",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-14T21:26:35+00:00",
-      "text": "Our administration owes a debt of gratitude to Nick Shirley for exposing one of the most egregious cases of fraud this country has ever seen. \n\nIf the media was worth their salt, they would take notes from Nick and other citizen journalists who care about investigating stories that affect the American people instead of trying to silence them.\n\n\nNick shirley (@nickshirleyy)\n\nRemember when instead of investigating the fraud the mainstream media decided to investigate the person who exposed the fraud?\n\nWhy? Because they were complicit in the cover up\n\nI was right, they were wrong\n\nI work for you, they work against you\n\nThe media is full of learers.\n\n\n\n— https://nitter.net/nickshirleyy/status/2077087262748151811#m",
-      "url": "https://x.com/JDVance/status/2077142741528592887",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -202,13 +146,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-14T14:56:19+00:00",
-      "text": "Ancient times\n\nVideo",
-      "url": "https://x.com/elonmusk/status/2077044528234553709",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-14T14:53:04+00:00",
       "text": "Before vibe coding became a thing, programming was already evolving in that direction. It already increasingly consisted of installing and configuring stuff other people wrote, without reading the source.",
       "url": "https://x.com/paulg/status/2077043707799588996",
@@ -216,24 +153,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-14T14:52:02+00:00",
-      "text": "True\n\n\nAlice Smith (@TheAliceSmith)\n\nWe could have closed borders and a welfare state.\n\nOr we could have open borders and no welfare state.\n\nBut of course we’ve chosen the most foolish and destructive option available - open borders and a welfare state.\n\nThe worst of all possible worlds.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2076822350599712801#m",
-      "url": "https://x.com/elonmusk/status/2077043449279262954",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-14T14:48:23+00:00",
       "text": "this is a thoughtful proposal from demis:\n\n\nDemis Hassabis (@demishassabis)\n\n\nArticle\n\n\n\nA Framework for Frontier AI and the Dawning of a New Age\n\nThis is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. When we\n\n\n\n\n— https://nitter.net/demishassabis/status/2076957440109625718#m",
       "url": "https://x.com/sama/status/2077042528906527225",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-14T14:48:02+00:00",
-      "text": "SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours\n\nSpaceX is moving at light speed right now\n\nFirst:\n• 27 Starlink satellites from Vandenberg\n\nThen, just 7 hours and 42 minutes later:\n• 29 more Starlink satellites from Florida\n\nTwo coasts, two rockets, 56 satellites, less than eight hours\n\nFor most space programs, one launch is a major national achievement\nSpaceX launched twice in one day and was already preparing for the next mission\n\nSpaceX is basically running an orbital assembly line",
-      "url": "https://x.com/XFreeze/status/2077042441698312486",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -265,13 +188,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-14T12:48:04+00:00",
-      "text": "Grok is the Flow LLM.\n\nGrok 4.5’s biggest advantage is its speed.\n\nIt’s smart enough to be comparable to the other models on most things.\n\nBut that speed allows you to make little tweaks to your system so that the output is PERFECT.\n\nWith the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this.\n\nIt’s now my preferred model.\n\n\nJon Shulkin (@jon)\n\nIt's great that Grok 4.5 is faster and 90% cheaper than Fable 5.   What really matters to enterprise is \"does it work\".   Grok 4.5 allowed me to complete what Fable 5 couldn't.   Full ingestion, crawl, indexing, AI searchibility, vault, filestore app of 450,000 files with full app service, ask, wiki, and custom agent enablement.  Intelligence layer enabled for an entire company by Grok 4.5.  The only one that succeeded.   Try it...\n\n\n\n\n\n— https://nitter.net/jon/status/2076829910879043934#m",
-      "url": "https://x.com/farzyness/status/2077012251899277738",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-14T04:11:49+00:00",
       "text": "A few thoughts on what we will see in AI structurally for the foreseeable future:\n\n* Frontier intelligence continues unabated and pushes the industry forward continuously. The top labs will continue to buy the best and the most data, build the most compute, be at the forefront of improved training breakthroughs, and so on. A few different approaches stratify the market on pricing and capability, but overall competitive pressure brings down pricing on a per task basis. That said, we just ask more from the models over time - as one thing gets cheaper, we just use more - so frontier spend and use remains robust. \n\n* Open weights rapidly absorbs frontier breakthroughs (and drives other breakthrough directions given the constraints), offering both lower cost intelligence and the ability to be post trained for specific workflows and domains. This creates a healthy counter balance to the frontier as you can run models “at cost” on a hyperscaler at any time, and tune models just for your tasks.\n\n* The Applied AI layer has a huge opportunity to combine frontier intelligence with open or cheap closed models to orchestrate workflows in any given domain. Due to evals, deep domain context, being trusted with enterprise data and workflows, this layer can maximize performance and cost combination. The applied AI layer will also often have their own RLed models especially for high volume, predictable tasks in their systems.\n\n* Individual enterprises will generally focus on their enterprise context, making sure they can get any AI system the right data and information to work with, in a continuously improving way. Some will go off and train their own models for specific areas of work (large banks, pharma, etc.) where they can get real alpha from doing so given the many tradeoffs, but most will spend energy on making sure they can get all of the gains from AI breakthroughs on their data and workflows.\n\nNet net: even though some of this gets framed as zero sum, there’s just a ton of opportunity for all layers of the stack and approaches.",
       "url": "https://x.com/levie/status/2076882332821373381",
@@ -279,17 +195,101 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-14T03:59:16+00:00",
-      "text": "Falcon 9 launches 27 @Starlink satellites from California\n\n\n\nVideo",
-      "url": "https://x.com/SpaceX/status/2076879176628305957",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-14T00:23:29+00:00",
       "text": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
       "url": "https://x.com/sama/status/2076824870072238299",
       "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T00:22:45+00:00",
+      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something\n\n\nClaude (@claudeai)\n\nThere’s hope in hard questions.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/claudeai/status/2075271759289303522#m",
+      "url": "https://x.com/sama/status/2076824686307271125",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T00:16:53+00:00",
+      "text": "still sorta breaks my brain to see our models be good at design finally",
+      "url": "https://x.com/sama/status/2076823209589313910",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T21:44:19+00:00",
+      "text": "This is yet another reason it's good for young founders, especially, to start by building something they themselves want. If you're the intended user, you're not going to be satisfied with vague. (Nor is any user, but at least this way you're forced to see it.)",
+      "url": "https://x.com/paulg/status/2076784814028648749",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T21:42:40+00:00",
+      "text": "An initial startup idea can't usually be both grand and precise. In practice they're usually either grand and vague or precise and small. Precise and small is better. You know who your initial users are, and you expand outward. With grand and vague you can't even get started.",
+      "url": "https://x.com/paulg/status/2076784398347968777",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T21:26:52+00:00",
+      "text": "come for the best model, stay because we don’t treat you with contempt",
+      "url": "https://x.com/sama/status/2076780425280954658",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T20:47:06+00:00",
+      "text": "Here's a marvelous paper.  It proposes that genetically programmed human language learning doesn't require any genetically specified language mechanism, just a tendency to pay attention to certain stimuli, and to try really hard to predict them.  Then generic learning mechanisms can do the hard work.  The stimuli to pay attention to are rapid ostensive rhythmical streams of actions.  This covers language, and sign language, and also music.\n\n\"Noticing language: What echolocation tells us about language emergence\" by Brett Reynolds.  (Epistemic status: I had this idea a couple of years ago.  But I didn't think hard about it or write a paper, so I deserve no credit.)\n\nlingbuzz.net/lingbuzz/009302…",
+      "url": "https://x.com/carl_feynman/status/2076770418493657442",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T20:05:36+00:00",
+      "text": "that goes hard\n\n\nChuck McKinnon (@chuckmckinnon)\n\n\"Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive... [T]hose who torment us for our own good will torment us without end for they do so with the approval of their own conscience.\"\n--C.S. Lewis\n\n\n\n— https://nitter.net/chuckmckinnon/status/2076667554798752248#m",
+      "url": "https://x.com/sama/status/2076759971967230419",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T19:37:34+00:00",
+      "text": "We ran into Amit from the winter 2007 batch. We still remember him vividly, because after I told him in rehearsals that he had to speak louder, the first sentence of his Demo Day presentation was probably the most emphatic ever delivered.",
+      "url": "https://x.com/paulg/status/2076752917726667127",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T18:32:00+00:00",
+      "text": "we love our users\n\n\nTibo (@thsottiaux)\n\nThank you to the 7M active users who are now using Codex and ChatGPT Work.\n\nWe have added a banked reset to everyone's account to celebrate the milestone. You can apply the reset in the desktop app or on web and it will replenish the weekly usage for you.\n\nHave fun out there.\n\n\n\n— https://nitter.net/thsottiaux/status/2076735790567338203#m",
+      "url": "https://x.com/sama/status/2076736417498267652",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T15:55:08+00:00",
+      "text": "clarity is nice\n\n\nTibo (@thsottiaux)\n\nRest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model.\n\n\n\n— https://nitter.net/thsottiaux/status/2076459871021736245#m",
+      "url": "https://x.com/sama/status/2076696938918084809",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-13T11:35:06+00:00",
+      "text": "What Ukraine is accomplishing against Russia in the Sea of Azov is incredible. I hope Taiwan is taking notes about how to apply lessons to the waters around it.\n\n\nOSINTtechnical (@Osinttechnical)\n\nUkrainian attack drones hit another 15 vessels in the Sea of Azov overnight, including 7 oil tankers. \n\nUkrainian forces have now hit 105 vessels in the area over 8 days, collapsing Azov/Don/Kerch Russian shipping traffic.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Osinttechnical/status/2076588278921257219#m",
+      "url": "https://x.com/NickKristof/status/2076631502972965354",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-12T20:08:15+00:00",
+      "text": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+      "url": "https://x.com/sama/status/2076398253332140410",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-12T01:02:57+00:00",
+      "text": "Stuy is New York’s most prestigious high school because it admits the highest-performing students as determined entirely by scores on an objective, unbiased test.\n\nSeats at Stuy are not allocated by race.  They are not given out through a subjective process that can be influenced by politics or favoritism or money. \n\nThe kids who got in did the best, and the kids who did not do the best cannot get in, no matter how much rich parents or woke politicians want to corrupt the fair and objective admissions competition. \n\nPeople like Lincoln Restler think Stuy is prestigious for reasons other than the fact that it has a rigorous objective admissions standard.  He thinks the prestige these kids earned through their excellence can be redistributed to the students who are not the best that he would prefer to pretend are the best.\n\nBut these students are not prestigious because they go to Stuy; Stuy is prestigious because these students go there. And if different students — inferior students— went there, then Stuy would no longer be the school that is a magnet for the smartest kids in New York and its prestige and reputation would dissipate rapidly, just like the University of California system’s has.\n\nOr maybe Restler knows this, and he just wants to destroy Stuy, because he wants to prevent these students’ talent from being measured and identified, so they can be scattered into low-performing schools where they will languish instead of having their talent cultivated.\n\nRegardless, his ideology of racial grievance and destruction is a monstrous evil masquerading as “social justice,” and it will not be tolerated.\n\n\nLincoln Restler (@LincolnRestler)\n\n1 in 5 NYC public school students are Black, but at Stuy - our most prestigious high school - 3 of ~800 incoming Freshmen are Black.\n\nWe urgently need state legislation to modify the admissions process. A single test should never be only factor deciding who gets in & who doesn’t.\n\n\n\n— https://nitter.net/LincolnRestler/status/2076035293682040970#m",
+      "url": "https://x.com/DanFriedman81/status/2076110027924939121",
+      "author": "naval",
       "source": "nitter"
     }
   ]
