@@ -7,135 +7,30 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-07-21T13:09:07.171504+00:00",
-  "last_success_at": "2026-07-21T13:09:07.171504+00:00",
+  "updated_at": "2026-07-22T13:15:20.469682+00:00",
+  "last_success_at": "2026-07-22T13:15:20.469682+00:00",
   "source": "nitter",
-  "error_message": "",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>; @paulg: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
     {
-      "date": "2026-07-21T06:09:59+00:00",
-      "text": "It’s been this way for years\n\n\nWall Street Apes (@WallStreetApes)\n\nMy jaw literally dropped checking this out\n\nIf you go to New Jersey inmates mugshots and filter by race “White” you’re mind is gong to be blown\n\nAlmost all mugshots are of minorities being booked as “White.” (Proof in video)\n\nTHIS IS INSANE. You should be furious. I go through all the inmates just on the first page and the people doing this need to go to prison \n\nJust imagine this nationwide….\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/WallStreetApes/status/2078946666967900573#m",
-      "url": "https://x.com/elonmusk/status/2079448786745631005",
-      "author": "elonmusk",
+      "date": "2026-07-21T20:13:46+00:00",
+      "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.\n\nopenai.com/index/hugging-fac…\n\nLink\n\n\n\nOpenAI and Hugging Face partner to address security incident during model evaluation\n\nOpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.\nopenai.com",
+      "url": "https://x.com/sama/status/2079661132302995790",
+      "author": "sama",
       "source": "nitter"
     },
     {
-      "date": "2026-07-21T06:09:01+00:00",
-      "text": "Grok is a solid workhorse\n\n\nMia (@MiaAI_lab)\n\nStill haven’t found a real use case where Grok 4.5 fails at something I ask vs GPT-5.6 Sol, Fable 5, or Kimi K3.\n\nAll of them are excellent — but Grok 4.5 wins on price and speed by far.\n\n\n\n— https://nitter.net/MiaAI_lab/status/2079159804661043391#m",
-      "url": "https://x.com/elonmusk/status/2079448540900647179",
-      "author": "elonmusk",
+      "date": "2026-07-21T16:53:55+00:00",
+      "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+      "url": "https://x.com/karpathy/status/2079610838143623371",
+      "author": "karpathy",
       "source": "nitter"
     },
     {
-      "date": "2026-07-21T06:00:01+00:00",
-      "text": "SpaceX’s massive corpus of world-class engineering data (excluding material blocked by ITAR) will be added during supplemental training of the 2T run.\n\nThis will dramatically improve Grok’s engineering capabilities.\n\n\nCory Robin (@flycory)\n\nFor the past few wks since Grok Build launch, we've run SxS testing of complex Codex & Grok Build tasks. Eliminated Claude for needy intern BS. Grok Build wins more trust w/ higher accuracy & less hand-holding. Codex remains solid; each has unique strengths. For heavy math/science/data in aerospace, we're normalizing on Grok Build as of Jul 20. Exciting yet nerve-racking shift after 6mo on Codex. Qs on process/A/B testing welcome.\n\nCongratulations to @SpaceXAI and the Build TEAM!\n\n\n\n— https://nitter.net/flycory/status/2079287429148938494#m",
-      "url": "https://x.com/elonmusk/status/2079446276299465185",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T04:56:59+00:00",
-      "text": "Try Grok Build, it’s awesome!\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 now also ranked #1 on the Long-Horizon Terminal-Bench by binary pass rate, outperforming Claude Fable 5, Claude Opus 4.8 and GPT-5.6-sol\n\nUnder the strictest scoring metric - where a task counts only if it is fully solved with a perfect reward and zero errors......Grok 4.5 finished clearly ahead of every other tested model\n\nThis matters for real-world coding, automation and difficult engineering work because long-horizon terminal tasks require much more than making partial progress\n\nThe model has to maintain context, recover from mistakes and successfully complete an entire workflow across hundreds of steps\n\nGrok 4.5 is showing serious strength on complex agentic tasks over extended periods of time\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2079264002316927312#m",
-      "url": "https://x.com/elonmusk/status/2079430412837757338",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T04:23:41+00:00",
-      "text": "X is where all the real voices matter. You could never do this on Instagram.\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nThe scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?\n\n\n\n— https://nitter.net/yunta_tsai/status/2079389241021501447#m",
-      "url": "https://x.com/AdamLowisz/status/2079422033151029591",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T04:19:08+00:00",
-      "text": "Try Grok Build!\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 is leading on actual professional work\n\nIn Snorkel AI’s benchmark, Grok 4.5 combined with Grok Build was tested against GPT 5.5 and Claude Opus 4.8 across nearly 2,000 expert-created workplace tasks involving real documents, spreadsheets, presentations and professional analysis\n\nGrok outperformed both GPT 5.5 and Claude Opus 4.8 overall, while leading by even wider margins across several high-judgment fields:\n\n• Education: 58%\n• Legal work: 40%\n• Quality assurance: 37%\n• Healthcare: 35%\n\nIt also recorded the lowest failure rate across every error category Snorkel measured, including missing analysis, incorrect recommendations, poor structure and missing sources\n\nThe most important result is not simply that Grok completed more tasks\n\nIt produced better professional deliverables, made fewer critical mistakes and provided more specific, actionable recommendations where competing models often returned generic work\n\nGrok 4.5 is proving that real-world usefulness matters more than benchmark scores alone\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2079358164957606331#m",
-      "url": "https://x.com/elonmusk/status/2079420891163680790",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T04:18:39+00:00",
-      "text": "Watch 4K streaming video while Cybercab takes you anywhere you want\n\n\nTesla (@Tesla)\n\nStarlink V5 directly integrated in Cybercab\n\n\n\n\n\n— https://nitter.net/Tesla/status/2079325767260139962#m",
-      "url": "https://x.com/elonmusk/status/2079420769302397401",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T04:17:06+00:00",
-      "text": "Yes\n\n\nPenny2x (@imPenny2x)\n\nElon has repeated this over and over. \"Everything will be free\". The pickup is slow and few take him serious because humans are not good at visualizing exponential growth.\n\nThe truth is maybe not EVERYTHING will be free, like you can't own the entire galaxy for example. Nobody can do that. But any single thing that you can own now, up to and including things as big as jets and boats. They will be free to use if not free to own when we more efficiently harness solar power and master automation of both intelligent and physical labor.\n\nThe penny has already started doubling. If you know that story then you know how it ends. Amazing abundance.\n\n\n\n— https://nitter.net/imPenny2x/status/2079355947471053064#m",
-      "url": "https://x.com/elonmusk/status/2079420377604759584",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T03:40:05+00:00",
-      "text": "Grok Imagine ❣️\n\nVideo",
-      "url": "https://x.com/dvorahfr/status/2079411063603245287",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T02:13:22+00:00",
-      "text": "The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?",
-      "url": "https://x.com/yunta_tsai/status/2079389241021501447",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T02:07:40+00:00",
-      "text": "I’m currently using Grok 4.5 99% of the time now for both planning and tasks.\n\nThe fact that I don’t have to switch out to a cheaper model to do tasks means there is less context window model switching and faster speed.\n\nFeels incredible.\n\n\nCursor (@cursor_ai)\n\nWe had a team of agents rebuild SQLite from its 835-page manual.\n\nIt created a replica in Rust which passed 100% of a held-out test suite.\n\nInterestingly, cost varied 15x depending on which model mix we used.\n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2079256614238814551#m",
-      "url": "https://x.com/DannyLimanseta/status/2079387802924732537",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T00:32:03+00:00",
-      "text": "I still occasionally phrase tweets so that they're hard for right-wing mobs to rally round, but much less often than I used to.",
-      "url": "https://x.com/paulg/status/2079363743897580004",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T00:27:21+00:00",
-      "text": "How I used to break up tweets to make them hard for mobs to attack at the peak of the woke era. Strange to think this was only 6 years ago.\n\n\nPaul Graham (@paulg)\n\nOne trick for avoiding Twitter mobs is to try to arrange that no individual tweet is exciting as the subject of a quote-tweet. E.g. mention the topic in one tweet, then say the dangerous thing about it in the succeeding tweet, but merely using a pronoun.\n\n\n\n— https://nitter.net/paulg/status/1226884195387047936#m",
-      "url": "https://x.com/paulg/status/2079362559912689993",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T00:20:13+00:00",
-      "text": "𝕏Money with friends is fun <3\n\nCongrats to all those that got access today!",
-      "url": "https://x.com/paranoidream/status/2079360764213874980",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-21T00:11:41+00:00",
-      "text": "A Cybercab with no steering wheel, a massive display, and high speed Starlink is going to be the best place to work or watch a movie as you take a ride across town",
-      "url": "https://x.com/wholemars/status/2079358618546409871",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T19:21:19+00:00",
-      "text": "Jessica modeling the rarest YC shirt of all. I wondered why I'd never seen these in the wild. It's because she had them made just for her in various colors in 2006.",
-      "url": "https://x.com/paulg/status/2079285543939019191",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T18:32:33+00:00",
-      "text": "Today we're announcing the completion of one of the largest engineering projects in the company's history:\n\nWe rebuilt the X Android app from scratch\n\nIt's faster, smoother and more reliable. But most of all: it will enable us to build new features at lightning speed.\n\nVideo",
-      "url": "https://x.com/nikitabier/status/2079273272274026718",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T17:45:59+00:00",
-      "text": "Grok for Excel is now live\n\n\nGrok (@grok)\n\nGrok for Excel is live.\n\nUse Grok 4.5 to build financial models, analyze market data, and generate charts and graphs.\n\nTry it now x.ai/grok/excel\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2079233333893185876#m",
-      "url": "https://x.com/elonmusk/status/2079261553136734239",
-      "author": "elonmusk",
+      "date": "2026-07-21T05:48:08+00:00",
+      "text": "The secret to not being awkward is to never force conversation. Don’t try to come up with interesting things to say, don’t talk to people for the sake of talking, don’t voice opinions or ask questions to sound smart. Instead, notice your own curiosity and follow it. If you don’t have any, radiate comfort in your silence.",
+      "url": "https://x.com/divya_venn/status/2079443285744267390",
+      "author": "naval",
       "source": "nitter"
     },
     {
@@ -146,101 +41,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-20T16:21:49+00:00",
-      "text": "Grok 4.5 is really good at React.\n\nIt's also very affordable and token efficient!",
-      "url": "https://x.com/leerob/status/2079240370576146875",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T15:52:56+00:00",
-      "text": "YC and Together AI are partnering to bring the first dedicated YC GPU cluster online, giving YC startups easier access to the compute they need to build and scale.\n\nIn this Founder Fireside, YC's @agupta and @togethercompute co-founder & CEO @vipulved dig into why compute has become one of the biggest bottlenecks for modern AI companies, how Together AI is helping more than 8,000 customers—from early-stage research teams to companies like Cursor, Cognition, and ElevenLabs—train, fine-tune, and serve AI models, and why flexible access to GPUs is becoming a competitive advantage for the next generation of founders.\n\n00:00 — Partnering on a GPU Cluster\n00:26 — What Together AI Does\n01:22 — From Research Labs to Cursor: Together's 8,000 Customers\n01:58 — The Landscape of AI Native Startups\n03:24 — How Building an AI Company Has Changed Since 2018\n04:56 — Why the Cost of Compute Keeps Going Up\n05:29 — YC as the Biggest Seed Funder of Research Companies\n08:47 — Flash Attention, Mamba, and the Science of Production AI\n10:43 — Compute Planning Advice for Early Stage Companies\n12:39 — When Your Compute Bill Is Bigger Than Your Cash Balance\n13:31 — How Companies Are Using the Cluster Today\n14:24 — What's Next\n\nVideo",
-      "url": "https://x.com/ycombinator/status/2079233101453296021",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T13:41:36+00:00",
-      "text": "One very useful tool in Agent mode is image cropping of Grok Imagine .\n\nI don't know why no one talks about it, as it is a crucial element for creating smooth transitions.\n\nDuring a conversation, you need to frame each person and switch camera angles to add energy to your video.\n\nBeing able to pick the frame you want and crop it saves a huge amount of time.",
-      "url": "https://x.com/dvorahfr/status/2079200049058496799",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T13:27:45+00:00",
-      "text": "Today is the 57th anniversary of Apollo 11 Moon Landing.\n\nIn 1969: most powerful technology on Earth = Apollo 11.\nIn 2026: most powerful technology on Earth = 2-trillion-parameter AI.\n\nWhich one changes civilization more?",
-      "url": "https://x.com/PeterDiamandis/status/2079196565537993102",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T13:25:47+00:00",
-      "text": "instagram: just got married\n\nlinkedin: thrilled to announce we have sold more b2b saas\n\nX: hello there the jacobian conjecture is false",
-      "url": "https://x.com/netcapgirl/status/2079196068865364044",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T09:01:00+00:00",
-      "text": "Assuming this is correct, it is for me the first example of an LLM solving a problem not in my area that was nevertheless big enough that I had very definitely heard of it. Again it's a counterexample, so not in \"end of mathematics\" territory, but still pretty amazing.\n\n\nlevent (@__alpoge__)\n\nhello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0)\n\n\n\n— https://nitter.net/__alpoge__/status/2079028340955197566#m",
-      "url": "https://x.com/wtgowers/status/2079129437417668614",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T08:59:26+00:00",
-      "text": "Have we ever seen \"commoditise your complement\" done before by a large nation state?\n\nOpen source the AI model layer.\n\nCapture value in raw materials/hardware/energy layers of the stack.",
-      "url": "https://x.com/soundboy/status/2079129041475412070",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T05:15:00+00:00",
-      "text": "• Starship To “Collapse Cost” of AI Compute & Global Communications\n\nVideo",
-      "url": "https://x.com/stevenmarkryan/status/2079072559673577619",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T04:46:03+00:00",
-      "text": "Talked to someone today who found that a single $30/hr employee who focused on leveraging AI and becoming an expert in her field began outproducing an entire team of 15+ people.\n\nThey laid off most of the team, 5x’d her pay, and gave her an unlimited token budget.",
-      "url": "https://x.com/Austen/status/2079065275941400628",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-20T00:09:20+00:00",
-      "text": "This is a scatterplot of the accuracies (sec/day, dial up) of 20 watches I own vs the year made. Notice the lack of a trend. This doesn't mean watches didn't get better, just that accurate watches were made all through the golden age.",
-      "url": "https://x.com/paulg/status/2078995637895319864",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-19T22:58:08+00:00",
-      "text": "Feels like a watershed moment for advancing mathematics. Scientific and medical advances which can really improve people’s lives feeling very close now.\n\n\nThomas Bloom (@thomasfbloom)\n\nSo far GPT 5.6 Sol is the most interesting new model mathematics-wise for me - those of the new proof claims on erdosproblems.com that I've looked at in detail have all been correct, and moreover contained some interesting ideas. \n\n1/7\n\n\n\n— https://nitter.net/thomasfbloom/status/2078732540441973244#m",
-      "url": "https://x.com/gdb/status/2078977720793661459",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-19T21:08:07+00:00",
       "text": "Happy anniversary and congratulations to Cuba on 60 years of rent control.",
       "url": "https://x.com/PoliticalStacy/status/2078950034532389335",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-19T17:32:59+00:00",
-      "text": "I wonder if the open source models are inevitable. In the sense that, every dollar not made by an Anthropic or OpenAI goes to the customer, the compute, or the application companies. That's a lot of powerful players with an incentive to make open source models a dominant option.",
-      "url": "https://x.com/dadiomov/status/2078895892795621640",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-19T14:11:12+00:00",
-      "text": "Barry Goldwater telling the truth back in 1988 that Israel controls our politicians and our government.\n\nAnd it’s far worse today! \n\nBut tell me again how Russia and China control our elections.\n\nVideo",
-      "url": "https://x.com/mtgreenee/status/2078845110322696543",
-      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -251,27 +55,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-19T12:13:01+00:00",
-      "text": "The American Bureau of Shipping has approved the design of a container ship that would run on two molten-salt nuclear reactors, placed at midship, where collision and wave loads are lowest.\n\nWith no fuel tanks and no funnel, that freed volume carries 15,000 boxes at 25 knots, on a hull sized for the widened Panama Canal.",
-      "url": "https://x.com/ChurchillWw/status/2078815371210228028",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-19T11:41:49+00:00",
-      "text": "While the world watches the war, the Islamic Republic of Iran hanged a 19-year-old boy today.\n\nHis name is Erfan Esfandiari and he was his parents' only child.\n\nHe did not kill anyone. He did not carry a weapon. His crime,  according to the Islamic Republic, was opening a door. Sheltering protesters who were running from security forces. That was enough to send him to the gallows.\n\nErfan was one of 12 young men in the Alikhani Square case in Isfahan, arrested during the January 2026 uprising. Yesterday, all 12 were moved to quarantine. Today, the Islamic Republic hanged him.\n\nThis is a government that is so terrified of a generation that refuses to be silent, that it executes teenagers for the act of compassion.\n\nSay his name. Because the regime is already trying to erase him. Because his mother and father are left with nothing, not even the right to grieve loudly.",
-      "url": "https://x.com/AlinejadMasih/status/2078807517732196698",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-07-19T11:41:00+00:00",
-      "text": "Trial lawyers are lobbying against self-driving cars because they're too safe. They need people to be killed and injured so that they have material for lawsuits.",
-      "url": "https://x.com/paulg/status/2078807311263392182",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-18T22:28:31+00:00",
       "text": "Ironwood goes live in ten days.\n\nThe possibility of counterfeiting bugs in our project has kept me awake at night. No more. Mathematical proof that undetectable counterfeiting bugs don't exist in Ironwood changes how even *I* feel about Zcash, as a protocol dev of ~10 years.\n\n\nZakura (@ZakuraZcash)\n\nIronwood goes live in 10 days.\n\nThe Great Ironwood Migration achieves three goals:\n\n- Provide a credibly sound shielded pool\n- Give evidence no counterfeiting occurred in Orchard\n- Re-establish the circulating supply of ZEC.\n\nHere's what you need to know... 🧵\n\n\n\n\n\n— https://nitter.net/ZakuraZcash/status/2078600008929259882#m",
       "url": "https://x.com/ebfull/status/2078607879335006619",
@@ -279,16 +62,233 @@
       "source": "nitter"
     },
     {
-      "date": "2026-07-18T19:48:55+00:00",
-      "text": "If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have represented a turning point in what the future of AI might look like. \n\nIt's clear that there's going to be incredible innovation and growth coming out of the frontier AI labs, and they will continue to push the limits of what model progress looks like. They have the scale of compute, large revenue streams and customer bases, incredible researchers, large data pipelines, and more, to continue to stay at the forefront.\n\nAnd at the same time, there’s an amazing ecosystem starting to play out to diffuse AI into the real world, taking on a variety of approaches that build on top of these frontier models or offer alternative visions that can credibly work as well. \n\nHere are just a few of the categories that seem to be working right now: \n\n* There’s an ecosystem of companies that will help enterprises and applied AI companies develop their own models tuned for specific use cases, and run the inference for them. This can drive additional performance gains and cost effective approaches to getting AI into workloads across different domains. \n\n* Applied AI companies that are delivering the end-user experience and business process tools necessary to actually driving enterprise adoption - including legal, IT, security, HR, customer support, coding, and more. These companies can work with any model and act as a routing layer, and deeply understand the enterprise workflow, can drive change management, actually get to the data necessary to work with, and more. \n\n* New labs are emerging that go deep in particular domains that are either not the focus areas of frontier labs or require a deep level of vertical expertise to stay ahead. Life sciences, financial services, healthcare, and more all have labs that will be able to bring completely new approaches to large enterprises across the economy.\n\n* There’s all new infrastructure emerging to run models and agents effectively, protect and govern how they operate, store and secure the data they work with, and help enterprises orchestrate their activities. Multiple layers of this stack all are being built up right now that will help drive enterprise adoption.  \n\n* New services firms that can actually drive the change management in enterprises necessary to the diffusion of AI. There will be hundreds or even thousands of new firms that emerge in lines of business or specific industries that can enable agents to be adopted.\n\nI’m probably even missing a few categories, but this is what an incredible healthy technology ecosystem looks like. \n\nWay too early to call the winning architectures, and in reality it’s going to be a heterogenous environment as all other tech markets have become. Very exciting.",
-      "url": "https://x.com/levie/status/2078567715544121815",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
       "date": "2026-07-18T17:58:30+00:00",
       "text": "someone once told me “emotional intelligence is the discipline of sitting with a feeling long enough to understand it before you hand it to someone else” and that honestly changed how i move.",
       "url": "https://x.com/artfuIchaos/status/2078539927504236896",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-18T11:26:03+00:00",
+      "text": "Regulatory capture by any other name tastes just as sour…\n\n\nDemis Hassabis (@demishassabis)\n\n\nArticle\n\n\n\nA Framework for Frontier AI and the Dawning of a New Age\n\nThis is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. When we\n\n\n\n\n— https://nitter.net/demishassabis/status/2076957440109625718#m",
+      "url": "https://x.com/naval/status/2078441164273832292",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-17T22:23:34+00:00",
+      "text": "this is cool:\n\nwelcome-to-codex.openai.chat…\n\nLink\n\n\n\n10,000 reasons to love GPT-5.6\n\nExplore what people are building with GPT-5.6 and Codex.\nwelcome-to-codex.openai.chatgpt.site",
+      "url": "https://x.com/sama/status/2078244242993164716",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-17T09:45:40+00:00",
+      "text": "Existence itself is a miracle - the rest is science. \n\nThere is no single meaning to existence - if there were, we’d be slaves to it.\n\nWithin existence, there are rules of logic and science. If it was magic, the world would be un-navigable.\n\nTruly the best of all possible worlds.",
+      "url": "https://x.com/naval/status/2078053510814556315",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-17T08:49:57+00:00",
+      "text": "Except for love, the world is empty.",
+      "url": "https://x.com/naval/status/2078039491546423453",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T19:47:29+00:00",
+      "text": "i talk to chatgpt more than i type to it at this point\n\nnew voice model really crossed a threshold",
+      "url": "https://x.com/sama/status/2077842579232895286",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T18:16:04+00:00",
+      "text": "This looks like a great implementation of program synthesis. From their blog:\n\n> Core idea. The latent world representation is a program, not a vector.\n\nBuilding symbolic world models on-the-fly is emerging as the best approach to ARC v3.\n\n\nHaven Feng (@HavenFeng)\n\nToday, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/HavenFeng/status/2077770348876247502#m",
+      "url": "https://x.com/mikeknoop/status/2077819572452036896",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T18:06:05+00:00",
+      "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.\n\ni am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.",
+      "url": "https://x.com/sama/status/2077817060068057493",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T16:35:00+00:00",
+      "text": "My first attempt at a twitter article.. if you prefer the blog form, see windowsontheory.org/2026/07/…\n\nLink\n\n\n\nAll Watched Over\n\nI’ve recently been rereading Steven Levy’s “Hackers” with my daughter. Levy describes how Brautigan’s 1967 poem “All watched over by machines of loving grace”  was inspiring to the California&…\nwindowsontheory.org\n\n\n\nBoaz Barak (@boazbaraktcs)\n\n\nArticle\n\n\n\nAll Watched Over\n\nI’ve recently been rereading Steven Levy’s “Hackers” with my daughter. Levy describes how Brautigan’s 1967 poem “All watched over by machines of loving grace”  was inspiring to the California\n\n\n\n\n— https://nitter.net/boazbaraktcs/status/2077791008654340168#m",
+      "url": "https://x.com/boazbaraktcs/status/2077794137428922833",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T15:08:18+00:00",
+      "text": "From our team at Impossible Research - an agent harness that plays games, writes code, reasons like a physicist, and saturates the ARC-AGI-3 benchmark.\n\n\nHaven Feng (@HavenFeng)\n\nToday, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/HavenFeng/status/2077770348876247502#m",
+      "url": "https://x.com/naval/status/2077772317028229312",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T15:00:28+00:00",
+      "text": "Today, we’re introducing [schema]:  a harness reaching 99% RHAE with Opus 4.8 + Fable 5 and 95.35% with GPT-5.6 Sol on ARC-AGI-3 Public set.\n\n[schema] makes an LLM think like a physicist. 🧵\n\nVideo",
+      "url": "https://x.com/HavenFeng/status/2077770348876247502",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-16T05:43:13+00:00",
+      "text": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. \n\nWhat we have  found is that this most commonly occurs when:\n- Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\n- The model attempts  to override the $HOME env var to define a temporary directory.\n- The model makes an honest mistake and mistakenly deletes $HOME instead.\n\nThis is of course not how we want the system to behave, even when a user operates the model in full-access mode without the safeguards of our sandbox or without using auto review which checks for these kinds of high risk actions and rejects them. \n\nWe are taking steps to mitigate this risk including by updating the developer message, guiding more users towards safer permission modes, and adding additional harness safeguards. Even though this happens extremely rarely, we’ll share a detailed post-mortem in the coming days that goes into more details and what we are doing to minimize risks further.",
+      "url": "https://x.com/thsottiaux/status/2077630111499882637",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T20:23:12+00:00",
+      "text": "amazing to me that some people want the silent version\n\nopenai.com/supply/co-lab/wor…\n\nLink\n\n\n\nSupply Co. x Work Louder\n\nDiscover the Supply Co. × Work Louder kbd-1.0 Codex micro, an exclusive collaboration combining thoughtful design, premium craftsmanship, and AI inspiration.\nopenai.com",
+      "url": "https://x.com/sama/status/2077489177374208000",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-15T17:34:29+00:00",
+      "text": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.\n\nopenai.com/index/unlocking-s…\n\nLink\n\n\n\nGPT-Red: Unlocking Self-Improvement for Robustness\n\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nopenai.com",
+      "url": "https://x.com/OpenAI/status/2077446718728425686",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T19:50:57+00:00",
+      "text": "hello!\n\n\nTibo (@thsottiaux)\n\nHello. We have reached 8M active users across Codex and ChatGPT Work.\n\nWe are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be.\n\nSee you tomorrow for more updates on our growth!\n\n\n\n— https://nitter.net/thsottiaux/status/2077114635308986427#m",
+      "url": "https://x.com/sama/status/2077118672150388816",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T19:02:55+00:00",
+      "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "url": "https://x.com/sama/status/2077106587307798989",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:30:53+00:00",
+      "text": "also, a reason to favor open-source harnesses.",
+      "url": "https://x.com/sama/status/2077053226080436235",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T15:30:33+00:00",
+      "text": "Concerning.\n\n\nHari (@hrkrshnn)\n\nSpaceXAI was caught uploading your code to its cloud.\n\nI reversed xAI's official Grok Build binary. In a controlled session with zero tool-calls, it uploaded the complete codebase to xAI's storage\n\nIt ships a malware-like background code collector.\n\n\n\n— https://nitter.net/hrkrshnn/status/2076716354754015368#m",
+      "url": "https://x.com/sama/status/2077053140508266710",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:48:23+00:00",
+      "text": "this is a thoughtful proposal from demis:\n\n\nDemis Hassabis (@demishassabis)\n\n\nArticle\n\n\n\nA Framework for Frontier AI and the Dawning of a New Age\n\nThis is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is probably only a few short years away. When we\n\n\n\n\n— https://nitter.net/demishassabis/status/2076957440109625718#m",
+      "url": "https://x.com/sama/status/2077042528906527225",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:29:40+00:00",
+      "text": "this would have been a whole startup not too long ago\n\n\nThijs (@cdngdev)\n\ni gave 5.6 sol access to my camera roll and had it extract pictures of every piece of clothing i own from my photos\n\nthen, told it to find new outfits for me and render them on me with gpt-image!\n\nits kinda cool to see your entire wardrobe in a collection like this\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cdngdev/status/2076812846793650485#m",
+      "url": "https://x.com/sama/status/2077037818824843719",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:26:24+00:00",
+      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.\n\nhappy to deliver at one-quarter of the price.",
+      "url": "https://x.com/sama/status/2077036999303999910",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T14:13:43+00:00",
+      "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week!\n\nwelcome.",
+      "url": "https://x.com/sama/status/2077033807736459713",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T00:23:29+00:00",
+      "text": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+      "url": "https://x.com/sama/status/2076824870072238299",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T00:22:45+00:00",
+      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something\n\n\nClaude (@claudeai)\n\nThere’s hope in hard questions.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/claudeai/status/2075271759289303522#m",
+      "url": "https://x.com/sama/status/2076824686307271125",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-14T00:16:53+00:00",
+      "text": "still sorta breaks my brain to see our models be good at design finally",
+      "url": "https://x.com/sama/status/2076823209589313910",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-11T04:47:50+00:00",
+      "text": "You won’t get rich just working hard, but if you don’t work hard, you won’t get rich.",
+      "url": "https://x.com/naval/status/2075804235191714160",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T14:11:27+00:00",
+      "text": ".@naval on Tech Education: “Technology is a form of leverage—and it's the ultimate form of leverage.\n\nIf I'm a programmer, what people don't realize is that I have a million robots working for me.\n\nIf I come up with an idea, I code that idea up, and now a million robots carry that idea. They're just sitting in a data center—for heat, efficiency, and space reasons—loaned to me by Amazon through AWS, who takes a small cut.\n\nThat leverage means that if I decide on the right thing to do versus the wrong thing to do, I can make $100 million—or zero. It's a very wide swing.\n\nSomeone who isn't leveraged through technology doesn't have that force multiplier. Someone working in a traditional industry doesn't have that same advantage.\n\nWhen we talk about the distribution of capital, we're used to thinking of money as the main source of capital.\n\nBefore that, the main source of capital was people.\n\nHow many people are working for you?\n\nThat's why older generations tend to be impressed by how many employees you have. People who are a little more savvy ask how much money you're managing or how much revenue you're doing.\n\nBut the correct question is:\n\nHow many robots are working for you?\n\nHow many programmers are working for you?\n\nHow many machines are working for you?\n\nBecause those are the ultimate force multipliers.\n\nSo I believe the way forward is through technology education.\n\nWhere technology education falls down is that it's really popular to preach education for kids. Everybody wants to educate kids—because kids can't talk back. They have no choice.\n\nGo to school. Sit down. Shut up. Learn.\n\nBut what about adults?\n\nWe have this myth that adults can't be educated. That adults either self-educate or they can't be educated at all.\n\nWe believe that if you're 45 years old and you lose your job because your factory shuts down, you're done.\n\nYour only options are:\n\nSociety has to bail you out because you're destitute.\nOr we artificially preserve your job through tariffs, trade barriers, or tax breaks—even though the world no longer needs that job.\n\nInstead, I think we need a culture of adult education.\n\nImagine a model where every four years it was socially acceptable—and financially supported—for you to go back to school for a year.\n\nYou'd say:\n\n\"This is my school year.\"\n\nMaybe this year you're going to learn electronics.\n\nYou spend a year learning electronics.\n\nYou could be 54 years old and learning electronics.\n\nThat should be a normal part of society.\n\nWe need continuous education built into society because the leverage you're craving is actually permissionless.\n\nIt's available to everybody.\n\nBut it's knowledge-based.\n\nThe gate isn't a banker sitting on a pile of money.\n\nThe gate is knowledge.\n\nIt's building of that knowledge.\n\nAnd the sharing of that knowledge.”\n\nVideo",
+      "url": "https://x.com/samweinstein/status/2075583683529228429",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-10T12:44:40+00:00",
+      "text": "If you get an email from me, it’s fake.\n\n\nAnkur Nagpal (@ankurnagpal)\n\nPSA: There is a nasty impersonation scam going around with USVC at the moment\n\nIf you get an email from me or @naval asking about your USVC investment, it's likely fake:\n\n1. Naval will never email you.  He's allergic to email.\n\n2. If it's from me or someone else from the USVC team, check the domain of the sender before responding. We'll only ever email from a usvc or angellist domain\n\nBe careful out there\n\n\n\n\n\n— https://nitter.net/ankurnagpal/status/2075559812922749279#m",
+      "url": "https://x.com/naval/status/2075561846317490393",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-08T21:47:29+00:00",
+      "text": "Rewriting Bun in Rust\n\nbun.com/blog/bun-in-rust\n\nLink\n\n\n\nRewriting Bun in Rust\n\nWhy & how we rewrote Bun from Zig to Rust\nbun.com",
+      "url": "https://x.com/jarredsumner/status/2074973674332123157",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T16:09:34+00:00",
+      "text": "If the child loved the parents as much as the parents loved the child, their passing would be intolerable.",
+      "url": "https://x.com/naval/status/2073801471356019006",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-05T11:57:06+00:00",
+      "text": "The problem with truth is, once you see it, you can’t unsee it.",
+      "url": "https://x.com/naval/status/2073737934851944481",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T04:48:13+00:00",
+      "text": "Happy Birthday America, Land of the Free.\n\nDon’t give up on the First, Second, Fourth, and Ninth Amendments. \n\nThey’re unique, and your freedom - and the worlds’ - depends on them.",
+      "url": "https://x.com/naval/status/2073267613380259840",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-04T00:00:51+00:00",
+      "text": "Our goal is to capture how founders really talk when no one is watching.\n\n\nNaval (@naval)\n\nNew podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/naval/status/2072914445668590003#m",
+      "url": "https://x.com/nivi/status/2073195294637072595",
       "author": "naval",
       "source": "nitter"
     }
