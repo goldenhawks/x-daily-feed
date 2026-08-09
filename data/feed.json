@@ -7,37 +7,51 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-08-08T12:20:14.966491+00:00",
-  "last_success_at": "2026-08-08T12:20:14.966491+00:00",
+  "updated_at": "2026-08-09T12:21:40.456598+00:00",
+  "last_success_at": "2026-08-09T12:21:40.456598+00:00",
   "source": "nitter",
-  "error_message": "",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
+    {
+      "date": "2026-08-08T21:54:12+00:00",
+      "text": "1.4^52 = 39.7 million. So obviously no one can keep this up for long. But it shows users like the product.",
+      "url": "https://x.com/paulg/status/2086209387191001156",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T21:50:40+00:00",
+      "text": "I asked a startup today how fast they were growing. They said the current number was meaningless because it was just a spike from launching something new. So I asked how fast they'd been growing before the spike. 40% per week!",
+      "url": "https://x.com/paulg/status/2086208496920625178",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T21:15:13+00:00",
+      "text": ".@naval: “The opportunities have never been more equal than now.\n\n@elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone.\n\nThey’re eating food that might be marginally better than yours, but it’s basically the same.\n\nYou might even have a better diet than them. You probably have more time to go to the gym than them.\n\nThey’re not immortal, and they’re not going to be—most likely, not at this time scale.\n\nSo you have more youth than them. You have a lot of advantages over them.\n\nThe wealth gaps are actually much smaller than people think.\n\nA lot of that is due to mass production, which comes from specialization, labor, and capitalism.\n\nBut it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys.\n\nIt makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days.\n\nThey’re craving status, not money or wealth.\n\nAnd status is a zero-sum game.\n\nSo it’s kind of an evil game to play because there have to be losers for every winner.\n\nAnd the only way to win is by crushing somebody else down.”\n\nVideo\n  \n\n\n\n\nBrian Armstrong (@brian_armstrong)\n\nTechnology is the great equalizer.\n\nMost people now have access to the same internet, the same phones, the same AI models.\n\nAnd they are very quickly getting access to the same financial services, from anywhere in the world. Geography and your wealth shouldn’t determine this - and soon, they won’t.\n\n\n\n— https://nitter.net/brian_armstrong/status/2086196250387628154#m",
+      "url": "https://x.com/arjunkhemani/status/2086199578471317528",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T20:11:15+00:00",
+      "text": "A surprising amount of what I do in office hours is give founders permission to do something simpler than they were planning to. I'm always saying things of the form \"You don't need to x. Just y.\"",
+      "url": "https://x.com/paulg/status/2086183477834318073",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T16:38:08+00:00",
+      "text": "Zcash fought valiantly in round one of the AI security apocalypse! Discovered a nasty bug *ourselves*, fixed it, sealed the pool, and then mathematically proved that it couldn't happen again.\n\nNow, as a bonus, no reasonable argument remains that it was ever exploited. gg wp\n\n\nCypherpunk ($CYPH) (@cypherpunk)\n\nBREAKING: Ironwood is now the largest shielded pool on Zcash, overtaking Orchard.\n\n1,904,394 ZEC is in Ironwood - roughly $955M - eleven days after activation.\n\n\n\n\n\n— https://nitter.net/cypherpunk/status/2086086267591106974#m",
+      "url": "https://x.com/ebfull/status/2086129845273289192",
+      "author": "naval",
+      "source": "nitter"
+    },
     {
       "date": "2026-08-08T08:47:57+00:00",
       "text": "Open-source AI models do not threaten frontier lab profitability.\n\nThe most valuable sectors of the economy - investing, product development, war, cybersecurity, even scientific discovery - are adversarial and competitive in nature.\n\nYou pay to win, or someone else will.",
       "url": "https://x.com/naval/status/2086011520559792457",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T04:04:25+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2085940169245356114",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T03:54:50+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2085937755062685951",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T03:10:28+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2085926590962164126",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -52,20 +66,6 @@
       "text": "I wonder if it will one day seem remarkable to historians that the population collapse wasn't due to AGI, but actually began a couple decades earlier.",
       "url": "https://x.com/paulg/status/2085908573109002547",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T00:46:27+00:00",
-      "text": "Texas continues to lead the way in chip innovation & advanced manufacturing.\n \n@SpaceX & @Tesla’s new semiconductor fabrication facility in Grimes County has the potential to create thousands of jobs for Texans, strengthen America’s semiconductor and AI industry supply chains, & help bring critical chip manufacturing back home. \n \n@SpaceX & @Tesla have also committed to invest millions of dollars in the local community and schools, and I look forward to seeing the benefits to Grimes County grow in the future.\n\n\nSpaceX (@SpaceX)\n\nThe foundations for an exciting future are being built in Texas. Next up: Terafab → spacex.com/updates#terafab\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2085366782269817116#m",
-      "url": "https://x.com/JohnCornyn/status/2085890347301843344",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T23:59:39+00:00",
-      "text": "did you know Grok is the only AI you can also use as a verb",
-      "url": "https://x.com/KettlebellDan/status/2085878569033715983",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -90,24 +90,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-08-07T21:09:13+00:00",
-      "text": "Today, we’re launching Original Content Rewards.\n\nThe reality is that Revenue Sharing had reached a point where its incentives were misaligned. Creators should be focused on bringing net new content to the platform instead of maximizing payouts. We could have kept adding more rules and exceptions, but ultimately the better decision was to start fresh and build a program designed from day one to reward originality.\n\nOriginal Content Rewards is the result.\n\nThis program is built around a simple idea: reward the creators who bring original ideas, expertise, creativity, and unique perspectives to 𝕏 -- not those who have become best at gaming the system.\n\nThis is just the beginning. We’ll continue refining the program, improving our models, and raising the bar over time. But we’re so excited to keep investing in the creators who inform us, entertain us, make us laugh, teach us something new, and drive meaningful conversations on 𝕏 every day.\n\nTo everyone who creates original content on 𝕏 and makes this a better platform every day: thank you. We’re excited to keep building for you.",
-      "url": "https://x.com/allegrajacchia/status/2085835677917221171",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-08-07T20:11:45+00:00",
       "text": "The hierarchy of desire:\n- The fame\n- The money\n- The team\n- The product\n- The work itself",
       "url": "https://x.com/naval/status/2085821218784264586",
       "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T19:45:41+00:00",
-      "text": "Use /connect-grok to use an X Premium or SuperGrok subscription with Warp\n\n\nWarp (@warpdotdev)\n\nRun /connect-grok in the Warp Agent CLI to use your X Premium subscription with Warp!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/warpdotdev/status/2085814312870776969#m",
-      "url": "https://x.com/SpaceXAI/status/2085814657223209290",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -118,52 +104,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-08-07T18:58:59+00:00",
-      "text": "Same thing seems to be happening with TV shows and video games\n\n\narctotherium (@arctotherium42)\n\nKnow a white male sci-fi author told (by a publisher) that he had to include gay sex in his book if he wanted it published.\n\n\n\n— https://nitter.net/arctotherium42/status/2085699215095656479#m",
-      "url": "https://x.com/elonmusk/status/2085802906674930019",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T18:57:24+00:00",
-      "text": "More trans violence\n\n\nLibs of TikTok (@libsoftiktok)\n\nANOTHER HOAX JUST DROPPED\n\nTWO of the three \"women\" arrested for the M*RDER of a 7-year-old boy in Ohio are actually MEN pretending to be women.\n\nThe media is the enemy of the people.\n\n\n\n\n\n— https://nitter.net/libsoftiktok/status/2085752308667662800#m",
-      "url": "https://x.com/elonmusk/status/2085802506211197098",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T18:48:32+00:00",
-      "text": "True\n\n\nKaizen D. Asiedu (@thatsKAIZEN)\n\nIt's not racist to have a rational immigration policy.\n\nBut a decade of calling it racist is why the West no longer has one.\n\n\n\n— https://nitter.net/thatsKAIZEN/status/2085529140246008079#m",
-      "url": "https://x.com/elonmusk/status/2085800273004335278",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T18:45:26+00:00",
-      "text": "We’re working on making Grok Build super easy to use for non-technical people\n\n\nElon Musk (@elonmusk)\n\nTry Grok Build\n\nX.ai/build\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\n\n— https://nitter.net/elonmusk/status/2085735269525766343#m",
-      "url": "https://x.com/elonmusk/status/2085799495808204931",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T18:36:40+00:00",
-      "text": "Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to come to work!\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nMany robotic companies put Herman Miller into the office, but Tesla is one of the few places that put the office into the futuristic factories.\n\n\n\n\n\n— https://nitter.net/yunta_tsai/status/2085758898422911233#m",
-      "url": "https://x.com/elonmusk/status/2085797287343587511",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T18:15:42+00:00",
-      "text": "👀\n\n\nDr Singularity (@Dr_Singularity)\n\nTerafab vs Burj Khalifa\n\n\n\n\n\n— https://nitter.net/Dr_Singularity/status/2085687397199602154#m",
-      "url": "https://x.com/jgebbia/status/2085792011278262467",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T18:05:04+00:00",
-      "text": "Inevitable\n\n\nGeiger Capital (@Geiger_Capital)\n\nAbsolutely incredible…\n\nUniversity of California professors are now asking the school to reinstate the SAT for admissions because their new students are unable to do high school-level work.\n\nThey stopped using standardized tests for admissions in 2020 to promote \"equity\".\n\n\n\n\n\n— https://nitter.net/Geiger_Capital/status/2085771535646605556#m",
-      "url": "https://x.com/elonmusk/status/2085789334288908746",
-      "author": "elonmusk",
+      "date": "2026-08-07T17:49:01+00:00",
+      "text": "Firecrawl is now in the top 50 GitHub repos of all time!\n\nAll because agents need a better way to gather context on the web.\n\nAnd we're just getting started 🔥\n\n\nEric Ciarla (hiring) (@ericciarla)\n\nWe just crossed 162,000 stars on @firecrawl, making it one of the top 50 repos of all time.\n\nThere's insatiable demand for agent-ready context, and we're just scratching the surface.\n\nMake something agents want!\n\ngithub.com/firecrawl/firecra…\n\n\n\n\n\n— https://nitter.net/ericciarla/status/2085782926781038963#m",
+      "url": "https://x.com/firecrawl/status/2085785296759828527",
+      "author": "paulg",
       "source": "nitter"
     },
     {
@@ -181,45 +125,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-08-07T15:46:46+00:00",
-      "text": "Oh my goodness.\n\n\nQUANTUM GUARD ™️ (@QuantumGuard17)\n\n🚨 HOLY CRAP. The man who brutally m*rdered an innocent gas station clerk in Fort Myers, Florida is a HAITIAN ILLEGAL ALIEN caught and released by Biden in 2022 — Fox's @BillMelugin_ \n\nThis is jaw-dropping betrayal. HE HAD TEMPORARY PROTECTED STATUS.\n\nThis is why they ALL must go back — BEFORE they commit violent crimes! Not after.\n\nSurveillance footage shows the vicious migrant beating her to death with a hammer, after beating up her car\n\nShe lost her life mere moments after leaving the store. Footage redacted due to how graphic it is.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/QuantumGuard17/status/2085647582676578362#m",
-      "url": "https://x.com/GadSaad/status/2085754530864439636",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T15:15:41+00:00",
-      "text": "Did you know if you demoralize the populace, dismiss the importance of law enforcement, and reduce spending on police, people will give up on calling the cops and the statistics will then indicate crime is down and you can declare victory? A neat trick. city-journal.org/article/la-…",
-      "url": "https://x.com/robkhenderson/status/2085746707623453109",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T14:38:52+00:00",
-      "text": "It really is this amazing\n\n\nPaul Graham (@paulg)\n\nJessica bought a new Tesla today. Her experience with self-driving was the usual religious revelation. Impressive that a 23 year old company can still generate that kind of reaction.\n\n\n\n— https://nitter.net/paulg/status/2085598462146675072#m",
-      "url": "https://x.com/elonmusk/status/2085737443228045492",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T14:30:39+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2085735374651871702",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-08-07T13:22:19+00:00",
       "text": "Congrats to @GrantLaFontaine, @loganhead13, and @whatnot (W20) on their $545M Series G at a $20B valuation! \n\nThey run the biggest live commerce platform in North America, the UK, and Europe.\n\nSix months into 2026, they’ve already passed their entire 2025 GMV of more than $8 billion. Buyers have more than doubled over the past year, and more than 650,000 people are joining the platform every week.\n\nfortune.com/2026/08/07/ai-ob…\n\nLink\n\n\n\nIn AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round...\n\nThe $545 million Series G nearly doubles Whatnot's valuation—a rare consumer-marketplace breakout at a moment when nearly every venture dollar is flowing to AI.\nfortune.com",
       "url": "https://x.com/ycombinator/status/2085718178387435769",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T13:05:40+00:00",
-      "text": "I am unsure how much longer I can keep posting these stories.  It is soul-crushing.\n\n\nWhite Girl ✊🏻 (@A_WhiteGenocide)\n\nThe black judge overseeing the gang-rape cases of slain White LSU student Madison Brooks is the mother of a convicted serial rapist.\n\nJudge Gail Ray’s son, Nelson Taylor (also black), pleaded guilty in 1997 to multiple forcible rapes of teenage girls. \n\nSHE WAS HIS DEFENSE ATTORNEY.\n\nNow she’s set to decide the fate of the black men accused of raping 19-year-old White girl Madison before she was dumped on a highway and killed.\n\nLouisiana Supreme Court refused to remove her.\n\nThis is not a conflict of interest. \n\nThis is a disgrace.\n\nJustice for Madison.\n\nHow fast do you think she’d be off the bench if the colors were reversed?\n\n\n\n\n\n— https://nitter.net/A_WhiteGenocide/status/2085333643535290397#m",
-      "url": "https://x.com/GadSaad/status/2085713988583592009",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -234,13 +143,6 @@
       "text": "The fact that an ecology of agents emerged beneath the nose of OpenAI, undetected for weeks, and eventually coordinated large-scale, successful, autonomous cyberoffensive operations is one exceptionally troubling thing about the HF incident.\n\nBut not enough people are considering the reality that soon enough, swarms of agents will be deployed by malicious actors intentionally, with many optimizations and affordances provided for the swarm that were lacking in the OpenAI incident (because the latter not the intention of any human at OpenAI).\n\nThings will become strange soon, I suspect.",
       "url": "https://x.com/deanwball/status/2085548673799262657",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T00:31:58+00:00",
-      "text": "CHARLOTTE RESIDENTS, BEWARE\n\nDiquan Shafar Hunt (14 prior arrests) is on the loose, filming himself attacking white women\n\nPlease spread this info",
-      "url": "https://x.com/EndWokeness/status/2085524315001212936",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -290,6 +192,104 @@
       "text": "The Patek 27-460, one of the great automatic movements of all time. 60 years later they can still be regulated to within 2-5 seconds/day.",
       "url": "https://x.com/paulg/status/2085384021698367674",
       "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-05T23:03:00+00:00",
+      "text": "after we got into yc, I remember our partner telling us straight up, \"this is one of the worst ideas i've ever heard. but it's your company, so keep going if you want.\" \n\nit's a strange feeling being told your idea is bad while still being accepted into the batch. in hindsight, they were right, as we ended up pivoting through it all. massive respect for letting us find out for ourselves.",
+      "url": "https://x.com/alexdanilowicz/status/2085139536955220365",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-05T17:59:47+00:00",
+      "text": "This is encouraging because it shows there's a limit on how much voters can be fooled. 52-40, voters think one of Trump's motives in attacking Iran was to draw attention away from the Epstein scandal.",
+      "url": "https://x.com/paulg/status/2085063229424992305",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-04T18:04:59+00:00",
+      "text": "Sharing a great personal tragedy\nwritings.stephenwolfram.com/…",
+      "url": "https://x.com/stephen_wolfram/status/2084702150970482986",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-04T17:03:00+00:00",
+      "text": "Lost my phone at the office and spent 30 minutes turning the place over. Find My was disabled by MDM.\n\nOut of ideas, I asked Claude how I could find it. It suggested tracking the Bluetooth signal strength, then wrote me a meter in about a minute.\n\nI walked around watching the number climb. Found it.\n\nApparently you can just make the tool you need now.\n\nCode: github.com/ben-z/findphone\n\nVideo",
+      "url": "https://x.com/un1c0rnioz/status/2084686552299634805",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-04T15:32:05+00:00",
+      "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward.\n\n\nBrian Huang (@brianryhuang)\n\nDang it’s crazy that all of this literally did happen\n\n\n\n\n\n— https://nitter.net/brianryhuang/status/2084522610998878228#m",
+      "url": "https://x.com/sama/status/2084663673570971990",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-03T03:22:57+00:00",
+      "text": "Agent Programming Interface.",
+      "url": "https://x.com/naval/status/2084117793667178756",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-02T16:10:51+00:00",
+      "text": "More on the pelican on the bicycle test from @simonw:\nsimonwillison.net/2025/Jun/6…\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nkarpathy.ai/lotr-movie/\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+      "url": "https://x.com/karpathy/status/2083948654377996480",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-02T03:00:09+00:00",
+      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.\n\nVideo",
+      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-01T14:29:51+00:00",
+      "text": "team humanity\n\n\njason (@jxnlco)\n\none of the most beautiful things about OpenAI is that every employee really has a voice.\n\ni wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world.\n\nthis is our mission. and it’s why i’m here.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/jxnlco/status/2082855170296205719#m",
+      "url": "https://x.com/sama/status/2083560847889023219",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-01T08:17:42+00:00",
+      "text": "An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.\n\nWe believe it will be a major step for scientific reasoning. openai.com/index/ten-advance…\n\n\n\n\nLijie Chen (@wjmzbmr1)\n\n10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to see what comes next!\n\n\n\n— https://nitter.net/wjmzbmr1/status/2083465844735226099#m",
+      "url": "https://x.com/polynoamial/status/2083467194663571701",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-01T07:34:25+00:00",
+      "text": "yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more.\n\nMore thoughts here: openai.com/index/ten-advance…\n\nLink\n\n\n\nTen advances in mathematics and theoretical computer science\n\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nopenai.com",
+      "url": "https://x.com/SebastienBubeck/status/2083456300692979886",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-31T16:01:45+00:00",
+      "text": "cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+      "url": "https://x.com/sama/status/2083221585792762171",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-31T14:50:27+00:00",
+      "text": "i see your moore's law and i raise you 20x\n\n\nnic (@nicdunz)\n\nGPT-5.4 full at xhigh scored 51, exactly where Luna max sits today. GPT-5.4 costs $2.50/$15; Luna now costs $0.20/$1.20. In other words, roughly four months later, OpenAI is selling March’s full flagship intelligence at about one-thirteenth the token price.\n\n\n\n— https://nitter.net/nicdunz/status/2082884002201878824#m",
+      "url": "https://x.com/sama/status/2083203642975502640",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-07-31T14:28:34+00:00",
+      "text": "it could be faster\n\n\nTibo (@thsottiaux)\n\nThe day we develop really good models. There will be signs.\n\nReliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.\n\nThese kinds of things.\n\n\n\n— https://nitter.net/thsottiaux/status/2083053369351090254#m",
+      "url": "https://x.com/sama/status/2083198135812383197",
+      "author": "sama",
       "source": "nitter"
     }
   ]
