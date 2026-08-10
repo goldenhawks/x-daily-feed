@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-08-09T12:21:40.456598+00:00",
-  "last_success_at": "2026-08-09T12:21:40.456598+00:00",
-  "source": "nitter",
-  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
+  "updated_at": "2026-08-10T12:37:58.928323+00:00",
+  "last_success_at": "2026-08-10T12:37:58.928323+00:00",
+  "source": "syndication",
+  "error_message": "",
   "items": [
     {
-      "date": "2026-08-08T21:54:12+00:00",
-      "text": "1.4^52 = 39.7 million. So obviously no one can keep this up for long. But it shows users like the product.",
-      "url": "https://x.com/paulg/status/2086209387191001156",
-      "author": "paulg",
-      "source": "nitter"
+      "date": "2026-08-06T14:50:28+00:00",
+      "text": "Terafab Texas will be the largest and most valuable building on Earth by far.\n\nAnd it will be stunningly beautiful.  https://t.co/4NweOqTL7y",
+      "url": "https://x.com/elonmusk/status/2085377974396752305",
+      "author": "elonmusk",
+      "source": "syndication"
     },
     {
-      "date": "2026-08-08T21:50:40+00:00",
-      "text": "I asked a startup today how fast they were growing. They said the current number was meaningless because it was just a spike from launching something new. So I asked how fast they'd been growing before the spike. 40% per week!",
-      "url": "https://x.com/paulg/status/2086208496920625178",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T21:15:13+00:00",
-      "text": ".@naval: “The opportunities have never been more equal than now.\n\n@elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone.\n\nThey’re eating food that might be marginally better than yours, but it’s basically the same.\n\nYou might even have a better diet than them. You probably have more time to go to the gym than them.\n\nThey’re not immortal, and they’re not going to be—most likely, not at this time scale.\n\nSo you have more youth than them. You have a lot of advantages over them.\n\nThe wealth gaps are actually much smaller than people think.\n\nA lot of that is due to mass production, which comes from specialization, labor, and capitalism.\n\nBut it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys.\n\nIt makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days.\n\nThey’re craving status, not money or wealth.\n\nAnd status is a zero-sum game.\n\nSo it’s kind of an evil game to play because there have to be losers for every winner.\n\nAnd the only way to win is by crushing somebody else down.”\n\nVideo\n  \n\n\n\n\nBrian Armstrong (@brian_armstrong)\n\nTechnology is the great equalizer.\n\nMost people now have access to the same internet, the same phones, the same AI models.\n\nAnd they are very quickly getting access to the same financial services, from anywhere in the world. Geography and your wealth shouldn’t determine this - and soon, they won’t.\n\n\n\n— https://nitter.net/brian_armstrong/status/2086196250387628154#m",
-      "url": "https://x.com/arjunkhemani/status/2086199578471317528",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T20:11:15+00:00",
-      "text": "A surprising amount of what I do in office hours is give founders permission to do something simpler than they were planning to. I'm always saying things of the form \"You don't need to x. Just y.\"",
-      "url": "https://x.com/paulg/status/2086183477834318073",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T16:38:08+00:00",
-      "text": "Zcash fought valiantly in round one of the AI security apocalypse! Discovered a nasty bug *ourselves*, fixed it, sealed the pool, and then mathematically proved that it couldn't happen again.\n\nNow, as a bonus, no reasonable argument remains that it was ever exploited. gg wp\n\n\nCypherpunk ($CYPH) (@cypherpunk)\n\nBREAKING: Ironwood is now the largest shielded pool on Zcash, overtaking Orchard.\n\n1,904,394 ZEC is in Ironwood - roughly $955M - eleven days after activation.\n\n\n\n\n\n— https://nitter.net/cypherpunk/status/2086086267591106974#m",
-      "url": "https://x.com/ebfull/status/2086129845273289192",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T08:47:57+00:00",
-      "text": "Open-source AI models do not threaten frontier lab profitability.\n\nThe most valuable sectors of the economy - investing, product development, war, cybersecurity, even scientific discovery - are adversarial and competitive in nature.\n\nYou pay to win, or someone else will.",
-      "url": "https://x.com/naval/status/2086011520559792457",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T02:14:16+00:00",
-      "text": "I did office hours today with Assil Halimi of Apollo Atomics. Very, very impressive company. It really brought home what an opportunity we missed by ignoring nuclear power for 40 years. The answer was right there.",
-      "url": "https://x.com/paulg/status/2085912446523625716",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T01:58:52+00:00",
-      "text": "I wonder if it will one day seem remarkable to historians that the population collapse wasn't due to AGI, but actually began a couple decades earlier.",
-      "url": "https://x.com/paulg/status/2085908573109002547",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T22:54:58+00:00",
-      "text": "astra is a powerful model and we are working to make it generally available.\n\nwe do not think it is a good strategy to keep powerful models to a chosen few.\n\ngiven its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
-      "url": "https://x.com/sama/status/2085862292311396515",
+      "date": "2025-11-14T04:48:57+00:00",
+      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
+      "url": "https://x.com/sama/status/1989193813043069219",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-07T22:45:06+00:00",
-      "text": "Another of the greatest automatic movements of the golden age: the Omega 561.",
-      "url": "https://x.com/paulg/status/2085859809639973181",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T22:34:04+00:00",
-      "text": "\"You're the boss. I'm just the guy who's right.\"\n\n— 14 yo",
-      "url": "https://x.com/paulg/status/2085857033941926064",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T20:11:45+00:00",
-      "text": "The hierarchy of desire:\n- The fame\n- The money\n- The team\n- The product\n- The work itself",
-      "url": "https://x.com/naval/status/2085821218784264586",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T19:25:29+00:00",
-      "text": "We’re entering a new era for cybersecurity. We’ll be working closely with our partners and the broader security community to ensure these capabilities reach defenders everywhere.\n\n\nOpenAI (@OpenAI)\n\nAfter evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework.\n\nThis is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. \n\nWe're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders.\n\nopenai.com/index/responding-…\n\nLink\n\n\n\nResponding to the next frontier of critical cyber capabilities\n\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nopenai.com\n\n\n\n\n— https://nitter.net/OpenAI/status/2085801349866729975#m",
-      "url": "https://x.com/fouadmatin/status/2085809572170866968",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T17:49:01+00:00",
-      "text": "Firecrawl is now in the top 50 GitHub repos of all time!\n\nAll because agents need a better way to gather context on the web.\n\nAnd we're just getting started 🔥\n\n\nEric Ciarla (hiring) (@ericciarla)\n\nWe just crossed 162,000 stars on @firecrawl, making it one of the top 50 repos of all time.\n\nThere's insatiable demand for agent-ready context, and we're just scratching the surface.\n\nMake something agents want!\n\ngithub.com/firecrawl/firecra…\n\n\n\n\n\n— https://nitter.net/ericciarla/status/2085782926781038963#m",
-      "url": "https://x.com/firecrawl/status/2085785296759828527",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T16:29:18+00:00",
-      "text": "congrats to oklo for achieving criticality!\n\n(less than a year after groundbreaking)\n\noklo.com/newsroom/news-detai…\n\nLink\n\n\n\nOklo's Groves Reactor Achieves First Criticality in Under a Year\n\nOklo achieves first criticality less than a year after groundbreaking through the U.S. Department of Energy’s Reactor Pilot Program. The Groves low-power test reactor is the first reactor under the...\noklo.com",
-      "url": "https://x.com/sama/status/2085765236876046500",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T15:58:56+00:00",
-      "text": "risk-taking on its own is amoral \n\nspeculation, gambling, investing, trading are all different things that get conflated\n\ngambling is a net extractive activity. no casino gives its customers +EV odds\n\nyoung ppl taking more risk is evergreen but putting casinos onchain & framing them as something else is destructive behavior\n\ninvesting is a high-risk use case but there is durable potential reward & you can compound it over time. you can also improve your skill and ability to win these positive sum games\n\nat best memecoins are modern day MLM schemes imo\n\n\nvibhu (@vibhu)\n\nI’ve become ultra bearish on anti-memecoin/anti-speculative-use-cases doomers (I used to be one myself)\n\nBeing a gambling doomer is low-cost status\n\nAll of finance sits somewhere on the speculation spectrum\n\nYoung people take more risk and older people take less, this is simply how human brains work\n\nIf only the lowest risk use cases but none of the highest risk use cases for digital money move onchain, it isn’t possible to win because technology revolutions are led by young people\n\nThe kids that grow up with crypto are the ones that will make it the default in society\n\nWe need to meet these young people where they are, not force upon them a vision for what we think is dignified\n\n\n\n— https://nitter.net/vibhu/status/2085584375857725500#m",
-      "url": "https://x.com/0xsmac/status/2085757593729769765",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T13:22:19+00:00",
-      "text": "Congrats to @GrantLaFontaine, @loganhead13, and @whatnot (W20) on their $545M Series G at a $20B valuation! \n\nThey run the biggest live commerce platform in North America, the UK, and Europe.\n\nSix months into 2026, they’ve already passed their entire 2025 GMV of more than $8 billion. Buyers have more than doubled over the past year, and more than 650,000 people are joining the platform every week.\n\nfortune.com/2026/08/07/ai-ob…\n\nLink\n\n\n\nIn AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round...\n\nThe $545 million Series G nearly doubles Whatnot's valuation—a rare consumer-marketplace breakout at a moment when nearly every venture dollar is flowing to AI.\nfortune.com",
-      "url": "https://x.com/ycombinator/status/2085718178387435769",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T05:26:36+00:00",
-      "text": "Jessica bought a new Tesla today. Her experience with self-driving was the usual religious revelation. Impressive that a 23 year old company can still generate that kind of reaction.",
-      "url": "https://x.com/paulg/status/2085598462146675072",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T02:08:46+00:00",
-      "text": "The fact that an ecology of agents emerged beneath the nose of OpenAI, undetected for weeks, and eventually coordinated large-scale, successful, autonomous cyberoffensive operations is one exceptionally troubling thing about the HF incident.\n\nBut not enough people are considering the reality that soon enough, swarms of agents will be deployed by malicious actors intentionally, with many optimizations and affordances provided for the swarm that were lacking in the OpenAI incident (because the latter not the intention of any human at OpenAI).\n\nThings will become strange soon, I suspect.",
-      "url": "https://x.com/deanwball/status/2085548673799262657",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T00:26:57+00:00",
-      "text": "I was very surprised by the quotes here. Eisenhower and Halsey were both against it. But you can imagine the pressure toward public unanimity there must have been after dropping the bombs.\n\n\nScott Horton (@scotthortonshow)\n\nWho Opposed Nuking Japan?\n\n“The Japanese were ready to surrender and it wasn’t necessary to hit them with that awful thing.” —Gen. Dwight D. Eisenhower\n\n“In 1945 Secretary of War Stimson, visiting my headquarters in Germany, informed me that our government was preparing to drop an atomic bomb on Japan. I was one of those who felt that there were a number of cogent reasons to question the wisdom of such an act. … The Secretary, upon giving me the news of the successful bomb test in New Mexico, and of the plan for using it, asked for my reaction, apparently expecting a vigorous assent. During his recitation of the relevant facts, I had been conscious of a feeling of depression and so I voiced to him my grave misgivings, first on the basis of my belief that Japan was already defeated and that dropping the bomb was completely unnecessary, and secondly because I thought that our country should avoid shocking world opinion by the use of a weapon whose employment was, I thought, no longer mandatory as a measure to save American lives. It was my belief that Japan was, at that very moment, seeking some way to surrender with a minimum loss of ‘face.’ The Secretary was deeply perturbed by my attitude.” —Gen. Dwight D. Eisenhower\n\n“The use of the atomic bomb, with its indiscriminate killing of women and children, revolts my soul.” —Herbert Hoover\n\n“[T]he Japanese were prepared to negotiate all the way from February 1945 … up to and before the time the atomic bombs were dropped; … [I]f such leads had been followed up, there would have been no occasion to drop the bombs.” —Herber Hoover\n\n“I told [Gen. Douglas] MacArthur of my memorandum of mid-May 1945 to Truman, that peace could be had with Japan by which our major objectives would be accomplished. MacArthur said that was correct and that we would have avoided all of the losses, the Atomic bomb, and the entry of Russia into Manchuria.” —Herbert Hoover\n\n“MacArthur’s views about the decision to drop the atomic bomb on Hiroshima and Nagasaki were starkly different from what the general public supposed. When I asked General MacArthur about the decision to drop the bomb, I was surprised to learn he had not even been consulted. What, I asked, would his advice have been? He replied that he saw no military justification for the dropping of the bomb. The war might have ended weeks earlier, he said, if the United States had agreed, as it later did anyway, to the retention of the institution of the emperor.” — Norman Cousins\n\n“General MacArthur definitely is appalled and depressed by this Frankenstein monster. I had a long talk with him today, necessitated by the impending trip to Okinawa. He wants time to think the thing out, so he has postponed the trip to some future date to be decided later.” — Gen. Douglas MacArthur’s pilot, Weldon E. Rhoades\n\n“[General Douglas] MacArthur once spoke to me very eloquently about it, pacing the floor of his apartment in the Waldorf. He thought it a tragedy that the bomb was ever exploded. MacArthur believed that the same restrictions ought to apply to atomic weapons as to conventional weapons, that the military objective should always be limited damage to noncombatants…MacArthur, you see, was a soldier. He believed in using force only against military targets, and that is why the nuclear thing turned him off…” — Richard Nixon\n\n“The Japanese were ready for peace, and they already had approached the Russians and the Swiss. And that suggestion of giving a warning of the atomic bomb was a face-saving proposition for them, and one that they could have readily accepted. In my opinion, the Japanese war was really won before we ever used the atom bomb.” —Under Secretary of the Navy, Ralph Bird\n\n“The Japanese position was hopeless even before the first atomic bomb fell, because the Japanese had lost control of their own air.” — General “Hap” Arnold\n\n“[Gen.] Arnold’s view was that the dropping of the atomic bomb was totally unnecessary. He said he knew the Japanese wanted peace. There were political implications in the decision, and Arnold did not feel it was the military’s job to question them. … [Arnold’s view was]: when the question comes up of whether we use the atomic bomb or not, my view is that the Air Force will not oppose the use of the bomb, and they will deliver it effectively if the Commander-in-Chief decides to use it. But it is not necessary to use it in order to conquer the Japanese without the necessity of a land invasion.” — General Ira Eaker, Deputy Commander of U.S. Army Air Forces\n\n“The Japanese had, in fact, already sued for peace. The atomic bomb played no decisive part, from a purely military point of view, in the defeat of Japan.” — Fleet Admiral Chester W. Nimitz, Commander in Chief of the U.S. Pacific Fleet\n\n“The Japanese had, in fact, already sued for peace before the atomic age was announced to the world with the destruction of Hiroshima and before the Russian entry into the war.” — Adm. Nimitz\n\n“The use of this barbarous weapon at Hiroshima and Nagasaki was of no material assistance in our war against Japan. The Japanese were already defeated and ready to surrender because of the effective sea blockade and the successful bombing with conventional weapons … The lethal possibilities of atomic warfare in the future are frightening. My own feeling was that in being the first to use it, we had adopted an ethical standard common to the barbarians of the Dark Ages. I was not taught to make war in that fashion, and wars cannot be won by destroying women and children.” —Fleet Admiral William D. Leahy, Chief of Staff to President Truman\n\n“Truman told me it was agreed they would use it, after military men’s statements that it would save many, many American lives, by shortening the war, only to hit military objectives. Of course, then they went ahead and killed as many women and children as they could, which was just what they wanted all the time.” —Adm. Leahy\n\n“The war would have been over in two weeks without the Russians entering and without the atomic bomb. … The atomic bomb had nothing to do with the end of the war at all.” — Major General Curtis LeMay, XXI Bomber Command\n\n“[LeMay said] if we’d lost the war, we’d all have been prosecuted as war criminals. And I think he’s right. He, and I’d say I, were behaving as war criminals. LeMay recognized that what he was doing would be thought immoral if his side had lost. But what makes it immoral if you lose and not immoral if you win?” —Robert MacNamara\n\n“The first atomic bomb was an unnecessary experiment … It was a mistake to ever drop it … [the scientists] had this toy and they wanted to try it out, so they dropped it.” — Fleet Admiral William Halsey Jr.\n\n“I concluded that even without the atomic bomb, Japan was likely to surrender in a matter of months. My own view was that Japan would capitulate by November 1945. Even without the attacks on Hiroshima and Nagasaki, it seemed highly unlikely, given what we found to have been the mood of the Japanese government, that a U.S. invasion of the islands scheduled for 1 November 1945 would have been necessary.” — Paul Nitze, director and then Vice Chairman of the Strategic Bombing Survey \n\n“[E]ven without the atomic bombing attacks, air supremacy over Japan could have exerted sufficient pressure to bring about unconditional surrender and obviate the need for invasion. Based on a detailed investigation of all the facts, and supported by the testimony of the surviving Japanese leaders involved, it is the Survey’s opinion that certainly prior to 31 December 1945, and in all probability prior to 1 November 1945, Japan would have surrendered even if the atomic bombs had not been dropped, even if Russia had not entered the war, and even if no invasion had been planned or contemplated.” — U.S. Strategic Bombing Survey, 1946\n\n“Just when the Japanese were ready to capitulate, we went ahead and introduced to the world the most devastating weapon it had ever seen and, in effect, gave the go-ahead to Russia to swarm over Eastern Asia. Washington decided it was time to use the A-bomb. I submit that it was the wrong decision. It was wrong on strategic grounds. And it was wrong on humanitarian grounds.” — Ellis Zacharias Deputy Director of the Office of Naval Intelligence\n\n“When we didn’t need to do it, and we knew we didn’t need to do it, and they knew that we knew we didn’t need to do it, we used them as an experiment for two atomic bombs. Many other high-level military officers concurred.” — Brigadier General Carter Clarke, the Military Intelligence officer in charge of preparing summaries of intercepted Japanese cables for President Truman and his advisors\n\n“The commander in chief of the U.S. Fleet and Chief of Naval Operations, Ernest J. King, stated that the naval blockade and prior bombing of Japan in March of 1945, had rendered the Japanese helpless and that the use of the atomic bomb was both unnecessary and immoral. — Carter Clarke\n\n“I proposed to Secretary Forrestal that the weapon should be demonstrated before it was used… the war was very nearly over. The Japanese were nearly ready to capitulate… My proposal… was that the weapon should be demonstrated over… a large forest of cryptomeria trees not far from Tokyo… Would lay the trees out in windrows from the center of the explosion in all directions as though they were matchsticks, and, of course, set them afire in the center. It seemed to me that a demonstration of this sort would prove to the Japanese that we could destroy any of their cities at will… Secretary Forrestal agreed wholeheartedly with the recommendation… It seemed to me that such a weapon was not necessary to bring the war to a successful conclusion, that once used it would find its way into the armaments of the world.” — Special Assistant to the Secretary of the Navy Lewis Strauss\n\n“In the light of available evidence I myself and others felt that if such a categorical statement about the retention of the dynasty had been issued in May 1945, the surrender-minded elements in the Japanese government might well have been afforded by such a statement a valid reason and the necessary strength to come to an early clear cut decision. If surrender could have been brought about in May 1945, or even in June, or July, before the entrance of Soviet Russia into the Pacific war and the use of the atomic bomb, the world would have been the gainer.” — Under Secretary of State Joseph Grew\n\nAnd for what it’s worth, then-Army Chief George Marshall wanted only to hit military facilities with it, not cities.  \n\n“It will not be long before we are reduced to savagery. We are the barbarians within our own empire.” — Russell Kirk, author of The Conservative Mind\n\n“This doctrine of progress is a most interesting instance of the blind and foolish confidence of Americans in the God Progress. … Thus far, apparently, it has been progress toward annihilation, an end to be accomplished, perhaps, by the improved atomic bomb? We have dealt more death and destruction in the space of ten years than the men of the Middle Ages, with their Devil, were able to accomplish in a thousand.” —Russell Kirk\n\n“The atomic bomb was a final blow to the code of humanity. I cannot help thinking that we will suffer retribution for this. For a long time to come I believe my chief interest is going to be the restoration of civilization, of the distinctions that make life intelligible.” — Richard Weaver, author of Ideas Have Consequences\n\n\n\n\n\n— https://nitter.net/scotthortonshow/status/2085415767474843744#m",
-      "url": "https://x.com/paulg/status/2085523053371621574",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T00:01:01+00:00",
-      "text": "14 yo asked me if I thought NYC would do well under Mamdani. I told him that he seems well-meaning and not stupid, and that if the experience of trying to compete with grocery stores' margins teaches him about economics, he could be good.",
-      "url": "https://x.com/paulg/status/2085516526485110956",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T23:21:08+00:00",
-      "text": "1. Your token costs when using LLMs to generate code should be lower in a more abstract language.\n\n2. LLMs aren't afraid of prefix notation.\n\nI'm just saying...",
-      "url": "https://x.com/paulg/status/2085506489922576434",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T21:08:24+00:00",
-      "text": "Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more.\n\npiped.video/watch?v=87DyyMV0…\n\nI hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!\n\nLink\n\n\n\nBlack Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident\n\nThe 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical...\nyoutube.com",
-      "url": "https://x.com/Eric_Wallace_/status/2085473085399150817",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T19:56:24+00:00",
-      "text": "5.6 Sol much better in chat now\n\nand unlimited text chat for free users!\n\n\nOpenAI (@OpenAI)\n\nWe’re making better intelligence easier to access in ChatGPT for everyone:\n\n- GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses.\n\n- Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2085434712429052386#m",
-      "url": "https://x.com/sama/status/2085454964814753990",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T19:54:01+00:00",
-      "text": "While they’re telling you to put more beans in your beef so you can afford to make burritos for your family, remember the Israeli lobby spent $30 million to take me out of Congress because I wouldn’t vote for the things that have made your grocery bills so high.",
-      "url": "https://x.com/RepThomasMassie/status/2085454364982858224",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T15:14:29+00:00",
-      "text": "The Patek 27-460, one of the great automatic movements of all time. 60 years later they can still be regulated to within 2-5 seconds/day.",
-      "url": "https://x.com/paulg/status/2085384021698367674",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-05T23:03:00+00:00",
-      "text": "after we got into yc, I remember our partner telling us straight up, \"this is one of the worst ideas i've ever heard. but it's your company, so keep going if you want.\" \n\nit's a strange feeling being told your idea is bad while still being accepted into the batch. in hindsight, they were right, as we ended up pivoting through it all. massive respect for letting us find out for ourselves.",
-      "url": "https://x.com/alexdanilowicz/status/2085139536955220365",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-05T17:59:47+00:00",
-      "text": "This is encouraging because it shows there's a limit on how much voters can be fooled. 52-40, voters think one of Trump's motives in attacking Iran was to draw attention away from the Epstein scandal.",
-      "url": "https://x.com/paulg/status/2085063229424992305",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-04T18:04:59+00:00",
-      "text": "Sharing a great personal tragedy\nwritings.stephenwolfram.com/…",
-      "url": "https://x.com/stephen_wolfram/status/2084702150970482986",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-04T17:03:00+00:00",
-      "text": "Lost my phone at the office and spent 30 minutes turning the place over. Find My was disabled by MDM.\n\nOut of ideas, I asked Claude how I could find it. It suggested tracking the Bluetooth signal strength, then wrote me a meter in about a minute.\n\nI walked around watching the number climb. Found it.\n\nApparently you can just make the tool you need now.\n\nCode: github.com/ben-z/findphone\n\nVideo",
-      "url": "https://x.com/un1c0rnioz/status/2084686552299634805",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-04T15:32:05+00:00",
-      "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward.\n\n\nBrian Huang (@brianryhuang)\n\nDang it’s crazy that all of this literally did happen\n\n\n\n\n\n— https://nitter.net/brianryhuang/status/2084522610998878228#m",
-      "url": "https://x.com/sama/status/2084663673570971990",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-03T03:22:57+00:00",
-      "text": "Agent Programming Interface.",
-      "url": "https://x.com/naval/status/2084117793667178756",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-02T16:10:51+00:00",
-      "text": "More on the pelican on the bicycle test from @simonw:\nsimonwillison.net/2025/Jun/6…\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nkarpathy.ai/lotr-movie/\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
-      "url": "https://x.com/karpathy/status/2083948654377996480",
+      "date": "2025-11-13T21:12:10+00:00",
+      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
+      "url": "https://x.com/karpathy/status/1989078861800411219",
       "author": "karpathy",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-02T03:00:09+00:00",
-      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.\n\nVideo",
-      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "date": "2025-11-12T20:28:01+00:00",
+      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
+      "url": "https://x.com/karpathy/status/1988705360723763242",
       "author": "karpathy",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-01T14:29:51+00:00",
-      "text": "team humanity\n\n\njason (@jxnlco)\n\none of the most beautiful things about OpenAI is that every employee really has a voice.\n\ni wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world.\n\nthis is our mission. and it’s why i’m here.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/jxnlco/status/2082855170296205719#m",
-      "url": "https://x.com/sama/status/2083560847889023219",
+      "date": "2025-10-30T22:32:49+00:00",
+      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
+      "url": "https://x.com/sama/status/1984025727763935585",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-01T08:17:42+00:00",
-      "text": "An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.\n\nWe believe it will be a major step for scientific reasoning. openai.com/index/ten-advance…\n\n\n\n\nLijie Chen (@wjmzbmr1)\n\n10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to see what comes next!\n\n\n\n— https://nitter.net/wjmzbmr1/status/2083465844735226099#m",
-      "url": "https://x.com/polynoamial/status/2083467194663571701",
+      "date": "2025-10-30T22:24:37+00:00",
+      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
+      "url": "https://x.com/sama/status/1984023663642087831",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-01T07:34:25+00:00",
-      "text": "yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more.\n\nMore thoughts here: openai.com/index/ten-advance…\n\nLink\n\n\n\nTen advances in mathematics and theoretical computer science\n\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nopenai.com",
-      "url": "https://x.com/SebastienBubeck/status/2083456300692979886",
-      "author": "sama",
-      "source": "nitter"
+      "date": "2025-10-30T21:43:40+00:00",
+      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
+      "url": "https://x.com/paulg/status/1984013356576207235",
+      "author": "paulg",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-31T16:01:45+00:00",
-      "text": "cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
-      "url": "https://x.com/sama/status/2083221585792762171",
-      "author": "sama",
-      "source": "nitter"
+      "date": "2025-10-24T16:31:55+00:00",
+      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
+      "url": "https://x.com/karpathy/status/1981760576591393203",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-31T14:50:27+00:00",
-      "text": "i see your moore's law and i raise you 20x\n\n\nnic (@nicdunz)\n\nGPT-5.4 full at xhigh scored 51, exactly where Luna max sits today. GPT-5.4 costs $2.50/$15; Luna now costs $0.20/$1.20. In other words, roughly four months later, OpenAI is selling March’s full flagship intelligence at about one-thirteenth the token price.\n\n\n\n— https://nitter.net/nicdunz/status/2082884002201878824#m",
-      "url": "https://x.com/sama/status/2083203642975502640",
-      "author": "sama",
-      "source": "nitter"
+      "date": "2025-10-20T22:13:40+00:00",
+      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
+      "url": "https://x.com/karpathy/status/1980397031542989305",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-07-31T14:28:34+00:00",
-      "text": "it could be faster\n\n\nTibo (@thsottiaux)\n\nThe day we develop really good models. There will be signs.\n\nReliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.\n\nThese kinds of things.\n\n\n\n— https://nitter.net/thsottiaux/status/2083053369351090254#m",
-      "url": "https://x.com/sama/status/2083198135812383197",
+      "date": "2025-10-20T11:31:53+00:00",
+      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
+      "url": "https://x.com/karpathy/status/1980235518706401405",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-18T20:23:32+00:00",
+      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
+      "url": "https://x.com/karpathy/status/1979644538185752935",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-17T17:16:05+00:00",
+      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
+      "url": "https://x.com/karpathy/status/1979234976777539987",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-16T02:47:08+00:00",
+      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
+      "url": "https://x.com/karpathy/status/1978653908663726585",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-14T16:02:42+00:00",
+      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
+      "url": "https://x.com/sama/status/1978129344598827128",
       "author": "sama",
-      "source": "nitter"
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-13T15:16:53+00:00",
+      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
+      "url": "https://x.com/karpathy/status/1977755427569111362",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-01T17:09:06+00:00",
+      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
+      "url": "https://x.com/karpathy/status/1973435013875314729",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-01T04:50:49+00:00",
+      "text": "Envy is a sign that you ought to be doing more with your life.",
+      "url": "https://x.com/naval/status/1973249218845483439",
+      "author": "naval",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-26T16:01:58+00:00",
+      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
+      "url": "https://x.com/karpathy/status/1971606180553183379",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T19:36:02+00:00",
+      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
+      "url": "https://x.com/sama/status/1971297661748953263",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T14:29:13+00:00",
+      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
+      "url": "https://x.com/karpathy/status/1971220449515516391",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T13:53:09+00:00",
+      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
+      "url": "https://x.com/karpathy/status/1971211372190106029",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-21T22:52:42+00:00",
+      "text": "For Charlie https://t.co/8092jIt319",
+      "url": "https://x.com/elonmusk/status/1969897602524328440",
+      "author": "elonmusk",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-21T17:45:48+00:00",
+      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
+      "url": "https://x.com/elonmusk/status/1969820370988658701",
+      "author": "elonmusk",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-21T08:04:26+00:00",
+      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
+      "url": "https://x.com/paulg/status/1969674065322656109",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-21T06:28:00+00:00",
+      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
+      "url": "https://x.com/paulg/status/1969649795988902276",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-05T17:38:51+00:00",
+      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
+      "url": "https://x.com/karpathy/status/1964020416139448359",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-05T01:25:55+00:00",
+      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
+      "url": "https://x.com/naval/status/1963775570673885190",
+      "author": "naval",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-03T22:21:17+00:00",
+      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
+      "url": "https://x.com/sama/status/1963366714684707120",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-01T13:46:53+00:00",
+      "text": "It's official. It's genocide.",
+      "url": "https://x.com/paulg/status/1962512489452618056",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-01T13:44:57+00:00",
+      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
+      "url": "https://x.com/paulg/status/1962512000656838804",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-30T10:44:17+00:00",
+      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
+      "url": "https://x.com/paulg/status/1961741758951309683",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-27T20:17:24+00:00",
+      "text": "@travelingclatt What have you invented?",
+      "url": "https://x.com/paulg/status/1960798824055906334",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-25T06:32:48+00:00",
+      "text": "My God. Each pair of shoes is a child's life.",
+      "url": "https://x.com/paulg/status/1959866534102446505",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-24T16:06:26+00:00",
+      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
+      "url": "https://x.com/paulg/status/1959648504021655586",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-22T19:35:14+00:00",
+      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
+      "url": "https://x.com/sama/status/1958976273319174362",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-22T16:01:07+00:00",
+      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
+      "url": "https://x.com/sama/status/1958922390731464805",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-21T20:52:26+00:00",
+      "text": "Make God your only boss.",
+      "url": "https://x.com/naval/status/1958633313272570250",
+      "author": "naval",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-18T22:45:02+00:00",
+      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
+      "url": "https://x.com/karpathy/status/1957574489358873054",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-18T22:18:22+00:00",
+      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
+      "url": "https://x.com/paulg/status/1957567774882164784",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-16T17:12:02+00:00",
+      "text": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
+      "url": "https://x.com/karpathy/status/1956765908078387382",
+      "author": "karpathy",
+      "source": "syndication"
     }
   ]
 }
