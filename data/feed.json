@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-08-10T12:37:58.928323+00:00",
-  "last_success_at": "2026-08-10T12:37:58.928323+00:00",
-  "source": "syndication",
-  "error_message": "",
+  "updated_at": "2026-08-11T12:34:58.392029+00:00",
+  "last_success_at": "2026-08-11T12:34:58.392029+00:00",
+  "source": "nitter",
+  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
   "items": [
     {
-      "date": "2026-08-06T14:50:28+00:00",
-      "text": "Terafab Texas will be the largest and most valuable building on Earth by far.\n\nAnd it will be stunningly beautiful.  https://t.co/4NweOqTL7y",
-      "url": "https://x.com/elonmusk/status/2085377974396752305",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-14T04:48:57+00:00",
-      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
-      "url": "https://x.com/sama/status/1989193813043069219",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-13T21:12:10+00:00",
-      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
-      "url": "https://x.com/karpathy/status/1989078861800411219",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-11-12T20:28:01+00:00",
-      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
-      "url": "https://x.com/karpathy/status/1988705360723763242",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:32:49+00:00",
-      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
-      "url": "https://x.com/sama/status/1984025727763935585",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T22:24:37+00:00",
-      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
-      "url": "https://x.com/sama/status/1984023663642087831",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-30T21:43:40+00:00",
-      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
-      "url": "https://x.com/paulg/status/1984013356576207235",
+      "date": "2026-08-11T05:27:28+00:00",
+      "text": "You can be pro-meritocracy or anti-immigration, but you can't be both.",
+      "url": "https://x.com/paulg/status/2087048230760767516",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-10-24T16:31:55+00:00",
-      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
-      "url": "https://x.com/karpathy/status/1981760576591393203",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-20T22:13:40+00:00",
-      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
-      "url": "https://x.com/karpathy/status/1980397031542989305",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-20T11:31:53+00:00",
-      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
-      "url": "https://x.com/karpathy/status/1980235518706401405",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-18T20:23:32+00:00",
-      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
-      "url": "https://x.com/karpathy/status/1979644538185752935",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-17T17:16:05+00:00",
-      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
-      "url": "https://x.com/karpathy/status/1979234976777539987",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-16T02:47:08+00:00",
-      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
-      "url": "https://x.com/karpathy/status/1978653908663726585",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-14T16:02:42+00:00",
-      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
-      "url": "https://x.com/sama/status/1978129344598827128",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-13T15:16:53+00:00",
-      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
-      "url": "https://x.com/karpathy/status/1977755427569111362",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-01T17:09:06+00:00",
-      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
-      "url": "https://x.com/karpathy/status/1973435013875314729",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-10-01T04:50:49+00:00",
-      "text": "Envy is a sign that you ought to be doing more with your life.",
-      "url": "https://x.com/naval/status/1973249218845483439",
+      "date": "2026-08-11T01:27:02+00:00",
+      "text": "People who are serious about software train their own models.",
+      "url": "https://x.com/naval/status/2086987724037185547",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-26T16:01:58+00:00",
-      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
-      "url": "https://x.com/karpathy/status/1971606180553183379",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-08-11T00:45:24+00:00",
+      "text": "Once again, limit case: super programmer building a new project from scratch that duplicates a lot of the functionality of an existing service.",
+      "url": "https://x.com/paulg/status/2086977248830341231",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-09-25T19:36:02+00:00",
-      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
-      "url": "https://x.com/sama/status/1971297661748953263",
+      "date": "2026-08-11T00:43:27+00:00",
+      "text": "Are the people who were enraged by this tweet going to be even more enraged when I tell them I met a founder today who sometimes writes 50,000 lines of code in a day? Or is everyone now used to this?\n\n\nPaul Graham (@paulg)\n\nI met a founder today who said he writes 10,000 lines of code a day now thanks to AI. This is probably the limit case. He's a hotshot programmer, he knows AI tools very well, and he's talking about a 12 hour day. But he's not naive. This is not 10,000 lines of bug-filled crap.\n\n\n\n— https://nitter.net/paulg/status/1953289830982664236#m",
+      "url": "https://x.com/paulg/status/2086976755718664253",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-10T21:34:26+00:00",
+      "text": "The Democrats made a huge mistake letting themselves become the party of pronouns and land acknowledgements. They should just ditch that stuff entirely. Especially since it doesn't actually do any good.",
+      "url": "https://x.com/paulg/status/2086929188284719448",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-10T21:22:28+00:00",
+      "text": "Now that AI has compressed the design phase for so many products, there is going to be more demand for technologies that compress the construction phase. After we get those, the final frontier will be regulation.",
+      "url": "https://x.com/paulg/status/2086926176338194460",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-10T21:21:39+00:00",
+      "text": "Last November, @steipete was annoyed that there was no good way to talk to his coding agents from his phone, so he built one himself. A few months later, OpenClaw exploded into one of the biggest open source AI projects in the world, with nearly 3,000 contributors and a peak of 4.7 million weekly downloads.\n\nAt Startup School 2026, Peter tells the story of what happened when OpenClaw took off, what he got wrong as it grew, and how he eventually stopped using the product he had built for himself.\n\nHe shares why the best products often start with something that annoys you, why focus matters more as building gets easier, and why, in his words, “fun is velocity.”\n\n01:16 — How OpenClaw Started\n05:10 — Finding Product-Market Fit\n07:01 — The Night OpenClaw Went Viral\n09:50 — When the Project Exploded\n11:05 — When the Attention Almost Broke Him\n12:00 — Did You Sell Out?\n14:17 — Your Name Can’t Be Forked\n15:03 — What OpenClaw Got Wrong\n20:40 — Hype Is Like the Weather\n21:37 — When It Stopped Being Fun\n25:30 — Fun Is Velocity\n26:40 — What’s Next for OpenClaw\n28:57 — Three Lessons From Building OpenClaw\n30:08 — Q&A\n\nVideo",
+      "url": "https://x.com/ycombinator/status/2086925972369269105",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-10T21:16:30+00:00",
+      "text": "Startup idea: Rephrase output to preserve the meaning while obliterating the watermarks. This might not become that big in itself, but it could make a great beachhead.\n\n\nM1 (@M1Astra)\n\nAnthropic says new Claude models will embed invisible watermarks in all generated text, everywhere Claude is offered.\n\nThe watermark is part of the text, it isn't metadata: \"it will travel with the text when it's copied and pasted elsewhere, and may persist through some editing.\"\n\nThis starts with models launched on or after August 2, 2026, under an EU AI Act code Anthropic signed. Anthropic is still working on adding it to current models. The rollout is worldwide.\n\n\n\n\n\n— https://nitter.net/M1Astra/status/2086898041882030353#m",
+      "url": "https://x.com/paulg/status/2086924675163345285",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-10T18:25:03+00:00",
+      "text": "please consider using our models to help defend your systems\n\n\nEric Wallace (@Eric_Wallace_)\n\nToday we are releasing GPT-5.6-Cyber. \n\nThe model is our first large-scale attempt at directly improving capabilities for advanced cybersecurity tasks such as exploit development.\n\nWe are finding it to be really quite strong for accelerating defensive work. We are using it across our stack for red-teaming, and our security researchers have used it to find and patch a huge host of 0-day vulnerabilities in open-source software.\n\nopenai.com/index/expanding-d…\n\nLink\n\n\n\nExpanding Daybreak as the Cyber Defense Window Narrows\n\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nopenai.com\n\n\n\n\n— https://nitter.net/Eric_Wallace_/status/2086866306167656901#m",
+      "url": "https://x.com/sama/status/2086881528282587524",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-25T14:29:13+00:00",
-      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
-      "url": "https://x.com/karpathy/status/1971220449515516391",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-25T13:53:09+00:00",
-      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
-      "url": "https://x.com/karpathy/status/1971211372190106029",
-      "author": "karpathy",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T22:52:42+00:00",
-      "text": "For Charlie https://t.co/8092jIt319",
-      "url": "https://x.com/elonmusk/status/1969897602524328440",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T17:45:48+00:00",
-      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
-      "url": "https://x.com/elonmusk/status/1969820370988658701",
-      "author": "elonmusk",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-21T08:04:26+00:00",
-      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
-      "url": "https://x.com/paulg/status/1969674065322656109",
+      "date": "2026-08-10T16:44:19+00:00",
+      "text": "One way to answer the question of whether we've achieved AGI is to ask what people in 1980 would have said if you showed them current models. We're standing on the finish line, so we're uncertain. But anyone in 1980 would have said yes.",
+      "url": "https://x.com/paulg/status/2086856177577783612",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-21T06:28:00+00:00",
-      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
-      "url": "https://x.com/paulg/status/1969649795988902276",
+      "date": "2026-08-10T16:40:13+00:00",
+      "text": "I love the name Discovered Materials. IIRC the domain name was untaken, so they didn't have to pay anything for it.\n\n\nAdvaith Sridhar (@advaith_sridhar)\n\nToday, we're introducing @discoveredmat . We build AI scientists that discover new materials for semiconductor chips.\n\nWe’re starting by releasing our work - hundreds of new materials discovered using frontier AI models, along with our benchmark for tracking progress in this domain, Material Discovery Bench.\n\nTo pursue our mission, we have raised $9 million from @LightspeedIndia (lead investor) , @ycombinator , @peakxvpartners , @paulg , @gokulr , @trq212 and many others.\n\n🧵\n\n\n\n\n\n— https://nitter.net/advaith_sridhar/status/2086829211550101823#m",
+      "url": "https://x.com/paulg/status/2086855145808359487",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T17:38:51+00:00",
-      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
-      "url": "https://x.com/karpathy/status/1964020416139448359",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-08-10T16:17:32+00:00",
+      "text": "I was looking at a row of pies in a bakery this morning and I found myself thinking \"Wow, that one looks like it would hurt,\" and I realized I now see pies differently from most people.\n\n\nPaul Graham (@paulg)\n\nI made a deal with 12 yo that if he did well enough on his end of term exams, he could hit me in the face with a pie. He did well enough.\n\n\n\n\n\n— https://nitter.net/paulg/status/1822002546237698479#m",
+      "url": "https://x.com/paulg/status/2086849436786024651",
+      "author": "paulg",
+      "source": "nitter"
     },
     {
-      "date": "2025-09-05T01:25:55+00:00",
-      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
-      "url": "https://x.com/naval/status/1963775570673885190",
+      "date": "2026-08-10T06:33:26+00:00",
+      "text": "17 yo asked what makes a good founder. I said being good at building stuff and being sufficiently fierce. That's about it.",
+      "url": "https://x.com/paulg/status/2086702444420182383",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-10T00:53:18+00:00",
+      "text": "The startups YC funds now are much more serious than they were in the supposedly good old days. In the last couple days I've met with startups making optical switches, rewriting the software infrastructure of manufacturing, making nuclear reactors, and curing cancer.",
+      "url": "https://x.com/paulg/status/2086616849006117137",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-09T21:18:16+00:00",
+      "text": "\"Dial shows significant age-related patina.\"",
+      "url": "https://x.com/paulg/status/2086562733999468683",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-09T20:43:45+00:00",
+      "text": "I talked to a founder today who's doing a software startup after two previous hardware startups. He's so much more relaxed that he seems a different person. Hardware is hard. It's at least possible now, but it's still hard.",
+      "url": "https://x.com/paulg/status/2086554045750403478",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-09T19:48:19+00:00",
+      "text": "hacked together a browser for Pebble (android only for now). I'm not saying it's a great idea, but it's definitely an idea \ngithub.com/coredevices/pebbl…\n\n\n\nVideo",
+      "url": "https://x.com/ericmigi/status/2086540096376037506",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-09T15:09:52+00:00",
+      "text": "lol another one of the things i like most about openai is tibo\n\n\nStats Wire (@StatsWire)\n\nHow much they celebrate with Anthropic\n\n\n\n\n\n— https://nitter.net/StatsWire/status/2086469085270004106#m",
+      "url": "https://x.com/sama/status/2086470022772457950",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-09T15:09:17+00:00",
+      "text": "i would be pretty impressed if the team just made magic intelligence in the sky\n\nbut i am extra impressed that they do so with such a focus on making sure everyone wins (ranging from stuff like business privacy to low prices to predictable policies to more)",
+      "url": "https://x.com/sama/status/2086469875581755696",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-09T15:04:28+00:00",
+      "text": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
+      "url": "https://x.com/sama/status/2086468661670461671",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T21:54:12+00:00",
+      "text": "1.4^52 = 39.7 million. So obviously no one can keep this up for long. But it shows users like the product.",
+      "url": "https://x.com/paulg/status/2086209387191001156",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T21:50:40+00:00",
+      "text": "I asked a startup today how fast they were growing. They said the current number was meaningless because it was just a spike from launching something new. So I asked how fast they'd been growing before the spike. 40% per week!",
+      "url": "https://x.com/paulg/status/2086208496920625178",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T21:15:13+00:00",
+      "text": ".@naval: “The opportunities have never been more equal than now.\n\n@elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone.\n\nThey’re eating food that might be marginally better than yours, but it’s basically the same.\n\nYou might even have a better diet than them. You probably have more time to go to the gym than them.\n\nThey’re not immortal, and they’re not going to be—most likely, not at this time scale.\n\nSo you have more youth than them. You have a lot of advantages over them.\n\nThe wealth gaps are actually much smaller than people think.\n\nA lot of that is due to mass production, which comes from specialization, labor, and capitalism.\n\nBut it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys.\n\nIt makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days.\n\nThey’re craving status, not money or wealth.\n\nAnd status is a zero-sum game.\n\nSo it’s kind of an evil game to play because there have to be losers for every winner.\n\nAnd the only way to win is by crushing somebody else down.”\n\nVideo\n  \n\n\n\n\nBrian Armstrong (@brian_armstrong)\n\nTechnology is the great equalizer.\n\nMost people now have access to the same internet, the same phones, the same AI models.\n\nAnd they are very quickly getting access to the same financial services, from anywhere in the world. Geography and your wealth shouldn’t determine this - and soon, they won’t.\n\n\n\n— https://nitter.net/brian_armstrong/status/2086196250387628154#m",
+      "url": "https://x.com/arjunkhemani/status/2086199578471317528",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-03T22:21:17+00:00",
-      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
-      "url": "https://x.com/sama/status/1963366714684707120",
+      "date": "2026-08-08T20:49:02+00:00",
+      "text": "This has to be the best beatboxer I've ever seen in my life....unreal\n\nVideo",
+      "url": "https://x.com/jayroo69/status/2086192986929373462",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T20:11:15+00:00",
+      "text": "A surprising amount of what I do in office hours is give founders permission to do something simpler than they were planning to. I'm always saying things of the form \"You don't need to x. Just y.\"",
+      "url": "https://x.com/paulg/status/2086183477834318073",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-08T14:09:19+00:00",
+      "text": "GPT-4 finished training four years ago today.",
+      "url": "https://x.com/gdb/status/2086092396023120286",
       "author": "sama",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-09-01T13:46:53+00:00",
-      "text": "It's official. It's genocide.",
-      "url": "https://x.com/paulg/status/1962512489452618056",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-09-01T13:44:57+00:00",
-      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
-      "url": "https://x.com/paulg/status/1962512000656838804",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-30T10:44:17+00:00",
-      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
-      "url": "https://x.com/paulg/status/1961741758951309683",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-27T20:17:24+00:00",
-      "text": "@travelingclatt What have you invented?",
-      "url": "https://x.com/paulg/status/1960798824055906334",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-25T06:32:48+00:00",
-      "text": "My God. Each pair of shoes is a child's life.",
-      "url": "https://x.com/paulg/status/1959866534102446505",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-24T16:06:26+00:00",
-      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
-      "url": "https://x.com/paulg/status/1959648504021655586",
-      "author": "paulg",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T19:35:14+00:00",
-      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
-      "url": "https://x.com/sama/status/1958976273319174362",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-22T16:01:07+00:00",
-      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
-      "url": "https://x.com/sama/status/1958922390731464805",
-      "author": "sama",
-      "source": "syndication"
-    },
-    {
-      "date": "2025-08-21T20:52:26+00:00",
-      "text": "Make God your only boss.",
-      "url": "https://x.com/naval/status/1958633313272570250",
+      "date": "2026-08-08T08:47:57+00:00",
+      "text": "Open-source AI models do not threaten frontier lab profitability.\n\nThe most valuable sectors of the economy - investing, product development, war, cybersecurity, even scientific discovery - are adversarial and competitive in nature.\n\nYou pay to win, or someone else will.",
+      "url": "https://x.com/naval/status/2086011520559792457",
       "author": "naval",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:45:02+00:00",
-      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
-      "url": "https://x.com/karpathy/status/1957574489358873054",
-      "author": "karpathy",
-      "source": "syndication"
+      "date": "2026-08-07T22:54:58+00:00",
+      "text": "astra is a powerful model and we are working to make it generally available.\n\nwe do not think it is a good strategy to keep powerful models to a chosen few.\n\ngiven its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
+      "url": "https://x.com/sama/status/2085862292311396515",
+      "author": "sama",
+      "source": "nitter"
     },
     {
-      "date": "2025-08-18T22:18:22+00:00",
-      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
-      "url": "https://x.com/paulg/status/1957567774882164784",
+      "date": "2026-08-07T20:11:45+00:00",
+      "text": "The hierarchy of desire:\n- The fame\n- The money\n- The team\n- The product\n- The work itself",
+      "url": "https://x.com/naval/status/2085821218784264586",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-07T19:25:29+00:00",
+      "text": "We’re entering a new era for cybersecurity. We’ll be working closely with our partners and the broader security community to ensure these capabilities reach defenders everywhere.\n\n\nOpenAI (@OpenAI)\n\nAfter evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework.\n\nThis is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. \n\nWe're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders.\n\nopenai.com/index/responding-…\n\nLink\n\n\n\nResponding to the next frontier of critical cyber capabilities\n\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nopenai.com\n\n\n\n\n— https://nitter.net/OpenAI/status/2085801349866729975#m",
+      "url": "https://x.com/fouadmatin/status/2085809572170866968",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-07T17:49:01+00:00",
+      "text": "Firecrawl is now in the top 50 GitHub repos of all time!\n\nAll because agents need a better way to gather context on the web.\n\nAnd we're just getting started 🔥\n\n\nEric Ciarla (hiring) (@ericciarla)\n\nWe just crossed 162,000 stars on @firecrawl, making it one of the top 50 repos of all time.\n\nThere's insatiable demand for agent-ready context, and we're just scratching the surface.\n\nMake something agents want!\n\ngithub.com/firecrawl/firecra…\n\n\n\n\n\n— https://nitter.net/ericciarla/status/2085782926781038963#m",
+      "url": "https://x.com/firecrawl/status/2085785296759828527",
       "author": "paulg",
-      "source": "syndication"
+      "source": "nitter"
     },
     {
-      "date": "2025-08-16T17:12:02+00:00",
-      "text": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
-      "url": "https://x.com/karpathy/status/1956765908078387382",
+      "date": "2026-08-07T16:29:18+00:00",
+      "text": "congrats to oklo for achieving criticality!\n\n(less than a year after groundbreaking)\n\noklo.com/newsroom/news-detai…\n\nLink\n\n\n\nOklo's Groves Reactor Achieves First Criticality in Under a Year\n\nOklo achieves first criticality less than a year after groundbreaking through the U.S. Department of Energy’s Reactor Pilot Program. The Groves low-power test reactor is the first reactor under the...\noklo.com",
+      "url": "https://x.com/sama/status/2085765236876046500",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-06T21:08:24+00:00",
+      "text": "Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more.\n\npiped.video/watch?v=87DyyMV0…\n\nI hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!\n\nLink\n\n\n\nBlack Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident\n\nThe 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical...\nyoutube.com",
+      "url": "https://x.com/Eric_Wallace_/status/2085473085399150817",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-06T19:56:24+00:00",
+      "text": "5.6 Sol much better in chat now\n\nand unlimited text chat for free users!\n\n\nOpenAI (@OpenAI)\n\nWe’re making better intelligence easier to access in ChatGPT for everyone:\n\n- GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses.\n\n- Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2085434712429052386#m",
+      "url": "https://x.com/sama/status/2085454964814753990",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-04T15:32:05+00:00",
+      "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward.\n\n\nBrian Huang (@brianryhuang)\n\nDang it’s crazy that all of this literally did happen\n\n\n\n\n\n— https://nitter.net/brianryhuang/status/2084522610998878228#m",
+      "url": "https://x.com/sama/status/2084663673570971990",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-03T03:22:57+00:00",
+      "text": "Agent Programming Interface.",
+      "url": "https://x.com/naval/status/2084117793667178756",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-02T16:10:51+00:00",
+      "text": "More on the pelican on the bicycle test from @simonw:\nsimonwillison.net/2025/Jun/6…\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nkarpathy.ai/lotr-movie/\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+      "url": "https://x.com/karpathy/status/2083948654377996480",
       "author": "karpathy",
-      "source": "syndication"
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-02T03:00:09+00:00",
+      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.\n\nVideo",
+      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "author": "karpathy",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-01T14:29:51+00:00",
+      "text": "team humanity\n\n\njason (@jxnlco)\n\none of the most beautiful things about OpenAI is that every employee really has a voice.\n\ni wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world.\n\nthis is our mission. and it’s why i’m here.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/jxnlco/status/2082855170296205719#m",
+      "url": "https://x.com/sama/status/2083560847889023219",
+      "author": "sama",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-01T08:17:42+00:00",
+      "text": "An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.\n\nWe believe it will be a major step for scientific reasoning. openai.com/index/ten-advance…\n\n\n\n\nLijie Chen (@wjmzbmr1)\n\n10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to see what comes next!\n\n\n\n— https://nitter.net/wjmzbmr1/status/2083465844735226099#m",
+      "url": "https://x.com/polynoamial/status/2083467194663571701",
+      "author": "sama",
+      "source": "nitter"
     }
   ]
 }
