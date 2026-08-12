@@ -7,11 +7,235 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-08-11T12:34:58.392029+00:00",
-  "last_success_at": "2026-08-11T12:34:58.392029+00:00",
+  "updated_at": "2026-08-12T12:37:45.494397+00:00",
+  "last_success_at": "2026-08-12T12:37:45.494397+00:00",
   "source": "nitter",
-  "error_message": "@elonmusk: syndication: HTTP Error 429: Too Many Requests; nitter: <urlopen error [Errno 111] Connection refused>",
+  "error_message": "",
   "items": [
+    {
+      "date": "2026-08-12T11:11:24+00:00",
+      "text": "Literally nobody has been held accountable for Covid.",
+      "url": "https://x.com/naval/status/2087497174963695638",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T06:59:11+00:00",
+      "text": "Grok Build is extremely powerful\n\n\nX Freeze (@XFreeze)\n\nSpaceX’s recent video volume was a little low, so I just gave it to Grok Build and asked it to increase the volume by +10 dB\n\nGrok analyzed the audio, boosted it, added soft compression + limiting to keep everything under control, and gave me the finished video\n\nThen after seeing the audio levels Grok gave me, I realized there was still room to push it another +10 dB\n\nSo I literally asked again\n\nGrok Build boosted it to +20 dB total, re-encoded the video and handed me the final file\n\nAnd it did the whole thing literally in just 25 seconds 😭\n\nIf I were doing this manually, I’d have to open editing software, understand gain, compression and limiting, adjust everything myself and export the video again\n\nThat could easily take me 10–20 minutes\n\nWith Grok Build, I just explained what I wanted in plain English and it handled everything for me\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087421322418700763#m",
+      "url": "https://x.com/elonmusk/status/2087433701764497852",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T06:56:27+00:00",
+      "text": "How to use Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok Build has a really nice way to learn the entire tool without ever leaving the terminal\n\nJust type /tour or /tutorial, and Grok Build walks you through everything step by step\n\nIt covers:\n• Your first prompt\n• Attaching files, images & screenshots\n• Navigation\n• Slash commands\n• Parallel work with Worktrees\n• Plan Mode & permissions\n• AGENTS.md, memory & themes\n• Guides, feedback & best practices\n\nIt even makes switching from Claude, Cursor, or Codex easier, with support for carrying over your settings, rules, and skills\n\nInstead of opening a massive documentation page and trying to figure everything out yourself, you can learn Grok Build interactively while actually using it\n\nIf you're new to Grok Build, just start with /tour\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087189025358557340#m",
+      "url": "https://x.com/elonmusk/status/2087433011478634944",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T05:30:10+00:00",
+      "text": "Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun\n\nVideo\n  \n\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nIt’s always funny how people in SF twitter bubble will say things like “Claude has unbeatable narrative momentum” and then 2 weeks later “wow did Kimi just end the race” \n\nMy brother in Christ nobody outside of this little bubble even calls any AI anything other than “Chat” and they think datacenters destroy water molecules \n\nYou sound dumb. \n\nFocus on things that actually impact people not the little scores on overfit evals\n\nAnd also people who bet against Elon are stupid. The man built real world self driving cars (non-LLM based AI) that is still the best AI I’ve ever used by far. You think he can’t come from behind and win on writing code? He’s literally catching 30 story buildings with chopsticks and that’s like one of his projects \n\nI like a lot of the tools and have friends at all the main labs. Truly amazing work being done. But the overblown commentators are actually so out of touch\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2087403242984734942#m",
+      "url": "https://x.com/ArthurMacwaters/status/2087411297411625227",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T05:29:56+00:00",
+      "text": "Talked to startups at YC for 7 hours straight. I think that's about the limit. I didn't quite saturate demand, but I got within about 20 founders of it.",
+      "url": "https://x.com/paulg/status/2087411239291130271",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T05:25:29+00:00",
+      "text": "Video",
+      "url": "https://x.com/elonmusk/status/2087410119256764540",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T05:22:44+00:00",
+      "text": "Grok Bot\n\n\nFarzad 🇺🇸 🇮🇷 (@farzyness)\n\nHere's my Grok Bot team:\n\n- Webby: Web designer\n- Shotry: Short-form content creator\n- Writey: Article/Newsletter writer\n- Claude Code: Grok agent that specializes in CC\n- Codex: Same as the above but for CODEX\n- Script: YT Scriptwriter\n- Idea: Idea generation for videos/content\n- Master: Orchestrator for the whole team\n\nSUPER easy to spin these up and get them working. Let's see how this goes!\n\n\n\n\n\n— https://nitter.net/farzyness/status/2087340859138224540#m",
+      "url": "https://x.com/elonmusk/status/2087409427888603229",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T05:21:20+00:00",
+      "text": "SpaceX company update\n\n\nSpaceX (@SpaceX)\n\nWe made rockets reusable and are rebuilding the internet in space. The next challenge: making life multiplanetary and understanding the true nature of the universe\n\nWatch @ElonMusk deliver a company update to @SpaceX employees\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2087283977866379361#m",
+      "url": "https://x.com/elonmusk/status/2087409075009274035",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-12T02:08:57+00:00",
+      "text": "i cant believe how relevant YC companies are to helping scale nox \n\nwe dont have time for everything, and lots of these companies are really good at helping us scale manufacturing tech quickly",
+      "url": "https://x.com/zanehengsperger/status/2087360660455776547",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T23:04:34+00:00",
+      "text": "ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN\n\n“We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI.\n\nAnd I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is.\n\nIf the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose?\n\nAnd it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute.\n\nBut I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen.\n\nAnd we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”\n\nVideo",
+      "url": "https://x.com/cb_doge/status/2087314260770930780",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T21:28:41+00:00",
+      "text": "Discovering plagiarism won't be an option for ferreting out the next generation of academic frauds, especially in the humanities, who'll now turn to AI to generate \"scholarship.\"\n\nWill this let entire fields get away with scamming the public, or finally expose their shallowness?",
+      "url": "https://x.com/lreyzin/status/2087290129001914460",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T21:12:01+00:00",
+      "text": "“Once AI can make fast and accurate battlefield decisions, its use will become inevitable,” writes @scmallaby. “The army that eschews it will be defeated by the one that adopts it.”\nforeignaffairs.com/reviews/g…\n\nLink\n\n\n\nGod From the Machine\n\nAI and the future of humanity.\nforeignaffairs.com",
+      "url": "https://x.com/ForeignAffairs/status/2087285936786747574",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:32:48+00:00",
+      "text": "Moonbase Alpha will be so cool. \n\nAnd we want to make it so that anyone can go to the Moon if they want.\n\n\nX Freeze (@XFreeze)\n\nSpaceX is getting very close to building the first serious base on the Moon\n\nStarship changes the entire equation\n\nIt is designed to deliver up to 100 tonnes directly to the lunar surface - enough to transport habitats, rovers, power systems, construction equipment and everything needed to begin building a permanent outpost\n\nThen the other pieces come together\n\nTesla Optimus robots could eventually unload cargo, assemble structures, move equipment and perform dangerous construction work before large human crews arrive\n\nBuilding a base mostly with humans is a serious limitation\n\nHumans need life support, pressurized habitats, spacesuits, oxygen, food and protection just to survive and work on the lunar surface\n\nBut with Tesla Optimus, that equation changes entirely\n\nTesla’s experience with solar energy, batteries, autonomous vehicles and large-scale manufacturing can support the power and transportation systems required on the Moon\n\nSpaceX provides transportation\n\nTesla provides energy, autonomy and robotics\n\nStarship provides the scale\n\nSuddenly building a serious base on the Moon becomes dramatically easier\n\nAnd once that infrastructure is ready, humans can stay for much longer periods and eventually even routine private lunar missions and tourism become possible\n\nOnce the first permanent lunar outpost is established, its usefulness will compound rapidly.....supporting science, resource development, communications and deeper missions into space\n\nThe Moon could become humanity’s first true outpost beyond Earth\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087062943645012443#m",
+      "url": "https://x.com/elonmusk/status/2087260966660759954",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:32:31+00:00",
+      "text": "(Of course novelty is relative. I'm sure someone in the history of mankind has said something similar. But it's certainly not a widely appreciated principle.)",
+      "url": "https://x.com/paulg/status/2087260893101039940",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:31:34+00:00",
+      "text": "England set to eliminate hepatitis C.\n\nThis is due to testing and treatment at scale -- with extremely effective medicines that mean it's curable in pretty much everyone who gets diagnosed (thank you to Pharmasset and Gilead!).\n\n\n\n\nJeremy Farrar (@JeremyFarrar)\n\nWhat becomes possible with discovery science, clinical research, practice, public policy based on scientific evidence and access  bbc.co.uk/news/articles/c75g…\n\nLink\n\n\n\nEngland set to be one of the first countries to eliminate hepatitis C\n\nEngland is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.\nbbc.co.uk\n\n\n\n\n— https://nitter.net/JeremyFarrar/status/2087201499629719719#m",
+      "url": "https://x.com/DrSamuelBHume/status/2087260655766172088",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:30:45+00:00",
+      "text": "RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price \n\nThis new low cost Japan carrier @ZIPAIRTokyo…",
+      "url": "https://x.com/elonmusk/status/2087260449964429796",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:30:00+00:00",
+      "text": "You can make your own steampunk movies with Grok Imagine\n\n\nDéborah (@dvorahfr)\n\nThe word \"steampunk\" was coined in April 1987 by American science fiction writer K. W. Jeter. \n\nHe proposed it jokingly in a letter to *Locus* magazine to describe the alternate-history novels set in the 19th century that he was writing alongside his fellow authors Tim Powers and James Blaylock.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2087216517700030838#m",
+      "url": "https://x.com/elonmusk/status/2087260262525223221",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:29:57+00:00",
+      "text": "Rob Miles is worth following. He delivers the rarest thing of all: insights that are very general, but also novel.\n\n\nRob Miles (@robertskmiles)\n\nAn important principle:\nNever pay someone to remove a problem that they themselves created\n\n\n\n— https://nitter.net/robertskmiles/status/2087235360690741690#m",
+      "url": "https://x.com/paulg/status/2087260249292157191",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T19:12:24+00:00",
+      "text": "Grok Bot is a workhorse \n\nAll the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now",
+      "url": "https://x.com/KettlebellDan/status/2087255832677253435",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T18:37:03+00:00",
+      "text": "meeting more and more people who are daily driving grok",
+      "url": "https://x.com/jeffreyhuber/status/2087246938530062794",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T18:29:53+00:00",
+      "text": "Is the term \"sales\" being replaced by \"GTM\"? Seems kind of bogus frankly.",
+      "url": "https://x.com/paulg/status/2087245131611312318",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T18:04:52+00:00",
+      "text": "You can tell no one knows that New York is the Empire State from the way everyone emphasizes the second word of Empire State Building rather than the first.",
+      "url": "https://x.com/paulg/status/2087238835642286215",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T17:53:21+00:00",
+      "text": "They can’t handle the truth is the real issue here\n\n\nWierd Duk ܦܝܪܬ ܕܘܟ (@wierdduk)\n\nToch benieuwd wat @elonmusk van deze kwalificatie zou vinden (U mag raden wie 'm maakt en waar):\n\n\"Premier Jetten moet Yesilgöz, en alle andere bewindslieden van zijn minderheidskabinet, verbieden om zich op sociale media uit te laten over alles dat buiten de eigen portefeuille valt. Daarnaast moet men natuurlijk sowieso geen mededelingen meer doen op X, een platform dat wordt gedomineerd door desinformatie, en dat in handen is van de rijkste man ter wereld, die bovendien een totale fascist is.\"\n\n\n\n— https://nitter.net/wierdduk/status/2086803318941118510#m",
+      "url": "https://x.com/elonmusk/status/2087235939055591862",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T17:43:41+00:00",
+      "text": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week\n\n\nGrok Bot (@bot)\n\nIntroducing Grok Bot, now in early beta.\n\nBots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/bot/status/2087224798078517251#m",
+      "url": "https://x.com/elonmusk/status/2087233507370147920",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T17:41:15+00:00",
+      "text": "What would you most like us to add to or fix about Grok Build?\n\n\nDogeDesigner (@cb_doge)\n\n🚨 NEW GROK BUILD UPDATE 🚨\n\nv1.0.1 — 2026-08-10 \n\nUpdates:\n• /rewind now only truncates conversation history instead of files as well and asks for confirmation by default.\n• Managed MCP servers are now only available through the gateway catalog.\n\nFeatures:\n• Subagent spawning is now bounded; wide fan-outs queue instead of exhausting file descriptors.\n• New grok du command shows disk usage of ~/.grok including worktrees and sessions.\n• Tools now report whether they only read data, enabling safer restricted agents and subagents.\n• Sandbox workspace sessions can now limit which bundled skills are advertised via caller config.\n• Renaming a session from the dashboard now starts with the current title prefilled for easy editing.\n• /usage, /session-info, and /context now open in a tabbed modal instead of adding text to the conversation.\n• grok trace exports now bundle memory trace files for easier debugging.\n• Session rename now enforces a 100-character limit, ghost-prefills the current title, and preserves manual titles across machines.\n• New /rename --auto command unpins a manual session title so automatic titling resumes.\n• Video generation from references now supports preset voices, single-image input, 1–15 s durations, and 4:3 / 3:4 aspect ratios.\n\nBug Fixes:\n• Sandbox config entries ending in /** now correctly grant the parent directory instead of creating a literal ** subdirectory.\n• Failed alpha/enterprise updates now suggest the matching GROK_CHANNEL reinstall command.\n• On Apple Silicon, grok now installs the native arm64 build even from a Rosetta shell or x86_64 updater.\n• Skills that share names with built-in commands now appear alongside them in the slash menu with qualified names.\n• Notebook permission rules imported from Claude configs are now ignored with a warning instead of applying broadly.\n• Goal evaluation at round end no longer fails due to timeouts.\n• Tool timeouts no longer cause the agent to hang when child processes are stuck in D-state or hold pipes open.\n• Home and End keys now move to the start or end of the current logical line even when the prompt is wrapped.\n• Worktree sessions now correctly show their branch in the status bar.\n• Worktree sessions now keep their status correctly when switching directories or resuming.\n• Worktree status is no longer lost when opening the dashboard.\n• Recaps are now written in the same language as your conversation.\n• Plugin suggestions no longer flash incorrectly while typing.\n• Send Now now works during active goals without cancelling the goal.\n• Headless sessions now correctly wait for MCP servers when using delivery tools.\n• Non-interactive sessions (grok -p) no longer fail when the agent asks for user input or plan approval.\n• read_file errors for missing skills now suggest the correct registered path instead of a generic hint.\n• Session load and creation can no longer freeze forever when .envrc evaluation blocks.\n• Upgraded installs no longer silently run outdated platform skill instructions.\n• Deleting a session now properly stops and waits for any running subagents before wiping history.\n• Permission and plan-approval notification hooks no longer fire on auto-allowed tools.\n• Mid-turn steering sent with double-Enter or Ctrl+Enter now correctly tells the model it arrived while work was in progress.\n• Scrollback drag selection no longer gets stuck after the mouse button is released outside VS Code or Cursor terminals.\n• Video generation tools now show a clear error explaining ZDR storage requirements instead of silently disappearing.\n• Esc on the cancel-turn panel now closes the panel and keeps the current turn running as the shortcuts bar indicates.\n\nDownload Grok Build: x.ai/cli\n\nUpdate to the latest Alpha release: grok update --alpha\n\nUpdate to the latest Stable release: grok update\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087189868875075617#m",
+      "url": "https://x.com/elonmusk/status/2087232895798616122",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T17:23:41+00:00",
+      "text": "lmao\n\n\nsan (@saneord)\n\n\"we have sandboxed the agent\"\n\nthe agent:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/saneord/status/2086503225969295453#m",
+      "url": "https://x.com/elonmusk/status/2087228471667781885",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T14:29:07+00:00",
+      "text": "Lightning strikes for continuous and long-run agents!\n\nNemotron 3.5 Lightning is smart, fast, efficient and open.\n\n\nNVIDIA AI (@NVIDIAAI)\n\nIntroducing NVIDIA Nemotron 3.5 Lightning⚡\n\nAn open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster.\n\nIt delivers up to 4x the output speed of similar-sized models.\n\n\n\n\n\n— https://nitter.net/NVIDIAAI/status/2087162151995629926#m",
+      "url": "https://x.com/JensenHuang/status/2087184542050496763",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T13:59:44+00:00",
+      "text": "Introducing Unsloth Desktop 🦥\nThe first desktop app to run and train models locally.\n\n• Open-source. Runs on Mac, Windows and Linux\n• Supports MLX, diffusion image/video, audio, GGUF\n• Connect Claude Code and Codex to local LLMs\n• 50% more accurate, self-healing tool calls + sandboxed code exec\n• Works for CPU + multiGPU setups - NVIDIA, AMD, Intel, Mac\n• Train models 2× faster with 70% less VRAM\n• Private web search, deep research, RAG, MCP and exports (NVFP4, GGUF)\n• Use Unsloth’s OpenAI-compatible API and cloud models\n• Securely deploy LLMs remotely and access anywhere\n\nUnsloth Desktop is now available on unsloth.ai and GitHub.\n\nGitHub: github.com/unslothai/unsloth\nBlog and Guide: unsloth.ai/docs/desktop\n\nVideo",
+      "url": "https://x.com/UnslothAI/status/2087177146662072546",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T13:40:55+00:00",
+      "text": "Why can’t communists be communist the way the Amish are Amish, as in, peacefully, voluntarily, among themselves, without taking anyone else’s property or forcing anyone else to participate? \n\nIf communism is really about cooperation and community, why does everyone else have to be forced into it?",
+      "url": "https://x.com/RockChartrand/status/2087172411846222075",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T12:15:53+00:00",
+      "text": "Grok can now turn your daily news research into a voice memo you can just listen to\n\nAsk it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing\n\nSo instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes\n\nWith different voices available, it basically becomes your own personalized daily news show",
+      "url": "https://x.com/XFreeze/status/2087151014587826414",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T12:04:22+00:00",
+      "text": "Around 43% of the German population aged under 5 now has a foreign background.",
+      "url": "https://x.com/PeterSweden7/status/2087148115304272168",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-11T12:00:06+00:00",
+      "text": "We can finally talk about it:\n\nWe found a way to extract hidden reasoning of frontier models using a vulnerability in the APIs of every frontier AI company.\n\nWe verified that our reasoning token count matches billed API thinking tokens 1:1 for most of the prompts we queried.",
+      "url": "https://x.com/kotekjedi_ml/status/2087147042888114428",
+      "author": "paulg",
+      "source": "nitter"
+    },
     {
       "date": "2026-08-11T05:27:28+00:00",
       "text": "You can be pro-meritocracy or anti-immigration, but you can't be both.",
@@ -66,230 +290,6 @@
       "text": "Startup idea: Rephrase output to preserve the meaning while obliterating the watermarks. This might not become that big in itself, but it could make a great beachhead.\n\n\nM1 (@M1Astra)\n\nAnthropic says new Claude models will embed invisible watermarks in all generated text, everywhere Claude is offered.\n\nThe watermark is part of the text, it isn't metadata: \"it will travel with the text when it's copied and pasted elsewhere, and may persist through some editing.\"\n\nThis starts with models launched on or after August 2, 2026, under an EU AI Act code Anthropic signed. Anthropic is still working on adding it to current models. The rollout is worldwide.\n\n\n\n\n\n— https://nitter.net/M1Astra/status/2086898041882030353#m",
       "url": "https://x.com/paulg/status/2086924675163345285",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T18:25:03+00:00",
-      "text": "please consider using our models to help defend your systems\n\n\nEric Wallace (@Eric_Wallace_)\n\nToday we are releasing GPT-5.6-Cyber. \n\nThe model is our first large-scale attempt at directly improving capabilities for advanced cybersecurity tasks such as exploit development.\n\nWe are finding it to be really quite strong for accelerating defensive work. We are using it across our stack for red-teaming, and our security researchers have used it to find and patch a huge host of 0-day vulnerabilities in open-source software.\n\nopenai.com/index/expanding-d…\n\nLink\n\n\n\nExpanding Daybreak as the Cyber Defense Window Narrows\n\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nopenai.com\n\n\n\n\n— https://nitter.net/Eric_Wallace_/status/2086866306167656901#m",
-      "url": "https://x.com/sama/status/2086881528282587524",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T16:44:19+00:00",
-      "text": "One way to answer the question of whether we've achieved AGI is to ask what people in 1980 would have said if you showed them current models. We're standing on the finish line, so we're uncertain. But anyone in 1980 would have said yes.",
-      "url": "https://x.com/paulg/status/2086856177577783612",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T16:40:13+00:00",
-      "text": "I love the name Discovered Materials. IIRC the domain name was untaken, so they didn't have to pay anything for it.\n\n\nAdvaith Sridhar (@advaith_sridhar)\n\nToday, we're introducing @discoveredmat . We build AI scientists that discover new materials for semiconductor chips.\n\nWe’re starting by releasing our work - hundreds of new materials discovered using frontier AI models, along with our benchmark for tracking progress in this domain, Material Discovery Bench.\n\nTo pursue our mission, we have raised $9 million from @LightspeedIndia (lead investor) , @ycombinator , @peakxvpartners , @paulg , @gokulr , @trq212 and many others.\n\n🧵\n\n\n\n\n\n— https://nitter.net/advaith_sridhar/status/2086829211550101823#m",
-      "url": "https://x.com/paulg/status/2086855145808359487",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T16:17:32+00:00",
-      "text": "I was looking at a row of pies in a bakery this morning and I found myself thinking \"Wow, that one looks like it would hurt,\" and I realized I now see pies differently from most people.\n\n\nPaul Graham (@paulg)\n\nI made a deal with 12 yo that if he did well enough on his end of term exams, he could hit me in the face with a pie. He did well enough.\n\n\n\n\n\n— https://nitter.net/paulg/status/1822002546237698479#m",
-      "url": "https://x.com/paulg/status/2086849436786024651",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T06:33:26+00:00",
-      "text": "17 yo asked what makes a good founder. I said being good at building stuff and being sufficiently fierce. That's about it.",
-      "url": "https://x.com/paulg/status/2086702444420182383",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T00:53:18+00:00",
-      "text": "The startups YC funds now are much more serious than they were in the supposedly good old days. In the last couple days I've met with startups making optical switches, rewriting the software infrastructure of manufacturing, making nuclear reactors, and curing cancer.",
-      "url": "https://x.com/paulg/status/2086616849006117137",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-09T21:18:16+00:00",
-      "text": "\"Dial shows significant age-related patina.\"",
-      "url": "https://x.com/paulg/status/2086562733999468683",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-09T20:43:45+00:00",
-      "text": "I talked to a founder today who's doing a software startup after two previous hardware startups. He's so much more relaxed that he seems a different person. Hardware is hard. It's at least possible now, but it's still hard.",
-      "url": "https://x.com/paulg/status/2086554045750403478",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-09T19:48:19+00:00",
-      "text": "hacked together a browser for Pebble (android only for now). I'm not saying it's a great idea, but it's definitely an idea \ngithub.com/coredevices/pebbl…\n\n\n\nVideo",
-      "url": "https://x.com/ericmigi/status/2086540096376037506",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-09T15:09:52+00:00",
-      "text": "lol another one of the things i like most about openai is tibo\n\n\nStats Wire (@StatsWire)\n\nHow much they celebrate with Anthropic\n\n\n\n\n\n— https://nitter.net/StatsWire/status/2086469085270004106#m",
-      "url": "https://x.com/sama/status/2086470022772457950",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-09T15:09:17+00:00",
-      "text": "i would be pretty impressed if the team just made magic intelligence in the sky\n\nbut i am extra impressed that they do so with such a focus on making sure everyone wins (ranging from stuff like business privacy to low prices to predictable policies to more)",
-      "url": "https://x.com/sama/status/2086469875581755696",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-09T15:04:28+00:00",
-      "text": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
-      "url": "https://x.com/sama/status/2086468661670461671",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T21:54:12+00:00",
-      "text": "1.4^52 = 39.7 million. So obviously no one can keep this up for long. But it shows users like the product.",
-      "url": "https://x.com/paulg/status/2086209387191001156",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T21:50:40+00:00",
-      "text": "I asked a startup today how fast they were growing. They said the current number was meaningless because it was just a spike from launching something new. So I asked how fast they'd been growing before the spike. 40% per week!",
-      "url": "https://x.com/paulg/status/2086208496920625178",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T21:15:13+00:00",
-      "text": ".@naval: “The opportunities have never been more equal than now.\n\n@elonmusk and @JeffBezos have the same iPhone you do. They don’t have some better version of an iPhone.\n\nThey’re eating food that might be marginally better than yours, but it’s basically the same.\n\nYou might even have a better diet than them. You probably have more time to go to the gym than them.\n\nThey’re not immortal, and they’re not going to be—most likely, not at this time scale.\n\nSo you have more youth than them. You have a lot of advantages over them.\n\nThe wealth gaps are actually much smaller than people think.\n\nA lot of that is due to mass production, which comes from specialization, labor, and capitalism.\n\nBut it’s very easy to overlook that and agitate—because that gets you higher in the status hierarchy with other monkeys.\n\nIt makes you look like you’re fighting for noble causes and gives you status, which is really what people are craving these days.\n\nThey’re craving status, not money or wealth.\n\nAnd status is a zero-sum game.\n\nSo it’s kind of an evil game to play because there have to be losers for every winner.\n\nAnd the only way to win is by crushing somebody else down.”\n\nVideo\n  \n\n\n\n\nBrian Armstrong (@brian_armstrong)\n\nTechnology is the great equalizer.\n\nMost people now have access to the same internet, the same phones, the same AI models.\n\nAnd they are very quickly getting access to the same financial services, from anywhere in the world. Geography and your wealth shouldn’t determine this - and soon, they won’t.\n\n\n\n— https://nitter.net/brian_armstrong/status/2086196250387628154#m",
-      "url": "https://x.com/arjunkhemani/status/2086199578471317528",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T20:49:02+00:00",
-      "text": "This has to be the best beatboxer I've ever seen in my life....unreal\n\nVideo",
-      "url": "https://x.com/jayroo69/status/2086192986929373462",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T20:11:15+00:00",
-      "text": "A surprising amount of what I do in office hours is give founders permission to do something simpler than they were planning to. I'm always saying things of the form \"You don't need to x. Just y.\"",
-      "url": "https://x.com/paulg/status/2086183477834318073",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T14:09:19+00:00",
-      "text": "GPT-4 finished training four years ago today.",
-      "url": "https://x.com/gdb/status/2086092396023120286",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-08T08:47:57+00:00",
-      "text": "Open-source AI models do not threaten frontier lab profitability.\n\nThe most valuable sectors of the economy - investing, product development, war, cybersecurity, even scientific discovery - are adversarial and competitive in nature.\n\nYou pay to win, or someone else will.",
-      "url": "https://x.com/naval/status/2086011520559792457",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T22:54:58+00:00",
-      "text": "astra is a powerful model and we are working to make it generally available.\n\nwe do not think it is a good strategy to keep powerful models to a chosen few.\n\ngiven its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
-      "url": "https://x.com/sama/status/2085862292311396515",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T20:11:45+00:00",
-      "text": "The hierarchy of desire:\n- The fame\n- The money\n- The team\n- The product\n- The work itself",
-      "url": "https://x.com/naval/status/2085821218784264586",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T19:25:29+00:00",
-      "text": "We’re entering a new era for cybersecurity. We’ll be working closely with our partners and the broader security community to ensure these capabilities reach defenders everywhere.\n\n\nOpenAI (@OpenAI)\n\nAfter evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework.\n\nThis is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. \n\nWe're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders.\n\nopenai.com/index/responding-…\n\nLink\n\n\n\nResponding to the next frontier of critical cyber capabilities\n\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nopenai.com\n\n\n\n\n— https://nitter.net/OpenAI/status/2085801349866729975#m",
-      "url": "https://x.com/fouadmatin/status/2085809572170866968",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T17:49:01+00:00",
-      "text": "Firecrawl is now in the top 50 GitHub repos of all time!\n\nAll because agents need a better way to gather context on the web.\n\nAnd we're just getting started 🔥\n\n\nEric Ciarla (hiring) (@ericciarla)\n\nWe just crossed 162,000 stars on @firecrawl, making it one of the top 50 repos of all time.\n\nThere's insatiable demand for agent-ready context, and we're just scratching the surface.\n\nMake something agents want!\n\ngithub.com/firecrawl/firecra…\n\n\n\n\n\n— https://nitter.net/ericciarla/status/2085782926781038963#m",
-      "url": "https://x.com/firecrawl/status/2085785296759828527",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-07T16:29:18+00:00",
-      "text": "congrats to oklo for achieving criticality!\n\n(less than a year after groundbreaking)\n\noklo.com/newsroom/news-detai…\n\nLink\n\n\n\nOklo's Groves Reactor Achieves First Criticality in Under a Year\n\nOklo achieves first criticality less than a year after groundbreaking through the U.S. Department of Energy’s Reactor Pilot Program. The Groves low-power test reactor is the first reactor under the...\noklo.com",
-      "url": "https://x.com/sama/status/2085765236876046500",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T21:08:24+00:00",
-      "text": "Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more.\n\npiped.video/watch?v=87DyyMV0…\n\nI hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!\n\nLink\n\n\n\nBlack Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident\n\nThe 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical...\nyoutube.com",
-      "url": "https://x.com/Eric_Wallace_/status/2085473085399150817",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-06T19:56:24+00:00",
-      "text": "5.6 Sol much better in chat now\n\nand unlimited text chat for free users!\n\n\nOpenAI (@OpenAI)\n\nWe’re making better intelligence easier to access in ChatGPT for everyone:\n\n- GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses.\n\n- Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2085434712429052386#m",
-      "url": "https://x.com/sama/status/2085454964814753990",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-04T15:32:05+00:00",
-      "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward.\n\n\nBrian Huang (@brianryhuang)\n\nDang it’s crazy that all of this literally did happen\n\n\n\n\n\n— https://nitter.net/brianryhuang/status/2084522610998878228#m",
-      "url": "https://x.com/sama/status/2084663673570971990",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-03T03:22:57+00:00",
-      "text": "Agent Programming Interface.",
-      "url": "https://x.com/naval/status/2084117793667178756",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-02T16:10:51+00:00",
-      "text": "More on the pelican on the bicycle test from @simonw:\nsimonwillison.net/2025/Jun/6…\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nkarpathy.ai/lotr-movie/\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
-      "url": "https://x.com/karpathy/status/2083948654377996480",
-      "author": "karpathy",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-02T03:00:09+00:00",
-      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.\n\nVideo",
-      "url": "https://x.com/karpathy/status/2083749667410727319",
-      "author": "karpathy",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-01T14:29:51+00:00",
-      "text": "team humanity\n\n\njason (@jxnlco)\n\none of the most beautiful things about OpenAI is that every employee really has a voice.\n\ni wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world.\n\nthis is our mission. and it’s why i’m here.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/jxnlco/status/2082855170296205719#m",
-      "url": "https://x.com/sama/status/2083560847889023219",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-01T08:17:42+00:00",
-      "text": "An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.\n\nWe believe it will be a major step for scientific reasoning. openai.com/index/ten-advance…\n\n\n\n\nLijie Chen (@wjmzbmr1)\n\n10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to see what comes next!\n\n\n\n— https://nitter.net/wjmzbmr1/status/2083465844735226099#m",
-      "url": "https://x.com/polynoamial/status/2083467194663571701",
-      "author": "sama",
       "source": "nitter"
     }
   ]
