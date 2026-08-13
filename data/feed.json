@@ -7,290 +7,290 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-08-12T12:37:45.494397+00:00",
-  "last_success_at": "2026-08-12T12:37:45.494397+00:00",
-  "source": "nitter",
+  "updated_at": "2026-08-13T12:38:43.188518+00:00",
+  "last_success_at": "2026-08-13T12:38:43.188518+00:00",
+  "source": "syndication",
   "error_message": "",
   "items": [
     {
-      "date": "2026-08-12T11:11:24+00:00",
-      "text": "Literally nobody has been held accountable for Covid.",
-      "url": "https://x.com/naval/status/2087497174963695638",
+      "date": "2026-08-12T15:41:00+00:00",
+      "text": "Grok 4.6 is now out 🚀🚀🚀\n\nSmart, fast & amazing bang for buck!",
+      "url": "https://x.com/elonmusk/status/2087565020158992709",
+      "author": "elonmusk",
+      "source": "syndication"
+    },
+    {
+      "date": "2026-08-12T15:32:11+00:00",
+      "text": "Introducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price. https://t.co/RtTbpXcb3a",
+      "url": "https://x.com/elonmusk/status/2087562800982077492",
+      "author": "elonmusk",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-11-14T04:48:57+00:00",
+      "text": "Small-but-happy win:\n\nIf you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it's supposed to do!",
+      "url": "https://x.com/sama/status/1989193813043069219",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-11-13T21:12:10+00:00",
+      "text": "I am unreasonably excited about self-driving. It will be the first technology in many decades to visibly terraform outdoor physical spaces and way of life. Less parked cars. Less parking lots. Much greater safety for people in and out of cars. Less noise pollution. More space",
+      "url": "https://x.com/karpathy/status/1989078861800411219",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-11-12T20:28:01+00:00",
+      "text": "I took delivery of a beautiful new shiny HW4 Tesla Model X today, so I immediately took it out for an FSD test drive, a bit like I used to do almost daily for 5 years. Basically... I'm amazed - it drives really, really well, smooth, confident, noticeably better than what I'm used",
+      "url": "https://x.com/karpathy/status/1988705360723763242",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-30T22:32:49+00:00",
+      "text": "GPT-6 will be renamed GPT-6-7, you're welcome",
+      "url": "https://x.com/sama/status/1984025727763935585",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-30T22:24:37+00:00",
+      "text": "A tale in three acts: https://t.co/ClRZBgT24g",
+      "url": "https://x.com/sama/status/1984023663642087831",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-30T21:43:40+00:00",
+      "text": "One advantage of having many distinct sovereign nations instead of a single world government is that they can try different policies and we can see which work best. https://t.co/txkK3uPt15",
+      "url": "https://x.com/paulg/status/1984013356576207235",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-24T16:31:55+00:00",
+      "text": "Full video of the ICCV '25 presentation https://t.co/x7xWvYEUIa",
+      "url": "https://x.com/karpathy/status/1981760576591393203",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-20T22:13:40+00:00",
+      "text": "I quite like the new DeepSeek-OCR paper. It's a good OCR model (maybe a bit worse than dots), and yes data collection etc., but anyway it doesn't matter.\n\nThe more interesting part for me (esp as a computer vision at heart who is temporarily masquerading as a natural language",
+      "url": "https://x.com/karpathy/status/1980397031542989305",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-20T11:31:53+00:00",
+      "text": "🚀 DeepSeek-OCR — the new frontier of OCR from @deepseek_ai , exploring optical context compression for LLMs, is running blazingly fast on vLLM ⚡ (~2500 tokens/s on A100-40G) — powered by vllm==0.8.5 for day-0 model support.\n\n🧠 Compresses visual contexts up to 20× while keeping https://t.co/bx3d7LnfaR",
+      "url": "https://x.com/karpathy/status/1980235518706401405",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-18T20:23:32+00:00",
+      "text": "My pleasure to come on Dwarkesh last week, I thought the questions and conversation were really good.\n\nI re-watched the pod just now too. First of all, yes I know, and I'm sorry that I speak so fast :). It's to my detriment because sometimes my speaking thread out-executes my",
+      "url": "https://x.com/karpathy/status/1979644538185752935",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-17T17:16:05+00:00",
+      "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self https://t.co/rpVYjKNTNZ",
+      "url": "https://x.com/karpathy/status/1979234976777539987",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-16T02:47:08+00:00",
+      "text": "TV in the 90s: you turn it on, you watch.\n\nTV 2025:\n- turn on, wait for it to load\n- popup: TV wants to update, 1.5GB. No.\n- scroll sideways, find prime video app or etc\n- popup: now app wants to update, 500MB. No!!\n- App launching... App loading…\n- select account screen\n- 🫠",
+      "url": "https://x.com/karpathy/status/1978653908663726585",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-14T16:02:42+00:00",
+      "text": "We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right.\n\nNow that we have",
+      "url": "https://x.com/sama/status/1978129344598827128",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-13T15:16:53+00:00",
+      "text": "Excited to release new repo: nanochat!\n(it's among the most unhinged I've written).\n\nUnlike my earlier similar repo nanoGPT which only covered pretraining, nanochat is a minimal, from scratch, full-stack training/inference pipeline of a simple ChatGPT clone in a single, https://t.co/LLhbLCoZFt",
+      "url": "https://x.com/karpathy/status/1977755427569111362",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-01T17:09:06+00:00",
+      "text": "Finally had a chance to listen through this pod with Sutton, which was interesting and amusing.\n\nAs background, Sutton's \"The Bitter Lesson\" has become a bit of biblical text in frontier LLM circles. Researchers routinely talk about and ask whether this or that approach or idea",
+      "url": "https://x.com/karpathy/status/1973435013875314729",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-10-01T04:50:49+00:00",
+      "text": "Envy is a sign that you ought to be doing more with your life.",
+      "url": "https://x.com/naval/status/1973249218845483439",
       "author": "naval",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-12T06:59:11+00:00",
-      "text": "Grok Build is extremely powerful\n\n\nX Freeze (@XFreeze)\n\nSpaceX’s recent video volume was a little low, so I just gave it to Grok Build and asked it to increase the volume by +10 dB\n\nGrok analyzed the audio, boosted it, added soft compression + limiting to keep everything under control, and gave me the finished video\n\nThen after seeing the audio levels Grok gave me, I realized there was still room to push it another +10 dB\n\nSo I literally asked again\n\nGrok Build boosted it to +20 dB total, re-encoded the video and handed me the final file\n\nAnd it did the whole thing literally in just 25 seconds 😭\n\nIf I were doing this manually, I’d have to open editing software, understand gain, compression and limiting, adjust everything myself and export the video again\n\nThat could easily take me 10–20 minutes\n\nWith Grok Build, I just explained what I wanted in plain English and it handled everything for me\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087421322418700763#m",
-      "url": "https://x.com/elonmusk/status/2087433701764497852",
+      "date": "2025-09-26T16:01:58+00:00",
+      "text": ".@RichardSSutton, father of reinforcement learning, doesn’t think LLMs are bitter-lesson-pilled.\n\nMy steel man of Richard’s position: we need some new architecture to enable continual (on-the-job) learning.\n\nAnd if we have continual learning, we don't need a special training https://t.co/gIWqBUTyjK",
+      "url": "https://x.com/karpathy/status/1971606180553183379",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T19:36:02+00:00",
+      "text": "Today we are launching my favorite feature of ChatGPT so far, called Pulse. It is initially available to Pro subscribers.\n\nPulse works for you overnight, and keeps thinking about your interests, your connected data, your recent chats, and more. Every morning, you get a",
+      "url": "https://x.com/sama/status/1971297661748953263",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T14:29:13+00:00",
+      "text": "\"AI isn't replacing radiologists\" good article\n\nExpectation: rapid progress in image recognition AI will delete radiology jobs (e.g. as famously predicted by Geoff Hinton now almost a decade ago). Reality: radiology is doing great and is growing.\n\nThere are a lot of imo naive",
+      "url": "https://x.com/karpathy/status/1971220449515516391",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-25T13:53:09+00:00",
+      "text": "In 2016 Geoffrey Hinton said “we should stop training radiologists now\" since AI would soon be better at their jobs.\n\nHe was right: models have outperformed radiologists on benchmarks for ~a decade.\n\nYet radiology jobs are at record highs, with an average salary of $520k.\n\nWhy? https://t.co/yEbzdMyDmK",
+      "url": "https://x.com/karpathy/status/1971211372190106029",
+      "author": "karpathy",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-09-21T22:52:42+00:00",
+      "text": "For Charlie https://t.co/8092jIt319",
+      "url": "https://x.com/elonmusk/status/1969897602524328440",
       "author": "elonmusk",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-12T06:56:27+00:00",
-      "text": "How to use Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok Build has a really nice way to learn the entire tool without ever leaving the terminal\n\nJust type /tour or /tutorial, and Grok Build walks you through everything step by step\n\nIt covers:\n• Your first prompt\n• Attaching files, images & screenshots\n• Navigation\n• Slash commands\n• Parallel work with Worktrees\n• Plan Mode & permissions\n• AGENTS.md, memory & themes\n• Guides, feedback & best practices\n\nIt even makes switching from Claude, Cursor, or Codex easier, with support for carrying over your settings, rules, and skills\n\nInstead of opening a massive documentation page and trying to figure everything out yourself, you can learn Grok Build interactively while actually using it\n\nIf you're new to Grok Build, just start with /tour\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087189025358557340#m",
-      "url": "https://x.com/elonmusk/status/2087433011478634944",
+      "date": "2025-09-21T17:45:48+00:00",
+      "text": "Every seat in this giant arena that isn’t roped off for security is packed to the ceiling. Honored to be here.\n\nAll for Charlie Kirk. https://t.co/NDK6sDuqLa",
+      "url": "https://x.com/elonmusk/status/1969820370988658701",
       "author": "elonmusk",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-12T05:30:10+00:00",
-      "text": "Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun\n\nVideo\n  \n\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nIt’s always funny how people in SF twitter bubble will say things like “Claude has unbeatable narrative momentum” and then 2 weeks later “wow did Kimi just end the race” \n\nMy brother in Christ nobody outside of this little bubble even calls any AI anything other than “Chat” and they think datacenters destroy water molecules \n\nYou sound dumb. \n\nFocus on things that actually impact people not the little scores on overfit evals\n\nAnd also people who bet against Elon are stupid. The man built real world self driving cars (non-LLM based AI) that is still the best AI I’ve ever used by far. You think he can’t come from behind and win on writing code? He’s literally catching 30 story buildings with chopsticks and that’s like one of his projects \n\nI like a lot of the tools and have friends at all the main labs. Truly amazing work being done. But the overblown commentators are actually so out of touch\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2087403242984734942#m",
-      "url": "https://x.com/ArthurMacwaters/status/2087411297411625227",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T05:29:56+00:00",
-      "text": "Talked to startups at YC for 7 hours straight. I think that's about the limit. I didn't quite saturate demand, but I got within about 20 founders of it.",
-      "url": "https://x.com/paulg/status/2087411239291130271",
+      "date": "2025-09-21T08:04:26+00:00",
+      "text": "Australian doctor in Gaza:\n\n\"The bombing is ongoing, and every half an hour to an hour we have another mass casualty that arrives in huge numbers because the whole building is destroyed on top of patients.\"",
+      "url": "https://x.com/paulg/status/1969674065322656109",
       "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-12T05:25:29+00:00",
-      "text": "Video",
-      "url": "https://x.com/elonmusk/status/2087410119256764540",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T05:22:44+00:00",
-      "text": "Grok Bot\n\n\nFarzad 🇺🇸 🇮🇷 (@farzyness)\n\nHere's my Grok Bot team:\n\n- Webby: Web designer\n- Shotry: Short-form content creator\n- Writey: Article/Newsletter writer\n- Claude Code: Grok agent that specializes in CC\n- Codex: Same as the above but for CODEX\n- Script: YT Scriptwriter\n- Idea: Idea generation for videos/content\n- Master: Orchestrator for the whole team\n\nSUPER easy to spin these up and get them working. Let's see how this goes!\n\n\n\n\n\n— https://nitter.net/farzyness/status/2087340859138224540#m",
-      "url": "https://x.com/elonmusk/status/2087409427888603229",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T05:21:20+00:00",
-      "text": "SpaceX company update\n\n\nSpaceX (@SpaceX)\n\nWe made rockets reusable and are rebuilding the internet in space. The next challenge: making life multiplanetary and understanding the true nature of the universe\n\nWatch @ElonMusk deliver a company update to @SpaceX employees\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2087283977866379361#m",
-      "url": "https://x.com/elonmusk/status/2087409075009274035",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T02:08:57+00:00",
-      "text": "i cant believe how relevant YC companies are to helping scale nox \n\nwe dont have time for everything, and lots of these companies are really good at helping us scale manufacturing tech quickly",
-      "url": "https://x.com/zanehengsperger/status/2087360660455776547",
+      "date": "2025-09-21T06:28:00+00:00",
+      "text": "🚨Testimony from Dr. Nada Abu Al-Rub, a member of the Australian medical aid mission in Gaza: https://t.co/Xlqpqlpl5j",
+      "url": "https://x.com/paulg/status/1969649795988902276",
       "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T23:04:34+00:00",
-      "text": "ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN\n\n“We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI.\n\nAnd I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is.\n\nIf the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose?\n\nAnd it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute.\n\nBut I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen.\n\nAnd we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”\n\nVideo",
-      "url": "https://x.com/cb_doge/status/2087314260770930780",
-      "author": "elonmusk",
-      "source": "nitter"
+      "date": "2025-09-05T17:38:51+00:00",
+      "text": "I think congrats again to OpenAI for cooking with GPT-5 Pro. This is the third time I've struggled on something complex/gnarly for an hour on and off with CC, then 5 Pro goes off for 10 minutes and comes back with code that works out of the box. I had CC read the 5 Pro version",
+      "url": "https://x.com/karpathy/status/1964020416139448359",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T21:28:41+00:00",
-      "text": "Discovering plagiarism won't be an option for ferreting out the next generation of academic frauds, especially in the humanities, who'll now turn to AI to generate \"scholarship.\"\n\nWill this let entire fields get away with scamming the public, or finally expose their shallowness?",
-      "url": "https://x.com/lreyzin/status/2087290129001914460",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T21:12:01+00:00",
-      "text": "“Once AI can make fast and accurate battlefield decisions, its use will become inevitable,” writes @scmallaby. “The army that eschews it will be defeated by the one that adopts it.”\nforeignaffairs.com/reviews/g…\n\nLink\n\n\n\nGod From the Machine\n\nAI and the future of humanity.\nforeignaffairs.com",
-      "url": "https://x.com/ForeignAffairs/status/2087285936786747574",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:32:48+00:00",
-      "text": "Moonbase Alpha will be so cool. \n\nAnd we want to make it so that anyone can go to the Moon if they want.\n\n\nX Freeze (@XFreeze)\n\nSpaceX is getting very close to building the first serious base on the Moon\n\nStarship changes the entire equation\n\nIt is designed to deliver up to 100 tonnes directly to the lunar surface - enough to transport habitats, rovers, power systems, construction equipment and everything needed to begin building a permanent outpost\n\nThen the other pieces come together\n\nTesla Optimus robots could eventually unload cargo, assemble structures, move equipment and perform dangerous construction work before large human crews arrive\n\nBuilding a base mostly with humans is a serious limitation\n\nHumans need life support, pressurized habitats, spacesuits, oxygen, food and protection just to survive and work on the lunar surface\n\nBut with Tesla Optimus, that equation changes entirely\n\nTesla’s experience with solar energy, batteries, autonomous vehicles and large-scale manufacturing can support the power and transportation systems required on the Moon\n\nSpaceX provides transportation\n\nTesla provides energy, autonomy and robotics\n\nStarship provides the scale\n\nSuddenly building a serious base on the Moon becomes dramatically easier\n\nAnd once that infrastructure is ready, humans can stay for much longer periods and eventually even routine private lunar missions and tourism become possible\n\nOnce the first permanent lunar outpost is established, its usefulness will compound rapidly.....supporting science, resource development, communications and deeper missions into space\n\nThe Moon could become humanity’s first true outpost beyond Earth\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087062943645012443#m",
-      "url": "https://x.com/elonmusk/status/2087260966660759954",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:32:31+00:00",
-      "text": "(Of course novelty is relative. I'm sure someone in the history of mankind has said something similar. But it's certainly not a widely appreciated principle.)",
-      "url": "https://x.com/paulg/status/2087260893101039940",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:31:34+00:00",
-      "text": "England set to eliminate hepatitis C.\n\nThis is due to testing and treatment at scale -- with extremely effective medicines that mean it's curable in pretty much everyone who gets diagnosed (thank you to Pharmasset and Gilead!).\n\n\n\n\nJeremy Farrar (@JeremyFarrar)\n\nWhat becomes possible with discovery science, clinical research, practice, public policy based on scientific evidence and access  bbc.co.uk/news/articles/c75g…\n\nLink\n\n\n\nEngland set to be one of the first countries to eliminate hepatitis C\n\nEngland is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.\nbbc.co.uk\n\n\n\n\n— https://nitter.net/JeremyFarrar/status/2087201499629719719#m",
-      "url": "https://x.com/DrSamuelBHume/status/2087260655766172088",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:30:45+00:00",
-      "text": "RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price \n\nThis new low cost Japan carrier @ZIPAIRTokyo…",
-      "url": "https://x.com/elonmusk/status/2087260449964429796",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:30:00+00:00",
-      "text": "You can make your own steampunk movies with Grok Imagine\n\n\nDéborah (@dvorahfr)\n\nThe word \"steampunk\" was coined in April 1987 by American science fiction writer K. W. Jeter. \n\nHe proposed it jokingly in a letter to *Locus* magazine to describe the alternate-history novels set in the 19th century that he was writing alongside his fellow authors Tim Powers and James Blaylock.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2087216517700030838#m",
-      "url": "https://x.com/elonmusk/status/2087260262525223221",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:29:57+00:00",
-      "text": "Rob Miles is worth following. He delivers the rarest thing of all: insights that are very general, but also novel.\n\n\nRob Miles (@robertskmiles)\n\nAn important principle:\nNever pay someone to remove a problem that they themselves created\n\n\n\n— https://nitter.net/robertskmiles/status/2087235360690741690#m",
-      "url": "https://x.com/paulg/status/2087260249292157191",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T19:12:24+00:00",
-      "text": "Grok Bot is a workhorse \n\nAll the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now",
-      "url": "https://x.com/KettlebellDan/status/2087255832677253435",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T18:37:03+00:00",
-      "text": "meeting more and more people who are daily driving grok",
-      "url": "https://x.com/jeffreyhuber/status/2087246938530062794",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T18:29:53+00:00",
-      "text": "Is the term \"sales\" being replaced by \"GTM\"? Seems kind of bogus frankly.",
-      "url": "https://x.com/paulg/status/2087245131611312318",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T18:04:52+00:00",
-      "text": "You can tell no one knows that New York is the Empire State from the way everyone emphasizes the second word of Empire State Building rather than the first.",
-      "url": "https://x.com/paulg/status/2087238835642286215",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T17:53:21+00:00",
-      "text": "They can’t handle the truth is the real issue here\n\n\nWierd Duk ܦܝܪܬ ܕܘܟ (@wierdduk)\n\nToch benieuwd wat @elonmusk van deze kwalificatie zou vinden (U mag raden wie 'm maakt en waar):\n\n\"Premier Jetten moet Yesilgöz, en alle andere bewindslieden van zijn minderheidskabinet, verbieden om zich op sociale media uit te laten over alles dat buiten de eigen portefeuille valt. Daarnaast moet men natuurlijk sowieso geen mededelingen meer doen op X, een platform dat wordt gedomineerd door desinformatie, en dat in handen is van de rijkste man ter wereld, die bovendien een totale fascist is.\"\n\n\n\n— https://nitter.net/wierdduk/status/2086803318941118510#m",
-      "url": "https://x.com/elonmusk/status/2087235939055591862",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T17:43:41+00:00",
-      "text": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week\n\n\nGrok Bot (@bot)\n\nIntroducing Grok Bot, now in early beta.\n\nBots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/bot/status/2087224798078517251#m",
-      "url": "https://x.com/elonmusk/status/2087233507370147920",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T17:41:15+00:00",
-      "text": "What would you most like us to add to or fix about Grok Build?\n\n\nDogeDesigner (@cb_doge)\n\n🚨 NEW GROK BUILD UPDATE 🚨\n\nv1.0.1 — 2026-08-10 \n\nUpdates:\n• /rewind now only truncates conversation history instead of files as well and asks for confirmation by default.\n• Managed MCP servers are now only available through the gateway catalog.\n\nFeatures:\n• Subagent spawning is now bounded; wide fan-outs queue instead of exhausting file descriptors.\n• New grok du command shows disk usage of ~/.grok including worktrees and sessions.\n• Tools now report whether they only read data, enabling safer restricted agents and subagents.\n• Sandbox workspace sessions can now limit which bundled skills are advertised via caller config.\n• Renaming a session from the dashboard now starts with the current title prefilled for easy editing.\n• /usage, /session-info, and /context now open in a tabbed modal instead of adding text to the conversation.\n• grok trace exports now bundle memory trace files for easier debugging.\n• Session rename now enforces a 100-character limit, ghost-prefills the current title, and preserves manual titles across machines.\n• New /rename --auto command unpins a manual session title so automatic titling resumes.\n• Video generation from references now supports preset voices, single-image input, 1–15 s durations, and 4:3 / 3:4 aspect ratios.\n\nBug Fixes:\n• Sandbox config entries ending in /** now correctly grant the parent directory instead of creating a literal ** subdirectory.\n• Failed alpha/enterprise updates now suggest the matching GROK_CHANNEL reinstall command.\n• On Apple Silicon, grok now installs the native arm64 build even from a Rosetta shell or x86_64 updater.\n• Skills that share names with built-in commands now appear alongside them in the slash menu with qualified names.\n• Notebook permission rules imported from Claude configs are now ignored with a warning instead of applying broadly.\n• Goal evaluation at round end no longer fails due to timeouts.\n• Tool timeouts no longer cause the agent to hang when child processes are stuck in D-state or hold pipes open.\n• Home and End keys now move to the start or end of the current logical line even when the prompt is wrapped.\n• Worktree sessions now correctly show their branch in the status bar.\n• Worktree sessions now keep their status correctly when switching directories or resuming.\n• Worktree status is no longer lost when opening the dashboard.\n• Recaps are now written in the same language as your conversation.\n• Plugin suggestions no longer flash incorrectly while typing.\n• Send Now now works during active goals without cancelling the goal.\n• Headless sessions now correctly wait for MCP servers when using delivery tools.\n• Non-interactive sessions (grok -p) no longer fail when the agent asks for user input or plan approval.\n• read_file errors for missing skills now suggest the correct registered path instead of a generic hint.\n• Session load and creation can no longer freeze forever when .envrc evaluation blocks.\n• Upgraded installs no longer silently run outdated platform skill instructions.\n• Deleting a session now properly stops and waits for any running subagents before wiping history.\n• Permission and plan-approval notification hooks no longer fire on auto-allowed tools.\n• Mid-turn steering sent with double-Enter or Ctrl+Enter now correctly tells the model it arrived while work was in progress.\n• Scrollback drag selection no longer gets stuck after the mouse button is released outside VS Code or Cursor terminals.\n• Video generation tools now show a clear error explaining ZDR storage requirements instead of silently disappearing.\n• Esc on the cancel-turn panel now closes the panel and keeps the current turn running as the shortcuts bar indicates.\n\nDownload Grok Build: x.ai/cli\n\nUpdate to the latest Alpha release: grok update --alpha\n\nUpdate to the latest Stable release: grok update\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087189868875075617#m",
-      "url": "https://x.com/elonmusk/status/2087232895798616122",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T17:23:41+00:00",
-      "text": "lmao\n\n\nsan (@saneord)\n\n\"we have sandboxed the agent\"\n\nthe agent:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/saneord/status/2086503225969295453#m",
-      "url": "https://x.com/elonmusk/status/2087228471667781885",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T14:29:07+00:00",
-      "text": "Lightning strikes for continuous and long-run agents!\n\nNemotron 3.5 Lightning is smart, fast, efficient and open.\n\n\nNVIDIA AI (@NVIDIAAI)\n\nIntroducing NVIDIA Nemotron 3.5 Lightning⚡\n\nAn open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster.\n\nIt delivers up to 4x the output speed of similar-sized models.\n\n\n\n\n\n— https://nitter.net/NVIDIAAI/status/2087162151995629926#m",
-      "url": "https://x.com/JensenHuang/status/2087184542050496763",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T13:59:44+00:00",
-      "text": "Introducing Unsloth Desktop 🦥\nThe first desktop app to run and train models locally.\n\n• Open-source. Runs on Mac, Windows and Linux\n• Supports MLX, diffusion image/video, audio, GGUF\n• Connect Claude Code and Codex to local LLMs\n• 50% more accurate, self-healing tool calls + sandboxed code exec\n• Works for CPU + multiGPU setups - NVIDIA, AMD, Intel, Mac\n• Train models 2× faster with 70% less VRAM\n• Private web search, deep research, RAG, MCP and exports (NVFP4, GGUF)\n• Use Unsloth’s OpenAI-compatible API and cloud models\n• Securely deploy LLMs remotely and access anywhere\n\nUnsloth Desktop is now available on unsloth.ai and GitHub.\n\nGitHub: github.com/unslothai/unsloth\nBlog and Guide: unsloth.ai/docs/desktop\n\nVideo",
-      "url": "https://x.com/UnslothAI/status/2087177146662072546",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T13:40:55+00:00",
-      "text": "Why can’t communists be communist the way the Amish are Amish, as in, peacefully, voluntarily, among themselves, without taking anyone else’s property or forcing anyone else to participate? \n\nIf communism is really about cooperation and community, why does everyone else have to be forced into it?",
-      "url": "https://x.com/RockChartrand/status/2087172411846222075",
+      "date": "2025-09-05T01:25:55+00:00",
+      "text": "If your smartest friends start saying crazy things - pay attention. A paradigm shift may be underway.",
+      "url": "https://x.com/naval/status/1963775570673885190",
       "author": "naval",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T12:15:53+00:00",
-      "text": "Grok can now turn your daily news research into a voice memo you can just listen to\n\nAsk it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing\n\nSo instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes\n\nWith different voices available, it basically becomes your own personalized daily news show",
-      "url": "https://x.com/XFreeze/status/2087151014587826414",
-      "author": "elonmusk",
-      "source": "nitter"
+      "date": "2025-09-03T22:21:17+00:00",
+      "text": "i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now",
+      "url": "https://x.com/sama/status/1963366714684707120",
+      "author": "sama",
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T12:04:22+00:00",
-      "text": "Around 43% of the German population aged under 5 now has a foreign background.",
-      "url": "https://x.com/PeterSweden7/status/2087148115304272168",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-11T12:00:06+00:00",
-      "text": "We can finally talk about it:\n\nWe found a way to extract hidden reasoning of frontier models using a vulnerability in the APIs of every frontier AI company.\n\nWe verified that our reasoning token count matches billed API thinking tokens 1:1 for most of the prompts we queried.",
-      "url": "https://x.com/kotekjedi_ml/status/2087147042888114428",
+      "date": "2025-09-01T13:46:53+00:00",
+      "text": "It's official. It's genocide.",
+      "url": "https://x.com/paulg/status/1962512489452618056",
       "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T05:27:28+00:00",
-      "text": "You can be pro-meritocracy or anti-immigration, but you can't be both.",
-      "url": "https://x.com/paulg/status/2087048230760767516",
+      "date": "2025-09-01T13:44:57+00:00",
+      "text": "Nine former CDC directors who served under Republican and Democratic presidents warn that the damage RFK Jr is doing to America's public health system is \"unlike anything our country has ever experienced.\" https://t.co/T5hPhH4VeK",
+      "url": "https://x.com/paulg/status/1962512000656838804",
       "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T01:27:02+00:00",
-      "text": "People who are serious about software train their own models.",
-      "url": "https://x.com/naval/status/2086987724037185547",
+      "date": "2025-08-30T10:44:17+00:00",
+      "text": "Wow, I didn't realize the difference between cars and motorcycles was this big. Motorcycles are 29x more dangerous. https://t.co/A5rtZtQpqS",
+      "url": "https://x.com/paulg/status/1961741758951309683",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-27T20:17:24+00:00",
+      "text": "@travelingclatt What have you invented?",
+      "url": "https://x.com/paulg/status/1960798824055906334",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-25T06:32:48+00:00",
+      "text": "My God. Each pair of shoes is a child's life.",
+      "url": "https://x.com/paulg/status/1959866534102446505",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-24T16:06:26+00:00",
+      "text": "Today in Utrecht a grim milestone was marked; for the 2nd year in a row, a Dutch activist group laid out children’s shoes & read aloud the names & ages of the children who have been killed by the Israelis in Gaza. \n\nToday they read 19k names. It took almost 6 hours. https://t.co/Xu2Ag9gLRc",
+      "url": "https://x.com/paulg/status/1959648504021655586",
+      "author": "paulg",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-22T19:35:14+00:00",
+      "text": "i can't think of a non-cliche way to say this, but everyone who says having a kid is the best thing in the world is both correct and still somehow understating it.",
+      "url": "https://x.com/sama/status/1958976273319174362",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-22T16:01:07+00:00",
+      "text": "we are opening our first office in india later this year! and i'm looking forward to visiting next month.\n\nai adoption in india has been amazing to watch--chatgpt users grew 4x in the past year--and we are excited to invest much more in india!",
+      "url": "https://x.com/sama/status/1958922390731464805",
+      "author": "sama",
+      "source": "syndication"
+    },
+    {
+      "date": "2025-08-21T20:52:26+00:00",
+      "text": "Make God your only boss.",
+      "url": "https://x.com/naval/status/1958633313272570250",
       "author": "naval",
-      "source": "nitter"
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T00:45:24+00:00",
-      "text": "Once again, limit case: super programmer building a new project from scratch that duplicates a lot of the functionality of an existing service.",
-      "url": "https://x.com/paulg/status/2086977248830341231",
-      "author": "paulg",
-      "source": "nitter"
+      "date": "2025-08-18T22:45:02+00:00",
+      "text": "I get ~10 spam calls per day (various automated voicemails, \"loan pre-approval\" etc) and ~5 spam messages per day (usually phishing).\n\n- I have AT&T Active Armor, all of the above still slips through.\n- All of the above is always from new, unique numbers so blocking doesn't work.",
+      "url": "https://x.com/karpathy/status/1957574489358873054",
+      "author": "karpathy",
+      "source": "syndication"
     },
     {
-      "date": "2026-08-11T00:43:27+00:00",
-      "text": "Are the people who were enraged by this tweet going to be even more enraged when I tell them I met a founder today who sometimes writes 50,000 lines of code in a day? Or is everyone now used to this?\n\n\nPaul Graham (@paulg)\n\nI met a founder today who said he writes 10,000 lines of code a day now thanks to AI. This is probably the limit case. He's a hotshot programmer, he knows AI tools very well, and he's talking about a 12 hour day. But he's not naive. This is not 10,000 lines of bug-filled crap.\n\n\n\n— https://nitter.net/paulg/status/1953289830982664236#m",
-      "url": "https://x.com/paulg/status/2086976755718664253",
+      "date": "2025-08-18T22:18:22+00:00",
+      "text": "A Palestinian child's life is worth as much as an Israeli child's life.",
+      "url": "https://x.com/paulg/status/1957567774882164784",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T21:34:26+00:00",
-      "text": "The Democrats made a huge mistake letting themselves become the party of pronouns and land acknowledgements. They should just ditch that stuff entirely. Especially since it doesn't actually do any good.",
-      "url": "https://x.com/paulg/status/2086929188284719448",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T21:22:28+00:00",
-      "text": "Now that AI has compressed the design phase for so many products, there is going to be more demand for technologies that compress the construction phase. After we get those, the final frontier will be regulation.",
-      "url": "https://x.com/paulg/status/2086926176338194460",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T21:21:39+00:00",
-      "text": "Last November, @steipete was annoyed that there was no good way to talk to his coding agents from his phone, so he built one himself. A few months later, OpenClaw exploded into one of the biggest open source AI projects in the world, with nearly 3,000 contributors and a peak of 4.7 million weekly downloads.\n\nAt Startup School 2026, Peter tells the story of what happened when OpenClaw took off, what he got wrong as it grew, and how he eventually stopped using the product he had built for himself.\n\nHe shares why the best products often start with something that annoys you, why focus matters more as building gets easier, and why, in his words, “fun is velocity.”\n\n01:16 — How OpenClaw Started\n05:10 — Finding Product-Market Fit\n07:01 — The Night OpenClaw Went Viral\n09:50 — When the Project Exploded\n11:05 — When the Attention Almost Broke Him\n12:00 — Did You Sell Out?\n14:17 — Your Name Can’t Be Forked\n15:03 — What OpenClaw Got Wrong\n20:40 — Hype Is Like the Weather\n21:37 — When It Stopped Being Fun\n25:30 — Fun Is Velocity\n26:40 — What’s Next for OpenClaw\n28:57 — Three Lessons From Building OpenClaw\n30:08 — Q&A\n\nVideo",
-      "url": "https://x.com/ycombinator/status/2086925972369269105",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-10T21:16:30+00:00",
-      "text": "Startup idea: Rephrase output to preserve the meaning while obliterating the watermarks. This might not become that big in itself, but it could make a great beachhead.\n\n\nM1 (@M1Astra)\n\nAnthropic says new Claude models will embed invisible watermarks in all generated text, everywhere Claude is offered.\n\nThe watermark is part of the text, it isn't metadata: \"it will travel with the text when it's copied and pasted elsewhere, and may persist through some editing.\"\n\nThis starts with models launched on or after August 2, 2026, under an EU AI Act code Anthropic signed. Anthropic is still working on adding it to current models. The rollout is worldwide.\n\n\n\n\n\n— https://nitter.net/M1Astra/status/2086898041882030353#m",
-      "url": "https://x.com/paulg/status/2086924675163345285",
-      "author": "paulg",
-      "source": "nitter"
+      "source": "syndication"
     }
   ]
 }
