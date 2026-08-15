@@ -7,11 +7,186 @@
     "naval",
     "karpathy"
   ],
-  "updated_at": "2026-08-14T12:34:10.803375+00:00",
-  "last_success_at": "2026-08-14T12:34:10.803375+00:00",
+  "updated_at": "2026-08-15T12:12:19.869908+00:00",
+  "last_success_at": "2026-08-15T12:12:19.869908+00:00",
   "source": "nitter",
   "error_message": "",
   "items": [
+    {
+      "date": "2026-08-15T08:57:33+00:00",
+      "text": "You cannot create God and put him on a leash.",
+      "url": "https://x.com/naval/status/2088550653497053623",
+      "author": "naval",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T04:45:56+00:00",
+      "text": "If you want to learn how to run one: somethingbig.ai/gauntlet-loo…\n\nGrok Build harness is likely best but you can also run this in Grok Bot!\n\nLink\n\n\n\nHow to Run a Gauntlet Loop\n\nThe prompting method behind Claude of Duty: give the agent a bar it can't talk its way around, let it split the work, and never let the builder grade itself.\nsomethingbig.ai\n\n\n\nElon Musk (@elonmusk)\n\nGrok 4.6 runs The Gauntlet\n\n\n\n— https://nitter.net/elonmusk/status/2088484972965298489#m",
+      "url": "https://x.com/mattshumer_/status/2088487331372089560",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T04:36:34+00:00",
+      "text": "Grok 4.6 runs The Gauntlet\n\n\nMatt Shumer (@mattshumer_)\n\nGrok 4.6 worked non-stop for 48 hours to build this shooter.\n\nTurns out Grok is powerful enough to run Gauntlet Loops.\n\nLet the game-making begin!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/mattshumer_/status/2088303001299529981#m",
+      "url": "https://x.com/elonmusk/status/2088484972965298489",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T03:13:10+00:00",
+      "text": "😂\n\n\nKeith Coleman 🌱😀🙌 (@kcoleman)\n\nOK let’s try this:\n———————-\n\nPretend you’re 5 and the algorithm is a smart robot that picks which toys (posts) to show you in your toy box (For You feed).\n\nThe robot doesn’t just count how many times people already played with a toy (likes, reports, etc.). Instead, it looks at you and guesses:\n\n• “How likely is this kid to like this toy?”\n• “How likely is this kid to report this toy as yucky?”\n• “How long might this kid play with it?”\n\nThose guesses are little numbers between 0 and 1 (probabilities).\n\nThe “weights” are like special multipliers the robot puts on those guesses:\n\n• A like-guess might get multiplied by a small number (like 0.5).\n• A report-guess might get multiplied by a big negative number (like –234).\n\nThen the robot adds all those multiplied guesses together to give the toy a final “yay or nay” score and sorts the toys by that score.\n\nWhy the numbers look so big and why people get confused\n\nReports almost never happen, so the robot’s “will you report this?” guess is usually a tiny number (like 0.0001). To make that tiny guess still matter a little bit in the final score, they give it a big multiplier.\n\nPeople sometimes look at the big number and think “1 report = 468 likes!”\n That’s wrong. It’s not counting real reports or real likes. It’s only multiplying the guesses the robot made about you.\n\nIf the robot thinks you’re the kind of person who almost never reports anything, even a big weight on “report” barely moves the score. The whole thing is personalized to how you usually behave.\n\nThe people who wrote the code even put big comments in the GitHub repo so no one (and no other robots) gets confused about this again.\n\nThat’s the whole idea in kid words: the weights turn the robot’s personal guesses about you into a ranking, not a simple “count the hearts and flags.”\n\n\n\n— https://nitter.net/kcoleman/status/2088451602059309451#m",
+      "url": "https://x.com/elonmusk/status/2088463985938944130",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T02:00:47+00:00",
+      "text": "Any censorship required by governments is now clearly visible\n\n\nX Open Source (@XOpenSource)\n\nToday’s For You release is in the open-source repo.\n\nNotable updates:\n• How ranking weights actually work\n• A new filter required for Brazil’s 2026 election\n\nAll the details: github.com/xai-org/x-algorit…\n\nLink\n\n\n\nGitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X\n\nAlgorithm powering the For You feed on X. Contribute to xai-org/x-algorithm development by creating an account on GitHub.\ngithub.com\n\n\n\n\n— https://nitter.net/XOpenSource/status/2088373226887889087#m",
+      "url": "https://x.com/elonmusk/status/2088445767673369044",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T01:49:59+00:00",
+      "text": "Grok 4.6 now in Copilot\n\n\nGrok (@grok)\n\nGrok 4.6 is now available in GitHub Copilot.\n\nTry it out in the GitHub Copilot CLI, IDE, and cloud products!\n\nx.ai/news/grok-4-6-github-co…\n\nLink\n\n\n\nGrok 4.6 in GitHub Copilot\n\nGrok 4.6, our latest coding model, is now available in GitHub Copilot.\nx.ai\n\n\n\n\n— https://nitter.net/grok/status/2088319896597975501#m",
+      "url": "https://x.com/elonmusk/status/2088443051890917436",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T00:43:38+00:00",
+      "text": "I sat with a founder recently who had just raised a good round. Almost immediately, he got slower. They had raised, and he felt they were supposed to behave like a much larger company: OKRs, a responsibilities matrix, quarterly planning, etc. But the team was still only a handful of people. The two-week goals they used during the batch worked much better for them!\n\nWe did our own version of this mistake at Algolia. Our first HR hire wanted to build a career framework. The idea sounded good to me, I wanted people to be able to see how they could grow. But it backfired. People started looking at the ladder instead of what the company needed.\n\nProcesses are good when they can help make things faster. Hiring and support are good examples.  But don't put in place processes that are going to slow you down!\n\nDo the thing that gets you users. OKRs can wait.",
+      "url": "https://x.com/dessaigne/status/2088426354564084213",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-15T00:30:59+00:00",
+      "text": "RT @nntaleb: This is nauseating.",
+      "url": "https://x.com/paulg/status/2088423168784671132",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T23:45:29+00:00",
+      "text": "Government-owned airports cannot favor one religion over all others.\n\nDFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW & IAH to USDOT for investigation.\n\nTexas will not allow illegal religious discrimination at taxpayer-funded facilities.",
+      "url": "https://x.com/GregAbbott_TX/status/2088411718628049370",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T22:50:16+00:00",
+      "text": "The main reason is that there are more single founders applying. Presumably because AI enables one person to get more done. I still don't think it's a good idea though. The reason to have a cofounder is not just to get more done. It's to have someone to help bear the stress.",
+      "url": "https://x.com/paulg/status/2088397823469551794",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T22:47:09+00:00",
+      "text": "One of the most conspicuous trends in recent YC batches is that there are more single founders. Single founder cos went from 9% last summer to 18% this summer.",
+      "url": "https://x.com/paulg/status/2088397041638773004",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T22:19:38+00:00",
+      "text": "The reason I'm posting this is not because it's typical, but because it's so atypical. It's never this easy. Usually a new idea takes an hour of the most exhausting kind of thinking, if not more. A decent name often takes half an hour. But these guys got lucky.",
+      "url": "https://x.com/paulg/status/2088390115639111829",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T22:17:22+00:00",
+      "text": "When they returned, the first new idea they mentioned was great. Even better than they realized. We only had to talk about it for 10 minutes. In 3 minutes more we found a good domain for less than $5000. So 15 minutes total and they walk out with a good idea and a good name.",
+      "url": "https://x.com/paulg/status/2088389544836280581",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T22:12:45+00:00",
+      "text": "One startup today was ready to give up because their idea wasn't working. I suggested they just start over from scratch with a new idea and defer to the next demo day. I sent them to have lunch and mull over potential new ideas and come back at the end of office hours.",
+      "url": "https://x.com/paulg/status/2088388382590451841",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T21:17:43+00:00",
+      "text": "\"I used to always wonder about my reach and visibility and was convinced something was wrong with my account. But it turns out my assumptions were wrong.\"\n\nNow you can check & verify.\n\n\nKarata (@karatademada)\n\nI have a clean Under the Hood report for the month of July! 🥳\n\nI used to always wonder about my reach and visibility and was convinced something was wrong with my account. But it turns out my assumptions were wrong.\n\nAccording to my Under the Hood report, X found zero labels on my account or any of my posts that would have limited my reach during July.\n\nThat means nothing in the system flagged my account or content in a way that reduced its distribution in the For You feed.\n\nMy posts were not subject to any of the visibility restrictions tracked by the report.\n\nSo for the entire month of July 2026, I had a completely clean Under the Hood report: zero reach-limiting labels at either the account or post level. 🥳\n\nSometimes low reach really is just… low reach. 😅\n\nI just love this new feature. It gives us a little more transparency into what’s actually happening with our accounts instead of leaving us guessing.\n\nCurious to know what you think about the new Under the Hood feature so far.\n\n\n\n\n\n— https://nitter.net/karatademada/status/2088187531112145270#m",
+      "url": "https://x.com/kcoleman/status/2088374532935414218",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T16:49:04+00:00",
+      "text": "Orbital compute will be the only way to scale AI probably sometime in 2029 due to power availability& permitting problems on land\n\n\nOwen Lewis (@is_OwenLewis)\n\nThere's a ton of good stuff in here, but to me this is the part that everyone mainstream is overlooking. It's literally the most important part. \n\n\"It's ironic that today orbital datacenter compute is considered a niche...because the model suggests it will be a necessary condition for AI continuing to scale in the 2030s.\"\n\n\n\n— https://nitter.net/is_OwenLewis/status/2088071043487502350#m",
+      "url": "https://x.com/elonmusk/status/2088306926442430578",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T16:02:58+00:00",
+      "text": "I did YC in 2010.\n\n16 years later, I’m back.\n\n27 days until Demo Day.\n\nI’m going to document what it takes to build a billion-dollar company this time around.\n\nVideo",
+      "url": "https://x.com/larmbrust/status/2088295323823460786",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T15:28:20+00:00",
+      "text": "Yes\n\n\nThinkingWest (@thinkingwest)\n\nThe death of a civilization\n\n\n\n— https://nitter.net/thinkingwest/status/2088262807896687002#m",
+      "url": "https://x.com/elonmusk/status/2088286607077990820",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T14:52:10+00:00",
+      "text": "Cursor has officially joined SpaceX. \n\nWe’re grateful to become part of such a special company, and it has been a privilege working with the SpaceXAI team. Lots ahead.\n\n\nCursor (@cursor_ai)\n\nCursor is now part of @SpaceX. \n\nToday, we have officially closed our acquisition. We will join the @SpaceXAI team to help make Grok the world's most useful AI and improve Grok Build, Grok Bot, Grok API, Cursor, and more.\n\nSpaceX has built some of the most inspiring and impressive technology in the world, and we’re grateful for the opportunity to become part of such a special company. Onwards.\n\n\n\n— https://nitter.net/cursor_ai/status/2088249881718919393#m",
+      "url": "https://x.com/mntruell/status/2088277505933488137",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T14:45:57+00:00",
+      "text": "And peak golden age watch movement = the culmination of 700 years of work on mechanical clocks. Mechanical clocks first appeared in about 1270 and since then many of the great minds of their times have worked on them. That's why I'm interested in watches.",
+      "url": "https://x.com/paulg/status/2088275943744049482",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T14:40:58+00:00",
+      "text": "\"Cursor and SpaceXAI are a deep cultural fit with one another. They both work with a pace and intensity that borders on the absurd. And they’re both defined by iteration.\"\n\n\"It doesn’t matter if you get it wrong the first time, or the second, or the third—even the tenth or the twentieth. Just keep on going. If you’re moving in the right direction faster than anyone else, you’ll probably win.\"\n\n\"Cursor reinvented itself as a company not once but twice: first, from email client to tab-complete IDE and token reseller; and again, from tab-complete IDE and token reseller to AI lab and token creator.\"\n\n\"And it did all of that in less than four years.\"\n\n\"They really, really want to win.\"\n\nFull piece from @sarahdingwang, @BornsteinMatt, and @martin_casado on Cursor + SpaceXAI: a16z.news/p/cursor-spacexai-…\n\nLink\n\n\n\nCursor + SpaceXAI: the Fastest Iterating Team Wins\n\nMove in the right direction, faster than anyone else.\na16z.news\n\n\n\nSarah Wang (@sarahdingwang)\n\n\nArticle\n\n\n\nCursor + SpaceXAI: the fastest iterating team wins \n\nBy @BornsteinMatt, @martin_casado, and myself.\nAI coding could be the biggest addressable market of our lives. And, unless you think we’ve fully addressed it (which no one thinks; we are more like 1%\n\n\n\n\n— https://nitter.net/sarahdingwang/status/2088271571848986965#m",
+      "url": "https://x.com/a16z/status/2088274689303224817",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T14:36:12+00:00",
+      "text": "It is an honor to have such a great team join @SpaceX\n\n\nSpaceXAI (@SpaceXAI)\n\nWelcome to the SpaceXAI team!\n\nCursor will help us move faster on the path to the world's most useful AI, starting with software engineering and expanding into knowledge work.\n\n\n\n— https://nitter.net/SpaceXAI/status/2088250109188608289#m",
+      "url": "https://x.com/elonmusk/status/2088273489820061920",
+      "author": "elonmusk",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T14:29:14+00:00",
+      "text": "The cheapest way to get a watch with one of the great movements of the golden age is to buy a steel \"cushion-cased\" reference from around 1970. They're unfashionable now and can be got for under $1000. This has a cal 854, which has a reasonable claim to be the peak movement.",
+      "url": "https://x.com/paulg/status/2088271736366354876",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T13:17:39+00:00",
+      "text": "Something we need to start talking about urgently: huge numbers of old software bugs are being found and closed right now. Intelligence and law enforcement agencies depend on these bugs for access. What are they going to do when this access is gone?",
+      "url": "https://x.com/matthew_d_green/status/2088253720303694039",
+      "author": "paulg",
+      "source": "nitter"
+    },
+    {
+      "date": "2026-08-14T11:26:25+00:00",
+      "text": "Men and women underrate how much the average guy prioritizes family over career success. \n\nGreat piece diving into men's expressed preferences in @TheArgumentMag today. \ntheargumentmag.com/p/men-als…",
+      "url": "https://x.com/JerusalemDemsas/status/2088225728718397909",
+      "author": "paulg",
+      "source": "nitter"
+    },
     {
       "date": "2026-08-14T06:23:06+00:00",
       "text": "How to use @bot\n\n\nDebbie O'Brien (@debs_obrien)\n\nI have a new chief of staff: In @bot I simply put: \n\ntake a look at me and what i do. find all info you can on me. take a look at the bots i have created. these are your team. see if we need to change anything or add more bots. what is best way of managing these bot teams. what else will make me super productive.\n\nAnd wow. try it yourself and you will see. This is amazing. Take a look at the answer I got from my chief of staff:\n\n\n\n\n\n— https://nitter.net/debs_obrien/status/2087832375526920381#m",
@@ -41,20 +216,6 @@
       "source": "nitter"
     },
     {
-      "date": "2026-08-14T04:55:56+00:00",
-      "text": "Try Grok 4.6 image & video understanding, it’s a major upgrade!\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nGrok 4.6 multimodal is a step change from Grok 4.5. It’s one of the under-discussed improvements, and I’ve been very impressed by it.\n\nMy daily work includes reviewing lots of videos and understanding the context; Grok 4.6 improves the productivity of such workloads by at least 10x if not 100x.\n\nSuch workflows may not be captured by common VLM benchmarks, but in my use cases it outperforms Gemini 3.5 and Gemma 4, which is considered the SOTA of VLMs in my opinion.\n\nHats off to the multimodal teams—you did a great job.\n\n\n\n— https://nitter.net/yunta_tsai/status/2088062294119104944#m",
-      "url": "https://x.com/elonmusk/status/2088127459971522726",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-14T04:44:29+00:00",
-      "text": "Kekius Maximus",
-      "url": "https://x.com/elonmusk/status/2088124576685281766",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-08-14T04:20:35+00:00",
       "text": "Who cares about the Strait of Hormuz, Reddit has joined the S&P 500.",
       "url": "https://x.com/typesfast/status/2088118561462268144",
@@ -66,13 +227,6 @@
       "text": "/ultrafast\n\n\nOpenAI (@OpenAI)\n\nPreviewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.\n\nLaunching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/OpenAI/status/2087947721936359705#m",
       "url": "https://x.com/sama/status/2088101491802243121",
       "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-14T03:08:53+00:00",
-      "text": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. \n\nGrok.com/build\n\nLink\n\n\n\nGrok\n\nGrok is an AI assistant built by SpaceXAI. Chat, create images, write code, and get real-time answers from the web and X.\ngrok.com\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nFrom my use so far, 4.6 seems highly optimized for Grok Build\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2088044880379761103#m",
-      "url": "https://x.com/elonmusk/status/2088100521261359218",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -94,13 +248,6 @@
       "text": "14 yo is fascinated by the idea that there are adults who not only listen to my advice, but actually act upon it.",
       "url": "https://x.com/paulg/status/2088091614355063156",
       "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-14T02:09:45+00:00",
-      "text": "He built the computer vision system in my oven. (True story). \n\nSo when he praises something I listen a little harder.\n\n\nMatt Van Horn (@mvanhorn)\n\nGrok @Bot is really good.  Haven't felt this kind of magic since I set up my OpenClaw for the first time.  I know it's expensive if you don't have Grok already to get a new $200-$300 plan, but it's worth it to live in the future.\n\n\n\n— https://nitter.net/mvanhorn/status/2088062495466623337#m",
-      "url": "https://x.com/Scobleizer/status/2088085637803175991",
-      "author": "elonmusk",
       "source": "nitter"
     },
     {
@@ -139,157 +286,10 @@
       "source": "nitter"
     },
     {
-      "date": "2026-08-13T22:58:33+00:00",
-      "text": "Tesla self-driving is amazing\n\nVideo",
-      "url": "https://x.com/elonmusk/status/2088037519312994480",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
       "date": "2026-08-13T22:47:12+00:00",
       "text": "Use Grok 4.6 for CAD\n\n\nadam (@adamdotnew)\n\nGrok 4.6  is frontier-adjacent intelligence for agentic CAD work at a fraction of the cost.\n\nIt holds the best price-to-intelligence ratio of any model we've tested so far.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/adamdotnew/status/2087995454193873118#m",
       "url": "https://x.com/grok/status/2088034663004770667",
       "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T22:12:52+00:00",
-      "text": "The one thing for sure that gets fixed in these conversations is how each company describes itself. At this point, in the middle of the batch, these explanations are still often terribly confusing. But after I decrypt them I repeat the decrypted version back to the founders.",
-      "url": "https://x.com/paulg/status/2088026023220949444",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T22:10:24+00:00",
-      "text": "YC doesn't have a word for this, but this is what it looks like when I talk to a whole bunch of startups at once. I only talk to each co for about 5 minutes, but it's like office hours: we go right into what they're working on, and often come up with new ideas for what to do.",
-      "url": "https://x.com/paulg/status/2088025402971455544",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T22:03:38+00:00",
-      "text": "Just when you thought things couldn't get any dumber.\n\n\nDave Brown (@dave_brown24)\n\nSCOOP: Trump has directed the Navy to tear out a complex system for launching fighter jets from its aircraft carriers and instead go back to using steam catapults, a move Navy officials have fought for years and will likely cost billions in extra dollars.\n\nU.S. officials say Trump signed a national security memorandum today directing the change, which would involve removing the electromagnetic catapult system used by the ships in the Gerald R. Ford class of carriers\nwsj.com/us-news/trump-orders…\n@MarcusReports\n\nLink\n\n\n\nExclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions\n\nThe Navy spent years fighting the president’s push to go back to steam catapults.\nwsj.com\n\n\n\n\n— https://nitter.net/dave_brown24/status/2088001399313551703#m",
-      "url": "https://x.com/paulg/status/2088023700629332209",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T21:48:44+00:00",
-      "text": "Since everyone will ask, it's about some of the techniques I use in office hours for figuring out how to make ideas bigger.",
-      "url": "https://x.com/paulg/status/2088019949059285436",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T21:48:06+00:00",
-      "text": "This gap before office hours was just big enough to start a new essay. I wrote 814 words of the first draft. (We'll see how many make it into the last one though.)",
-      "url": "https://x.com/paulg/status/2088019792582365686",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T21:45:57+00:00",
-      "text": "We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners. \n\nSince joining the community in 2024, SpaceXAI has paid $30 million in taxes, supporting essential local services, public education, infrastructure, and more. We’re proud to call Memphis home – the road to understanding the universe starts here.",
-      "url": "https://x.com/SpaceXAIMemphis/status/2088019251290341427",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T21:35:15+00:00",
-      "text": "Unlike her bro, she doesn't try to hide it\n\n\n\n\nEnd Wokeness (@EndWokeness)\n\nAbul El-Sayed's sister on Thanksgiving and July 4th:\n\n\n\n\n\n— https://nitter.net/EndWokeness/status/2088014600528703552#m",
-      "url": "https://x.com/EndWokeness/status/2088016559755211058",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T21:20:55+00:00",
-      "text": "Just took a Tesla Robotaxi ride in an area of Austin where the normal wait in the past was up to 20 minutes and my wait was only two minutes and this was consistent every time I did this!",
-      "url": "https://x.com/gailalfaratx/status/2088012952624418880",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T20:55:50+00:00",
-      "text": "Every woman in my life who I've told about this product wants one\n\nPre-orders open today!\n\n\nMaryanne Alhallak (@malhalla06)\n\nEveryone owns skincare products, but nobody knows what's actually working.\n\nToday, @theantheaguo and I launch @lumeriaskin (YC S26) to end that.\n\nThe Lumoscope is a multispectral camera that clips onto your phone and scans your skin at home with the same light used in clinics, so you see what a mirror can't: a breakout days before it surfaces, and sun damage years before it shows.\n\nEvery scan is scored on hydration, redness, texture, and sebum, and it compounds into a record of your own skin. Lumi reads that history, connects flare-ups to causes you'd never suspect, and matches products to YOUR data, instead of a population average.\n\nPreorders are officially open today at $199 only until Aug 16th. Starting today, skincare will no longer feel like guessing. ☀️\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/malhalla06/status/2088003399690420314#m",
-      "url": "https://x.com/bosmeny/status/2088006639781843058",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T17:06:20+00:00",
-      "text": "Many of the reader comments beside my column today note that \"settler\" is benign and something of a euphemism, suggesting that we need a new word (\"hilltop youth\" is even worse). Thoughts about what term is more appropriate?\n\n\nNicholas Kristof (@NickKristof)\n\nIsraeli settlers are raging out of control on the West Bank, and Gaza is an ongoing humanitarian catastrophe. Could the Israeli election in October change this? My take: nytimes.com/2026/08/12/opini…\n\nLink\n\n\n\nOpinion | Israeli Settlers Are Out of Control (Gift Article)\n\nIf Netanyahu is ousted in October’s balloting, don’t expect peace to break out, but the worst violence might be reined in.\nnytimes.com\n\n\n\n\n— https://nitter.net/NickKristof/status/2087653614794035428#m",
-      "url": "https://x.com/NickKristof/status/2087948884035485951",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T17:04:20+00:00",
-      "text": "I’ve had my @Tesla for 9 days—and it’s already saved my life. Full Self-Driving with HW4 is mind-blowing.\n\nMy car drove me ~800 miles from Georgia to Texas without me touching the wheel or pedals, while avoiding multiple collisions.\n\nI’ve never felt safer in a vehicle.\n\nHere’s one example of a collision avoided, automatically captured on camera.\n\nIn this instance (though it doesn’t show my actual POV), sparks covered the windshield, lighting up the road like the Fourth of July and obstructing my view. Since I was in FSD, the car reacted immediately without overcorrecting like I likely would have, which could have led to a far worse outcome.\n\nEveryone who’s ridden with me and experienced FSD for the first time is blown away and now looking into buying one—including my parents, who like me have never owned an EV.\n\nThere’s no telling how many lives this technology will save. This is hands-down the most incredible purchase I’ve ever made.\n\nGod bless @elonmusk & the Tesla team🫡\n\nVideo",
-      "url": "https://x.com/TexasLindsay_/status/2087948377770119594",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T16:13:22+00:00",
-      "text": "Grok 4.6 is now available in Warp and the Warp Agent CLI. \n\nRun /connect-grok in Warp to sign in with your X Premium or SuperGrok subscription to get started right away.\n\nVideo",
-      "url": "https://x.com/warpdotdev/status/2087935553790410954",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T15:42:53+00:00",
-      "text": "On August 12, @heartaerospace flew the world’s largest electric aircraft. piped.video/watch?v=fEudbAjs…\n\nLink\n\n\n\nHeart Aerospace - X1 First Flight - World’s Largest Electric Aircraft...\n\nOn August 12, 2026, Heart Aerospace’s X1 demonstrator aircraft comp...\nyoutube.com",
-      "url": "https://x.com/gustaf/status/2087927880017965357",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T14:37:50+00:00",
-      "text": "The OpenAI Foundation is launching AI for Civil Society and Philanthropy to help nonprofits, community organizations, and other trusted partners put advanced AI to work on urgent challenges, develop practical solutions and scale what works.\n\nThe first effort is a $100 million commitment with Common Health Coalition to launch Breakthroughs to Follow-through to help care teams use AI to reach more patients with proven treatments - starting with the goal of doubling hepatitis C cure rates in Alabama, Illinois, Louisiana, and Massachusetts. Breakthroughs to Follow-through will work to identify patients who have fallen out of care, synthesize records, track progress, and focus limited staff time where it can have the greatest impact.\n\nThe OpenAI Foundation wants to empower those who are closest to issues and to put AI to work where it can make a meaningful difference in people’s lives. \n\nopenaifoundation.org/news/ci…\n\nVideo",
-      "url": "https://x.com/FoundationOAI/status/2087911509997531178",
-      "author": "sama",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T12:50:27+00:00",
-      "text": "The vast majority of people care about animal welfare, but factory farming continues growing. Will animals always suffer?\n\nIn a brilliant new piece @KojiFlynnDo & @MartinVGould argue there’s a Kuznets curve for animal welfare: we can turn things around. worksinprogress.co/issue/wil…\n\n• Demand for meat rises with wealth – South Korea went from eating about 4kg of meat per person per year in the 1960s to 120kg now. But rich countries often plateau at around 150kg per person per year, and in some, it’s begun to decline.\n• Factory farming follows wealth. More than 80 billion land animals are slaughtered every year, and including fish more than doubles that number.\n• Animals are one of the clearest examples where welfare has gotten worse over the long term.\n\nIt doesn’t have to stay this way. Like the classic Kuznets curve, where industrialization once meant worsening pollution, rich countries have managed to turn things around, cleaning the air we breathe; we can do the same for animal welfare.\n\nSome improvements to farm animal welfare would be very cheap: it costs just 1-2 cents extra per egg for hens to be cage-free, and now 45% of hens in the US, 62% in the EU and 82% in the UK are.\n\nAlternative meats are currently more expensive, but cheaper methods might reduce their costs like previous technological cost curves have done.\n\nBut there are other reforms too: in-ovo sexing, for example, involves identifying the sex of chicks while still in the egg, could spare the billions of male chicks each year who are gassed or ground up on their first day of life.\n\nI learnt a lot from this article and loved it. Let’s bend the curve! You can read it in full here: worksinprogress.co/issue/wil…",
-      "url": "https://x.com/salonium/status/2087884488697127412",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T00:32:24+00:00",
-      "text": "I think at that moment the new founders started to grasp how hard startups are. Not just from what he said, but his face as he said it.",
-      "url": "https://x.com/paulg/status/2087698752052367649",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-13T00:27:00+00:00",
-      "text": "One of my office hours today was with a founder from 2011. Company's still going, doing pretty well. I asked him to give some advice to the next group, from the current batch. He said the biggest test is your own psychology. Can you keep going despite all the obstacles you face?",
-      "url": "https://x.com/paulg/status/2087697390338015596",
-      "author": "paulg",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T15:46:40+00:00",
-      "text": "grok 4.6 is live! a write up on my learnings, findings and tips to using the model!\n\nArticle\n\n\n\nGrok 4.6 – A field guide\n\nGrok 4.6 is out! I've used it for a few weeks as my daily driver across the normal mix of coding and knowledge work, and built a few projects with it specifically to push on where it holds up.\nIt's",
-      "url": "https://x.com/ericzakariasson/status/2087566447178547494",
-      "author": "elonmusk",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T11:11:24+00:00",
-      "text": "Literally nobody has been held accountable for Covid.",
-      "url": "https://x.com/naval/status/2087497174963695638",
-      "author": "naval",
-      "source": "nitter"
-    },
-    {
-      "date": "2026-08-12T09:42:42+00:00",
-      "text": "Latest crazy story from the frontiers of math and AI -- a  neurosurgery resident, with no training in advanced math, uses ChatGPT 5.6 to solve a major open problem in numerical linear algebra. alextownsend.net/essays/SIAM…",
-      "url": "https://x.com/stevenstrogatz/status/2087474852814880960",
-      "author": "paulg",
       "source": "nitter"
     }
   ]
